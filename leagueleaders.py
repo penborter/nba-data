@@ -12,5 +12,5 @@ leagueLead = leagueleaders.LeagueLeaders(league_id='00',
                                          stat_category_abbreviation='PTS')
 
 # Export just the top 30 to csv
-leaders = leagueLead.get_data_frame()
+leaders = leagueLead.league_leaders.get_data_frame()
 leaders.iloc[:30].to_csv('league_leaders.csv',index=False)
