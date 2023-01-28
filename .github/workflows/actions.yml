@@ -27,14 +27,10 @@ jobs:
       - name: execute python script
         run: python leagueleaders.py
 
-      - name: Get yesterday's date
-        id: ydate
-        run: echo "set-output name=ydate::$(date -d "yesterday 22:0" +'%Y-%m-%d')"
-
       - name: commit files
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "New data - ${{ steps.ydate.outputs.ydate }}"
+          git commit -m "New Data"
           git push
