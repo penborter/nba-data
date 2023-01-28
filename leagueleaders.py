@@ -20,7 +20,7 @@ def get_data(cat, per_mode):
 
 
 # Extract and export the info for each of the listed categories
-categories = ['PTS', 'REB', 'AST', 'FG3_PCT']
+categories = ['PTS', 'REB', 'AST']
 
 for cat in categories:
   if cat == 'PTS':
