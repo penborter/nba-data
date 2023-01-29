@@ -21,4 +21,4 @@ Cleaning up and collecting an assortment of analysis utilties, mostly jupyter no
 Currently available:
 
 - [Advanced Video Stats](https://github.com/penborter/nba-data/blob/main/utilities/Advanced%20Stats%20Video.ipynb): Tool to get the video URL for any NBA play based on the `GAME_ID` and `EVENTNUM`
-- [PBP Possessions](): Tool to expand on NBA-provided play-by-play data, adding info for possession analysis of a game. 
+- [PBP Possessions](https://github.com/penborter/nba-data/blob/main/utilities/PBP%20Possessions.ipynb): Tool to expand on NBA-provided play-by-play data, adding info for possession analysis of a game. 
