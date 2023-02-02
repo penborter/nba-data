@@ -15,7 +15,7 @@ def get_data(cat, per_mode):
   
   # Export just the top 30 to csv
   leaders = leagueLead.league_leaders.get_data_frame()
-  csv_name = 'NBA_Leaders_' + cat + per_mode + '.csv'
+  csv_name = 'data/dynamic/NBA_Leaders_' + cat + per_mode + '.csv'
   leaders.iloc[:30].to_csv(csv_name,index=False)
 
 
