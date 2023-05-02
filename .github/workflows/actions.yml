@@ -2,7 +2,7 @@ name: Daily League Leaders
 
 on:
   schedule:
-    - cron: '11 12 * * *' # At 11:12 UTC every day
+    # - cron: '11 12 * * *' # At 11:12 UTC every day
 
 jobs:
   build:
