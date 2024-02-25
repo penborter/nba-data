@@ -1,8 +1,9 @@
 name: Daily League Leaders
 
 on:
-  schedule:
-    # - cron: '11 12 * * *' # At 11:12 UTC every day
+  push
+  # schedule:
+  #   - cron: '11 12 * * *' # At 11:12 UTC every day
 
 jobs:
   build:
@@ -29,5 +30,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "New Data"
+          git commit -m "Data update (`date +'%Y-%m-%d'`)"
           git push
