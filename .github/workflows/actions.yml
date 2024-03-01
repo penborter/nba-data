@@ -24,8 +24,8 @@ jobs:
 
       - name: Execute Python Script
         run: |
-          python leagueleaders.py
           python moreyball.py
+          python leagueleaders.py
 
       - name: Commit Files
         run: |
