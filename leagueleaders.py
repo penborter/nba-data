@@ -4,7 +4,8 @@ from nba_api.stats.endpoints import leagueleaders
 from nba_api.stats.library.parameters import Season
 
 
-def get_data(cat, per_mode):
+def get_league_leaders(category, per_mode, top_n=50):
+  """Fetch league leaders data for a given category and mode."""
 
   try:
     leagueLead = leagueleaders.LeagueLeaders(league_id='00',
@@ -12,24 +13,34 @@ def get_data(cat, per_mode):
                                           scope='S',
                                           season=Season.default,
                                           season_type_all_star='Regular Season',
-                                          stat_category_abbreviation=cat)
-    
-    # Export just the top 30 to csv
-    leaders = leagueLead.league_leaders.get_data_frame()
-    csv_name = 'data/dynamic/NBA_Leaders_' + cat + per_mode + '.csv'
-    leaders.iloc[:30].to_csv(csv_name,index=False)
+                                          stat_category_abbreviation=category
+    ).league_leaders.get_data_frame()    
+    return leagueLead.head(top_n)
+  
   except Exception as err:
-    print(f'Error in {cat}: {err}')
-    return
+    print(f"Error fetching data for {category} ({per_mode}): {err}")
+    return None
 
+def save_to_csv(data, category, per_mode):
+  """Save the data to a csv file"""
 
-# Extract and export the info for each of the listed categories
-categories = ['PTS', 'REB', 'AST']
-
-for cat in categories:
-  if cat == 'PTS':
-    get_data(cat, 'PerGame')
-    get_data(cat, 'Totals')
+  if data is not None:
+    csv_name = f'data/dynamic/NBA_Leaders_{category}_{per_mode}.csv'
+    data.to_csv(csv_name,index=False)
+    print(f"Data saved to {csv_name}")
   else:
-    per_mode = 'PerGame'
-    get_data(cat, per_mode)
+    print(f"No data to save for {category} ({per_mode})")
+
+def main():
+
+  categories = ['PTS', 'REB', 'AST']
+  for cat in categories:
+    if cat == 'PTS':
+      data = get_league_leaders(category, mode)
+      save_to_csv(data, category, mode)
+    else:
+      data = get_league_leaders(category, 'PerGame')
+      save_to_csv(data, category, 'PerGame')
+
+if __name__ == "__main__":
+  main()
