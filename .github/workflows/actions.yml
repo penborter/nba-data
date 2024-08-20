@@ -7,8 +7,20 @@ on:
 jobs:
   nba_data_job:
     runs-on: ubuntu-latest
-    if: ${{ (github.event.schedule == '5 12 * * *') && (format('{0}', github.event.schedule) >= env.NBA_SEASON_START) && (format('{0}', github.event.schedule) <= env.NBA_SEASON_END) }}
+    env:
+      NBA_SEASON_START: ${{ vars.NBA_SEASON_START }}
+      NBA_SEASON_END: ${{ vars.NBA_SEASON_END }}
     steps:
+      - name: Check if in NBA season
+        id: check_season
+        run: |
+          current_date=$(date +%Y-%m-%d)
+          if [[ "$current_date" >= "$NBA_SEASON_START" && "$current_date" <= "$NBA_SEASON_END" ]]; then
+            echo "IN_SEASON=true" >> $GITHUB_OUTPUT
+          else
+            echo "IN_SEASON=false" >> $GITHUB_OUTPUT
+          fi
+          
       - name: Checkout repo content
         uses: actions/checkout@v3
 
