@@ -34,10 +34,11 @@ def save_to_csv(data, category, per_mode):
 def main():
 
   categories = ['PTS', 'REB', 'AST']
-  for cat in categories:
-    if cat == 'PTS':
-      data = get_league_leaders(category, mode)
-      save_to_csv(data, category, mode)
+  for category in categories:
+    if category == 'PTS':
+      for mode in ['PerGame', 'Totals']:
+        data = get_league_leaders(category, mode)
+        save_to_csv(data, category, mode)
     else:
       data = get_league_leaders(category, 'PerGame')
       save_to_csv(data, category, 'PerGame')
