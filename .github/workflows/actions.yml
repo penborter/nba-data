@@ -1,6 +1,9 @@
 name: Daily League Leaders
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '5 12 * * *' # At 05:12 UTC every day
 
@@ -14,14 +17,17 @@ jobs:
       - name: Check if in NBA season
         id: check_season
         run: |
-          current_date=$(date +%Y-%m-%d)
-          if [[ "$current_date" >= "$NBA_SEASON_START" && "$current_date" <= "$NBA_SEASON_END" ]]; then
+          current_date=$(date +%Y%m%d)
+          season_start=$(date -d "$NBA_SEASON_START" +%Y%m%d)
+          season_end=$(date -d "$NBA_SEASON_END" +%Y%m%d)
+          if [[ $current_date -ge $season_start ]] && [[ $current_date -le $season_end ]]; then
             echo "IN_SEASON=true" >> $GITHUB_OUTPUT
           else
             echo "IN_SEASON=false" >> $GITHUB_OUTPUT
           fi
-          
+
       - name: Checkout repo content
+        if: github.event_name == 'push' || (github.event_name == 'schedule' && steps.check_season.outputs.IN_SEASON == 'true')
         uses: actions/checkout@v3
 
       - name: Setup Python
