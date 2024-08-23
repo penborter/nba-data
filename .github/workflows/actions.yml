@@ -3,7 +3,7 @@ name: Daily League Leaders
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '5 12 * * *' # At 05:12 UTC every day
 
