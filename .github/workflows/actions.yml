@@ -20,14 +20,20 @@ jobs:
           current_date=$(date +%Y%m%d)
           season_start=$(date -d "$NBA_SEASON_START" +%Y%m%d)
           season_end=$(date -d "$NBA_SEASON_END" +%Y%m%d)
-          if [[ $current_date -ge $season_start ]] && [[ $current_date -le $season_end ]]; then
-            echo "IN_SEASON=true" >> $GITHUB_ENV
+          if [[ $current_date -ge $season_start && $current_date -le $season_end ]]; then
+            echo "IN_SEASON=true" >> $GITHUB_OUTPUT
           else
-            echo "IN_SEASON=false" >> $GITHUB_ENV
-          fi
+            echo "IN_SEASON=false" >> $GITHUB_OUTPUT
+        outputs:
+          IN_SEASON: ${{ steps.check_season.outputs.IN_SEASON }}
+
+      - name: Off-season stop
+        if: steps.check_season.outputs.IN_SEASON == 'false'
+        run: |
+          echo "Not in NBA season, stopping the action."
+          exit 0
 
       - name: Checkout repo content
-        if: github.event_name == 'push' || (github.event_name == 'schedule' && env.IN_SEASON == 'true')
         uses: actions/checkout@v3
 
       - name: Setup Python
