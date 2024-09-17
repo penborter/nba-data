@@ -20,7 +20,7 @@ jobs:
           current_date=$(date +%Y%m%d)
           season_start=$(date -d "$NBA_SEASON_START" +%Y%m%d)
           season_end=$(date -d "$NBA_SEASON_END" +%Y%m%d)
-          if [[ $current_date -ge $season_start && $current_date -le $season_end ]]; then
+          if [[ $current_date -ge $season_start ]] && [[ $current_date -le $season_end ]]; then
             echo "IN_SEASON=true" >> $GITHUB_ENV
           else
             echo "IN_SEASON=false" >> $GITHUB_ENV
