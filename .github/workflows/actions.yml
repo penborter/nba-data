@@ -24,6 +24,7 @@ jobs:
             echo "IN_SEASON=true" >> $GITHUB_ENV
           else
             echo "IN_SEASON=false" >> $GITHUB_ENV
+          fi
 
       - name: Off-season stop
         if: env.IN_SEASON == 'false'
