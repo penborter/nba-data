@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '5 12 * * *' # At 05:12 UTC every day
+    - cron: '5 12 * * *' # At 12:05 UTC every day
 
 jobs:
   nba_data_job:
@@ -27,7 +27,7 @@ jobs:
           fi
 
       - name: Off-season stop
-        if: env.IN_SEASON == 'false'
+        if: ${{ env.IN_SEASON == 'false' }}
         run: |
           echo "Not in NBA season, stopping the action."
           exit 0
@@ -58,5 +58,9 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Data update (`date +'%Y-%m-%d'`)"
-          git push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Data update (`date +'%Y-%m-%d'`)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
