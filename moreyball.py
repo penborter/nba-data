@@ -1,29 +1,6 @@
-import time
 import pandas as pd
 from nba_api.stats.endpoints import leaguedashplayershotlocations
-from functools import wraps
 
-# Retry Wrapper 
-def retry(max_attempts=3, delay=30):
-  def decorator(func):
-    @wraps(func)
-    def wrapper(*args, **kwargs):
-      attempts = 0
-      while attempts < max_attempts:
-        try:
-          return func(*args, **kwargs)
-        except Exception as e:
-          print(f"Attempt {attempts + 1} failed: {e}")
-          attempts += 1
-          if attempts < max_attempts:
-              print(f"Retrying in {delay} seconds...")
-              time.sleep(delay)
-      raise Exception(f"Function {func.__name__} failed after {max_attempts} attempts")
-    return wrapper
-  return decorator
-
-  
-@retry(max_attempts=3, delay=30)
 def get_shooting_data():
   data = leaguedashplayershotlocations.LeagueDashPlayerShotLocations()
   return data.shot_locations.get_data_frame()
