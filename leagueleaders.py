@@ -13,6 +13,7 @@ def retry(max_attempts=5, delay=60):
     @wraps(func)
     def wrapper(*args, **kwargs):
       attempts = 0
+      print(f"Attempting {max_attempts} time(s).")
       while attempts < max_attempts:
         try:
           return func(*args, **kwargs)
@@ -48,26 +49,21 @@ def get_league_leaders(category, per_mode, top_n=50):
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  try:
-    shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=60)
-    shotDF = shotLocations.shot_locations.get_data_frame()
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=60)  
+  shotDF = shotLocations.shot_locations.get_data_frame()
 
-    # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
-    for fg in ['FGM', 'FGA']:
-      shotDF.loc[:, ('Total Shots', fg)] = shotDF.xs(fg, level=1, axis=1).sum(axis=1) - shotDF['Corner 3'][fg]
-      shotDF.loc[:, ('Total from 3', fg)] = shotDF[['Above the Break 3', 'Corner 3', 'Backcourt']].xs(fg, level=1, axis=1).sum(axis=1)
-      shotDF.loc[:, ('Pct RA', fg)] = round(shotDF['Restricted Area'][fg] / shotDF['Total Shots'][fg], 3)
-      shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
-      shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
-    
-    # Sorting the df, also filter by min shots later in the season
-    shotDF = shotDF.sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
-    shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
-    return shotDF
+  # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
+  for fg in ['FGM', 'FGA']:
+    shotDF.loc[:, ('Total Shots', fg)] = shotDF.xs(fg, level=1, axis=1).sum(axis=1) - shotDF['Corner 3'][fg]
+    shotDF.loc[:, ('Total from 3', fg)] = shotDF[['Above the Break 3', 'Corner 3', 'Backcourt']].xs(fg, level=1, axis=1).sum(axis=1)
+    shotDF.loc[:, ('Pct RA', fg)] = round(shotDF['Restricted Area'][fg] / shotDF['Total Shots'][fg], 3)
+    shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
+    shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
   
-  except Exception as err:
-    print(f"Error fetching data for shot locations: {err}")
-    return None
+  # Sorting the df, also filter by min shots later in the season
+  shotDF = shotDF.sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
+  shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
+  return shotDF
 
 def save_to_csv(data, category, per_mode):
   """Save the data to a csv file"""
@@ -77,7 +73,7 @@ def save_to_csv(data, category, per_mode):
     data.to_csv(csv_name,index=False)
     print(f"Data saved to {csv_name}")
   else:
-    print(f"No data to save for {category} ({per_mode})")
+    print(f"No data saved for {category} ({per_mode})")
 
 def main():
 
@@ -88,8 +84,11 @@ def main():
         data = get_league_leaders(category, mode)
         save_to_csv(data, category, mode)
     elif category == 'MOREYBALL':
-      data = get_shooting_data()
-      save_to_csv(data, category, 'Rate')
+      try:
+        data = get_shooting_data()
+        save_to_csv(data, category, 'Rate')
+      except  Exception as e:
+        print(f"Moreyball data not saved: {e}")
     else:
       data = get_league_leaders(category, 'PerGame')
       save_to_csv(data, category, 'PerGame')
