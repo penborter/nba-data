@@ -58,7 +58,7 @@ def save_to_csv(data, category, per_mode):
 
 def main():
 
-  categories = ['PTS', 'MOREYBALL' 'REB', 'AST']
+  categories = ['PTS', 'MOREYBALL', 'REB', 'AST']
   for category in categories:
     if category == 'PTS':
       for mode in ['PerGame', 'Totals']:
