@@ -1,4 +1,5 @@
 import time
+import traceback
 import pandas as pd
 
 from functools import wraps
@@ -8,7 +9,7 @@ from nba_api.stats.endpoints import leaguedashplayershotlocations
 from nba_api.stats.library.parameters import Season
 
 # Retry Wrapper 
-def retry(max_attempts=5, delay=60):
+def retry(max_attempts=5, delay=5):
   def decorator(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -18,6 +19,7 @@ def retry(max_attempts=5, delay=60):
         try:
           return func(*args, **kwargs)
         except Exception as e:
+          traceback.print_exc()
           print(f"Attempt {attempts + 1} failed: {e}")
           attempts += 1
           if attempts < max_attempts:
@@ -45,11 +47,11 @@ def get_league_leaders(category, per_mode, top_n=50):
     print(f"Error fetching data for {category} ({per_mode}): {err}")
     return None
 
-@retry(max_attempts=5, delay=60)  
+@retry(max_attempts=5, delay=30)  
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=60)  
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=35)  
   shotDF = shotLocations.shot_locations.get_data_frame()
 
   # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
