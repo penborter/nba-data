@@ -1,5 +1,4 @@
 import time
-import traceback
 import pandas as pd
 
 from functools import wraps
@@ -19,7 +18,6 @@ def retry(max_attempts=5, delay=5):
         try:
           return func(*args, **kwargs)
         except Exception as e:
-          traceback.print_exc()
           print(f"Attempt {attempts + 1} failed: {e}")
           attempts += 1
           if attempts < max_attempts:
@@ -79,7 +77,7 @@ def save_to_csv(data, category, per_mode):
 
 def main():
 
-  categories = ['PTS', 'MOREYBALL', 'REB', 'AST']
+  categories = ['PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
   for category in categories:
     if category == 'PTS':
       for mode in ['PerGame', 'Totals']:
