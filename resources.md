@@ -6,6 +6,7 @@ Quick links and resources for reference. Work in progress.
 - [PBP Stats](https://www.pbpstats.com/)
 - [Basketball-Reference.com](https://www.basketball-reference.com/)
 - [Pro Sports Transactions - Basketball](https://www.prosportstransactions.com/basketball/)
+- [Dunks and Threes - EPM](https://dunksandthrees.com/epm)
 
 ## Predictions
 

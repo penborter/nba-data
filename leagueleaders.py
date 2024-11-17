@@ -77,7 +77,7 @@ def save_to_csv(data, category, per_mode):
 
 def main():
 
-  categories = ['PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
+  categories = ['MOREYBALL', 'PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
   for category in categories:
     if category == 'PTS':
       for mode in ['PerGame', 'Totals']:
