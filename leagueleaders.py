@@ -53,7 +53,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 class LoggedNBAStatsHTTP(NBAStatsHTTP):
-    def send_api_request(self, endpoint, parameters, referer=None, proxy=None, headers=None, timeout=30, raise_exception_on_error=False):
+    def send_api_request(self, endpoint, parameters, referer=None, proxy=None, headers=None, timeout=60, raise_exception_on_error=False):
         logger.debug(f"Starting API request to {endpoint}")
         try:
             response = super().send_api_request(endpoint, parameters, referer, proxy, headers, timeout, raise_exception_on_error)
@@ -72,7 +72,7 @@ leaguedashplayershotlocations.NBAStatsHTTP = LoggedNBAStatsHTTP
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=35)  
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=60, team_id_nullable=1610612739)  
   shotDF = shotLocations.shot_locations.get_data_frame()
 
   # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
