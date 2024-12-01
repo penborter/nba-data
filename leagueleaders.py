@@ -44,6 +44,29 @@ def get_league_leaders(category, per_mode, top_n=50):
   except Exception as err:
     print(f"Error fetching data for {category} ({per_mode}): {err}")
     return None
+  
+# Implementing debugging for the shot locations API
+from nba_api.stats.library.http import NBAStatsHTTP
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+
+class LoggedNBAStatsHTTP(NBAStatsHTTP):
+    def send_api_request(self, endpoint, parameters, referer=None, proxy=None, headers=None, timeout=30, raise_exception_on_error=False):
+        logger.debug(f"Starting API request to {endpoint}")
+        try:
+            response = super().send_api_request(endpoint, parameters, referer, proxy, headers, timeout, raise_exception_on_error)
+            logger.debug("Request completed successfully")
+            logger.debug("Starting to process response")
+            # Add any response info we can safely access
+            return response
+        except Exception as e:
+            logger.error(f"Request failed with error: {str(e)}")
+            logger.error(f"Error type: {type(e)}")
+            raise
+
+leaguedashplayershotlocations.NBAStatsHTTP = LoggedNBAStatsHTTP
 
 @retry(max_attempts=5, delay=30)  
 def get_shooting_data():
