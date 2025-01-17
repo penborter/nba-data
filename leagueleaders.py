@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import os
 
 from functools import wraps
 
@@ -69,11 +68,11 @@ class LoggedNBAStatsHTTP(NBAStatsHTTP):
 
 leaguedashplayershotlocations.NBAStatsHTTP = LoggedNBAStatsHTTP
 
-@retry(max_attempts=3, delay=30)  
+@retry(max_attempts=2, delay=5)  
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,120), team_id_nullable=1610612739)  
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,60), team_id_nullable=1610612739)  
   shotDF = shotLocations.shot_locations.get_data_frame()
 
   # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
@@ -100,9 +99,6 @@ def save_to_csv(data, category, per_mode):
     print(f"No data saved for {category} ({per_mode})")
 
 def main():
-
-  #debug
-  print(os.environ)
 
   categories = ['MOREYBALL', 'PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
   for category in categories:
