@@ -124,7 +124,7 @@ def main():
 
   # Plot Moreyball leader
   mbPlot = CourtPlot(mb_leader_name)
-  mbPlot.plot_shots(title_text="Moreyball League Leader - " & mbPlot.player_name,
+  mbPlot.plot_shots(title_text="Moreyball League Leader - " + mbPlot.player_name,
                     subtitle_text="As of {date}, min. 50 FGA".format(date=datetime.today().strftime('%Y-%m-%d')),
                     save_plot=True)
 
