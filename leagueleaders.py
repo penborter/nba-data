@@ -72,7 +72,7 @@ leaguedashplayershotlocations.NBAStatsHTTP = LoggedNBAStatsHTTP
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,30), team_id_nullable=1610612739)  
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,30))  
   shotDF = shotLocations.shot_locations.get_data_frame()
 
   # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
@@ -83,8 +83,8 @@ def get_shooting_data():
     shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
     shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
   
-  # Sorting the df, also filter by min shots later in the season
-  shotDF = shotDF.sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
+  # Sorting the df, min 50 FGA
+  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 50].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
   shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
   return shotDF
 
