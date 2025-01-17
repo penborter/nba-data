@@ -1,5 +1,6 @@
 import time
 import pandas as pd
+import os
 
 from functools import wraps
 
@@ -99,6 +100,9 @@ def save_to_csv(data, category, per_mode):
     print(f"No data saved for {category} ({per_mode})")
 
 def main():
+
+  #debug
+  print(os.environ)
 
   categories = ['MOREYBALL', 'PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
   for category in categories:

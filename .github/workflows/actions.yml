@@ -46,6 +46,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Execute League Leaders script
+        timeout-minutes: 10
         run: |
           python leagueleaders.py
 
