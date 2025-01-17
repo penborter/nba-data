@@ -72,7 +72,7 @@ leaguedashplayershotlocations.NBAStatsHTTP = LoggedNBAStatsHTTP
 def get_shooting_data():
   """Fetch shooting data and process for Moreyball analysis."""
 
-  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,60), team_id_nullable=1610612739)  
+  shotLocations = leaguedashplayershotlocations.LeagueDashPlayerShotLocations(timeout=(20,30), team_id_nullable=1610612739)  
   shotDF = shotLocations.shot_locations.get_data_frame()
 
   # Calculating Moreyball-specific stats from the shooting data, both makes and attempts
