@@ -9,12 +9,18 @@ from io import BytesIO
 from PIL import Image
 
 import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
 from matplotlib.patches import Circle, Rectangle, Arc, Wedge
+from pathlib import Path
 
 from nba_api.stats.static import players
 from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.library.parameters import Season
 
+# Setting Inter SemiBold as custom font
+font_path = Path(__file__).parent / "fonts/Inter_24pt-Regular.ttf"
+fm.fontManager.addfont(str(font_path))
+custom_font = fm.FontProperties(fname=str(font_path)).get_name()
 
 class CourtPlot:
     def __init__(self, player_name, season=Season.current_season, bg='#F4F5EF', ec='#2A4644', fc='#FBE9E2', percent=100):
@@ -47,16 +53,16 @@ class CourtPlot:
             return pd.DataFrame()  # Return empty DataFrame on failure
         
     def _fetch_player_pic(self):
-      url_address = f'https://cdn.nba.com/headshots/nba/latest/1040x760/{self.player_id}.png'
-      response = requests.get(url_address) # Send http request to the url address
+        url_address = f'https://cdn.nba.com/headshots/nba/latest/1040x760/{self.player_id}.png'
+        response = requests.get(url_address) # Send http request to the url address
       
-      # Make sure everything went right
-      if response.status_code == 200:
-          image_bytes = BytesIO(response.content) # Get content 
-          image = Image.open(image_bytes) # Open the image
-          return image # Output
-      else:
-          print("Failed to download image:", response.status_code)
+        # Make sure everything went right
+        if response.status_code == 200:
+            image_bytes = BytesIO(response.content) # Get content 
+            image = Image.open(image_bytes) # Open the image
+            return image # Output
+        else:
+            print("Failed to download image:", response.status_code)
 
     def draw_court(self, ax=None, halfcourt=True, moreyball=False):
         # Draw the court elements on a matplotlib axis
@@ -95,11 +101,14 @@ class CourtPlot:
             ax.add_patch(element)
         return ax
 
-    def plot_shots(self, title_text="", subtitle_text="", show_picture=True):
+    def plot_shots(self, title_text="", subtitle_text="", show_picture=True, save_plot=False, save_plot_name="plot.png"):
         # Main plotting function for shots on the court
         fig, ax = plt.subplots(figsize=(12, 12))
         self.draw_court(ax=ax, moreyball=True)
         
+        # Set font
+        plt.rcParams['font.family'] = custom_font
+
         # Plot shots based on make or miss
         for i, edge_col in enumerate(['red', 'green']):
             marker_style = dict(fc=edge_col, ec=edge_col, s=150, alpha=0.4)
@@ -121,8 +130,9 @@ class CourtPlot:
         plt.text(250, 440, subtitle_text, size='16')
 
         if show_picture:
-          ax_image = fig.add_axes([0.72, 0.7659, 0.12, 0.12])
-          ax_image.imshow(self.player_pic)
-          ax_image.axis('off')
-                
-        plt.show()
+            ax_image = fig.add_axes([0.72, 0.7659, 0.12, 0.12])
+            ax_image.imshow(self.player_pic)
+            ax_image.axis('off')
+
+        if save_plot:
+            plt.savefig(save_plot_name, bbox_inches="tight", pad_inches=0)

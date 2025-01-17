@@ -7,6 +7,10 @@ from nba_api.stats.endpoints import leagueleaders
 from nba_api.stats.endpoints import leaguedashplayershotlocations
 from nba_api.stats.library.parameters import Season
 
+
+from datetime import datetime
+from utils.CourtPlot import CourtPlot
+
 # Retry Wrapper 
 def retry(max_attempts=5, delay=5):
   def decorator(func):
@@ -100,6 +104,7 @@ def save_to_csv(data, category, per_mode):
 
 def main():
 
+  # Request and save data
   categories = ['MOREYBALL', 'PTS', 'REB', 'AST'] # Taking out the Moreyball category until I figure out what's causing the timeout
   for category in categories:
     if category == 'PTS':
@@ -109,12 +114,20 @@ def main():
     elif category == 'MOREYBALL':
       try:
         data = get_shooting_data()
+        mb_leader_name = data.iloc[0,1]
         save_to_csv(data, category, 'Rate')
       except  Exception as e:
         print(f"Moreyball data not saved: {e}")
     else:
       data = get_league_leaders(category, 'PerGame')
       save_to_csv(data, category, 'PerGame')
+
+  # Plot Moreyball leader
+  mbPlot = CourtPlot(mb_leader_name)
+  mbPlot.plot_shots(title_text="Moreyball League Leader - " & mbPlot.player_name,
+                    subtitle_text="As of {date}, min. 50 FGA".format(date=datetime.today().strftime('%Y-%m-%d')),
+                    save_plot=True)
+
 
 if __name__ == "__main__":
   main()
