@@ -123,7 +123,8 @@ def main():
           'id': str(data.iloc[i].PLAYER_ID),
           'name': str(data.iloc[i].PLAYER_NAME),
           'team': str(data.iloc[i].TEAM_ABBREVIATION),
-          'mb_pct': str(data.iloc[i]['Pct Moreyball_FGA'])} 
+          'mb_pct': str(data.iloc[i]['Pct Moreyball_FGA']),
+          'mb_fga': str(data.iloc[i]['Total from 3_FGA'] + data.iloc[i]['Restricted Area_FGA'])} 
           for i in range(20)]
 
         with open('moreyball.yml', 'w') as stream: 
@@ -136,9 +137,9 @@ def main():
       save_to_csv(data, category, 'PerGame')
 
   # Plot Moreyball leader
-  mbPlot = CourtPlot(mb_leader_name)
-  mbPlot.plot_shots(title_text="Moreyball League Leader - " + mbPlot.player_name,
-                    subtitle_text="As of {date}, min. 50 FGA".format(date=datetime.today().strftime('%Y-%m-%d')),
+  mbPlot = CourtPlot(mb_leader_name, bg="#e4dbcd", ec="#403126", fc="#efd5b9")
+  mbPlot.plot_shots(title_text="Moreyball League Leader",
+                    subtitle_text=mbPlot.player_name + " (as of {date}, min. 50 FGA)".format(date=datetime.today().strftime('%Y-%m-%d')),
                     save_plot=True)
 
 
