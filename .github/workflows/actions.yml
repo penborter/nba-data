@@ -61,3 +61,23 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+      - name: Checkout NBA site repo
+        uses: actions/checkout@v3
+        with:
+          repository: penborter/nba-site
+          token: ${{ secrets.PAT }}
+          path: nba_site
+      
+      - name: Copy PNG to NBA site
+        run: |
+          cp plot.png nba_site/assets/posts/moreyball/
+
+      - name: Commit and Push PNG
+        run: |
+          cd nba_site
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/posts/moreyball/plot.png
+          git commit -m "automated .png update"
+          git push
