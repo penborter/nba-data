@@ -50,7 +50,7 @@ jobs:
         run: |
           python leagueleaders.py
 
-      - name: Commit Files
+      - name: Commit files to nba-data repo
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
@@ -62,22 +62,23 @@ jobs:
             echo "No changes to commit."
           fi
 
-      - name: Checkout NBA site repo
+      - name: Checkout nba-site repo
         uses: actions/checkout@v3
         with:
           repository: penborter/nba-site
           token: ${{ secrets.PAT }}
           path: nba_site
       
-      - name: Copy PNG to NBA site
+      - name: Copy files to nba-site repo
         run: |
           cp plot.png nba_site/assets/posts/moreyball/
+          cp moreyball.yml nba_site/_data/
 
-      - name: Commit and Push PNG
+      - name: Commit and push files to nba-site repo
         run: |
           cd nba_site
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/posts/moreyball/plot.png
-          git commit -m "automated .png update"
+          git add assets/posts/moreyball/plot.png _data/moreyball.yml
+          git commit -m "automated moreyball data update"
           git push

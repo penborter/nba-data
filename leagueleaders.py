@@ -1,5 +1,6 @@
 import time
 import pandas as pd
+import yaml
 
 from functools import wraps
 
@@ -116,6 +117,18 @@ def main():
         data = get_shooting_data()
         mb_leader_name = data.iloc[0,1]
         save_to_csv(data, category, 'Rate')
+
+        # Save .yml file for Moreyball data
+        mb_yaml_list =  [{
+          'id': str(data.iloc[i].PLAYER_ID),
+          'name': str(data.iloc[i].PLAYER_NAME),
+          'team': str(data.iloc[i].TEAM_ABBREVIATION),
+          'mb_pct': str(data.iloc[i]['Pct Moreyball_FGA'])} 
+          for i in range(20)]
+
+        with open('moreyball.yml', 'w') as stream: 
+          yaml.dump(mb_yaml_list, stream)
+
       except  Exception as e:
         print(f"Moreyball data not saved: {e}")
     else:
