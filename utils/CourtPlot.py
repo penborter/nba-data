@@ -18,7 +18,7 @@ from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.library.parameters import Season
 
 # Setting Inter SemiBold as custom font
-font_path = Path(__file__).parent / "fonts/Inter_24pt-Regular.ttf"
+font_path = Path(__file__).parent / "fonts/DepartureMono-Regular.otf"
 fm.fontManager.addfont(str(font_path))
 custom_font = fm.FontProperties(fname=str(font_path)).get_name()
 
