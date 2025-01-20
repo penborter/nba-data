@@ -1,5 +1,5 @@
 - id: '1629731'
-  mb_fga: '150.0'
+  mb_fga: '158.0'
   mb_pct: '0.987'
   name: Dean Wade
   team: CLE
@@ -9,18 +9,13 @@
   name: John Konchar
   team: MEM
 - id: '1630241'
-  mb_fga: '186.0'
+  mb_fga: '188.0'
   mb_pct: '0.964'
   name: Sam Merrill
   team: CLE
-- id: '1631119'
-  mb_fga: '62.0'
-  mb_pct: '0.954'
-  name: Jaylin Williams
-  team: OKC
 - id: '1629622'
-  mb_fga: '74.0'
-  mb_pct: '0.948'
+  mb_fga: '81.0'
+  mb_pct: '0.953'
   name: Max Strus
   team: CLE
 - id: '203926'
@@ -34,13 +29,18 @@
   name: Isaac Okoro
   team: CLE
 - id: '1627827'
-  mb_fga: '178.0'
-  mb_pct: '0.932'
+  mb_fga: '181.0'
+  mb_pct: '0.933'
   name: Dorian Finney-Smith
   team: LAL
+- id: '1631119'
+  mb_fga: '69.0'
+  mb_pct: '0.932'
+  name: Jaylin Williams
+  team: OKC
 - id: '1630573'
-  mb_fga: '198.0'
-  mb_pct: '0.925'
+  mb_fga: '204.0'
+  mb_pct: '0.923'
   name: Sam Hauser
   team: BOS
 - id: '1630643'
@@ -48,9 +48,14 @@
   mb_pct: '0.916'
   name: Jay Huff
   team: MEM
+- id: '201587'
+  mb_fga: '106.0'
+  mb_pct: '0.913'
+  name: Nicolas Batum
+  team: LAC
 - id: '1630577'
-  mb_fga: '341.0'
-  mb_pct: '0.915'
+  mb_fga: '348.0'
+  mb_pct: '0.913'
   name: Julian Champagnie
   team: SAS
 - id: '1630534'
@@ -58,26 +63,16 @@
   mb_pct: '0.912'
   name: Ochai Agbaji
   team: TOR
-- id: '201587'
-  mb_fga: '103.0'
-  mb_pct: '0.911'
-  name: Nicolas Batum
-  team: LAC
-- id: '1626168'
-  mb_fga: '164.0'
-  mb_pct: '0.911'
-  name: Trey Lyles
-  team: SAC
-- id: '1631216'
-  mb_fga: '78.0'
-  mb_pct: '0.907'
-  name: Caleb Houstan
-  team: ORL
 - id: '1631200'
-  mb_fga: '123.0'
-  mb_pct: '0.905'
+  mb_fga: '133.0'
+  mb_pct: '0.911'
   name: Kris Murray
   team: POR
+- id: '1631216'
+  mb_fga: '81.0'
+  mb_pct: '0.91'
+  name: Caleb Houstan
+  team: ORL
 - id: '1631260'
   mb_fga: '204.0'
   mb_pct: '0.903'
@@ -89,8 +84,8 @@
   name: Donovan Clingan
   team: POR
 - id: '1629726'
-  mb_fga: '171.0'
-  mb_pct: '0.9'
+  mb_fga: '174.0'
+  mb_pct: '0.901'
   name: Garrison Mathews
   team: ATL
 - id: '1631169'
@@ -98,3 +93,8 @@
   mb_pct: '0.899'
   name: Josh Minott
   team: MIN
+- id: '1626168'
+  mb_fga: '167.0'
+  mb_pct: '0.898'
+  name: Trey Lyles
+  team: SAC
