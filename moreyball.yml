@@ -1,100 +1,100 @@
-- id: '1629731'
-  mb_fga: '158.0'
-  mb_pct: '0.987'
-  name: Dean Wade
-  team: CLE
 - id: '1629723'
-  mb_fga: '57.0'
-  mb_pct: '0.983'
+  mb_fga: '63.0'
+  mb_pct: '0.984'
   name: John Konchar
   team: MEM
+- id: '1629731'
+  mb_fga: '173.0'
+  mb_pct: '0.966'
+  name: Dean Wade
+  team: CLE
 - id: '1630241'
-  mb_fga: '188.0'
-  mb_pct: '0.964'
+  mb_fga: '212.0'
+  mb_pct: '0.955'
   name: Sam Merrill
   team: CLE
-- id: '1629622'
-  mb_fga: '81.0'
-  mb_pct: '0.953'
-  name: Max Strus
-  team: CLE
-- id: '203926'
-  mb_fga: '69.0'
-  mb_pct: '0.945'
-  name: Doug McDermott
-  team: SAC
 - id: '1630171'
   mb_fga: '123.0'
   mb_pct: '0.939'
   name: Isaac Okoro
   team: CLE
+- id: '1629622'
+  mb_fga: '107.0'
+  mb_pct: '0.938'
+  name: Max Strus
+  team: CLE
+- id: '203926'
+  mb_fga: '75.0'
+  mb_pct: '0.937'
+  name: Doug McDermott
+  team: SAC
 - id: '1627827'
-  mb_fga: '181.0'
-  mb_pct: '0.933'
+  mb_fga: '195.0'
+  mb_pct: '0.937'
   name: Dorian Finney-Smith
   team: LAL
-- id: '1631119'
-  mb_fga: '69.0'
-  mb_pct: '0.932'
-  name: Jaylin Williams
-  team: OKC
 - id: '1630573'
-  mb_fga: '204.0'
-  mb_pct: '0.923'
+  mb_fga: '224.0'
+  mb_pct: '0.925'
   name: Sam Hauser
   team: BOS
+- id: '1641775'
+  mb_fga: '49.0'
+  mb_pct: '0.924'
+  name: Jordan Walsh
+  team: BOS
 - id: '1630643'
-  mb_fga: '197.0'
-  mb_pct: '0.916'
+  mb_fga: '207.0'
+  mb_pct: '0.92'
   name: Jay Huff
   team: MEM
 - id: '201587'
-  mb_fga: '106.0'
-  mb_pct: '0.913'
+  mb_fga: '114.0'
+  mb_pct: '0.92'
   name: Nicolas Batum
   team: LAC
-- id: '1630577'
-  mb_fga: '348.0'
+- id: '1631216'
+  mb_fga: '88.0'
+  mb_pct: '0.917'
+  name: Caleb Houstan
+  team: ORL
+- id: '1628366'
+  mb_fga: '141.0'
+  mb_pct: '0.916'
+  name: Lonzo Ball
+  team: CHI
+- id: '1631200'
+  mb_fga: '136.0'
   mb_pct: '0.913'
-  name: Julian Champagnie
-  team: SAS
+  name: Kris Murray
+  team: POR
 - id: '1630534'
   mb_fga: '300.0'
   mb_pct: '0.912'
   name: Ochai Agbaji
   team: TOR
-- id: '1631200'
-  mb_fga: '133.0'
-  mb_pct: '0.911'
-  name: Kris Murray
-  team: POR
-- id: '1631216'
-  mb_fga: '81.0'
-  mb_pct: '0.91'
-  name: Caleb Houstan
-  team: ORL
+- id: '1630577'
+  mb_fga: '351.0'
+  mb_pct: '0.909'
+  name: Julian Champagnie
+  team: SAS
+- id: '1629726'
+  mb_fga: '187.0'
+  mb_pct: '0.908'
+  name: Garrison Mathews
+  team: ATL
+- id: '1631119'
+  mb_fga: '85.0'
+  mb_pct: '0.904'
+  name: Jaylin Williams
+  team: OKC
+- id: '1631169'
+  mb_fga: '56.0'
+  mb_pct: '0.904'
+  name: Josh Minott
+  team: MIN
 - id: '1631260'
   mb_fga: '204.0'
   mb_pct: '0.903'
   name: AJ Green
   team: MIL
-- id: '1642270'
-  mb_fga: '121.0'
-  mb_pct: '0.903'
-  name: Donovan Clingan
-  team: POR
-- id: '1629726'
-  mb_fga: '174.0'
-  mb_pct: '0.901'
-  name: Garrison Mathews
-  team: ATL
-- id: '1631169'
-  mb_fga: '53.0'
-  mb_pct: '0.899'
-  name: Josh Minott
-  team: MIN
-- id: '1626168'
-  mb_fga: '167.0'
-  mb_pct: '0.898'
-  name: Trey Lyles
-  team: SAC
