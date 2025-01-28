@@ -119,16 +119,25 @@ def main():
         save_to_csv(data, category, 'Rate')
 
         # Save .yml file for Moreyball data
-        mb_yaml_list =  [{
+        mb_full_yaml_list =  [{
           'id': str(data.iloc[i].PLAYER_ID),
           'name': str(data.iloc[i].PLAYER_NAME),
           'team': str(data.iloc[i].TEAM_ABBREVIATION),
-          'mb_pct': str(data.iloc[i]['Pct Moreyball_FGA']),
-          'mb_fga': str(data.iloc[i]['Total from 3_FGA'] + data.iloc[i]['Restricted Area_FGA'])} 
-          for i in range(20)]
+          'RA_FGM': str(data.iloc[i]['Restricted Area_FGM']),
+          'RA_FGA': str(data.iloc[i]['Restricted Area_FGA']),
+          'RA_PCT': str(data.iloc[i]['Pct RA_FGA']),
+          'THREE_FGM': str(data.iloc[i]['Total from 3_FGM']),
+          'THREE_FGA': str(data.iloc[i]['Total from 3_FGA']),
+          'THREE_PCT': str(data.iloc[i]['Pct 3_FGA']),
+          'MB_FGM': str(data.iloc[i]['Total from 3_FGM'] + data.iloc[i]['Restricted Area_FGM']),
+          'MB_FGA': str(data.iloc[i]['Total from 3_FGA'] + data.iloc[i]['Restricted Area_FGA']),
+          'TOTAL_FGM': str(data.iloc[i]['Total Shots_FGM']),
+          'TOTAL_FGA': str(data.iloc[i]['Total Shots_FGA']),
+          'MB_PCT': str(data.iloc[i]['Pct Moreyball_FGA'])} 
+          for i in range((len(data) - 1))]
 
-        with open('moreyball.yml', 'w') as stream: 
-          yaml.dump(mb_yaml_list, stream)
+        with open('moreyball_full.yml', 'w') as stream:
+          yaml.dump(mb_full_yaml_list, stream)
 
       except  Exception as e:
         print(f"Moreyball data not saved: {e}")
@@ -138,7 +147,7 @@ def main():
 
   # Plot Moreyball leader
   mbPlot = CourtPlot(mb_leader_name, bg="#e4dbcd", ec="#403126", fc="#efd5b9")
-  mbPlot.plot_shots(title_text="Moreyball League Leader",
+  mbPlot.plot_shots(title_text="Moreyball Pct. League Leader",
                     subtitle_text=mbPlot.player_name + " (as of {date}, min. 50 FGA)".format(date=datetime.today().strftime('%Y-%m-%d')),
                     save_plot=True)
 
