@@ -88,8 +88,8 @@ def get_shooting_data():
     shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
     shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
   
-  # Sorting the df, min 50 FGA
-  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 50].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
+  # Sorting the df, min 100 FGA
+  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 100].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
   shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
   return shotDF
 
@@ -148,7 +148,7 @@ def main():
   # Plot Moreyball leader
   mbPlot = CourtPlot(mb_leader_name, bg="#e4dbcd", ec="#403126", fc="#efd5b9")
   mbPlot.plot_shots(title_text="Moreyball Pct. League Leader",
-                    subtitle_text=mbPlot.player_name + " (as of {date}, min. 50 FGA)".format(date=datetime.today().strftime('%Y-%m-%d')),
+                    subtitle_text=mbPlot.player_name + " (as of {date}, min. 100 FGA)".format(date=datetime.today().strftime('%Y-%m-%d')),
                     save_plot=True)
 
 
