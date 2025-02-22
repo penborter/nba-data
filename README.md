@@ -1,11 +1,15 @@
 # NBA Data Tools and Utilites
 
-[![Daily League Leaders](https://github.com/penborter/nba-data/actions/workflows/actions.yml/badge.svg)](https://github.com/penborter/nba-data/actions/workflows/actions.yml)
+[![Weekly League Leaders](https://github.com/penborter/nba-data/actions/workflows/actions.yml/badge.svg)](https://github.com/penborter/nba-data/actions/workflows/actions.yml)
 
 Collecting existing data and tools I've put together for analysing NBA data.
 Will continue to add to the collection as I clean things up.
 
 Relies heavily on the [nba_api](https://github.com/swar/nba_api) Python package.
+
+## NBA.ben.report
+
+The League Leaders action tracked above links to leaderboards on [NBA.ben.report](https://nba.ben.report).
 
 ## Data
 
