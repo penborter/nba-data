@@ -19,13 +19,13 @@
   name: Jake LaRavia
   team: SAC
 - avg_speed: '4.8'
-  games: '52'
+  games: '53'
   id: '204456'
-  marathons: '3.1656432358213507'
-  miles: '83.0'
-  miles_per_game: '1.5961538461538463'
-  miles_per_thirty: '3.0963730569948185'
-  minutes: '965.0'
+  marathons: '3.2190396277508677'
+  miles: '84.4'
+  miles_per_game: '1.5924528301886793'
+  miles_per_thirty: '3.1004081632653064'
+  minutes: '980.0'
   name: T.J. McConnell
   team: IND
 - avg_speed: '4.85'
@@ -39,13 +39,13 @@
   name: Andre Jackson Jr.
   team: MIL
 - avg_speed: '4.74'
-  games: '39'
+  games: '40'
   id: '1641767'
-  marathons: '2.589725008581563'
-  miles: '67.9'
-  miles_per_game: '1.7410256410256413'
-  miles_per_thirty: '3.0631578947368423'
-  minutes: '798.0'
+  marathons: '2.6354933445211484'
+  miles: '69.1'
+  miles_per_game: '1.7274999999999998'
+  miles_per_thirty: '3.0635467980295563'
+  minutes: '812.0'
   name: Ben Sheppard
   team: IND
 - avg_speed: '4.75'
@@ -69,13 +69,13 @@
   name: Ja'Kobe Walter
   team: TOR
 - avg_speed: '4.75'
-  games: '54'
+  games: '55'
   id: '1630590'
-  marathons: '3.6042564552423815'
-  miles: '94.5'
-  miles_per_game: '1.75'
-  miles_per_thirty: '3.0429338103756707'
-  minutes: '1118.0'
+  marathons: '3.6118845112323124'
+  miles: '94.7'
+  miles_per_game: '1.721818181818182'
+  miles_per_thirty: '3.0466487935656836'
+  minutes: '1119.0'
   name: Scotty Pippen Jr.
   team: MEM
 - avg_speed: '4.71'
@@ -88,54 +88,54 @@
   minutes: '667.0'
   name: Johnny Juzang
   team: UTA
-- avg_speed: '4.7'
-  games: '53'
-  id: '1641763'
-  marathons: '2.166367901140394'
-  miles: '56.8'
-  miles_per_game: '1.0716981132075472'
-  miles_per_thirty: '3.024852071005917'
-  minutes: '676.0'
-  name: Julian Phillips
-  team: CHI
 - avg_speed: '4.77'
-  games: '48'
+  games: '49'
   id: '1642258'
-  marathons: '3.657652847171898'
-  miles: '95.9'
-  miles_per_game: '1.9979166666666668'
-  miles_per_thirty: '3.0231173380035026'
-  minutes: '1142.0'
+  marathons: '3.733933407071208'
+  miles: '97.9'
+  miles_per_game: '1.9979591836734696'
+  miles_per_thirty: '3.0226415094339627'
+  minutes: '1166.0'
   name: Zaccharie Risacher
   team: ATL
 - avg_speed: '4.68'
-  games: '25'
+  games: '26'
   id: '1629622'
-  marathons: '1.9909226133719822'
-  miles: '52.2'
-  miles_per_game: '2.088'
-  miles_per_thirty: '3.0212218649517686'
-  minutes: '622.0'
+  marathons: '2.0672031732712917'
+  miles: '54.2'
+  miles_per_game: '2.0846153846153848'
+  miles_per_thirty: '3.0204334365325076'
+  minutes: '646.0'
   name: Max Strus
   team: CLE
 - avg_speed: '4.67'
-  games: '50'
+  games: '51'
   id: '1630167'
-  marathons: '3.104618787901903'
-  miles: '81.4'
-  miles_per_game: '1.6280000000000001'
-  miles_per_thirty: '3.021030927835052'
-  minutes: '970.0'
+  marathons: '3.1656432358213507'
+  miles: '83.0'
+  miles_per_game: '1.6274509803921569'
+  miles_per_thirty: '3.018181818181818'
+  minutes: '990.0'
   name: Obi Toppin
   team: IND
+- avg_speed: '4.69'
+  games: '54'
+  id: '1641763'
+  marathons: '2.235020405049773'
+  miles: '58.6'
+  miles_per_game: '1.0851851851851853'
+  miles_per_thirty: '3.0180257510729613'
+  minutes: '699.0'
+  name: Julian Phillips
+  team: CHI
 - avg_speed: '4.66'
-  games: '46'
+  games: '47'
   id: '1630583'
-  marathons: '3.585186315267554'
-  miles: '94.0'
-  miles_per_game: '2.0434782608695654'
-  miles_per_thirty: '2.997342781222321'
-  minutes: '1129.0'
+  marathons: '3.6614668751668638'
+  miles: '96.0'
+  miles_per_game: '2.0425531914893615'
+  miles_per_thirty: '2.9948006932409013'
+  minutes: '1154.0'
   name: Santi Aldama
   team: MEM
 - avg_speed: '4.66'
@@ -229,13 +229,13 @@
   name: Jaime Jaquez Jr.
   team: MIA
 - avg_speed: '4.58'
-  games: '41'
+  games: '42'
   id: '1628379'
-  marathons: '2.8338228002593535'
-  miles: '74.3'
-  miles_per_game: '1.8121951219512193'
-  miles_per_thirty: '2.958849557522124'
-  minutes: '904.0'
+  marathons: '2.894847248178802'
+  miles: '75.9'
+  miles_per_game: '1.8071428571428574'
+  miles_per_thirty: '2.9571428571428573'
+  minutes: '924.0'
   name: Luke Kennard
   team: MEM
 - avg_speed: '4.59'
@@ -249,23 +249,23 @@
   name: Corey Kispert
   team: WAS
 - avg_speed: '4.56'
-  games: '50'
+  games: '51'
   id: '1629634'
-  marathons: '2.944429612113353'
-  miles: '77.2'
-  miles_per_game: '1.544'
-  miles_per_thirty: '2.9440677966101694'
-  minutes: '944.0'
+  marathons: '2.974941836073077'
+  miles: '78.0'
+  miles_per_game: '1.5294117647058822'
+  miles_per_thirty: '2.943396226415094'
+  minutes: '954.0'
   name: Brandon Clarke
   team: MEM
 - avg_speed: '4.55'
-  games: '46'
+  games: '47'
   id: '1630643'
-  marathons: '1.7887791296388114'
-  miles: '46.9'
-  miles_per_game: '1.0195652173913043'
-  miles_per_thirty: '2.9414634146341463'
-  minutes: '574.0'
+  marathons: '1.792593157633777'
+  miles: '47.0'
+  miles_per_game: '1.0'
+  miles_per_thirty: '2.942608695652174'
+  minutes: '575.0'
   name: Jay Huff
   team: MEM
 - avg_speed: '4.56'
@@ -279,45 +279,35 @@
   name: Ochai Agbaji
   team: TOR
 - avg_speed: '4.59'
-  games: '53'
+  games: '54'
   id: '1641739'
-  marathons: '5.33582516495671'
-  miles: '139.9'
-  miles_per_game: '2.639622641509434'
-  miles_per_thirty: '2.9401050788091068'
-  minutes: '1713.0'
+  marathons: '5.454060032800641'
+  miles: '143.0'
+  miles_per_game: '2.6481481481481484'
+  miles_per_thirty: '2.940034266133638'
+  minutes: '1751.0'
   name: Toumani Camara
   team: POR
-- avg_speed: '4.59'
-  games: '47'
-  id: '1630182'
-  marathons: '4.180174682482169'
-  miles: '109.6'
-  miles_per_game: '2.331914893617021'
-  miles_per_thirty: '2.9379002233804914'
-  minutes: '1343.0'
-  name: Josh Green
-  team: CHA
-- avg_speed: '4.56'
-  games: '31'
-  id: '1630200'
-  marathons: '1.563751477935848'
-  miles: '41.0'
-  miles_per_game: '1.3225806451612903'
-  miles_per_thirty: '2.9343936381709743'
-  minutes: '503.0'
-  name: Tre Jones
-  team: CHI
-- avg_speed: '4.54'
-  games: '36'
+- avg_speed: '4.55'
+  games: '37'
   id: '1631213'
-  marathons: '2.353255272893703'
-  miles: '61.7'
-  miles_per_game: '1.713888888888889'
-  miles_per_thirty: '2.934214002642008'
-  minutes: '757.0'
+  marathons: '2.4104656928181853'
+  miles: '63.2'
+  miles_per_game: '1.7081081081081082'
+  miles_per_thirty: '2.9395348837209303'
+  minutes: '774.0'
   name: Tyrese Martin
   team: BKN
+- avg_speed: '4.58'
+  games: '49'
+  id: '1630182'
+  marathons: '4.367062054235478'
+  miles: '114.5'
+  miles_per_game: '2.336734693877551'
+  miles_per_thirty: '2.933807829181495'
+  minutes: '1405.0'
+  name: Josh Green
+  team: CHA
 - avg_speed: '4.57'
   games: '49'
   id: '1629312'
@@ -328,16 +318,16 @@
   minutes: '1163.0'
   name: Haywood Highsmith
   team: MIA
-- avg_speed: '4.57'
-  games: '33'
-  id: '1641733'
-  marathons: '1.9184560814676377'
-  miles: '50.3'
-  miles_per_game: '1.5242424242424242'
-  miles_per_thirty: '2.9300970873786403'
-  minutes: '618.0'
-  name: Nick Smith Jr.
-  team: CHA
+- avg_speed: '4.55'
+  games: '32'
+  id: '1630200'
+  marathons: '1.6018917578855028'
+  miles: '42.0'
+  miles_per_game: '1.3125'
+  miles_per_thirty: '2.930232558139535'
+  minutes: '516.0'
+  name: Tre Jones
+  team: CHI
 - avg_speed: '4.52'
   games: '35'
   id: '1630551'
@@ -348,6 +338,16 @@
   minutes: '647.0'
   name: Justin Champagnie
   team: WAS
+- avg_speed: '4.55'
+  games: '55'
+  id: '1642377'
+  marathons: '4.405202334185133'
+  miles: '115.5'
+  miles_per_game: '2.1'
+  miles_per_thirty: '2.926108374384236'
+  minutes: '1421.0'
+  name: Jaylen Wells
+  team: MEM
 - avg_speed: '4.53'
   games: '56'
   id: '1629638'
@@ -359,15 +359,25 @@
   name: Nickeil Alexander-Walker
   team: MIN
 - avg_speed: '4.55'
-  games: '54'
-  id: '1642377'
-  marathons: '4.317479690300927'
-  miles: '113.2'
-  miles_per_game: '2.0962962962962965'
-  miles_per_thirty: '2.9233859397417503'
-  minutes: '1394.0'
-  name: Jaylen Wells
-  team: MEM
+  games: '38'
+  id: '1629614'
+  marathons: '3.3410885235897627'
+  miles: '87.6'
+  miles_per_game: '2.305263157894737'
+  miles_per_thirty: '2.9227062094531973'
+  minutes: '1079.0'
+  name: Andrew Nembhard
+  team: IND
+- avg_speed: '4.55'
+  games: '35'
+  id: '1641733'
+  marathons: '2.1015294252259813'
+  miles: '55.1'
+  miles_per_game: '1.5742857142857143'
+  miles_per_thirty: '2.921354933726068'
+  minutes: '679.0'
+  name: Nick Smith Jr.
+  team: CHA
 - avg_speed: '4.54'
   games: '50'
   id: '1631323'
@@ -378,16 +388,6 @@
   minutes: '885.0'
   name: Simone Fontecchio
   team: DET
-- avg_speed: '4.54'
-  games: '37'
-  id: '1629614'
-  marathons: '3.2457378237156256'
-  miles: '85.1'
-  miles_per_game: '2.3'
-  miles_per_thirty: '2.92049571020019'
-  minutes: '1049.0'
-  name: Andrew Nembhard
-  team: IND
 - avg_speed: '4.52'
   games: '42'
   id: '1641764'
@@ -408,64 +408,74 @@
   minutes: '850.0'
   name: Jordan Hawkins
   team: NOP
-- avg_speed: '4.46'
-  games: '45'
-  id: '1631200'
-  marathons: '1.8841298295129485'
-  miles: '49.4'
-  miles_per_game: '1.0977777777777777'
-  miles_per_thirty: '2.905882352941176'
-  minutes: '612.0'
-  name: Kris Murray
-  team: POR
 - avg_speed: '4.5'
-  games: '43'
+  games: '44'
   id: '1630217'
-  marathons: '4.0352416186734805'
-  miles: '105.8'
-  miles_per_game: '2.4604651162790696'
-  miles_per_thirty: '2.905263157894737'
-  minutes: '1311.0'
+  marathons: '4.138220374537549'
+  miles: '108.5'
+  miles_per_game: '2.465909090909091'
+  miles_per_thirty: '2.90625'
+  minutes: '1344.0'
   name: Desmond Bane
   team: MEM
+- avg_speed: '4.46'
+  games: '46'
+  id: '1631200'
+  marathons: '1.8993859414928103'
+  miles: '49.8'
+  miles_per_game: '1.0826086956521739'
+  miles_per_thirty: '2.905672609400324'
+  minutes: '617.0'
+  name: Kris Murray
+  team: POR
 - avg_speed: '4.53'
-  games: '45'
+  games: '46'
   id: '1628989'
-  marathons: '2.9253594721385254'
-  miles: '76.7'
-  miles_per_game: '1.7044444444444444'
-  miles_per_thirty: '2.9004201680672272'
-  minutes: '952.0'
+  marathons: '2.9825698920630077'
+  miles: '78.2'
+  miles_per_game: '1.7'
+  miles_per_thirty: '2.9022680412371136'
+  minutes: '970.0'
   name: Kevin Huerter
   team: CHI
-- avg_speed: '4.53'
-  games: '53'
+- avg_speed: '4.52'
+  games: '54'
   id: '1641824'
-  marathons: '2.4180937488081162'
-  miles: '63.4'
-  miles_per_game: '1.1962264150943396'
-  miles_per_thirty: '2.9001270648030495'
-  minutes: '787.0'
+  marathons: '2.4905602807124603'
+  miles: '65.3'
+  miles_per_game: '1.2092592592592593'
+  miles_per_thirty: '2.898643649815043'
+  minutes: '811.0'
   name: Matas Buzelis
   team: CHI
-- avg_speed: '4.54'
-  games: '49'
+- avg_speed: '4.53'
+  games: '50'
   id: '1642346'
   marathons: '2.7918684923147334'
   miles: '73.2'
-  miles_per_game: '1.4938775510204083'
-  miles_per_thirty: '2.895824175824176'
-  minutes: '910.0'
+  miles_per_game: '1.464'
+  miles_per_thirty: '2.8926454445664107'
+  minutes: '911.0'
   name: Ryan Dunn
   team: PHX
+- avg_speed: '4.48'
+  games: '41'
+  id: '1642275'
+  marathons: '2.402837636828254'
+  miles: '63.0'
+  miles_per_game: '1.5365853658536586'
+  miles_per_thirty: '2.889171974522293'
+  minutes: '785.0'
+  name: "Tidjane Sala\xFCn"
+  team: CHA
 - avg_speed: '4.49'
-  games: '50'
+  games: '51'
   id: '1630700'
-  marathons: '5.194706129142987'
-  miles: '136.2'
-  miles_per_game: '2.7239999999999998'
-  miles_per_thirty: '2.887632508833922'
-  minutes: '1698.0'
+  marathons: '5.297684885007056'
+  miles: '138.9'
+  miles_per_game: '2.723529411764706'
+  miles_per_thirty: '2.887066974595843'
+  minutes: '1732.0'
   name: Dyson Daniels
   team: ATL
 - avg_speed: '4.45'
@@ -488,16 +498,6 @@
   minutes: '832.0'
   name: Jonathan Kuminga
   team: GSW
-- avg_speed: '4.48'
-  games: '39'
-  id: '1642275'
-  marathons: '2.2731606849994277'
-  miles: '59.6'
-  miles_per_game: '1.5282051282051283'
-  miles_per_thirty: '2.8838709677419354'
-  minutes: '744.0'
-  name: "Tidjane Sala\xFCn"
-  team: CHA
 - avg_speed: '4.44'
   games: '32'
   id: '1627936'
@@ -509,13 +509,13 @@
   name: Alex Caruso
   team: OKC
 - avg_speed: '4.48'
-  games: '33'
+  games: '34'
   id: '1631110'
-  marathons: '2.620237232541287'
-  miles: '68.7'
-  miles_per_game: '2.081818181818182'
-  miles_per_thirty: '2.875813953488372'
-  minutes: '860.0'
+  marathons: '2.707959876425493'
+  miles: '71.0'
+  miles_per_game: '2.088235294117647'
+  miles_per_thirty: '2.8783783783783785'
+  minutes: '888.0'
   name: Jeremy Sochan
   team: SAS
 - avg_speed: '4.48'
@@ -559,6 +559,16 @@
   name: Jose Alvarado
   team: NOP
 - avg_speed: '4.43'
+  games: '53'
+  id: '1630553'
+  marathons: '3.7568175750410004'
+  miles: '98.5'
+  miles_per_game: '1.8584905660377358'
+  miles_per_thirty: '2.86661277283751'
+  minutes: '1237.0'
+  name: Keon Johnson
+  team: BKN
+- avg_speed: '4.43'
   games: '39'
   id: '1628998'
   marathons: '2.936801556123422'
@@ -568,24 +578,14 @@
   minutes: '967.0'
   name: Cody Martin
   team: PHX
-- avg_speed: '4.43'
-  games: '52'
-  id: '1630553'
-  marathons: '3.67290895915176'
-  miles: '96.3'
-  miles_per_game: '1.8519230769230768'
-  miles_per_thirty: '2.8651239669421487'
-  minutes: '1210.0'
-  name: Keon Johnson
-  team: BKN
 - avg_speed: '4.42'
-  games: '32'
+  games: '33'
   id: '1629630'
-  marathons: '2.7918684923147334'
-  miles: '73.2'
-  miles_per_game: '2.2875'
-  miles_per_thirty: '2.864347826086957'
-  minutes: '920.0'
+  marathons: '2.883405164193905'
+  miles: '75.6'
+  miles_per_game: '2.2909090909090906'
+  miles_per_thirty: '2.8648421052631576'
+  minutes: '950.0'
   name: Ja Morant
   team: MEM
 - avg_speed: '4.43'
@@ -598,6 +598,16 @@
   minutes: '763.0'
   name: Garrison Mathews
   team: ATL
+- avg_speed: '4.45'
+  games: '37'
+  id: '1630532'
+  marathons: '3.7072352111064495'
+  miles: '97.2'
+  miles_per_game: '2.6270270270270273'
+  miles_per_thirty: '2.8611610793131645'
+  minutes: '1223.0'
+  name: Franz Wagner
+  team: ORL
 - avg_speed: '4.47'
   games: '35'
   id: '1629731'
@@ -609,35 +619,35 @@
   name: Dean Wade
   team: CLE
 - avg_speed: '4.45'
-  games: '47'
+  games: '48'
   id: '1627739'
-  marathons: '3.2457378237156256'
-  miles: '85.1'
-  miles_per_game: '1.8106382978723403'
-  miles_per_thirty: '2.860504201680672'
-  minutes: '1071.0'
+  marathons: '3.3372744955947975'
+  miles: '87.5'
+  miles_per_game: '1.8229166666666667'
+  miles_per_thirty: '2.8584392014519056'
+  minutes: '1102.0'
   name: Kris Dunn
   team: LAC
-- avg_speed: '4.44'
-  games: '36'
-  id: '1630532'
-  marathons: '3.6004424272474163'
-  miles: '94.4'
-  miles_per_game: '2.6222222222222222'
-  miles_per_thirty: '2.8582001682085787'
-  minutes: '1189.0'
-  name: Franz Wagner
-  team: ORL
-- avg_speed: '4.47'
+- avg_speed: '4.43'
+  games: '54'
+  id: '203486'
+  marathons: '2.8643350242190775'
+  miles: '75.1'
+  miles_per_game: '1.3907407407407406'
+  miles_per_thirty: '2.8579281183932346'
+  minutes: '946.0'
+  name: Mason Plumlee
+  team: PHX
+- avg_speed: '4.43'
   games: '46'
-  id: '1631260'
-  marathons: '3.051222395972386'
-  miles: '80.0'
-  miles_per_game: '1.7391304347826086'
-  miles_per_thirty: '2.8571428571428568'
-  minutes: '1008.0'
-  name: AJ Green
-  team: MIL
+  id: '1630241'
+  marathons: '2.700331820435562'
+  miles: '70.8'
+  miles_per_game: '1.5391304347826087'
+  miles_per_thirty: '2.8573991031390134'
+  minutes: '892.0'
+  name: Sam Merrill
+  team: CLE
 - avg_speed: '4.46'
   games: '42'
   id: '1642259'
@@ -648,36 +658,16 @@
   minutes: '1129.0'
   name: Alex Sarr
   team: WAS
-- avg_speed: '4.43'
-  games: '45'
-  id: '1630241'
-  marathons: '2.6240512605362523'
-  miles: '68.8'
-  miles_per_game: '1.5288888888888887'
-  miles_per_thirty: '2.8567474048442905'
-  minutes: '867.0'
-  name: Sam Merrill
-  team: CLE
-- avg_speed: '4.44'
-  games: '26'
-  id: '203992'
-  marathons: '1.9337121934475'
-  miles: '50.7'
-  miles_per_game: '1.9500000000000002'
-  miles_per_thirty: '2.8563380281690143'
-  minutes: '639.0'
-  name: "Bogdan Bogdanovi\u0107"
-  team: LAC
-- avg_speed: '4.43'
-  games: '53'
-  id: '203486'
-  marathons: '2.810938632289561'
-  miles: '73.7'
-  miles_per_game: '1.390566037735849'
-  miles_per_thirty: '2.855974165769645'
-  minutes: '929.0'
-  name: Mason Plumlee
-  team: PHX
+- avg_speed: '4.46'
+  games: '47'
+  id: '1631260'
+  marathons: '3.1389450398565923'
+  miles: '82.3'
+  miles_per_game: '1.751063829787234'
+  miles_per_thirty: '2.8543352601156067'
+  minutes: '1038.0'
+  name: AJ Green
+  team: MIL
 - avg_speed: '4.45'
   games: '52'
   id: '1631165'
@@ -688,16 +678,26 @@
   minutes: '1167.0'
   name: Keon Ellis
   team: SAC
-- avg_speed: '4.44'
-  games: '28'
+- avg_speed: '4.45'
+  games: '29'
   id: '1630171'
-  marathons: '1.6629162058049507'
-  miles: '43.6'
-  miles_per_game: '1.5571428571428572'
-  miles_per_thirty: '2.8486388384754995'
-  minutes: '551.0'
+  marathons: '1.7163125977344673'
+  miles: '45.0'
+  miles_per_game: '1.5517241379310345'
+  miles_per_thirty: '2.852112676056338'
+  minutes: '568.0'
   name: Isaac Okoro
   team: CLE
+- avg_speed: '4.43'
+  games: '27'
+  id: '203992'
+  marathons: '1.9909226133719822'
+  miles: '52.2'
+  miles_per_game: '1.9333333333333333'
+  miles_per_thirty: '2.851593323216995'
+  minutes: '659.0'
+  name: "Bogdan Bogdanovi\u0107"
+  team: LAC
 - avg_speed: '4.42'
   games: '50'
   id: '1629750'
@@ -718,36 +718,26 @@
   minutes: '1044.0'
   name: Isaiah Joe
   team: OKC
-- avg_speed: '4.37'
-  games: '46'
-  id: '1641741'
-  marathons: '1.9565963614172925'
-  miles: '51.3'
-  miles_per_game: '1.1152173913043477'
-  miles_per_thirty: '2.845608628659476'
-  minutes: '649.0'
-  name: Ricky Council IV
-  team: PHI
-- avg_speed: '4.5'
-  games: '51'
-  id: '1630581'
-  marathons: '4.416644418170029'
-  miles: '115.8'
-  miles_per_game: '2.2705882352941176'
-  miles_per_thirty: '2.843656207366985'
-  minutes: '1466.0'
-  name: Josh Giddey
-  team: CHI
 - avg_speed: '4.4'
-  games: '53'
+  games: '54'
   id: '1630592'
-  marathons: '4.355619970250581'
-  miles: '114.2'
-  miles_per_game: '2.1547169811320757'
-  miles_per_thirty: '2.843153526970954'
-  minutes: '1446.0'
+  marathons: '4.439528586139822'
+  miles: '116.4'
+  miles_per_game: '2.1555555555555554'
+  miles_per_thirty: '2.8467391304347824'
+  minutes: '1472.0'
   name: Jalen Wilson
   team: BKN
+- avg_speed: '4.5'
+  games: '52'
+  id: '1630581'
+  marathons: '4.5196231740340975'
+  miles: '118.5'
+  miles_per_game: '2.2788461538461537'
+  miles_per_thirty: '2.844'
+  minutes: '1500.0'
+  name: Josh Giddey
+  team: CHI
 - avg_speed: '4.42'
   games: '51'
   id: '1631099'
@@ -778,6 +768,36 @@
   minutes: '691.0'
   name: Ausar Thompson
   team: DET
+- avg_speed: '4.37'
+  games: '47'
+  id: '1641741'
+  marathons: '2.0176208093367403'
+  miles: '52.9'
+  miles_per_game: '1.125531914893617'
+  miles_per_thirty: '2.838152011922504'
+  minutes: '671.0'
+  name: Ricky Council IV
+  team: PHI
+- avg_speed: '4.43'
+  games: '53'
+  id: '1630577'
+  marathons: '3.9055646668446546'
+  miles: '102.4'
+  miles_per_game: '1.9320754716981132'
+  miles_per_thirty: '2.8378752886836027'
+  minutes: '1299.0'
+  name: Julian Champagnie
+  team: SAS
+- avg_speed: '4.4'
+  games: '48'
+  id: '1630703'
+  marathons: '3.83309813494031'
+  miles: '100.5'
+  miles_per_game: '2.09375'
+  miles_per_thirty: '2.8376470588235296'
+  minutes: '1275.0'
+  name: Scoot Henderson
+  team: POR
 - avg_speed: '4.43'
   games: '34'
   id: '1628392'
@@ -788,26 +808,6 @@
   minutes: '986.0'
   name: Isaiah Hartenstein
   team: OKC
-- avg_speed: '4.43'
-  games: '52'
-  id: '1630577'
-  marathons: '3.855982302910103'
-  miles: '101.1'
-  miles_per_game: '1.9442307692307692'
-  miles_per_thirty: '2.8367887763055335'
-  minutes: '1283.0'
-  name: Julian Champagnie
-  team: SAS
-- avg_speed: '4.4'
-  games: '47'
-  id: '1630703'
-  marathons: '3.7415614630611387'
-  miles: '98.1'
-  miles_per_game: '2.0872340425531912'
-  miles_per_thirty: '2.8366265060240963'
-  minutes: '1245.0'
-  name: Scoot Henderson
-  team: POR
 - avg_speed: '4.4'
   games: '50'
   id: '1629130'
@@ -849,35 +849,25 @@
   name: RJ Barrett
   team: TOR
 - avg_speed: '4.4'
-  games: '33'
-  id: '1630163'
-  marathons: '3.2342957397307295'
-  miles: '84.8'
-  miles_per_game: '2.56969696969697'
-  miles_per_thirty: '2.8319109461966603'
-  minutes: '1078.0'
-  name: LaMelo Ball
-  team: CHA
-- avg_speed: '4.39'
-  games: '44'
-  id: '1630540'
-  marathons: '3.0626644799572826'
-  miles: '80.3'
-  miles_per_game: '1.825'
-  miles_per_thirty: '2.8285714285714283'
-  minutes: '1022.0'
-  name: Miles McBride
-  team: NYK
-- avg_speed: '4.39'
-  games: '50'
+  games: '51'
   id: '1630188'
-  marathons: '2.292230824974255'
-  miles: '60.1'
-  miles_per_game: '1.202'
-  miles_per_thirty: '2.828235294117647'
-  minutes: '765.0'
+  marathons: '2.299858880964186'
+  miles: '60.3'
+  miles_per_game: '1.1823529411764706'
+  miles_per_thirty: '2.8302477183833115'
+  minutes: '767.0'
   name: Jalen Smith
   team: CHI
+- avg_speed: '4.39'
+  games: '34'
+  id: '1630163'
+  marathons: '3.3296464396048666'
+  miles: '87.3'
+  miles_per_game: '2.567647058823529'
+  miles_per_thirty: '2.8288028802880287'
+  minutes: '1111.0'
+  name: LaMelo Ball
+  team: CHA
 - avg_speed: '4.39'
   games: '47'
   id: '1626179'
@@ -888,16 +878,6 @@
   minutes: '1340.0'
   name: Terry Rozier
   team: MIA
-- avg_speed: '4.5'
-  games: '45'
-  id: '1630573'
-  marathons: '2.6965177924405963'
-  miles: '70.7'
-  miles_per_game: '1.5711111111111111'
-  miles_per_thirty: '2.8248612652608216'
-  minutes: '901.0'
-  name: Sam Hauser
-  team: BOS
 - avg_speed: '4.39'
   games: '36'
   id: '1630552'
@@ -908,14 +888,34 @@
   minutes: '1284.0'
   name: Jalen Johnson
   team: ATL
+- avg_speed: '4.49'
+  games: '46'
+  id: '1630573'
+  marathons: '2.757542240360044'
+  miles: '72.3'
+  miles_per_game: '1.5717391304347825'
+  miles_per_thirty: '2.822993492407809'
+  minutes: '922.0'
+  name: Sam Hauser
+  team: BOS
+- avg_speed: '4.39'
+  games: '45'
+  id: '1630540'
+  marathons: '3.184713375796178'
+  miles: '83.5'
+  miles_per_game: '1.8555555555555556'
+  miles_per_thirty: '2.822535211267606'
+  minutes: '1065.0'
+  name: Miles McBride
+  team: NYK
 - avg_speed: '4.36'
-  games: '40'
+  games: '41'
   id: '1630533'
-  marathons: '2.818566688279492'
-  miles: '73.9'
-  miles_per_game: '1.8475000000000001'
-  miles_per_thirty: '2.818220338983051'
-  minutes: '944.0'
+  marathons: '2.910103360158663'
+  miles: '76.3'
+  miles_per_game: '1.8609756097560974'
+  miles_per_thirty: '2.817230769230769'
+  minutes: '975.0'
   name: Ziaire Williams
   team: BKN
 - avg_speed: '4.39'
@@ -949,13 +949,13 @@
   name: Jaden McDaniels
   team: MIN
 - avg_speed: '4.41'
-  games: '35'
+  games: '36'
   id: '1630208'
-  marathons: '2.296044852969221'
-  miles: '60.2'
-  miles_per_game: '1.72'
-  miles_per_thirty: '2.8145454545454545'
-  minutes: '770.0'
+  marathons: '2.322743048933979'
+  miles: '60.9'
+  miles_per_game: '1.6916666666666667'
+  miles_per_thirty: '2.814377406931964'
+  minutes: '779.0'
   name: Nick Richards
   team: PHX
 - avg_speed: '4.37'
@@ -978,16 +978,6 @@
   minutes: '1179.0'
   name: Patrick Williams
   team: CHI
-- avg_speed: '4.33'
-  games: '42'
-  id: '1630625'
-  marathons: '1.9871085853770167'
-  miles: '52.1'
-  miles_per_game: '1.2404761904761905'
-  miles_per_thirty: '2.811994002998501'
-  minutes: '667.0'
-  name: Dalano Banton
-  team: POR
 - avg_speed: '4.37'
   games: '30'
   id: '1631093'
@@ -998,6 +988,16 @@
   minutes: '898.0'
   name: Jaden Ivey
   team: DET
+- avg_speed: '4.33'
+  games: '43'
+  id: '1630625'
+  marathons: '2.021434837331706'
+  miles: '53.0'
+  miles_per_game: '1.2325581395348837'
+  miles_per_thirty: '2.8100147275405005'
+  minutes: '679.0'
+  name: Dalano Banton
+  team: POR
 - avg_speed: '4.34'
   games: '23'
   id: '1642272'
@@ -1008,14 +1008,24 @@
   minutes: '592.0'
   name: Jared McCain
   team: PHI
+- avg_speed: '4.34'
+  games: '42'
+  id: '1627747'
+  marathons: '3.0207101720126626'
+  miles: '79.2'
+  miles_per_game: '1.8857142857142857'
+  miles_per_thirty: '2.8090640394088675'
+  minutes: '1015.0'
+  name: Caris LeVert
+  team: ATL
 - avg_speed: '4.35'
-  games: '51'
+  games: '52'
   id: '1630175'
-  marathons: '2.6393073725161145'
-  miles: '69.2'
-  miles_per_game: '1.3568627450980393'
-  miles_per_thirty: '2.808568207440812'
-  minutes: '887.0'
+  marathons: '2.734658072390251'
+  miles: '71.7'
+  miles_per_game: '1.3788461538461538'
+  miles_per_thirty: '2.808705114254625'
+  minutes: '919.0'
   name: Cole Anthony
   team: ORL
 - avg_speed: '4.36'
@@ -1028,16 +1038,6 @@
   minutes: '855.0'
   name: Ronald Holland II
   team: DET
-- avg_speed: '4.33'
-  games: '44'
-  id: '1631217'
-  marathons: '2.4753041687325985'
-  miles: '64.9'
-  miles_per_game: '1.475'
-  miles_per_thirty: '2.808173076923077'
-  minutes: '832.0'
-  name: "Moussa Diabat\xE9"
-  team: CHA
 - avg_speed: '4.38'
   games: '50'
   id: '1641731'
@@ -1058,6 +1058,16 @@
   minutes: '577.0'
   name: Drew Eubanks
   team: LAC
+- avg_speed: '4.33'
+  games: '45'
+  id: '1631217'
+  marathons: '2.5630268126168048'
+  miles: '67.2'
+  miles_per_game: '1.4933333333333334'
+  miles_per_thirty: '2.806496519721578'
+  minutes: '862.0'
+  name: "Moussa Diabat\xE9"
+  team: CHA
 - avg_speed: '4.35'
   games: '46'
   id: '1628370'
@@ -1069,55 +1079,35 @@
   name: Malik Monk
   team: SAC
 - avg_speed: '4.37'
-  games: '44'
+  games: '45'
   id: '1630245'
-  marathons: '3.989473282733895'
-  miles: '104.6'
-  miles_per_game: '2.377272727272727'
-  miles_per_thirty: '2.8038719285182427'
-  minutes: '1343.0'
+  marathons: '4.073381898623135'
+  miles: '106.8'
+  miles_per_game: '2.373333333333333'
+  miles_per_thirty: '2.8043763676148794'
+  minutes: '1371.0'
   name: Ayo Dosunmu
   team: CHI
 - avg_speed: '4.36'
-  games: '52'
+  games: '53'
   id: '1630169'
-  marathons: '5.2481025210725045'
-  miles: '137.6'
-  miles_per_game: '2.646153846153846'
-  miles_per_thirty: '2.801809954751131'
-  minutes: '1768.0'
+  marathons: '5.347267248941606'
+  miles: '140.2'
+  miles_per_game: '2.645283018867924'
+  miles_per_thirty: '2.802443087173792'
+  minutes: '1801.0'
   name: Tyrese Haliburton
   team: IND
 - avg_speed: '4.35'
-  games: '52'
+  games: '53'
   id: '1641783'
-  marathons: '3.8407261909302415'
-  miles: '100.7'
-  miles_per_game: '1.9365384615384615'
-  miles_per_thirty: '2.8015455950540957'
-  minutes: '1294.0'
+  marathons: '3.8941225828597577'
+  miles: '102.1'
+  miles_per_game: '1.9264150943396225'
+  miles_per_thirty: '2.8015243902439027'
+  minutes: '1312.0'
   name: Tristan da Silva
   team: ORL
-- avg_speed: '4.33'
-  games: '41'
-  id: '1627747'
-  marathons: '2.9291735001334906'
-  miles: '76.8'
-  miles_per_game: '1.873170731707317'
-  miles_per_thirty: '2.8012158054711245'
-  minutes: '987.0'
-  name: Caris LeVert
-  team: ATL
-- avg_speed: '4.33'
-  games: '49'
-  id: '1629640'
-  marathons: '3.3677867195545215'
-  miles: '88.3'
-  miles_per_game: '1.8020408163265305'
-  miles_per_thirty: '2.8007048458149777'
-  minutes: '1135.0'
-  name: Keldon Johnson
-  team: SAS
 - avg_speed: '4.35'
   games: '20'
   id: '1630529'
@@ -1128,14 +1118,24 @@
   minutes: '648.0'
   name: Herbert Jones
   team: NOP
+- avg_speed: '4.33'
+  games: '50'
+  id: '1629640'
+  marathons: '3.4402532514588655'
+  miles: '90.2'
+  miles_per_game: '1.804'
+  miles_per_thirty: '2.7993103448275867'
+  minutes: '1160.0'
+  name: Keldon Johnson
+  team: SAS
 - avg_speed: '4.32'
-  games: '46'
+  games: '47'
   id: '1629645'
-  marathons: '2.5973530645714935'
-  miles: '68.1'
-  miles_per_game: '1.4804347826086954'
-  miles_per_thirty: '2.795438996579247'
-  minutes: '877.0'
+  marathons: '2.6431214005110797'
+  miles: '69.3'
+  miles_per_game: '1.474468085106383'
+  miles_per_thirty: '2.796860986547085'
+  minutes: '892.0'
   name: Kevin Porter Jr.
   team: MIL
 - avg_speed: '4.33'
@@ -1158,6 +1158,16 @@
   minutes: '1176.0'
   name: Davion Mitchell
   team: MIA
+- avg_speed: '4.39'
+  games: '53'
+  id: '203084'
+  marathons: '4.393760250200236'
+  miles: '115.2'
+  miles_per_game: '2.1735849056603773'
+  miles_per_thirty: '2.794609164420485'
+  minutes: '1484.0'
+  name: Harrison Barnes
+  team: SAS
 - avg_speed: '4.35'
   games: '45'
   id: '1627751'
@@ -1178,16 +1188,6 @@
   minutes: '1453.0'
   name: Scottie Barnes
   team: TOR
-- avg_speed: '4.39'
-  games: '52'
-  id: '203084'
-  marathons: '4.309851634310996'
-  miles: '113.0'
-  miles_per_game: '2.173076923076923'
-  miles_per_thirty: '2.7920384351407'
-  minutes: '1457.0'
-  name: Harrison Barnes
-  team: SAS
 - avg_speed: '4.34'
   games: '42'
   id: '1630702'
@@ -1198,16 +1198,6 @@
   minutes: '641.0'
   name: Jaden Hardy
   team: DAL
-- avg_speed: '4.32'
-  games: '39'
-  id: '1629611'
-  marathons: '2.196880125100118'
-  miles: '57.6'
-  miles_per_game: '1.476923076923077'
-  miles_per_thirty: '2.7908479138627187'
-  minutes: '743.0'
-  name: Terance Mann
-  team: ATL
 - avg_speed: '4.37'
   games: '47'
   id: '201144'
@@ -1218,6 +1208,16 @@
   minutes: '1179.0'
   name: Mike Conley
   team: MIN
+- avg_speed: '4.33'
+  games: '40'
+  id: '1629611'
+  marathons: '2.261718601014531'
+  miles: '59.3'
+  miles_per_game: '1.4825'
+  miles_per_thirty: '2.7905882352941176'
+  minutes: '765.0'
+  name: Terance Mann
+  team: ATL
 - avg_speed: '4.35'
   games: '51'
   id: '1629655'
@@ -1289,25 +1289,15 @@
   name: Jonathan Mogbo
   team: TOR
 - avg_speed: '4.32'
-  games: '51'
+  games: '52'
   id: '1629656'
-  marathons: '3.539417979327968'
-  miles: '92.8'
-  miles_per_game: '1.8196078431372549'
-  miles_per_thirty: '2.7816819317235635'
-  minutes: '1201.0'
+  marathons: '3.634768679202105'
+  miles: '95.3'
+  miles_per_game: '1.8326923076923076'
+  miles_per_thirty: '2.7802269043760126'
+  minutes: '1234.0'
   name: Quentin Grimes
   team: PHI
-- avg_speed: '4.29'
-  games: '32'
-  id: '1630549'
-  marathons: '1.6324039818452265'
-  miles: '42.8'
-  miles_per_game: '1.3375'
-  miles_per_thirty: '2.7812274368231047'
-  minutes: '554.0'
-  name: Day'Ron Sharpe
-  team: BKN
 - avg_speed: '4.33'
   games: '52'
   id: '1631108'
@@ -1318,44 +1308,34 @@
   minutes: '1361.0'
   name: Max Christie
   team: DAL
-- avg_speed: '4.3'
-  games: '54'
+- avg_speed: '4.29'
+  games: '33'
+  id: '1630549'
+  marathons: '1.6896144017697088'
+  miles: '44.3'
+  miles_per_game: '1.3424242424242423'
+  miles_per_thirty: '2.778397212543554'
+  minutes: '574.0'
+  name: Day'Ron Sharpe
+  team: BKN
+- avg_speed: '4.29'
+  games: '55'
   id: '1627777'
-  marathons: '3.348716579579694'
-  miles: '87.8'
-  miles_per_game: '1.6259259259259258'
-  miles_per_thirty: '2.779947229551451'
-  minutes: '1137.0'
+  marathons: '3.4249971394790033'
+  miles: '89.8'
+  miles_per_game: '1.6327272727272726'
+  miles_per_thirty: '2.777319587628866'
+  minutes: '1164.0'
   name: Georges Niang
   team: ATL
-- avg_speed: '4.31'
-  games: '48'
-  id: '1626166'
-  marathons: '2.055761089286395'
-  miles: '53.9'
-  miles_per_game: '1.1229166666666666'
-  miles_per_thirty: '2.7759656652360514'
-  minutes: '699.0'
-  name: Cameron Payne
-  team: NYK
-- avg_speed: '4.31'
-  games: '54'
-  id: '1628969'
-  marathons: '6.0604904840001526'
-  miles: '158.9'
-  miles_per_game: '2.9425925925925926'
-  miles_per_thirty: '2.7755458515283844'
-  minutes: '2061.0'
-  name: Mikal Bridges
-  team: NYK
-- avg_speed: '4.31'
-  games: '40'
+- avg_speed: '4.32'
+  games: '41'
   id: '1641744'
-  marathons: '2.425721804798047'
-  miles: '63.6'
-  miles_per_game: '1.59'
-  miles_per_thirty: '2.7752727272727276'
-  minutes: '825.0'
+  marathons: '2.4905602807124603'
+  miles: '65.3'
+  miles_per_game: '1.5926829268292682'
+  miles_per_thirty: '2.7754427390791028'
+  minutes: '847.0'
   name: Zach Edey
   team: MEM
 - avg_speed: '4.28'
@@ -1368,6 +1348,16 @@
   minutes: '1073.0'
   name: John Collins
   team: UTA
+- avg_speed: '4.31'
+  games: '55'
+  id: '1628969'
+  marathons: '6.186353407834013'
+  miles: '162.2'
+  miles_per_game: '2.9490909090909088'
+  miles_per_thirty: '2.7739667458432304'
+  minutes: '2105.0'
+  name: Mikal Bridges
+  team: NYK
 - avg_speed: '4.29'
   games: '40'
   id: '1628978'
@@ -1378,14 +1368,34 @@
   minutes: '1057.0'
   name: Donte DiVincenzo
   team: MIN
+- avg_speed: '4.31'
+  games: '49'
+  id: '1626166'
+  marathons: '2.1053434532209465'
+  miles: '55.2'
+  miles_per_game: '1.126530612244898'
+  miles_per_thirty: '2.7715481171548118'
+  minutes: '717.0'
+  name: Cameron Payne
+  team: NYK
+- avg_speed: '4.26'
+  games: '50'
+  id: '1628371'
+  marathons: '2.4219077768030814'
+  miles: '63.5'
+  miles_per_game: '1.27'
+  miles_per_thirty: '2.7709090909090905'
+  minutes: '825.0'
+  name: Jonathan Isaac
+  team: ORL
 - avg_speed: '4.28'
-  games: '43'
+  games: '44'
   id: '1628960'
-  marathons: '3.1542011518364546'
-  miles: '82.7'
-  miles_per_game: '1.9232558139534885'
-  miles_per_thirty: '2.7720670391061453'
-  minutes: '1074.0'
+  marathons: '3.2495518517105917'
+  miles: '85.2'
+  miles_per_game: '1.9363636363636365'
+  miles_per_thirty: '2.7707317073170734'
+  minutes: '1107.0'
   name: Grayson Allen
   team: PHX
 - avg_speed: '4.31'
@@ -1398,16 +1408,16 @@
   minutes: '1828.0'
   name: Jalen Green
   team: HOU
-- avg_speed: '4.26'
-  games: '49'
-  id: '1628371'
-  marathons: '2.3875815248483923'
-  miles: '62.6'
-  miles_per_game: '1.2775510204081633'
-  miles_per_thirty: '2.7685503685503687'
-  minutes: '814.0'
-  name: Jonathan Isaac
-  team: ORL
+- avg_speed: '4.38'
+  games: '55'
+  id: '1631128'
+  marathons: '5.332011136961746'
+  miles: '139.8'
+  miles_per_game: '2.541818181818182'
+  miles_per_thirty: '2.7683168316831686'
+  minutes: '1818.0'
+  name: Christian Braun
+  team: DEN
 - avg_speed: '4.28'
   games: '44'
   id: '1626168'
@@ -1418,16 +1428,16 @@
   minutes: '826.0'
   name: Trey Lyles
   team: SAC
-- avg_speed: '4.38'
-  games: '54'
-  id: '1631128'
-  marathons: '5.232846409092642'
-  miles: '137.2'
-  miles_per_game: '2.5407407407407407'
-  miles_per_thirty: '2.767058823529412'
-  minutes: '1785.0'
-  name: Christian Braun
-  team: DEN
+- avg_speed: '4.27'
+  games: '51'
+  id: '1641716'
+  marathons: '2.433349860787978'
+  miles: '63.8'
+  miles_per_game: '1.2509803921568627'
+  miles_per_thirty: '2.7672289156626504'
+  minutes: '830.0'
+  name: Jarace Walker
+  team: IND
 - avg_speed: '4.27'
   games: '43'
   id: '1642271'
@@ -1438,16 +1448,6 @@
   minutes: '794.0'
   name: Kyle Filipowski
   team: UTA
-- avg_speed: '4.32'
-  games: '30'
-  id: '1628366'
-  marathons: '1.895571913497845'
-  miles: '49.7'
-  miles_per_game: '1.6566666666666667'
-  miles_per_thirty: '2.7653786707882535'
-  minutes: '647.0'
-  name: Lonzo Ball
-  team: CHI
 - avg_speed: '4.25'
   games: '30'
   id: '1629021'
@@ -1459,13 +1459,13 @@
   name: Moritz Wagner
   team: ORL
 - avg_speed: '4.31'
-  games: '36'
+  games: '37'
   id: '1628398'
-  marathons: '2.986383920057973'
-  miles: '78.3'
-  miles_per_game: '2.175'
-  miles_per_thirty: '2.763529411764706'
-  minutes: '1020.0'
+  marathons: '3.0969907319119723'
+  miles: '81.2'
+  miles_per_game: '2.194594594594595'
+  miles_per_thirty: '2.7629489603024577'
+  minutes: '1058.0'
   name: Kyle Kuzma
   team: MIL
 - avg_speed: '4.27'
@@ -1479,25 +1479,15 @@
   name: Zion Williamson
   team: NOP
 - avg_speed: '4.27'
-  games: '50'
-  id: '1641716'
-  marathons: '2.425721804798047'
-  miles: '63.6'
-  miles_per_game: '1.272'
-  miles_per_thirty: '2.761881785283474'
-  minutes: '829.0'
-  name: Jarace Walker
-  team: IND
-- avg_speed: '4.27'
   games: '46'
-  id: '1630178'
-  marathons: '5.1146115412487125'
-  miles: '134.1'
-  miles_per_game: '2.9152173913043478'
-  miles_per_thirty: '2.7617848970251715'
-  minutes: '1748.0'
-  name: Tyrese Maxey
-  team: PHI
+  id: '1629216'
+  marathons: '2.7270300164003203'
+  miles: '71.5'
+  miles_per_game: '1.5543478260869565'
+  miles_per_thirty: '2.761802575107296'
+  minutes: '932.0'
+  name: Gabe Vincent
+  team: LAL
 - avg_speed: '4.29'
   games: '41'
   id: '1631117'
@@ -1508,36 +1498,46 @@
   minutes: '1245.0'
   name: Walker Kessler
   team: UTA
-- avg_speed: '4.27'
-  games: '44'
-  id: '1629216'
-  marathons: '2.620237232541287'
-  miles: '68.7'
-  miles_per_game: '1.5613636363636365'
-  miles_per_thirty: '2.7602678571428574'
-  minutes: '896.0'
-  name: Gabe Vincent
-  team: LAL
 - avg_speed: '4.29'
-  games: '49'
+  games: '51'
   id: '1642261'
-  marathons: '2.9558716960982494'
-  miles: '77.5'
-  miles_per_game: '1.5816326530612246'
-  miles_per_thirty: '2.7596439169139466'
-  minutes: '1011.0'
+  marathons: '3.0321522559975587'
+  miles: '79.5'
+  miles_per_game: '1.5588235294117647'
+  miles_per_thirty: '2.759884281581485'
+  minutes: '1037.0'
   name: Dalton Knecht
   team: LAL
+- avg_speed: '4.31'
+  games: '31'
+  id: '1628366'
+  marathons: '1.9794805293870856'
+  miles: '51.9'
+  miles_per_game: '1.6741935483870967'
+  miles_per_thirty: '2.7598227474150665'
+  minutes: '677.0'
+  name: Lonzo Ball
+  team: CHI
 - avg_speed: '4.35'
-  games: '55'
+  games: '56'
   id: '1631124'
-  marathons: '3.63095465120714'
-  miles: '95.2'
-  miles_per_game: '1.730909090909091'
-  miles_per_thirty: '2.7594202898550724'
-  minutes: '1242.0'
+  marathons: '3.695793127121553'
+  miles: '96.9'
+  miles_per_game: '1.730357142857143'
+  miles_per_thirty: '2.7598101265822788'
+  minutes: '1264.0'
   name: Julian Strawther
   team: DEN
+- avg_speed: '4.27'
+  games: '47'
+  id: '1630178'
+  marathons: '5.20996224112285'
+  miles: '136.6'
+  miles_per_game: '2.9063829787234043'
+  miles_per_thirty: '2.759595959595959'
+  minutes: '1782.0'
+  name: Tyrese Maxey
+  team: PHI
 - avg_speed: '4.26'
   games: '40'
   id: '1628420'
@@ -1548,14 +1548,24 @@
   minutes: '522.0'
   name: "Mont\xE9 Morris"
   team: PHX
+- avg_speed: '4.29'
+  games: '52'
+  id: '1627884'
+  marathons: '3.7415614630611387'
+  miles: '98.1'
+  miles_per_game: '1.8865384615384615'
+  miles_per_thirty: '2.754758190327613'
+  minutes: '1282.0'
+  name: Derrick Jones Jr.
+  team: LAC
 - avg_speed: '4.27'
-  games: '39'
+  games: '40'
   id: '1629661'
-  marathons: '3.627140623212174'
-  miles: '95.1'
-  miles_per_game: '2.4384615384615382'
-  miles_per_thirty: '2.7543041029766693'
-  minutes: '1243.0'
+  marathons: '3.7110492391014147'
+  miles: '97.3'
+  miles_per_game: '2.4325'
+  miles_per_thirty: '2.75377358490566'
+  minutes: '1272.0'
   name: Cameron Johnson
   team: BKN
 - avg_speed: '4.31'
@@ -1568,16 +1578,6 @@
   minutes: '578.0'
   name: Kyle Anderson
   team: MIA
-- avg_speed: '4.29'
-  games: '51'
-  id: '1627884'
-  marathons: '3.680537015141691'
-  miles: '96.5'
-  miles_per_game: '1.892156862745098'
-  miles_per_thirty: '2.752773375594295'
-  minutes: '1262.0'
-  name: Derrick Jones Jr.
-  team: LAC
 - avg_speed: '4.26'
   games: '40'
   id: '1628374'
@@ -1588,6 +1588,16 @@
   minutes: '1287.0'
   name: Lauri Markkanen
   team: UTA
+- avg_speed: '4.29'
+  games: '52'
+  id: '1631097'
+  marathons: '4.756092909721957'
+  miles: '124.7'
+  miles_per_game: '2.398076923076923'
+  miles_per_thirty: '2.7524218270999388'
+  minutes: '1631.0'
+  name: Bennedict Mathurin
+  team: IND
 - avg_speed: '4.26'
   games: '30'
   id: '203903'
@@ -1598,26 +1608,26 @@
   minutes: '790.0'
   name: Jordan Clarkson
   team: UTA
-- avg_speed: '4.31'
+- avg_speed: '4.23'
   games: '53'
+  id: '201587'
+  marathons: '2.669819596475838'
+  miles: '70.0'
+  miles_per_game: '1.320754716981132'
+  miles_per_thirty: '2.7510917030567685'
+  minutes: '916.0'
+  name: Nicolas Batum
+  team: LAC
+- avg_speed: '4.31'
+  games: '54'
   id: '1626145'
-  marathons: '4.57683359395858'
-  miles: '120.0'
-  miles_per_game: '2.2641509433962264'
-  miles_per_thirty: '2.751592356687898'
-  minutes: '1570.0'
+  marathons: '4.6416720698729925'
+  miles: '121.7'
+  miles_per_game: '2.2537037037037035'
+  miles_per_thirty: '2.7502824858757062'
+  minutes: '1593.0'
   name: Tyus Jones
   team: PHX
-- avg_speed: '4.29'
-  games: '51'
-  id: '1631097'
-  marathons: '4.683626377817613'
-  miles: '122.8'
-  miles_per_game: '2.407843137254902'
-  miles_per_thirty: '2.75096453018046'
-  minutes: '1607.0'
-  name: Bennedict Mathurin
-  team: IND
 - avg_speed: '4.26'
   games: '41'
   id: '1642345'
@@ -1638,16 +1648,6 @@
   minutes: '993.0'
   name: Brandon Boston
   team: NOP
-- avg_speed: '4.23'
-  games: '52'
-  id: '201587'
-  marathons: '2.631679316526183'
-  miles: '69.0'
-  miles_per_game: '1.3269230769230769'
-  miles_per_thirty: '2.747787610619469'
-  minutes: '904.0'
-  name: Nicolas Batum
-  team: LAC
 - avg_speed: '4.31'
   games: '50'
   id: '1630595'
@@ -1668,16 +1668,26 @@
   minutes: '1065.0'
   name: Isaiah Collier
   team: UTA
-- avg_speed: '4.26'
-  games: '33'
-  id: '1630173'
-  marathons: '2.1015294252259813'
-  miles: '55.1'
-  miles_per_game: '1.6696969696969697'
-  miles_per_thirty: '2.7435684647302905'
-  minutes: '723.0'
-  name: Precious Achiuwa
-  team: NYK
+- avg_speed: '4.28'
+  games: '52'
+  id: '1629014'
+  marathons: '4.893397917540715'
+  miles: '128.3'
+  miles_per_game: '2.4673076923076924'
+  miles_per_thirty: '2.744385026737968'
+  minutes: '1683.0'
+  name: Anfernee Simons
+  team: POR
+- avg_speed: '4.28'
+  games: '38'
+  id: '1630170'
+  marathons: '3.3754147755444524'
+  miles: '88.5'
+  miles_per_game: '2.3289473684210527'
+  miles_per_thirty: '2.744186046511628'
+  minutes: '1161.0'
+  name: Devin Vassell
+  team: SAS
 - avg_speed: '4.22'
   games: '36'
   id: '1631106'
@@ -1698,16 +1708,16 @@
   minutes: '853.0'
   name: Noah Clowney
   team: BKN
-- avg_speed: '4.27'
+- avg_speed: '4.25'
   games: '51'
-  id: '1629014'
-  marathons: '4.805675273656508'
-  miles: '126.0'
-  miles_per_game: '2.4705882352941178'
-  miles_per_thirty: '2.742442563482467'
-  minutes: '1654.0'
-  name: Anfernee Simons
-  team: POR
+  id: '1629660'
+  marathons: '2.8261947442694226'
+  miles: '74.1'
+  miles_per_game: '1.4529411764705882'
+  miles_per_thirty: '2.7416238437821168'
+  minutes: '973.0'
+  name: Ty Jerome
+  team: CLE
 - avg_speed: '4.28'
   games: '48'
   id: '203897'
@@ -1738,6 +1748,26 @@
   minutes: '1449.0'
   name: Stephen Curry
   team: GSW
+- avg_speed: '4.23'
+  games: '43'
+  id: '1629003'
+  marathons: '1.9565963614172925'
+  miles: '51.3'
+  miles_per_game: '1.1930232558139535'
+  miles_per_thirty: '2.740059347181009'
+  minutes: '674.0'
+  name: Shake Milton
+  team: LAL
+- avg_speed: '4.25'
+  games: '50'
+  id: '1628368'
+  marathons: '5.347267248941606'
+  miles: '140.2'
+  miles_per_game: '2.804'
+  miles_per_thirty: '2.7385784047748234'
+  minutes: '1843.0'
+  name: De'Aaron Fox
+  team: SAS
 - avg_speed: '4.26'
   games: '31'
   id: '1629629'
@@ -1748,66 +1778,16 @@
   minutes: '560.0'
   name: Cam Reddish
   team: LAL
-- avg_speed: '4.25'
+- avg_speed: '4.24'
   games: '49'
-  id: '1628368'
-  marathons: '5.236660437087608'
-  miles: '137.3'
-  miles_per_game: '2.8020408163265307'
-  miles_per_thirty: '2.7383933518005543'
-  minutes: '1805.0'
-  name: De'Aaron Fox
-  team: SAS
-- avg_speed: '4.27'
-  games: '37'
-  id: '1630170'
-  marathons: '3.2724360196803843'
-  miles: '85.8'
-  miles_per_game: '2.3189189189189188'
-  miles_per_thirty: '2.7382978723404254'
-  minutes: '1128.0'
-  name: Devin Vassell
-  team: SAS
-- avg_speed: '4.25'
-  games: '48'
   id: '1630596'
-  marathons: '4.180174682482169'
-  miles: '109.6'
-  miles_per_game: '2.283333333333333'
-  miles_per_thirty: '2.7380985426786952'
-  minutes: '1441.0'
+  marathons: '4.267897326366375'
+  miles: '111.9'
+  miles_per_game: '2.283673469387755'
+  miles_per_thirty: '2.736684782608696'
+  minutes: '1472.0'
   name: Evan Mobley
   team: CLE
-- avg_speed: '4.24'
-  games: '50'
-  id: '1629660'
-  marathons: '2.772798352339906'
-  miles: '72.7'
-  miles_per_game: '1.454'
-  miles_per_thirty: '2.73765690376569'
-  minutes: '956.0'
-  name: Ty Jerome
-  team: CLE
-- avg_speed: '4.25'
-  games: '53'
-  id: '1628973'
-  marathons: '5.408291696861055'
-  miles: '141.8'
-  miles_per_game: '2.6754716981132076'
-  miles_per_thirty: '2.7371581769437'
-  minutes: '1865.0'
-  name: Jalen Brunson
-  team: NYK
-- avg_speed: '4.23'
-  games: '42'
-  id: '1629003'
-  marathons: '1.9413402494374308'
-  miles: '50.9'
-  miles_per_game: '1.2119047619047618'
-  miles_per_thirty: '2.7349253731343284'
-  minutes: '670.0'
-  name: Shake Milton
-  team: LAL
 - avg_speed: '4.27'
   games: '46'
   id: '1626171'
@@ -1818,46 +1798,46 @@
   minutes: '1160.0'
   name: Bobby Portis
   team: MIL
+- avg_speed: '4.25'
+  games: '54'
+  id: '1628973'
+  marathons: '5.515084480720088'
+  miles: '144.6'
+  miles_per_game: '2.6777777777777776'
+  miles_per_thirty: '2.7340336134453778'
+  minutes: '1904.0'
+  name: Jalen Brunson
+  team: NYK
+- avg_speed: '4.25'
+  games: '34'
+  id: '1630173'
+  marathons: '2.227392349059842'
+  miles: '58.4'
+  miles_per_game: '1.7176470588235293'
+  miles_per_thirty: '2.7339401820546163'
+  minutes: '769.0'
+  name: Precious Achiuwa
+  team: NYK
 - avg_speed: '4.24'
-  games: '41'
-  id: '1642270'
-  marathons: '1.9337121934475'
-  miles: '50.7'
-  miles_per_game: '1.2365853658536585'
-  miles_per_thirty: '2.7323353293413177'
-  minutes: '668.0'
-  name: Donovan Clingan
-  team: POR
-- avg_speed: '4.24'
-  games: '48'
+  games: '49'
   id: '1626220'
-  marathons: '3.5890003432625193'
-  miles: '94.1'
-  miles_per_game: '1.9604166666666665'
-  miles_per_thirty: '2.7319354838709677'
-  minutes: '1240.0'
+  marathons: '3.695793127121553'
+  miles: '96.9'
+  miles_per_game: '1.9775510204081634'
+  miles_per_thirty: '2.7338557993730412'
+  minutes: '1276.0'
   name: Royce O'Neale
   team: PHX
 - avg_speed: '4.26'
-  games: '52'
+  games: '53'
   id: '1629636'
-  marathons: '4.546321369998855'
-  miles: '119.2'
-  miles_per_game: '2.292307692307692'
-  miles_per_thirty: '2.7315085932527055'
-  minutes: '1571.0'
+  marathons: '4.630229985888096'
+  miles: '121.4'
+  miles_per_game: '2.290566037735849'
+  miles_per_thirty: '2.7315'
+  minutes: '1600.0'
   name: Darius Garland
   team: CLE
-- avg_speed: '4.23'
-  games: '37'
-  id: '1627827'
-  marathons: '2.9139173881536293'
-  miles: '76.4'
-  miles_per_game: '2.064864864864865'
-  miles_per_thirty: '2.731281032770606'
-  minutes: '1007.0'
-  name: Dorian Finney-Smith
-  team: LAL
 - avg_speed: '4.26'
   games: '52'
   id: '1642274'
@@ -1878,16 +1858,46 @@
   minutes: '595.0'
   name: Justin Edwards
   team: PHI
+- avg_speed: '4.23'
+  games: '42'
+  id: '1642270'
+  marathons: '1.9794805293870856'
+  miles: '51.9'
+  miles_per_game: '1.2357142857142858'
+  miles_per_thirty: '2.7275912408759124'
+  minutes: '685.0'
+  name: Donovan Clingan
+  team: POR
+- avg_speed: '4.22'
+  games: '39'
+  id: '1627827'
+  marathons: '3.0855486479270757'
+  miles: '80.9'
+  miles_per_game: '2.0743589743589745'
+  miles_per_thirty: '2.726966292134832'
+  minutes: '1068.0'
+  name: Dorian Finney-Smith
+  team: LAL
 - avg_speed: '4.25'
-  games: '51'
+  games: '52'
   id: '1642264'
-  marathons: '3.760631603035966'
-  miles: '98.6'
-  miles_per_game: '1.9333333333333331'
-  miles_per_thirty: '2.724174980813507'
-  minutes: '1303.0'
+  marathons: '3.8369121629352754'
+  miles: '100.6'
+  miles_per_game: '1.9346153846153844'
+  miles_per_thirty: '2.7250564334085774'
+  minutes: '1329.0'
   name: Stephon Castle
   team: SAS
+- avg_speed: '4.25'
+  games: '47'
+  id: '1629060'
+  marathons: '4.3632480262405124'
+  miles: '114.4'
+  miles_per_game: '2.4340425531914893'
+  miles_per_thirty: '2.723809523809524'
+  minutes: '1512.0'
+  name: Rui Hachimura
+  team: LAL
 - avg_speed: '4.24'
   games: '23'
   id: '203114'
@@ -1918,24 +1928,14 @@
   minutes: '624.0'
   name: Kenrich Williams
   team: OKC
-- avg_speed: '4.25'
-  games: '45'
-  id: '1629060'
-  marathons: '4.14584843052748'
-  miles: '108.7'
-  miles_per_game: '2.4155555555555557'
-  miles_per_thirty: '2.7212795549374134'
-  minutes: '1438.0'
-  name: Rui Hachimura
-  team: LAL
-- avg_speed: '4.22'
-  games: '52'
+- avg_speed: '4.23'
+  games: '53'
   id: '1630166'
-  marathons: '4.294595522331133'
-  miles: '112.6'
-  miles_per_game: '2.1653846153846152'
-  miles_per_thirty: '2.7205369127516774'
-  minutes: '1490.0'
+  marathons: '4.393760250200236'
+  miles: '115.2'
+  miles_per_game: '2.1735849056603773'
+  miles_per_thirty: '2.7230466185160864'
+  minutes: '1523.0'
   name: Deni Avdija
   team: POR
 - avg_speed: '4.26'
@@ -1948,16 +1948,6 @@
   minutes: '1337.0'
   name: Jalen Duren
   team: DET
-- avg_speed: '4.23'
-  games: '48'
-  id: '1629632'
-  marathons: '4.50055303405927'
-  miles: '118.0'
-  miles_per_game: '2.4583333333333335'
-  miles_per_thirty: '2.7178502879078694'
-  minutes: '1563.0'
-  name: Coby White
-  team: CHI
 - avg_speed: '4.33'
   games: '48'
   id: '1631212'
@@ -1968,16 +1958,26 @@
   minutes: '1158.0'
   name: Peyton Watson
   team: DEN
+- avg_speed: '4.22'
+  games: '49'
+  id: '1629632'
+  marathons: '4.611159845913269'
+  miles: '120.9'
+  miles_per_game: '2.4673469387755103'
+  miles_per_thirty: '2.7134663341645884'
+  minutes: '1604.0'
+  name: Coby White
+  team: CHI
 - avg_speed: '4.2'
   games: '48'
-  id: '1630168'
-  marathons: '3.516533811358175'
-  miles: '92.2'
-  miles_per_game: '1.9208333333333334'
-  miles_per_thirty: '2.7095510204081634'
-  minutes: '1225.0'
-  name: Onyeka Okongwu
-  team: ATL
+  id: '1629651'
+  marathons: '3.665280903161829'
+  miles: '96.1'
+  miles_per_game: '2.002083333333333'
+  miles_per_thirty: '2.7091620986687546'
+  minutes: '1277.0'
+  name: Nic Claxton
+  team: BKN
 - avg_speed: '4.21'
   games: '39'
   id: '1630530'
@@ -1989,15 +1989,15 @@
   name: Trey Murphy III
   team: NOP
 - avg_speed: '4.2'
-  games: '47'
-  id: '1629651'
-  marathons: '3.581372287272589'
-  miles: '93.9'
-  miles_per_game: '1.997872340425532'
-  miles_per_thirty: '2.7064851881505207'
-  minutes: '1249.0'
-  name: Nic Claxton
-  team: BKN
+  games: '49'
+  id: '1630168'
+  marathons: '3.6004424272474163'
+  miles: '94.4'
+  miles_per_game: '1.926530612244898'
+  miles_per_thirty: '2.70788844621514'
+  minutes: '1255.0'
+  name: Onyeka Okongwu
+  team: ATL
 - avg_speed: '4.22'
   games: '51'
   id: '1627734'
@@ -2008,6 +2008,16 @@
   minutes: '1841.0'
   name: Domantas Sabonis
   team: SAC
+- avg_speed: '4.18'
+  games: '52'
+  id: '1626162'
+  marathons: '5.171821961173195'
+  miles: '135.6'
+  miles_per_game: '2.6076923076923078'
+  miles_per_thirty: '2.704487534626039'
+  minutes: '1805.0'
+  name: Kelly Oubre Jr.
+  team: PHI
 - avg_speed: '4.22'
   games: '33'
   id: '1631095'
@@ -2018,36 +2028,26 @@
   minutes: '1021.0'
   name: Jabari Smith Jr.
   team: HOU
-- avg_speed: '4.18'
-  games: '51'
-  id: '1626162'
-  marathons: '5.068843205309127'
-  miles: '132.9'
-  miles_per_game: '2.6058823529411765'
-  miles_per_thirty: '2.7030508474576274'
-  minutes: '1770.0'
-  name: Kelly Oubre Jr.
-  team: PHI
-- avg_speed: '4.18'
-  games: '52'
-  id: '1628991'
-  marathons: '4.431900530149891'
-  miles: '116.2'
-  miles_per_game: '2.2346153846153847'
-  miles_per_thirty: '2.702325581395349'
-  minutes: '1548.0'
-  name: Jaren Jackson Jr.
-  team: MEM
 - avg_speed: '4.21'
-  games: '47'
+  games: '48'
   id: '1631101'
-  marathons: '4.058125786643274'
-  miles: '106.4'
-  miles_per_game: '2.2638297872340427'
-  miles_per_thirty: '2.701269393511989'
-  minutes: '1418.0'
+  marathons: '4.122964262557686'
+  miles: '108.1'
+  miles_per_game: '2.252083333333333'
+  miles_per_thirty: '2.704378040305768'
+  minutes: '1439.0'
   name: Shaedon Sharpe
   team: POR
+- avg_speed: '4.17'
+  games: '53'
+  id: '1628991'
+  marathons: '4.515809146039132'
+  miles: '118.4'
+  miles_per_game: '2.2339622641509433'
+  miles_per_thirty: '2.7011406844106465'
+  minutes: '1578.0'
+  name: Jaren Jackson Jr.
+  team: MEM
 - avg_speed: '4.21'
   games: '36'
   id: '203995'
@@ -2078,16 +2078,16 @@
   minutes: '1323.0'
   name: Andrew Wiggins
   team: MIA
-- avg_speed: '4.2'
-  games: '38'
-  id: '1628970'
-  marathons: '3.489835615393417'
-  miles: '91.5'
-  miles_per_game: '2.4078947368421053'
-  miles_per_thirty: '2.6977886977886976'
-  minutes: '1221.0'
-  name: Miles Bridges
-  team: CHA
+- avg_speed: '4.15'
+  games: '40'
+  id: '1629631'
+  marathons: '3.2571799077005226'
+  miles: '85.4'
+  miles_per_game: '2.1350000000000002'
+  miles_per_thirty: '2.696842105263158'
+  minutes: '1140.0'
+  name: De'Andre Hunter
+  team: CLE
 - avg_speed: '4.17'
   games: '27'
   id: '1641706'
@@ -2098,26 +2098,16 @@
   minutes: '924.0'
   name: Brandon Miller
   team: CHA
-- avg_speed: '4.15'
-  games: '39'
-  id: '1629631'
-  marathons: '3.180899347801213'
-  miles: '83.4'
-  miles_per_game: '2.1384615384615384'
-  miles_per_thirty: '2.6951526032315978'
-  minutes: '1114.0'
-  name: De'Andre Hunter
-  team: CLE
 - avg_speed: '4.2'
-  games: '46'
-  id: '1626167'
-  marathons: '4.016171478698653'
-  miles: '105.3'
-  miles_per_game: '2.2891304347826087'
-  miles_per_thirty: '2.6942430703624733'
-  minutes: '1407.0'
-  name: Myles Turner
-  team: IND
+  games: '40'
+  id: '1628970'
+  marathons: '3.6767229871467255'
+  miles: '96.4'
+  miles_per_game: '2.41'
+  miles_per_thirty: '2.694409937888199'
+  minutes: '1288.0'
+  name: Miles Bridges
+  team: CHA
 - avg_speed: '4.2'
   games: '24'
   id: '1627763'
@@ -2128,6 +2118,16 @@
   minutes: '564.0'
   name: Malcolm Brogdon
   team: WAS
+- avg_speed: '4.2'
+  games: '47'
+  id: '1626167'
+  marathons: '4.1077081505778255'
+  miles: '107.7'
+  miles_per_game: '2.2914893617021277'
+  miles_per_thirty: '2.6925000000000003'
+  minutes: '1440.0'
+  name: Myles Turner
+  team: IND
 - avg_speed: '4.2'
   games: '48'
   id: '1626172'
@@ -2148,34 +2148,34 @@
   minutes: '1069.0'
   name: Naji Marshall
   team: DAL
-- avg_speed: '4.19'
-  games: '44'
-  id: '203552'
-  marathons: '1.792593157633777'
-  miles: '47.0'
-  miles_per_game: '1.0681818181818181'
-  miles_per_thirty: '2.689984101748808'
-  minutes: '629.0'
-  name: Seth Curry
-  team: CHA
 - avg_speed: '4.23'
-  games: '53'
+  games: '54'
   id: '1630202'
-  marathons: '4.214500934436859'
-  miles: '110.5'
-  miles_per_game: '2.0849056603773586'
-  miles_per_thirty: '2.689655172413793'
-  minutes: '1479.0'
+  marathons: '4.3022235783210645'
+  miles: '112.8'
+  miles_per_game: '2.088888888888889'
+  miles_per_thirty: '2.6892715231788076'
+  minutes: '1510.0'
   name: Payton Pritchard
   team: BOS
+- avg_speed: '4.19'
+  games: '46'
+  id: '203552'
+  marathons: '1.8765017735230176'
+  miles: '49.2'
+  miles_per_game: '1.0695652173913044'
+  miles_per_thirty: '2.687708649468892'
+  minutes: '659.0'
+  name: Seth Curry
+  team: CHA
 - avg_speed: '4.15'
-  games: '51'
+  games: '52'
   id: '1627824'
-  marathons: '3.863610358900034'
-  miles: '101.3'
-  miles_per_game: '1.9862745098039216'
-  miles_per_thirty: '2.6893805309734513'
-  minutes: '1356.0'
+  marathons: '3.9322628628094125'
+  miles: '103.1'
+  miles_per_game: '1.9826923076923075'
+  miles_per_thirty: '2.6876176683562636'
+  minutes: '1381.0'
   name: Guerschon Yabusele
   team: PHI
 - avg_speed: '4.19'
@@ -2198,24 +2198,24 @@
   minutes: '895.0'
   name: Jimmy Butler III
   team: GSW
-- avg_speed: '4.16'
-  games: '37'
+- avg_speed: '4.17'
+  games: '38'
   id: '203078'
-  marathons: '3.4021129715092107'
-  miles: '89.2'
-  miles_per_game: '2.410810810810811'
-  miles_per_thirty: '2.6827067669172937'
-  minutes: '1197.0'
+  marathons: '3.501277699378313'
+  miles: '91.8'
+  miles_per_game: '2.4157894736842103'
+  miles_per_thirty: '2.6868292682926826'
+  minutes: '1230.0'
   name: Bradley Beal
   team: PHX
 - avg_speed: '4.17'
-  games: '53'
+  games: '54'
   id: '1627783'
-  marathons: '5.004004729394713'
-  miles: '131.2'
-  miles_per_game: '2.4754716981132074'
-  miles_per_thirty: '2.682112436115843'
-  minutes: '1761.0'
+  marathons: '5.084099317288989'
+  miles: '133.3'
+  miles_per_game: '2.468518518518519'
+  miles_per_thirty: '2.682392397987703'
+  minutes: '1789.0'
   name: Pascal Siakam
   team: IND
 - avg_speed: '4.17'
@@ -2228,14 +2228,24 @@
   minutes: '502.0'
   name: Alec Burks
   team: MIA
+- avg_speed: '4.16'
+  games: '46'
+  id: '1626156'
+  marathons: '3.3296464396048666'
+  miles: '87.3'
+  miles_per_game: '1.8978260869565218'
+  miles_per_thirty: '2.681569965870307'
+  minutes: '1172.0'
+  name: D'Angelo Russell
+  team: BKN
 - avg_speed: '4.18'
-  games: '47'
+  games: '49'
   id: '1630559'
-  marathons: '4.6416720698729925'
-  miles: '121.7'
-  miles_per_game: '2.58936170212766'
-  miles_per_thirty: '2.681272949816402'
-  minutes: '1634.0'
+  marathons: '4.832373469621267'
+  miles: '126.7'
+  miles_per_game: '2.585714285714286'
+  miles_per_thirty: '2.6814814814814816'
+  minutes: '1701.0'
   name: Austin Reaves
   team: LAL
 - avg_speed: '4.19'
@@ -2258,36 +2268,26 @@
   minutes: '614.0'
   name: Cam Thomas
   team: BKN
-- avg_speed: '4.16'
-  games: '45'
-  id: '1626156'
-  marathons: '3.27625004767535'
-  miles: '85.9'
-  miles_per_game: '1.908888888888889'
-  miles_per_thirty: '2.677402597402598'
-  minutes: '1155.0'
-  name: D'Angelo Russell
-  team: BKN
-- avg_speed: '4.19'
-  games: '54'
+- avg_speed: '4.15'
+  games: '38'
+  id: '1628418'
+  marathons: '1.6362180098401922'
+  miles: '42.9'
+  miles_per_game: '1.1289473684210527'
+  miles_per_thirty: '2.6766031195840556'
+  minutes: '577.0'
+  name: Thomas Bryant
+  team: IND
+- avg_speed: '4.18'
+  games: '55'
   id: '1628386'
-  marathons: '4.420458446164995'
-  miles: '115.9'
-  miles_per_game: '2.1462962962962964'
-  miles_per_thirty: '2.6763309813983325'
-  minutes: '1559.0'
+  marathons: '4.489110950074373'
+  miles: '117.7'
+  miles_per_game: '2.14'
+  miles_per_thirty: '2.675'
+  minutes: '1584.0'
   name: Jarrett Allen
   team: CLE
-- avg_speed: '4.22'
-  games: '26'
-  id: '203994'
-  marathons: '1.7201266257294328'
-  miles: '45.1'
-  miles_per_game: '1.7346153846153847'
-  miles_per_thirty: '2.6747940691927514'
-  minutes: '607.0'
-  name: "Jusuf Nurki\u0107"
-  team: CHA
 - avg_speed: '4.14'
   games: '55'
   id: '1627736'
@@ -2298,16 +2298,16 @@
   minutes: '1517.0'
   name: Malik Beasley
   team: DET
-- avg_speed: '4.14'
-  games: '37'
-  id: '1628418'
-  marathons: '1.5904496739006064'
-  miles: '41.7'
-  miles_per_game: '1.127027027027027'
-  miles_per_thirty: '2.6711743772241996'
-  minutes: '562.0'
-  name: Thomas Bryant
-  team: IND
+- avg_speed: '4.18'
+  games: '46'
+  id: '203991'
+  marathons: '2.906289332163698'
+  miles: '76.2'
+  miles_per_game: '1.6565217391304348'
+  miles_per_thirty: '2.6684824902723734'
+  minutes: '1028.0'
+  name: Clint Capela
+  team: ATL
 - avg_speed: '4.06'
   games: '45'
   id: '1641724'
@@ -2328,16 +2328,16 @@
   minutes: '621.0'
   name: Daniel Theis
   team: NOP
-- avg_speed: '4.18'
-  games: '45'
-  id: '203991'
-  marathons: '2.852892940234181'
-  miles: '74.8'
-  miles_per_game: '1.6622222222222223'
-  miles_per_thirty: '2.666138613861386'
-  minutes: '1010.0'
-  name: Clint Capela
-  team: ATL
+- avg_speed: '4.21'
+  games: '28'
+  id: '203994'
+  marathons: '1.8192913535985353'
+  miles: '47.7'
+  miles_per_game: '1.7035714285714287'
+  miles_per_thirty: '2.6664596273291927'
+  minutes: '644.0'
+  name: "Jusuf Nurki\u0107"
+  team: CHA
 - avg_speed: '4.14'
   games: '53'
   id: '1628404'
@@ -2348,6 +2348,16 @@
   minutes: '2003.0'
   name: Josh Hart
   team: NYK
+- avg_speed: '4.09'
+  games: '53'
+  id: '1641710'
+  marathons: '3.6919790991265873'
+  miles: '96.8'
+  miles_per_game: '1.8264150943396227'
+  miles_per_thirty: '2.65812356979405'
+  minutes: '1311.0'
+  name: Anthony Black
+  team: ORL
 - avg_speed: '4.11'
   games: '43'
   id: '1641718'
@@ -2368,24 +2378,14 @@
   minutes: '1468.0'
   name: Naz Reid
   team: MIN
-- avg_speed: '4.09'
-  games: '52'
-  id: '1641710'
-  marathons: '3.6423967351920363'
-  miles: '95.5'
-  miles_per_game: '1.8365384615384615'
-  miles_per_thirty: '2.6548262548262547'
-  minutes: '1295.0'
-  name: Anthony Black
-  team: ORL
 - avg_speed: '4.23'
-  games: '48'
+  games: '49'
   id: '1628436'
-  marathons: '2.292230824974255'
-  miles: '60.1'
-  miles_per_game: '1.2520833333333334'
-  miles_per_thirty: '2.6547239263803686'
-  minutes: '815.0'
+  marathons: '2.3418131889088065'
+  miles: '61.4'
+  miles_per_game: '1.2530612244897958'
+  miles_per_thirty: '2.6535414165666267'
+  minutes: '833.0'
   name: Luke Kornet
   team: BOS
 - avg_speed: '4.13'
@@ -2439,13 +2439,13 @@
   name: Luguentz Dort
   team: OKC
 - avg_speed: '4.1'
-  games: '31'
+  games: '33'
   id: '1629637'
-  marathons: '1.5294252259811587'
-  miles: '40.1'
-  miles_per_game: '1.2935483870967743'
-  miles_per_thirty: '2.6391224862888487'
-  minutes: '547.0'
+  marathons: '1.659102177809985'
+  miles: '43.5'
+  miles_per_game: '1.3181818181818181'
+  miles_per_thirty: '2.640809443507589'
+  minutes: '593.0'
   name: Jaxson Hayes
   team: LAL
 - avg_speed: '4.07'
@@ -2458,16 +2458,6 @@
   minutes: '1002.0'
   name: Jalen Suggs
   team: ORL
-- avg_speed: '4.14'
-  games: '23'
-  id: '1631109'
-  marathons: '1.6057057858804684'
-  miles: '42.1'
-  miles_per_game: '1.8304347826086957'
-  miles_per_thirty: '2.6358260869565218'
-  minutes: '575.0'
-  name: Mark Williams
-  team: CHA
 - avg_speed: '4.1'
   games: '45'
   id: '1626181'
@@ -2478,24 +2468,34 @@
   minutes: '1511.0'
   name: Norman Powell
   team: LAC
-- avg_speed: '4.11'
-  games: '41'
+- avg_speed: '4.13'
+  games: '24'
+  id: '1631109'
+  marathons: '1.6858003737747436'
+  miles: '44.2'
+  miles_per_game: '1.8416666666666668'
+  miles_per_thirty: '2.6344370860927158'
+  minutes: '604.0'
+  name: Mark Williams
+  team: CHA
+- avg_speed: '4.1'
+  games: '42'
   id: '203924'
-  marathons: '3.7110492391014147'
-  miles: '97.3'
-  miles_per_game: '2.373170731707317'
-  miles_per_thirty: '2.6336842105263156'
-  minutes: '1330.0'
+  marathons: '3.7949578549906553'
+  miles: '99.5'
+  miles_per_game: '2.369047619047619'
+  miles_per_thirty: '2.6338235294117647'
+  minutes: '1360.0'
   name: Jerami Grant
   team: POR
 - avg_speed: '4.07'
-  games: '35'
+  games: '36'
   id: '202331'
-  marathons: '3.135131011861627'
-  miles: '82.2'
-  miles_per_game: '2.3485714285714288'
-  miles_per_thirty: '2.6327402135231317'
-  minutes: '1124.0'
+  marathons: '3.211411571760937'
+  miles: '84.2'
+  miles_per_game: '2.338888888888889'
+  miles_per_thirty: '2.626689774696707'
+  minutes: '1154.0'
   name: Paul George
   team: PHI
 - avg_speed: '4.09'
@@ -2518,44 +2518,34 @@
   minutes: '1447.0'
   name: Tim Hardaway Jr.
   team: DET
-- avg_speed: '4.08'
-  games: '45'
-  id: '1629048'
-  marathons: '2.9520576681032837'
-  miles: '77.4'
-  miles_per_game: '1.7200000000000002'
-  miles_per_thirty: '2.621260583254939'
-  minutes: '1063.0'
-  name: Goga Bitadze
-  team: ORL
 - avg_speed: '4.1'
-  games: '44'
+  games: '45'
   id: '203081'
-  marathons: '4.45859872611465'
-  miles: '116.9'
-  miles_per_game: '2.6568181818181817'
-  miles_per_thirty: '2.6204234122042345'
-  minutes: '1606.0'
+  marathons: '4.553949425988787'
+  miles: '119.4'
+  miles_per_game: '2.6533333333333333'
+  miles_per_thirty: '2.624175824175824'
+  minutes: '1638.0'
   name: Damian Lillard
   team: MIL
-- avg_speed: '4.11'
-  games: '53'
-  id: '1627752'
-  marathons: '3.829284106945345'
-  miles: '100.4'
-  miles_per_game: '1.8943396226415095'
-  miles_per_thirty: '2.617233888486604'
-  minutes: '1381.0'
-  name: Taurean Prince
-  team: MIL
+- avg_speed: '4.08'
+  games: '46'
+  id: '1629048'
+  marathons: '2.9978260040428695'
+  miles: '78.6'
+  miles_per_game: '1.708695652173913'
+  miles_per_thirty: '2.6224281742354028'
+  minutes: '1079.0'
+  name: Goga Bitadze
+  team: ORL
 - avg_speed: '4.17'
-  games: '48'
+  games: '49'
   id: '1627750'
-  marathons: '4.790419161676646'
-  miles: '125.6'
-  miles_per_game: '2.6166666666666667'
-  miles_per_thirty: '2.6166666666666667'
-  minutes: '1728.0'
+  marathons: '4.885769861550783'
+  miles: '128.1'
+  miles_per_game: '2.6142857142857143'
+  miles_per_thirty: '2.6157685762904137'
+  minutes: '1763.0'
   name: Jamal Murray
   team: DEN
 - avg_speed: '4.04'
@@ -2568,36 +2558,36 @@
   minutes: '1281.0'
   name: Collin Sexton
   team: UTA
+- avg_speed: '4.1'
+  games: '54'
+  id: '1627752'
+  marathons: '3.90937869483962'
+  miles: '102.5'
+  miles_per_game: '1.8981481481481481'
+  miles_per_thirty: '2.613314447592068'
+  minutes: '1412.0'
+  name: Taurean Prince
+  team: MIL
 - avg_speed: '4.05'
-  games: '51'
+  games: '52'
   id: '1629027'
-  marathons: '5.106983485258782'
-  miles: '133.9'
-  miles_per_game: '2.6254901960784314'
-  miles_per_thirty: '2.6098538170005416'
-  minutes: '1847.0'
+  marathons: '5.20996224112285'
+  miles: '136.6'
+  miles_per_game: '2.626923076923077'
+  miles_per_thirty: '2.610191082802548'
+  minutes: '1884.0'
   name: Trae Young
   team: ATL
 - avg_speed: '4.16'
-  games: '44'
+  games: '45'
   id: '201950'
-  marathons: '3.6767229871467255'
-  miles: '96.4'
-  miles_per_game: '2.190909090909091'
-  miles_per_thirty: '2.609323308270677'
-  minutes: '1330.0'
+  marathons: '3.730119379076242'
+  miles: '97.8'
+  miles_per_game: '2.1733333333333333'
+  miles_per_thirty: '2.6079999999999997'
+  minutes: '1350.0'
   name: Jrue Holiday
   team: BOS
-- avg_speed: '4.06'
-  games: '32'
-  id: '203932'
-  marathons: '2.345627216903772'
-  miles: '61.5'
-  miles_per_game: '1.921875'
-  miles_per_thirty: '2.607773851590106'
-  minutes: '849.0'
-  name: Aaron Gordon
-  team: DEN
 - avg_speed: '4.03'
   games: '36'
   id: '1641715'
@@ -2619,44 +2609,54 @@
   name: Maxi Kleber
   team: LAL
 - avg_speed: '4.04'
-  games: '51'
+  games: '52'
   id: '1628378'
-  marathons: '4.405202334185133'
-  miles: '115.5'
-  miles_per_game: '2.264705882352941'
-  miles_per_thirty: '2.605263157894737'
-  minutes: '1596.0'
+  marathons: '4.4852969220794074'
+  miles: '117.6'
+  miles_per_game: '2.2615384615384615'
+  miles_per_thirty: '2.603690036900369'
+  minutes: '1626.0'
   name: Donovan Mitchell
   team: CLE
-- avg_speed: '4.04'
-  games: '48'
+- avg_speed: '4.05'
+  games: '33'
+  id: '203932'
+  marathons: '2.4295358327930128'
+  miles: '63.7'
+  miles_per_game: '1.9303030303030304'
+  miles_per_thirty: '2.6029511918274686'
+  minutes: '881.0'
+  name: Aaron Gordon
+  team: DEN
+- avg_speed: '4.03'
+  games: '23'
+  id: '1631094'
+  marathons: '2.116785537205843'
+  miles: '55.5'
+  miles_per_game: '2.4130434782608696'
+  miles_per_thirty: '2.6015625'
+  minutes: '768.0'
+  name: Paolo Banchero
+  team: ORL
+- avg_speed: '4.03'
+  games: '49'
   id: '1629018'
-  marathons: '3.31820435561997'
-  miles: '87.0'
-  miles_per_game: '1.8125'
-  miles_per_thirty: '2.601328903654485'
-  minutes: '1204.0'
+  marathons: '3.3754147755444524'
+  miles: '88.5'
+  miles_per_game: '1.8061224489795917'
+  miles_per_thirty: '2.598694942903752'
+  minutes: '1226.0'
   name: Gary Trent Jr.
   team: MIL
-- avg_speed: '4.09'
-  games: '42'
+- avg_speed: '4.08'
+  games: '43'
   id: '1629674'
-  marathons: '1.6247759258552958'
-  miles: '42.6'
-  miles_per_game: '1.0142857142857142'
-  miles_per_thirty: '2.599322033898305'
-  minutes: '590.0'
+  marathons: '1.6362180098401922'
+  miles: '42.9'
+  miles_per_game: '0.9976744186046511'
+  miles_per_thirty: '2.5956302521008405'
+  minutes: '595.0'
   name: Neemias Queta
-  team: BOS
-- avg_speed: '4.05'
-  games: '51'
-  id: '1628401'
-  marathons: '4.695068461802509'
-  miles: '123.1'
-  miles_per_game: '2.4137254901960783'
-  miles_per_thirty: '2.596133567662566'
-  minutes: '1707.0'
-  name: Derrick White
   team: BOS
 - avg_speed: '4.03'
   games: '52'
@@ -2678,6 +2678,16 @@
   minutes: '1677.0'
   name: Dillon Brooks
   team: HOU
+- avg_speed: '4.04'
+  games: '52'
+  id: '1628401'
+  marathons: '4.763720965711888'
+  miles: '124.9'
+  miles_per_game: '2.401923076923077'
+  miles_per_thirty: '2.5945758799769187'
+  minutes: '1733.0'
+  name: Derrick White
+  team: BOS
 - avg_speed: '4.03'
   games: '38'
   id: '1642276'
@@ -2688,16 +2698,6 @@
   minutes: '726.0'
   name: Kel'el Ware
   team: MIA
-- avg_speed: '4.02'
-  games: '22'
-  id: '1631094'
-  marathons: '2.006178725351844'
-  miles: '52.6'
-  miles_per_game: '2.390909090909091'
-  miles_per_thirty: '2.590424076607387'
-  minutes: '731.0'
-  name: Paolo Banchero
-  team: ORL
 - avg_speed: '4.04'
   games: '48'
   id: '203944'
@@ -2708,26 +2708,26 @@
   minutes: '1564.0'
   name: Julius Randle
   team: MIN
-- avg_speed: '4.0'
-  games: '51'
-  id: '1629599'
-  marathons: '3.5623021472977614'
-  miles: '93.4'
-  miles_per_game: '1.831372549019608'
-  miles_per_thirty: '2.586461538461539'
-  minutes: '1300.0'
-  name: Amir Coffey
-  team: LAC
-- avg_speed: '4.03'
-  games: '30'
+- avg_speed: '4.02'
+  games: '31'
   id: '203083'
-  marathons: '1.5370532819710896'
-  miles: '40.3'
-  miles_per_game: '1.3433333333333333'
-  miles_per_thirty: '2.5860962566844914'
-  minutes: '561.0'
+  marathons: '1.571379533925779'
+  miles: '41.2'
+  miles_per_game: '1.3290322580645162'
+  miles_per_thirty: '2.5884816753926705'
+  minutes: '573.0'
   name: Andre Drummond
   team: PHI
+- avg_speed: '4.0'
+  games: '52'
+  id: '1629599'
+  marathons: '3.6462107631870015'
+  miles: '95.6'
+  miles_per_game: '1.8384615384615384'
+  miles_per_thirty: '2.5876691729323307'
+  minutes: '1330.0'
+  name: Amir Coffey
+  team: LAC
 - avg_speed: '4.0'
   games: '54'
   id: '202685'
@@ -2759,33 +2759,33 @@
   name: DeMar DeRozan
   team: SAC
 - avg_speed: '4.01'
-  games: '41'
+  games: '42'
   id: '203507'
-  marathons: '3.8903085548647924'
-  miles: '102.0'
-  miles_per_game: '2.4878048780487805'
-  miles_per_thirty: '2.5660377358490565'
-  minutes: '1431.0'
+  marathons: '3.955147030779206'
+  miles: '103.7'
+  miles_per_game: '2.469047619047619'
+  miles_per_thirty: '2.565773195876289'
+  minutes: '1455.0'
   name: Giannis Antetokounmpo
   team: MIL
 - avg_speed: '3.99'
-  games: '34'
+  games: '35'
   id: '1627732'
-  marathons: '2.315114992944048'
-  miles: '60.7'
-  miles_per_game: '1.785294117647059'
-  miles_per_thirty: '2.5647887323943666'
-  minutes: '852.0'
+  marathons: '2.368511384873565'
+  miles: '62.1'
+  miles_per_game: '1.7742857142857142'
+  miles_per_thirty: '2.563761467889908'
+  minutes: '872.0'
   name: Ben Simmons
   team: LAC
-- avg_speed: '4.0'
-  games: '48'
+- avg_speed: '3.99'
+  games: '49'
   id: '1626164'
-  marathons: '4.843815553606163'
-  miles: '127.0'
-  miles_per_game: '2.6458333333333335'
-  miles_per_thirty: '2.5627802690582957'
-  minutes: '1784.0'
+  marathons: '4.954422365460163'
+  miles: '129.9'
+  miles_per_game: '2.6510204081632653'
+  miles_per_thirty: '2.5624109589041097'
+  minutes: '1825.0'
   name: Devin Booker
   team: PHX
 - avg_speed: '3.98'
@@ -2829,23 +2829,23 @@
   name: Bam Adebayo
   team: MIA
 - avg_speed: '3.94'
-  games: '53'
+  games: '54'
   id: '203484'
-  marathons: '4.313665662305961'
-  miles: '113.1'
-  miles_per_game: '2.1339622641509433'
-  miles_per_thirty: '2.5384039900249373'
-  minutes: '1604.0'
+  marathons: '4.393760250200236'
+  miles: '115.2'
+  miles_per_game: '2.1333333333333333'
+  miles_per_thirty: '2.5396203306797305'
+  minutes: '1633.0'
   name: Kentavious Caldwell-Pope
   team: ORL
 - avg_speed: '3.97'
-  games: '54'
+  games: '55'
   id: '202696'
-  marathons: '4.656928181852854'
-  miles: '122.1'
-  miles_per_game: '2.261111111111111'
-  miles_per_thirty: '2.5364108482400463'
-  minutes: '1733.0'
+  marathons: '4.752278881726991'
+  miles: '124.6'
+  miles_per_game: '2.265454545454545'
+  miles_per_thirty: '2.535669869983041'
+  minutes: '1769.0'
   name: "Nikola Vu\u010Devi\u0107"
   team: CHI
 - avg_speed: '3.94'
@@ -2858,36 +2858,46 @@
   minutes: '1778.0'
   name: OG Anunoby
   team: NYK
-- avg_speed: '4.03'
-  games: '52'
-  id: '1629008'
-  marathons: '4.637858041878027'
-  miles: '121.6'
-  miles_per_game: '2.338461538461538'
-  miles_per_thirty: '2.5304046242774563'
-  minutes: '1730.0'
-  name: Michael Porter Jr.
-  team: DEN
 - avg_speed: '3.91'
-  games: '43'
+  games: '44'
   id: '1628976'
-  marathons: '2.898661276173767'
-  miles: '76.0'
-  miles_per_game: '1.7674418604651163'
-  miles_per_thirty: '2.5286506469500925'
-  minutes: '1082.0'
+  marathons: '2.9901979480529386'
+  miles: '78.4'
+  miles_per_game: '1.781818181818182'
+  miles_per_thirty: '2.5313004484304935'
+  minutes: '1115.0'
   name: Wendell Carter Jr.
   team: ORL
+- avg_speed: '4.03'
+  games: '53'
+  id: '1629008'
+  marathons: '4.714138601777337'
+  miles: '123.6'
+  miles_per_game: '2.332075471698113'
+  miles_per_thirty: '2.529619101762365'
+  minutes: '1759.0'
+  name: Michael Porter Jr.
+  team: DEN
 - avg_speed: '4.02'
-  games: '45'
+  games: '46'
   id: '1627759'
-  marathons: '4.233571074411686'
-  miles: '111.0'
-  miles_per_game: '2.466666666666667'
-  miles_per_thirty: '2.5211356466876973'
-  minutes: '1585.0'
+  marathons: '4.30603760631603'
+  miles: '112.9'
+  miles_per_game: '2.4543478260869565'
+  miles_per_thirty: '2.5213399503722087'
+  minutes: '1612.0'
   name: Jaylen Brown
   team: BOS
+- avg_speed: '3.94'
+  games: '53'
+  id: '1627826'
+  marathons: '4.5196231740340975'
+  miles: '118.5'
+  miles_per_game: '2.2358490566037736'
+  miles_per_thirty: '2.5182998819362457'
+  minutes: '1694.0'
+  name: Ivica Zubac
+  team: LAC
 - avg_speed: '3.92'
   games: '41'
   id: '203110'
@@ -2898,24 +2908,14 @@
   minutes: '1168.0'
   name: Draymond Green
   team: GSW
-- avg_speed: '3.94'
-  games: '52'
-  id: '1627826'
-  marathons: '4.420458446164995'
-  miles: '115.9'
-  miles_per_game: '2.228846153846154'
-  miles_per_thirty: '2.5180446590223298'
-  minutes: '1657.0'
-  name: Ivica Zubac
-  team: LAC
-- avg_speed: '3.99'
-  games: '48'
+- avg_speed: '3.98'
+  games: '49'
   id: '201566'
-  marathons: '3.5279758953430718'
-  miles: '92.5'
-  miles_per_game: '1.9270833333333333'
-  miles_per_thirty: '2.507530120481928'
-  minutes: '1328.0'
+  marathons: '3.592814371257485'
+  miles: '94.2'
+  miles_per_game: '1.9224489795918367'
+  miles_per_thirty: '2.506430155210643'
+  minutes: '1353.0'
   name: Russell Westbrook
   team: DEN
 - avg_speed: '3.9'
@@ -2939,33 +2939,33 @@
   name: Kyrie Irving
   team: DAL
 - avg_speed: '3.88'
-  games: '49'
+  games: '50'
   id: '1626157'
-  marathons: '4.515809146039132'
-  miles: '118.4'
-  miles_per_game: '2.416326530612245'
-  miles_per_thirty: '2.4926315789473685'
-  minutes: '1710.0'
+  marathons: '4.630229985888096'
+  miles: '121.4'
+  miles_per_game: '2.428'
+  miles_per_thirty: '2.4930975470621792'
+  minutes: '1753.0'
   name: Karl-Anthony Towns
   team: NYK
-- avg_speed: '3.99'
-  games: '43'
+- avg_speed: '3.98'
+  games: '44'
   id: '201143'
-  marathons: '3.0207101720126626'
-  miles: '79.2'
-  miles_per_game: '1.841860465116279'
-  miles_per_thirty: '2.4857890148212727'
-  minutes: '1147.0'
+  marathons: '3.0664785079522483'
+  miles: '80.4'
+  miles_per_game: '1.8272727272727274'
+  miles_per_thirty: '2.484463519313305'
+  minutes: '1165.0'
   name: Al Horford
   team: BOS
-- avg_speed: '3.88'
-  games: '52'
+- avg_speed: '3.87'
+  games: '53'
   id: '201572'
-  marathons: '4.321293718295892'
-  miles: '113.3'
-  miles_per_game: '2.1788461538461537'
-  miles_per_thirty: '2.4705027256208356'
-  minutes: '1651.0'
+  marathons: '4.397574278195202'
+  miles: '115.3'
+  miles_per_game: '2.1754716981132076'
+  miles_per_thirty: '2.4677764565992866'
+  minutes: '1682.0'
   name: Brook Lopez
   team: MIL
 - avg_speed: '3.86'
@@ -2989,33 +2989,43 @@
   name: Eric Gordon
   team: PHI
 - avg_speed: '3.78'
-  games: '49'
+  games: '50'
   id: '203999'
-  marathons: '4.54250734200389'
-  miles: '119.1'
-  miles_per_game: '2.4306122448979592'
-  miles_per_thirty: '2.4333711691259934'
-  minutes: '1762.0'
+  marathons: '4.634044013883062'
+  miles: '121.5'
+  miles_per_game: '2.43'
+  miles_per_thirty: '2.431350750416898'
+  minutes: '1799.0'
   name: "Nikola Joki\u0107"
   team: DEN
-- avg_speed: '3.92'
-  games: '29'
+- avg_speed: '3.93'
+  games: '30'
   id: '204001'
-  marathons: '2.1511117891605323'
-  miles: '56.4'
-  miles_per_game: '1.9448275862068964'
-  miles_per_thirty: '2.414268727705113'
-  minutes: '841.0'
+  marathons: '2.219764293069911'
+  miles: '58.2'
+  miles_per_game: '1.9400000000000002'
+  miles_per_thirty: '2.419399538106236'
+  minutes: '866.0'
   name: "Kristaps Porzi\u0146\u0123is"
   team: BOS
+- avg_speed: '3.77'
+  games: '25'
+  id: '1629029'
+  marathons: '2.204508181090049'
+  miles: '57.8'
+  miles_per_game: '2.312'
+  miles_per_thirty: '2.408333333333333'
+  minutes: '864.0'
+  name: "Luka Don\u010Di\u0107"
+  team: LAL
 - avg_speed: '3.75'
-  games: '41'
+  games: '42'
   id: '201142'
-  marathons: '3.8140279949654827'
-  miles: '100.0'
-  miles_per_game: '2.4390243902439024'
-  miles_per_thirty: '2.4080267558528425'
-  minutes: '1495.0'
+  marathons: '3.913192722834585'
+  miles: '102.6'
+  miles_per_game: '2.4428571428571426'
+  miles_per_thirty: '2.407822685788787'
+  minutes: '1534.0'
   name: Kevin Durant
   team: PHX
 - avg_speed: '3.76'
@@ -3028,53 +3038,43 @@
   minutes: '1470.0'
   name: Anthony Davis
   team: DAL
-- avg_speed: '3.76'
-  games: '24'
-  id: '1629029'
-  marathons: '2.116785537205843'
-  miles: '55.5'
-  miles_per_game: '2.3125'
-  miles_per_thirty: '2.4043321299638993'
-  minutes: '831.0'
-  name: "Luka Don\u010Di\u0107"
-  team: LAL
-- avg_speed: '3.67'
-  games: '48'
+- avg_speed: '3.66'
+  games: '50'
   id: '2544'
-  marathons: '4.14584843052748'
-  miles: '108.7'
-  miles_per_game: '2.2645833333333334'
-  miles_per_thirty: '2.360193003618818'
-  minutes: '1658.0'
+  marathons: '4.328921774285823'
+  miles: '113.5'
+  miles_per_game: '2.27'
+  miles_per_thirty: '2.3604852686308493'
+  minutes: '1731.0'
   name: LeBron James
   team: LAL
 - avg_speed: '3.65'
-  games: '52'
+  games: '53'
   id: '101108'
-  marathons: '3.733933407071208'
-  miles: '97.9'
-  miles_per_game: '1.8826923076923079'
-  miles_per_thirty: '2.330952380952381'
-  minutes: '1512.0'
+  marathons: '3.8140279949654827'
+  miles: '100.0'
+  miles_per_game: '1.8867924528301887'
+  miles_per_thirty: '2.3331173039533377'
+  minutes: '1543.0'
   name: Chris Paul
   team: SAS
 - avg_speed: '3.68'
-  games: '51'
+  games: '52'
   id: '1628369'
-  marathons: '4.546321369998855'
-  miles: '119.2'
-  miles_per_game: '2.3372549019607844'
-  miles_per_thirty: '2.3208220659816114'
-  minutes: '1849.0'
+  marathons: '4.634044013883062'
+  miles: '121.5'
+  miles_per_game: '2.3365384615384617'
+  miles_per_thirty: '2.321656050955414'
+  minutes: '1884.0'
   name: Jayson Tatum
   team: BOS
-- avg_speed: '3.53'
-  games: '17'
+- avg_speed: '3.54'
+  games: '18'
   id: '203954'
-  marathons: '1.2433731263587475'
-  miles: '32.6'
-  miles_per_game: '1.9176470588235295'
-  miles_per_thirty: '2.274418604651163'
-  minutes: '516.0'
+  marathons: '1.3120256302681261'
+  miles: '34.4'
+  miles_per_game: '1.911111111111111'
+  miles_per_thirty: '2.2806629834254144'
+  minutes: '543.0'
   name: Joel Embiid
   team: PHI
