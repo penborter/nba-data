@@ -446,7 +446,7 @@
   miles_per_game: '1.5340425531914892'
   miles_per_thirty: '2.8968749999999996'
   minutes: '896.0'
-  name: Tidjane Salaun
+  name: "Tidjane Sala\xFCn"
   team: CHA
 - avg_speed: '4.51'
   games: '49'
