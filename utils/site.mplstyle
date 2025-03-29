@@ -1,0 +1,35 @@
+# general
+figure.figsize: 10, 10
+figure.facecolor: "#e4dbcd"
+axes.facecolor: "#f5eee4"
+axes.grid: True
+axes.edgecolor: "#363330"
+axes.labelcolor: "#363330"
+axes.titlecolor: "#363330"
+text.color: "#363330"
+
+# lines and markers
+lines.linewidth: 0.75
+lines.color: "#363330"
+lines.markersize: 30
+
+grid.linewidth: 1
+
+# titles and labels
+axes.titlelocation: left
+axes.titlepad: 36
+axes.titlesize: 22
+axes.labelsize: 16
+axes.labelpad: 6
+xtick.labelsize: 14
+ytick.labelsize: 14
+
+axes.linewidth: 1
+
+axes.spines.left: True
+
+# scatter defaults
+scatter.marker: o
+
+# other stuff
+legend.frameon: False

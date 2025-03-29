@@ -1,7 +1,5 @@
 
-import time
 import pandas as pd
-import numpy as np
 import requests
 
 from functools import wraps
@@ -18,16 +16,17 @@ from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.library.parameters import Season
 
 # Setting Inter SemiBold as custom font
-font_path = Path(__file__).parent / "fonts/DepartureMono-Regular.otf"
+font_path = Path(__file__).parent / "fonts/JetBrainsMono.ttf"
 fm.fontManager.addfont(str(font_path))
 custom_font = fm.FontProperties(fname=str(font_path)).get_name()
 
 class CourtPlot:
-    def __init__(self, player_name, season=Season.current_season, bg='#F4F5EF', ec='#2A4644', fc='#FBE9E2', percent=100):
+    def __init__(self, player_name, season=Season.current_season, bg='#F4F5EF', ac='#F5EEE4', ec='#2A4644', fc='#FBE9E2', percent=100):
         # Initialize attributes for player and court settings
         self.player_name = player_name
         self.season = season
         self.bg = bg
+        self.ac = ac
         self.ec = ec
         self.fc = fc
         self.percent = percent
@@ -72,6 +71,7 @@ class CourtPlot:
         # Apply color settings and create court patches
         fc = self.fc if moreyball else self.bg
         court_elements = [
+            Rectangle((-250, -47.5), 500, 470, lw=0, fc=self.ac),
             Wedge((0, 0), 238.5, theta1=22.25, theta2=157.75, lw=0, fc=fc),         # 3pt arc shading
             Rectangle((-220.5, -47.5), 441, 137.5, lw=0, fc=fc),                    # 3pt rectangle shading
             Rectangle((-80, -47.5), 160, 190, lw=1.5, ec=self.ec, fc=fc),           # Key lines
@@ -80,7 +80,7 @@ class CourtPlot:
             Arc((0, 0), 477, 477, theta1=22.25, theta2=157.75, lw=1.5, ec=self.ec), # Three-point arc
             Rectangle((-220.5, -47.5), 0, 137.5, lw=1.5, ec=self.ec),               # Three-point right corner
             Rectangle((220.5, -47.5), 0, 137.5, lw=1.5, ec=self.ec),                # Three-point left corner
-            Circle((0, 0), radius=40, lw=0, fc=self.bg),                            # Restricted area shading
+            Circle((0, 0), radius=40, lw=0, fc=self.ac),                            # Restricted area shading
             Arc((0, 0), 80, 80, theta1=0, theta2=180, lw=1.5, ec=self.ec),          # Restricted area line
             Circle((0, 0), radius=7.5, lw=1.5, ec=self.ec, fill=False),             # Hoop
             Rectangle((-30, -11), 60, 0, lw=1.5, ec=self.ec),                       # Backboard
