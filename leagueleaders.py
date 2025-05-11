@@ -12,6 +12,7 @@ from nba_api.stats.library.parameters import Season
 
 from datetime import datetime
 from utils.CourtPlot import CourtPlot
+from utils.ShotDistance import get_shots_yml
 
 # Retry Wrapper 
 def retry(max_attempts=5, delay=5):
@@ -189,6 +190,9 @@ def main():
   
   # Get distance leaders data
   distance_leaders()
+
+  # Get shooting distance data
+  get_shots_yml()
 
 
 if __name__ == "__main__":

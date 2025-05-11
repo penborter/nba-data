@@ -74,12 +74,13 @@ jobs:
           cp plot.png nba_site/assets/posts/moreyball/
           cp moreyball_full.yml nba_site/_data/
           cp distance.yml nba_site/_data/
+          cp shot_distance.yml nba_site/_data/
 
       - name: Commit and push files to nba-site repo
         run: |
           cd nba_site
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/posts/moreyball/plot.png _data/moreyball_full.yml _data/distance.yml
+          git add assets/posts/moreyball/plot.png _data/moreyball_full.yml _data/distance.yml _data/shot_distance.yml
           git commit -m "Automated data update (`date +'%Y-%m-%d'`)"
           git push
