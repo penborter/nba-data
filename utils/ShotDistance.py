@@ -6,7 +6,7 @@ from nba_api.stats.static import teams
 
 # Helper function for number formatting
 def fmt(val):
-  return f"{val:.3f}" if pd.notnull(val) else ""
+  return round(val, 3) if pd.notnull(val) else ""
 
 def get_shots_yml():
   """
@@ -64,7 +64,7 @@ def get_shots_yml():
   out['TEAM_ABBREVIATION'] = out['TEAM_ID'].map({team['id']: team['abbreviation'] for team in teams_list})
 
   # Filter and re-order
-  out = out[out.ALL_FGA > 100].sort_values('MADE_2PT_AVG_DISTANCE', ascending=False)
+  out = out[out.ALL_FGA > 100].sort_values('ALL_ALL_AVG_DISTANCE', ascending=False)
   out.to_csv('SHOOTING_DISTANCE_24-25.csv')
 
   shot_distance_list = [{
@@ -73,16 +73,16 @@ def get_shots_yml():
       'team': str(row.TEAM_ABBREVIATION),
       'fga': str(row.ALL_FGA),
       'all_avg_dist': fmt(row.ALL_ALL_AVG_DISTANCE),
-      '3pt_avg_dist': fmt(row.ALL_3PT_AVG_DISTANCE),
-      '2pt_avg_dist': fmt(row.ALL_2PT_AVG_DISTANCE),
+      'thr_avg_dist': fmt(row.ALL_3PT_AVG_DISTANCE),
+      'two_avg_dist': fmt(row.ALL_2PT_AVG_DISTANCE),
       'made_fga': str(row.MADE_FGA),
       'made_all_avg_dist': fmt(row.MADE_ALL_AVG_DISTANCE),
-      'made_3pt_avg_dist': fmt(row.MADE_3PT_AVG_DISTANCE),
-      'made_2pt_avg_dist': fmt(row.MADE_2PT_AVG_DISTANCE),
+      'made_thr_avg_dist': fmt(row.MADE_3PT_AVG_DISTANCE),
+      'made_two_avg_dist': fmt(row.MADE_2PT_AVG_DISTANCE),
       'miss_fga': str(row.MISS_FGA),
       'miss_all_avg_dist': fmt(row.MISS_ALL_AVG_DISTANCE),
-      'miss_3pt_avg_dist': fmt(row.MISS_3PT_AVG_DISTANCE),
-      'miss_2pt_avg_dist': fmt(row.MISS_2PT_AVG_DISTANCE),
+      'miss_thr_avg_dist': fmt(row.MISS_3PT_AVG_DISTANCE),
+      'miss_two_avg_dist': fmt(row.MISS_2PT_AVG_DISTANCE),
   } for _, row in out.iterrows()]
 
 
