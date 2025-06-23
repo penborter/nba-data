@@ -2489,7 +2489,7 @@
   TOTAL_FGM: '239.0'
   id: '203484'
   name: Kentavious Caldwell-Pope
-  team: ORL
+  team: MEM
 - MB_FGA: '782.0'
   MB_FGM: '409.0'
   MB_PCT: '0.747'
@@ -4281,7 +4281,7 @@
   TOTAL_FGM: '493.0'
   id: '1630217'
   name: Desmond Bane
-  team: MEM
+  team: ORL
 - MB_FGA: '289.0'
   MB_FGM: '122.0'
   MB_PCT: '0.66'
@@ -5107,7 +5107,7 @@
   TOTAL_FGM: '230.0'
   id: '1630175'
   name: Cole Anthony
-  team: ORL
+  team: MEM
 - MB_FGA: '180.0'
   MB_FGM: '88.0'
   MB_PCT: '0.582'
