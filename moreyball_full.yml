@@ -12,20 +12,6 @@
   id: '1630188'
   name: Jalen Smith
   team: CHI
-- MB_FGA: '56.0'
-  MB_FGM: '16.0'
-  MB_PCT: '0.966'
-  RA_FGA: '3'
-  RA_FGM: '3'
-  RA_PCT: '0.052'
-  THREE_FGA: '53.0'
-  THREE_FGM: '13.0'
-  THREE_PCT: '0.914'
-  TOTAL_FGA: '58.0'
-  TOTAL_FGM: '18.0'
-  id: '1631119'
-  name: Jaylin Williams
-  team: OKC
 - MB_FGA: '58.0'
   MB_FGM: '27.0'
   MB_PCT: '0.966'
@@ -40,6 +26,20 @@
   id: '1630171'
   name: Isaac Okoro
   team: CHI
+- MB_FGA: '56.0'
+  MB_FGM: '16.0'
+  MB_PCT: '0.966'
+  RA_FGA: '3'
+  RA_FGM: '3'
+  RA_PCT: '0.052'
+  THREE_FGA: '53.0'
+  THREE_FGM: '13.0'
+  THREE_PCT: '0.914'
+  TOTAL_FGA: '58.0'
+  TOTAL_FGM: '18.0'
+  id: '1631119'
+  name: Jaylin Williams
+  team: OKC
 - MB_FGA: '59.0'
   MB_FGM: '30.0'
   MB_PCT: '0.951'
@@ -68,6 +68,20 @@
   id: '1631260'
   name: AJ Green
   team: MIL
+- MB_FGA: '55.0'
+  MB_FGM: '45.0'
+  MB_PCT: '0.932'
+  RA_FGA: '55'
+  RA_FGM: '45'
+  RA_PCT: '0.932'
+  THREE_FGA: '0.0'
+  THREE_FGM: '0.0'
+  THREE_PCT: '0.0'
+  TOTAL_FGA: '59.0'
+  TOTAL_FGM: '45.0'
+  id: '203497'
+  name: Rudy Gobert
+  team: MIN
 - MB_FGA: '54.0'
   MB_FGM: '26.0'
   MB_PCT: '0.931'
@@ -306,20 +320,20 @@
   id: '1630172'
   name: Patrick Williams
   team: CHI
-- MB_FGA: '45.0'
-  MB_FGM: '18.0'
-  MB_PCT: '0.865'
-  RA_FGA: '10'
-  RA_FGM: '9'
-  RA_PCT: '0.192'
-  THREE_FGA: '35.0'
-  THREE_FGM: '9.0'
-  THREE_PCT: '0.673'
-  TOTAL_FGA: '52.0'
-  TOTAL_FGM: '20.0'
-  id: '1630643'
-  name: Jay Huff
-  team: IND
+- MB_FGA: '88.0'
+  MB_FGM: '38.0'
+  MB_PCT: '0.871'
+  RA_FGA: '11'
+  RA_FGM: '7'
+  RA_PCT: '0.109'
+  THREE_FGA: '77.0'
+  THREE_FGM: '31.0'
+  THREE_PCT: '0.762'
+  TOTAL_FGA: '101.0'
+  TOTAL_FGM: '43.0'
+  id: '1628978'
+  name: Donte DiVincenzo
+  team: MIN
 - MB_FGA: '58.0'
   MB_FGM: '32.0'
   MB_PCT: '0.865'
@@ -334,6 +348,20 @@
   id: '203084'
   name: Harrison Barnes
   team: SAS
+- MB_FGA: '45.0'
+  MB_FGM: '18.0'
+  MB_PCT: '0.865'
+  RA_FGA: '10'
+  RA_FGM: '9'
+  RA_PCT: '0.192'
+  THREE_FGA: '35.0'
+  THREE_FGM: '9.0'
+  THREE_PCT: '0.673'
+  TOTAL_FGA: '52.0'
+  TOTAL_FGM: '20.0'
+  id: '1630643'
+  name: Jay Huff
+  team: IND
 - MB_FGA: '89.0'
   MB_FGM: '48.0'
   MB_PCT: '0.864'
@@ -362,20 +390,6 @@
   id: '1629004'
   name: Svi Mykhailiuk
   team: UTA
-- MB_FGA: '81.0'
-  MB_FGM: '36.0'
-  MB_PCT: '0.861'
-  RA_FGA: '10'
-  RA_FGM: '6'
-  RA_PCT: '0.106'
-  THREE_FGA: '71.0'
-  THREE_FGM: '30.0'
-  THREE_PCT: '0.755'
-  TOTAL_FGA: '94.0'
-  TOTAL_FGM: '41.0'
-  id: '1628978'
-  name: Donte DiVincenzo
-  team: MIN
 - MB_FGA: '71.0'
   MB_FGM: '32.0'
   MB_PCT: '0.855'
@@ -684,20 +698,6 @@
   id: '1642258'
   name: Zaccharie Risacher
   team: ATL
-- MB_FGA: '63.0'
-  MB_FGM: '30.0'
-  MB_PCT: '0.808'
-  RA_FGA: '16'
-  RA_FGM: '12'
-  RA_PCT: '0.205'
-  THREE_FGA: '47.0'
-  THREE_FGM: '18.0'
-  THREE_PCT: '0.603'
-  TOTAL_FGA: '78.0'
-  TOTAL_FGM: '33.0'
-  id: '1641717'
-  name: Cason Wallace
-  team: OKC
 - MB_FGA: '42.0'
   MB_FGM: '19.0'
   MB_PCT: '0.808'
@@ -712,6 +712,20 @@
   id: '1630540'
   name: Miles McBride
   team: NYK
+- MB_FGA: '63.0'
+  MB_FGM: '30.0'
+  MB_PCT: '0.808'
+  RA_FGA: '16'
+  RA_FGM: '12'
+  RA_PCT: '0.205'
+  THREE_FGA: '47.0'
+  THREE_FGM: '18.0'
+  THREE_PCT: '0.603'
+  TOTAL_FGA: '78.0'
+  TOTAL_FGM: '33.0'
+  id: '1641717'
+  name: Cason Wallace
+  team: OKC
 - MB_FGA: '46.0'
   MB_FGM: '26.0'
   MB_PCT: '0.807'
@@ -782,20 +796,6 @@
   id: '1629018'
   name: Gary Trent Jr.
   team: MIL
-- MB_FGA: '53.0'
-  MB_FGM: '27.0'
-  MB_PCT: '0.803'
-  RA_FGA: '20'
-  RA_FGM: '16'
-  RA_PCT: '0.303'
-  THREE_FGA: '33.0'
-  THREE_FGM: '11.0'
-  THREE_PCT: '0.5'
-  TOTAL_FGA: '66.0'
-  TOTAL_FGM: '30.0'
-  id: '1631169'
-  name: Josh Minott
-  team: BOS
 - MB_FGA: '45.0'
   MB_FGM: '27.0'
   MB_PCT: '0.803'
@@ -824,20 +824,20 @@
   id: '1641796'
   name: Pelle Larsson
   team: MIA
-- MB_FGA: '44.0'
-  MB_FGM: '23.0'
-  MB_PCT: '0.8'
-  RA_FGA: '19'
-  RA_FGM: '14'
-  RA_PCT: '0.345'
-  THREE_FGA: '25.0'
-  THREE_FGM: '9.0'
-  THREE_PCT: '0.455'
-  TOTAL_FGA: '55.0'
-  TOTAL_FGM: '26.0'
-  id: '1628404'
-  name: Josh Hart
-  team: NYK
+- MB_FGA: '53.0'
+  MB_FGM: '27.0'
+  MB_PCT: '0.803'
+  RA_FGA: '20'
+  RA_FGM: '16'
+  RA_PCT: '0.303'
+  THREE_FGA: '33.0'
+  THREE_FGM: '11.0'
+  THREE_PCT: '0.5'
+  TOTAL_FGA: '66.0'
+  TOTAL_FGM: '30.0'
+  id: '1631169'
+  name: Josh Minott
+  team: BOS
 - MB_FGA: '120.0'
   MB_FGM: '59.0'
   MB_PCT: '0.8'
@@ -852,6 +852,20 @@
   id: '1630166'
   name: Deni Avdija
   team: POR
+- MB_FGA: '44.0'
+  MB_FGM: '23.0'
+  MB_PCT: '0.8'
+  RA_FGA: '19'
+  RA_FGM: '14'
+  RA_PCT: '0.345'
+  THREE_FGA: '25.0'
+  THREE_FGM: '9.0'
+  THREE_PCT: '0.455'
+  TOTAL_FGA: '55.0'
+  TOTAL_FGM: '26.0'
+  id: '1628404'
+  name: Josh Hart
+  team: NYK
 - MB_FGA: '55.0'
   MB_FGM: '22.0'
   MB_PCT: '0.797'
@@ -894,20 +908,6 @@
   id: '1631221'
   name: Collin Gillespie
   team: PHX
-- MB_FGA: '45.0'
-  MB_FGM: '26.0'
-  MB_PCT: '0.79'
-  RA_FGA: '12'
-  RA_FGM: '11'
-  RA_PCT: '0.211'
-  THREE_FGA: '33.0'
-  THREE_FGM: '15.0'
-  THREE_PCT: '0.579'
-  TOTAL_FGA: '57.0'
-  TOTAL_FGM: '33.0'
-  id: '1630591'
-  name: Jalen Suggs
-  team: ORL
 - MB_FGA: '105.0'
   MB_FGM: '47.0'
   MB_PCT: '0.79'
@@ -922,20 +922,20 @@
   id: '1628960'
   name: Grayson Allen
   team: PHX
-- MB_FGA: '147.0'
-  MB_FGM: '108.0'
-  MB_PCT: '0.786'
-  RA_FGA: '133'
-  RA_FGM: '101'
-  RA_PCT: '0.711'
-  THREE_FGA: '14.0'
-  THREE_FGM: '7.0'
-  THREE_PCT: '0.075'
-  TOTAL_FGA: '187.0'
-  TOTAL_FGM: '118.0'
-  id: '203507'
-  name: Giannis Antetokounmpo
-  team: MIL
+- MB_FGA: '45.0'
+  MB_FGM: '26.0'
+  MB_PCT: '0.79'
+  RA_FGA: '12'
+  RA_FGM: '11'
+  RA_PCT: '0.211'
+  THREE_FGA: '33.0'
+  THREE_FGM: '15.0'
+  THREE_PCT: '0.579'
+  TOTAL_FGA: '57.0'
+  TOTAL_FGM: '33.0'
+  id: '1630591'
+  name: Jalen Suggs
+  team: ORL
 - MB_FGA: '59.0'
   MB_FGM: '26.0'
   MB_PCT: '0.786'
@@ -950,6 +950,20 @@
   id: '1631107'
   name: "Nikola Jovi\u0107"
   team: MIA
+- MB_FGA: '147.0'
+  MB_FGM: '108.0'
+  MB_PCT: '0.786'
+  RA_FGA: '133'
+  RA_FGM: '101'
+  RA_PCT: '0.711'
+  THREE_FGA: '14.0'
+  THREE_FGM: '7.0'
+  THREE_PCT: '0.075'
+  TOTAL_FGA: '187.0'
+  TOTAL_FGM: '118.0'
+  id: '203507'
+  name: Giannis Antetokounmpo
+  team: MIL
 - MB_FGA: '58.0'
   MB_FGM: '33.0'
   MB_PCT: '0.783'
@@ -1020,20 +1034,6 @@
   id: '1629638'
   name: Nickeil Alexander-Walker
   team: ATL
-- MB_FGA: '45.0'
-  MB_FGM: '17.0'
-  MB_PCT: '0.776'
-  RA_FGA: '5'
-  RA_FGM: '4'
-  RA_PCT: '0.086'
-  THREE_FGA: '40.0'
-  THREE_FGM: '13.0'
-  THREE_PCT: '0.69'
-  TOTAL_FGA: '58.0'
-  TOTAL_FGM: '24.0'
-  id: '201572'
-  name: Brook Lopez
-  team: LAC
 - MB_FGA: '59.0'
   MB_FGM: '32.0'
   MB_PCT: '0.776'
@@ -1048,6 +1048,20 @@
   id: '1642276'
   name: Kel'el Ware
   team: MIA
+- MB_FGA: '45.0'
+  MB_FGM: '17.0'
+  MB_PCT: '0.776'
+  RA_FGA: '5'
+  RA_FGM: '4'
+  RA_PCT: '0.086'
+  THREE_FGA: '40.0'
+  THREE_FGM: '13.0'
+  THREE_PCT: '0.69'
+  TOTAL_FGA: '58.0'
+  TOTAL_FGM: '24.0'
+  id: '201572'
+  name: Brook Lopez
+  team: LAC
 - MB_FGA: '96.0'
   MB_FGM: '39.0'
   MB_PCT: '0.775'
@@ -1342,20 +1356,6 @@
   id: '1630168'
   name: Onyeka Okongwu
   team: ATL
-- MB_FGA: '76.0'
-  MB_FGM: '27.0'
-  MB_PCT: '0.723'
-  RA_FGA: '18'
-  RA_FGM: '12'
-  RA_PCT: '0.171'
-  THREE_FGA: '58.0'
-  THREE_FGM: '15.0'
-  THREE_PCT: '0.552'
-  TOTAL_FGA: '105.0'
-  TOTAL_FGM: '37.0'
-  id: '1642377'
-  name: Jaylen Wells
-  team: MEM
 - MB_FGA: '86.0'
   MB_FGM: '33.0'
   MB_PCT: '0.723'
@@ -1370,6 +1370,20 @@
   id: '1630170'
   name: Devin Vassell
   team: SAS
+- MB_FGA: '76.0'
+  MB_FGM: '27.0'
+  MB_PCT: '0.723'
+  RA_FGA: '18'
+  RA_FGM: '12'
+  RA_PCT: '0.171'
+  THREE_FGA: '58.0'
+  THREE_FGM: '15.0'
+  THREE_PCT: '0.552'
+  TOTAL_FGA: '105.0'
+  TOTAL_FGM: '37.0'
+  id: '1642377'
+  name: Jaylen Wells
+  team: MEM
 - MB_FGA: '57.0'
   MB_FGM: '15.0'
   MB_PCT: '0.722'
@@ -1496,34 +1510,6 @@
   id: '1630314'
   name: Brandon Williams
   team: DAL
-- MB_FGA: '59.0'
-  MB_FGM: '28.0'
-  MB_PCT: '0.711'
-  RA_FGA: '19'
-  RA_FGM: '14'
-  RA_PCT: '0.229'
-  THREE_FGA: '40.0'
-  THREE_FGM: '14.0'
-  THREE_PCT: '0.482'
-  TOTAL_FGA: '83.0'
-  TOTAL_FGM: '37.0'
-  id: '1629675'
-  name: Naz Reid
-  team: MIN
-- MB_FGA: '49.0'
-  MB_FGM: '29.0'
-  MB_PCT: '0.71'
-  RA_FGA: '38'
-  RA_FGM: '27'
-  RA_PCT: '0.551'
-  THREE_FGA: '11.0'
-  THREE_FGM: '2.0'
-  THREE_PCT: '0.159'
-  TOTAL_FGA: '69.0'
-  TOTAL_FGM: '36.0'
-  id: '1627734'
-  name: Domantas Sabonis
-  team: SAC
 - MB_FGA: '93.0'
   MB_FGM: '36.0'
   MB_PCT: '0.704'
@@ -1538,20 +1524,20 @@
   id: '203468'
   name: CJ McCollum
   team: WAS
-- MB_FGA: '72.0'
-  MB_FGM: '42.0'
-  MB_PCT: '0.699'
-  RA_FGA: '24'
-  RA_FGM: '19'
-  RA_PCT: '0.233'
-  THREE_FGA: '48.0'
-  THREE_FGM: '23.0'
-  THREE_PCT: '0.466'
-  TOTAL_FGA: '103.0'
-  TOTAL_FGM: '53.0'
-  id: '1642273'
-  name: Kyshawn George
-  team: WAS
+- MB_FGA: '68.0'
+  MB_FGM: '31.0'
+  MB_PCT: '0.701'
+  RA_FGA: '19'
+  RA_FGM: '14'
+  RA_PCT: '0.196'
+  THREE_FGA: '49.0'
+  THREE_FGM: '17.0'
+  THREE_PCT: '0.505'
+  TOTAL_FGA: '97.0'
+  TOTAL_FGM: '42.0'
+  id: '1629675'
+  name: Naz Reid
+  team: MIN
 - MB_FGA: '81.0'
   MB_FGM: '35.0'
   MB_PCT: '0.699'
@@ -1566,6 +1552,34 @@
   id: '1630193'
   name: Immanuel Quickley
   team: TOR
+- MB_FGA: '72.0'
+  MB_FGM: '42.0'
+  MB_PCT: '0.699'
+  RA_FGA: '24'
+  RA_FGM: '19'
+  RA_PCT: '0.233'
+  THREE_FGA: '48.0'
+  THREE_FGM: '23.0'
+  THREE_PCT: '0.466'
+  TOTAL_FGA: '103.0'
+  TOTAL_FGM: '53.0'
+  id: '1642273'
+  name: Kyshawn George
+  team: WAS
+- MB_FGA: '60.0'
+  MB_FGM: '33.0'
+  MB_PCT: '0.698'
+  RA_FGA: '47'
+  RA_FGM: '31'
+  RA_PCT: '0.547'
+  THREE_FGA: '13.0'
+  THREE_FGM: '2.0'
+  THREE_PCT: '0.151'
+  TOTAL_FGA: '86.0'
+  TOTAL_FGM: '41.0'
+  id: '1627734'
+  name: Domantas Sabonis
+  team: SAC
 - MB_FGA: '48.0'
   MB_FGM: '22.0'
   MB_PCT: '0.696'
@@ -1581,34 +1595,6 @@
   name: Naji Marshall
   team: DAL
 - MB_FGA: '41.0'
-  MB_FGM: '15.0'
-  MB_PCT: '0.695'
-  RA_FGA: '15'
-  RA_FGM: '7'
-  RA_PCT: '0.254'
-  THREE_FGA: '26.0'
-  THREE_FGM: '8.0'
-  THREE_PCT: '0.441'
-  TOTAL_FGA: '59.0'
-  TOTAL_FGM: '22.0'
-  id: '1642271'
-  name: Kyle Filipowski
-  team: UTA
-- MB_FGA: '91.0'
-  MB_FGM: '46.0'
-  MB_PCT: '0.695'
-  RA_FGA: '28'
-  RA_FGM: '21'
-  RA_PCT: '0.214'
-  THREE_FGA: '63.0'
-  THREE_FGM: '25.0'
-  THREE_PCT: '0.481'
-  TOTAL_FGA: '131.0'
-  TOTAL_FGM: '68.0'
-  id: '203897'
-  name: Zach LaVine
-  team: SAC
-- MB_FGA: '41.0'
   MB_FGM: '23.0'
   MB_PCT: '0.695'
   RA_FGA: '41'
@@ -1622,20 +1608,34 @@
   id: '1630543'
   name: Isaiah Jackson
   team: IND
-- MB_FGA: '79.0'
-  MB_FGM: '51.0'
-  MB_PCT: '0.693'
-  RA_FGA: '59'
-  RA_FGM: '46'
-  RA_PCT: '0.518'
-  THREE_FGA: '20.0'
-  THREE_FGM: '5.0'
-  THREE_PCT: '0.175'
-  TOTAL_FGA: '114.0'
-  TOTAL_FGM: '66.0'
-  id: '1630552'
-  name: Jalen Johnson
-  team: ATL
+- MB_FGA: '103.0'
+  MB_FGM: '54.0'
+  MB_PCT: '0.695'
+  RA_FGA: '31'
+  RA_FGM: '23'
+  RA_PCT: '0.209'
+  THREE_FGA: '72.0'
+  THREE_FGM: '31.0'
+  THREE_PCT: '0.486'
+  TOTAL_FGA: '148.0'
+  TOTAL_FGM: '78.0'
+  id: '203897'
+  name: Zach LaVine
+  team: SAC
+- MB_FGA: '41.0'
+  MB_FGM: '15.0'
+  MB_PCT: '0.695'
+  RA_FGA: '15'
+  RA_FGM: '7'
+  RA_PCT: '0.254'
+  THREE_FGA: '26.0'
+  THREE_FGM: '8.0'
+  THREE_PCT: '0.441'
+  TOTAL_FGA: '59.0'
+  TOTAL_FGM: '22.0'
+  id: '1642271'
+  name: Kyle Filipowski
+  team: UTA
 - MB_FGA: '63.0'
   MB_FGM: '30.0'
   MB_PCT: '0.693'
@@ -1650,6 +1650,20 @@
   id: '1631095'
   name: Jabari Smith Jr.
   team: HOU
+- MB_FGA: '79.0'
+  MB_FGM: '51.0'
+  MB_PCT: '0.693'
+  RA_FGA: '59'
+  RA_FGM: '46'
+  RA_PCT: '0.518'
+  THREE_FGA: '20.0'
+  THREE_FGM: '5.0'
+  THREE_PCT: '0.175'
+  TOTAL_FGA: '114.0'
+  TOTAL_FGM: '66.0'
+  id: '1630552'
+  name: Jalen Johnson
+  team: ATL
 - MB_FGA: '116.0'
   MB_FGM: '38.0'
   MB_PCT: '0.69'
@@ -1678,6 +1692,20 @@
   id: '1628398'
   name: Kyle Kuzma
   team: MIL
+- MB_FGA: '53.0'
+  MB_FGM: '28.0'
+  MB_PCT: '0.689'
+  RA_FGA: '26'
+  RA_FGM: '18'
+  RA_PCT: '0.338'
+  THREE_FGA: '27.0'
+  THREE_FGM: '10.0'
+  THREE_PCT: '0.351'
+  TOTAL_FGA: '77.0'
+  TOTAL_FGM: '38.0'
+  id: '1630558'
+  name: Davion Mitchell
+  team: MIA
 - MB_FGA: '82.0'
   MB_FGM: '37.0'
   MB_PCT: '0.689'
@@ -1706,20 +1734,6 @@
   id: '203935'
   name: Marcus Smart
   team: LAL
-- MB_FGA: '53.0'
-  MB_FGM: '28.0'
-  MB_PCT: '0.689'
-  RA_FGA: '26'
-  RA_FGM: '18'
-  RA_PCT: '0.338'
-  THREE_FGA: '27.0'
-  THREE_FGM: '10.0'
-  THREE_PCT: '0.351'
-  TOTAL_FGA: '77.0'
-  TOTAL_FGM: '38.0'
-  id: '1630558'
-  name: Davion Mitchell
-  team: MIA
 - MB_FGA: '121.0'
   MB_FGM: '60.0'
   MB_PCT: '0.688'
@@ -1748,17 +1762,31 @@
   id: '1629008'
   name: Michael Porter Jr.
   team: BKN
-- MB_FGA: '76.0'
-  MB_FGM: '42.0'
-  MB_PCT: '0.684'
+- MB_FGA: '70.0'
+  MB_FGM: '39.0'
+  MB_PCT: '0.686'
+  RA_FGA: '21'
+  RA_FGM: '15'
+  RA_PCT: '0.206'
+  THREE_FGA: '49.0'
+  THREE_FGM: '24.0'
+  THREE_PCT: '0.48'
+  TOTAL_FGA: '102.0'
+  TOTAL_FGM: '51.0'
+  id: '1630162'
+  name: Anthony Edwards
+  team: MIN
+- MB_FGA: '81.0'
+  MB_FGM: '44.0'
+  MB_PCT: '0.686'
   RA_FGA: '30'
   RA_FGM: '21'
-  RA_PCT: '0.27'
-  THREE_FGA: '46.0'
-  THREE_FGM: '21.0'
-  THREE_PCT: '0.414'
-  TOTAL_FGA: '111.0'
-  TOTAL_FGM: '53.0'
+  RA_PCT: '0.254'
+  THREE_FGA: '51.0'
+  THREE_FGM: '23.0'
+  THREE_PCT: '0.432'
+  TOTAL_FGA: '118.0'
+  TOTAL_FGM: '55.0'
   id: '201566'
   name: Russell Westbrook
   team: SAC
@@ -1832,20 +1860,6 @@
   id: '1630544'
   name: Tre Mann
   team: CHA
-- MB_FGA: '58.0'
-  MB_FGM: '33.0'
-  MB_PCT: '0.675'
-  RA_FGA: '20'
-  RA_FGM: '14'
-  RA_PCT: '0.233'
-  THREE_FGA: '38.0'
-  THREE_FGM: '19.0'
-  THREE_PCT: '0.442'
-  TOTAL_FGA: '86.0'
-  TOTAL_FGM: '44.0'
-  id: '1630162'
-  name: Anthony Edwards
-  team: MIN
 - MB_FGA: '87.0'
   MB_FGM: '51.0'
   MB_PCT: '0.675'
@@ -1916,20 +1930,6 @@
   id: '1641716'
   name: Jarace Walker
   team: IND
-- MB_FGA: '97.0'
-  MB_FGM: '56.0'
-  MB_PCT: '0.664'
-  RA_FGA: '50'
-  RA_FGM: '36'
-  RA_PCT: '0.342'
-  THREE_FGA: '47.0'
-  THREE_FGM: '20.0'
-  THREE_PCT: '0.322'
-  TOTAL_FGA: '146.0'
-  TOTAL_FGM: '81.0'
-  id: '203944'
-  name: Julius Randle
-  team: MIN
 - MB_FGA: '65.0'
   MB_FGM: '24.0'
   MB_PCT: '0.663'
@@ -1958,20 +1958,6 @@
   id: '202699'
   name: Tobias Harris
   team: DET
-- MB_FGA: '94.0'
-  MB_FGM: '44.0'
-  MB_PCT: '0.658'
-  RA_FGA: '42'
-  RA_FGM: '25'
-  RA_PCT: '0.294'
-  THREE_FGA: '52.0'
-  THREE_FGM: '19.0'
-  THREE_PCT: '0.364'
-  TOTAL_FGA: '143.0'
-  TOTAL_FGM: '61.0'
-  id: '1642845'
-  name: VJ Edgecombe
-  team: PHI
 - MB_FGA: '75.0'
   MB_FGM: '32.0'
   MB_PCT: '0.658'
@@ -2014,6 +2000,34 @@
   id: '1630596'
   name: Evan Mobley
   team: CLE
+- MB_FGA: '94.0'
+  MB_FGM: '44.0'
+  MB_PCT: '0.658'
+  RA_FGA: '42'
+  RA_FGM: '25'
+  RA_PCT: '0.294'
+  THREE_FGA: '52.0'
+  THREE_FGM: '19.0'
+  THREE_PCT: '0.364'
+  TOTAL_FGA: '143.0'
+  TOTAL_FGM: '61.0'
+  id: '1642845'
+  name: VJ Edgecombe
+  team: PHI
+- MB_FGA: '106.0'
+  MB_FGM: '60.0'
+  MB_PCT: '0.655'
+  RA_FGA: '55'
+  RA_FGM: '39'
+  RA_PCT: '0.34'
+  THREE_FGA: '51.0'
+  THREE_FGM: '21.0'
+  THREE_PCT: '0.315'
+  TOTAL_FGA: '162.0'
+  TOTAL_FGM: '89.0'
+  id: '203944'
+  name: Julius Randle
+  team: MIN
 - MB_FGA: '82.0'
   MB_FGM: '41.0'
   MB_PCT: '0.651'
@@ -2168,20 +2182,6 @@
   id: '1629651'
   name: Nic Claxton
   team: BKN
-- MB_FGA: '74.0'
-  MB_FGM: '45.0'
-  MB_PCT: '0.633'
-  RA_FGA: '40'
-  RA_FGM: '27'
-  RA_PCT: '0.342'
-  THREE_FGA: '34.0'
-  THREE_FGM: '18.0'
-  THREE_PCT: '0.291'
-  TOTAL_FGA: '117.0'
-  TOTAL_FGM: '63.0'
-  id: '1630183'
-  name: Jaden McDaniels
-  team: MIN
 - MB_FGA: '77.0'
   MB_FGM: '51.0'
   MB_PCT: '0.632'
@@ -2210,6 +2210,20 @@
   id: '1628392'
   name: Isaiah Hartenstein
   team: OKC
+- MB_FGA: '80.0'
+  MB_FGM: '50.0'
+  MB_PCT: '0.63'
+  RA_FGA: '43'
+  RA_FGM: '30'
+  RA_PCT: '0.339'
+  THREE_FGA: '37.0'
+  THREE_FGM: '20.0'
+  THREE_PCT: '0.291'
+  TOTAL_FGA: '127.0'
+  TOTAL_FGM: '71.0'
+  id: '1630183'
+  name: Jaden McDaniels
+  team: MIN
 - MB_FGA: '117.0'
   MB_FGM: '53.0'
   MB_PCT: '0.626'
@@ -2322,20 +2336,6 @@
   id: '1629060'
   name: Rui Hachimura
   team: LAL
-- MB_FGA: '52.0'
-  MB_FGM: '25.0'
-  MB_PCT: '0.598'
-  RA_FGA: '24'
-  RA_FGM: '16'
-  RA_PCT: '0.276'
-  THREE_FGA: '28.0'
-  THREE_FGM: '9.0'
-  THREE_PCT: '0.322'
-  TOTAL_FGA: '87.0'
-  TOTAL_FGM: '40.0'
-  id: '203954'
-  name: Joel Embiid
-  team: PHI
 - MB_FGA: '95.0'
   MB_FGM: '55.0'
   MB_PCT: '0.598'
@@ -2350,6 +2350,20 @@
   id: '1641705'
   name: Victor Wembanyama
   team: SAS
+- MB_FGA: '52.0'
+  MB_FGM: '25.0'
+  MB_PCT: '0.598'
+  RA_FGA: '24'
+  RA_FGM: '16'
+  RA_PCT: '0.276'
+  THREE_FGA: '28.0'
+  THREE_FGM: '9.0'
+  THREE_PCT: '0.322'
+  TOTAL_FGA: '87.0'
+  TOTAL_FGM: '40.0'
+  id: '203954'
+  name: Joel Embiid
+  team: PHI
 - MB_FGA: '77.0'
   MB_FGM: '34.0'
   MB_PCT: '0.597'
@@ -2378,20 +2392,6 @@
   id: '1626156'
   name: D'Angelo Russell
   team: DAL
-- MB_FGA: '44.0'
-  MB_FGM: '25.0'
-  MB_PCT: '0.594'
-  RA_FGA: '10'
-  RA_FGM: '7'
-  RA_PCT: '0.135'
-  THREE_FGA: '34.0'
-  THREE_FGM: '18.0'
-  THREE_PCT: '0.459'
-  TOTAL_FGA: '74.0'
-  TOTAL_FGM: '41.0'
-  id: '1628370'
-  name: Malik Monk
-  team: SAC
 - MB_FGA: '80.0'
   MB_FGM: '50.0'
   MB_PCT: '0.592'
@@ -2420,20 +2420,6 @@
   id: '1627750'
   name: Jamal Murray
   team: DEN
-- MB_FGA: '46.0'
-  MB_FGM: '28.0'
-  MB_PCT: '0.589'
-  RA_FGA: '43'
-  RA_FGM: '28'
-  RA_PCT: '0.551'
-  THREE_FGA: '3.0'
-  THREE_FGM: '0.0'
-  THREE_PCT: '0.038'
-  TOTAL_FGA: '78.0'
-  TOTAL_FGM: '45.0'
-  id: '1628386'
-  name: Jarrett Allen
-  team: CLE
 - MB_FGA: '86.0'
   MB_FGM: '52.0'
   MB_PCT: '0.589'
@@ -2448,20 +2434,20 @@
   id: '1642259'
   name: Alex Sarr
   team: WAS
-- MB_FGA: '44.0'
-  MB_FGM: '25.0'
-  MB_PCT: '0.587'
-  RA_FGA: '33'
-  RA_FGM: '22'
-  RA_PCT: '0.44'
-  THREE_FGA: '11.0'
-  THREE_FGM: '3.0'
-  THREE_PCT: '0.147'
-  TOTAL_FGA: '75.0'
-  TOTAL_FGM: '39.0'
-  id: '203076'
-  name: Anthony Davis
-  team: DAL
+- MB_FGA: '46.0'
+  MB_FGM: '28.0'
+  MB_PCT: '0.589'
+  RA_FGA: '43'
+  RA_FGM: '28'
+  RA_PCT: '0.551'
+  THREE_FGA: '3.0'
+  THREE_FGM: '0.0'
+  THREE_PCT: '0.038'
+  TOTAL_FGA: '78.0'
+  TOTAL_FGM: '45.0'
+  id: '1628386'
+  name: Jarrett Allen
+  team: CLE
 - MB_FGA: '37.0'
   MB_FGM: '21.0'
   MB_PCT: '0.587'
@@ -2476,6 +2462,20 @@
   id: '1642852'
   name: Derik Queen
   team: NOP
+- MB_FGA: '44.0'
+  MB_FGM: '25.0'
+  MB_PCT: '0.587'
+  RA_FGA: '33'
+  RA_FGM: '22'
+  RA_PCT: '0.44'
+  THREE_FGA: '11.0'
+  THREE_FGM: '3.0'
+  THREE_PCT: '0.147'
+  TOTAL_FGA: '75.0'
+  TOTAL_FGM: '39.0'
+  id: '203076'
+  name: Anthony Davis
+  team: DAL
 - MB_FGA: '41.0'
   MB_FGM: '13.0'
   MB_PCT: '0.585'
@@ -2504,6 +2504,20 @@
   id: '202710'
   name: Jimmy Butler III
   team: GSW
+- MB_FGA: '47.0'
+  MB_FGM: '25.0'
+  MB_PCT: '0.58'
+  RA_FGA: '10'
+  RA_FGM: '7'
+  RA_PCT: '0.123'
+  THREE_FGA: '37.0'
+  THREE_FGM: '18.0'
+  THREE_PCT: '0.457'
+  TOTAL_FGA: '81.0'
+  TOTAL_FGM: '42.0'
+  id: '1628370'
+  name: Malik Monk
+  team: SAC
 - MB_FGA: '49.0'
   MB_FGM: '22.0'
   MB_PCT: '0.577'
@@ -2728,17 +2742,17 @@
   id: '203994'
   name: "Jusuf Nurki\u0107"
   team: UTA
-- MB_FGA: '64.0'
-  MB_FGM: '26.0'
-  MB_PCT: '0.538'
-  RA_FGA: '20'
-  RA_FGM: '13'
+- MB_FGA: '67.0'
+  MB_FGM: '27.0'
+  MB_PCT: '0.536'
+  RA_FGA: '21'
+  RA_FGM: '14'
   RA_PCT: '0.168'
-  THREE_FGA: '44.0'
+  THREE_FGA: '46.0'
   THREE_FGM: '13.0'
-  THREE_PCT: '0.37'
-  TOTAL_FGA: '119.0'
-  TOTAL_FGM: '48.0'
+  THREE_PCT: '0.368'
+  TOTAL_FGA: '125.0'
+  TOTAL_FGM: '49.0'
   id: '203471'
   name: "Dennis Schr\xF6der"
   team: SAC
