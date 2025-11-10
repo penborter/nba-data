@@ -90,8 +90,8 @@ def get_shooting_data():
     shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
     shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
   
-  # Sorting the df, min 100 FGA
-  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 100].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
+  # Sorting the df, min 50 FGA
+  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 50].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
   shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
   return shotDF
 
@@ -121,7 +121,7 @@ def distance_leaders():
   df['MILES_PER_GAME'] = df.DIST_MILES / df.GP
   df['MILES_PER_36'] = df.DIST_MILES / df.MIN * 36
 
-  df = df[df.MIN > 500].sort_values(by='MILES_PER_36', ascending=False)
+  df = df[df.MIN > 150].sort_values(by='MILES_PER_36', ascending=False)
 
   df.to_csv('data/dynamic/NBA_Leaders_Distance')
   distance_yaml_list = [{

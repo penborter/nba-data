@@ -64,7 +64,7 @@ def get_shots_yml():
   out['TEAM_ABBREVIATION'] = out['TEAM_ID'].map({team['id']: team['abbreviation'] for team in teams_list})
 
   # Filter and re-order
-  out = out[out.ALL_FGA > 100].sort_values('ALL_ALL_AVG_DISTANCE', ascending=False)
+  out = out[out.ALL_FGA > 50].sort_values('ALL_ALL_AVG_DISTANCE', ascending=False)
   out.to_csv('SHOOTING_DISTANCE_24-25.csv')
 
   shot_distance_list = [{
