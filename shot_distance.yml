@@ -1,47 +1,47 @@
-- all_avg_dist: 23.961
-  fga: '154'
+- all_avg_dist: 23.949
+  fga: '176'
   id: '1631260'
-  made_all_avg_dist: 23.368
-  made_fga: '76.0'
-  made_thr_avg_dist: 24.7
-  made_two_avg_dist: 7.833
-  miss_all_avg_dist: 24.538
-  miss_fga: '78.0'
-  miss_thr_avg_dist: 25.625
+  made_all_avg_dist: 23.314
+  made_fga: '86.0'
+  made_thr_avg_dist: 24.772
+  made_two_avg_dist: 6.857
+  miss_all_avg_dist: 24.556
+  miss_fga: '90.0'
+  miss_thr_avg_dist: 25.488
   miss_two_avg_dist: 11.5
   name: AJ Green
   team: MIL
-  thr_avg_dist: 25.169
-  two_avg_dist: 9.667
-- all_avg_dist: 23.64
-  fga: '136'
+  thr_avg_dist: 25.141
+  two_avg_dist: 9.0
+- all_avg_dist: 23.919
+  fga: '161'
   id: '1630573'
-  made_all_avg_dist: 22.292
-  made_fga: '48.0'
-  made_thr_avg_dist: 25.525
+  made_all_avg_dist: 23.136
+  made_fga: '59.0'
+  made_thr_avg_dist: 25.804
   made_two_avg_dist: 6.125
-  miss_all_avg_dist: 24.375
-  miss_fga: '88.0'
-  miss_thr_avg_dist: 25.896
-  miss_two_avg_dist: 13.727
+  miss_all_avg_dist: 24.373
+  miss_fga: '102.0'
+  miss_thr_avg_dist: 26.146
+  miss_two_avg_dist: 12.231
   name: Sam Hauser
   team: BOS
-  thr_avg_dist: 25.769
-  two_avg_dist: 10.526
-- all_avg_dist: 23.203
-  fga: '74'
+  thr_avg_dist: 26.021
+  two_avg_dist: 9.905
+- all_avg_dist: 23.411
+  fga: '90'
   id: '201587'
-  made_all_avg_dist: 22.926
-  made_fga: '27.0'
-  made_thr_avg_dist: 23.96
+  made_all_avg_dist: 23.176
+  made_fga: '34.0'
+  made_thr_avg_dist: 24.0
   made_two_avg_dist: 10.0
-  miss_all_avg_dist: 23.362
-  miss_fga: '47.0'
-  miss_thr_avg_dist: 24.25
+  miss_all_avg_dist: 23.554
+  miss_fga: '56.0'
+  miss_thr_avg_dist: 24.302
   miss_two_avg_dist: 10.333
   name: Nicolas Batum
   team: LAC
-  thr_avg_dist: 24.145
+  thr_avg_dist: 24.188
   two_avg_dist: 10.2
 - all_avg_dist: 22.474
   fga: '116'
@@ -58,426 +58,456 @@
   team: CLE
   thr_avg_dist: 25.051
   two_avg_dist: 7.471
-- all_avg_dist: 22.356
-  fga: '194'
+- all_avg_dist: 22.473
+  fga: '205'
   id: '1626220'
-  made_all_avg_dist: 21.5
-  made_fga: '84.0'
-  made_thr_avg_dist: 25.537
+  made_all_avg_dist: 21.651
+  made_fga: '86.0'
+  made_thr_avg_dist: 25.609
   made_two_avg_dist: 5.588
-  miss_all_avg_dist: 23.009
-  miss_fga: '110.0'
-  miss_thr_avg_dist: 26.304
-  miss_two_avg_dist: 6.167
+  miss_all_avg_dist: 23.067
+  miss_fga: '119.0'
+  miss_thr_avg_dist: 26.31
+  miss_two_avg_dist: 6.0
   name: Royce O'Neale
   team: PHX
-  thr_avg_dist: 25.981
-  two_avg_dist: 5.886
-- all_avg_dist: 22.206
-  fga: '102'
+  thr_avg_dist: 26.024
+  two_avg_dist: 5.806
+- all_avg_dist: 22.0
+  fga: '113'
   id: '1628366'
-  made_all_avg_dist: 20.258
-  made_fga: '31.0'
-  made_thr_avg_dist: 25.292
-  made_two_avg_dist: 3.0
-  miss_all_avg_dist: 23.056
-  miss_fga: '71.0'
-  miss_thr_avg_dist: 25.459
-  miss_two_avg_dist: 8.4
+  made_all_avg_dist: 19.758
+  made_fga: '33.0'
+  made_thr_avg_dist: 25.24
+  made_two_avg_dist: 2.625
+  miss_all_avg_dist: 22.925
+  miss_fga: '80.0'
+  miss_thr_avg_dist: 25.362
+  miss_two_avg_dist: 7.636
   name: Lonzo Ball
   team: CLE
-  thr_avg_dist: 25.412
-  two_avg_dist: 6.176
-- all_avg_dist: 21.788
-  fga: '104'
+  thr_avg_dist: 25.33
+  two_avg_dist: 5.526
+- all_avg_dist: 21.963
+  fga: '54'
+  id: '1629216'
+  made_all_avg_dist: 21.947
+  made_fga: '19.0'
+  made_thr_avg_dist: 24.875
+  made_two_avg_dist: 6.333
+  miss_all_avg_dist: 21.971
+  miss_fga: '35.0'
+  miss_thr_avg_dist: 25.519
+  miss_two_avg_dist: 10.0
+  name: Gabe Vincent
+  team: LAL
+  thr_avg_dist: 25.279
+  two_avg_dist: 9.0
+- all_avg_dist: 21.845
+  fga: '116'
   id: '1631119'
-  made_all_avg_dist: 19.474
-  made_fga: '38.0'
-  made_thr_avg_dist: 25.148
-  made_two_avg_dist: 5.545
-  miss_all_avg_dist: 23.121
-  miss_fga: '66.0'
-  miss_thr_avg_dist: 24.65
+  made_all_avg_dist: 19.317
+  made_fga: '41.0'
+  made_thr_avg_dist: 25.138
+  made_two_avg_dist: 5.25
+  miss_all_avg_dist: 23.227
+  miss_fga: '75.0'
+  miss_thr_avg_dist: 24.565
   miss_two_avg_dist: 7.833
   name: Jaylin Williams
   team: OKC
-  thr_avg_dist: 24.805
-  two_avg_dist: 6.353
-- all_avg_dist: 21.531
-  fga: '209'
+  thr_avg_dist: 24.735
+  two_avg_dist: 6.111
+- all_avg_dist: 21.391
+  fga: '243'
   id: '202691'
-  made_all_avg_dist: 20.935
-  made_fga: '77.0'
-  made_thr_avg_dist: 24.648
-  made_two_avg_dist: 12.217
-  miss_all_avg_dist: 21.879
-  miss_fga: '132.0'
-  miss_thr_avg_dist: 24.569
-  miss_two_avg_dist: 12.733
+  made_all_avg_dist: 20.899
+  made_fga: '89.0'
+  made_thr_avg_dist: 24.635
+  made_two_avg_dist: 11.846
+  miss_all_avg_dist: 21.675
+  miss_fga: '154.0'
+  miss_thr_avg_dist: 24.6
+  miss_two_avg_dist: 13.051
   name: Klay Thompson
   team: DAL
-  thr_avg_dist: 24.596
-  two_avg_dist: 12.509
-- all_avg_dist: 21.21
-  fga: '143'
+  thr_avg_dist: 24.612
+  two_avg_dist: 12.569
+- all_avg_dist: 21.279
+  fga: '147'
   id: '1630198'
-  made_all_avg_dist: 19.344
-  made_fga: '64.0'
-  made_thr_avg_dist: 24.587
+  made_all_avg_dist: 19.552
+  made_fga: '67.0'
+  made_thr_avg_dist: 24.551
   made_two_avg_dist: 5.944
-  miss_all_avg_dist: 22.722
-  miss_fga: '79.0'
-  miss_thr_avg_dist: 24.881
+  miss_all_avg_dist: 22.725
+  miss_fga: '80.0'
+  miss_thr_avg_dist: 24.853
   miss_two_avg_dist: 10.667
   name: Isaiah Joe
   team: OKC
-  thr_avg_dist: 24.761
+  thr_avg_dist: 24.726
   two_avg_dist: 7.833
-- all_avg_dist: 20.723
-  fga: '94'
-  id: '201572'
-  made_all_avg_dist: 19.105
-  made_fga: '38.0'
-  made_thr_avg_dist: 26.826
-  made_two_avg_dist: 7.267
-  miss_all_avg_dist: 21.821
-  miss_fga: '56.0'
-  miss_thr_avg_dist: 26.366
-  miss_two_avg_dist: 9.4
-  name: Brook Lopez
-  team: LAC
-  thr_avg_dist: 26.531
-  two_avg_dist: 8.333
-- all_avg_dist: 20.661
-  fga: '192'
-  id: '1629130'
-  made_all_avg_dist: 19.107
-  made_fga: '84.0'
-  made_thr_avg_dist: 24.984
-  made_two_avg_dist: 3.522
-  miss_all_avg_dist: 21.87
-  miss_fga: '108.0'
-  miss_thr_avg_dist: 25.099
-  miss_two_avg_dist: 4.588
-  name: Duncan Robinson
-  team: DET
-  thr_avg_dist: 25.053
-  two_avg_dist: 3.975
-- all_avg_dist: 20.582
-  fga: '182'
-  id: '1629018'
-  made_all_avg_dist: 19.789
-  made_fga: '71.0'
-  made_thr_avg_dist: 24.542
-  made_two_avg_dist: 9.87
-  miss_all_avg_dist: 21.09
-  miss_fga: '111.0'
-  miss_thr_avg_dist: 25.037
-  miss_two_avg_dist: 9.931
-  name: Gary Trent Jr.
-  team: MIL
-  thr_avg_dist: 24.854
-  two_avg_dist: 9.904
-- all_avg_dist: 20.507
-  fga: '205'
-  id: '1628978'
-  made_all_avg_dist: 19.386
-  made_fga: '88.0'
-  made_thr_avg_dist: 25.274
-  made_two_avg_dist: 5.346
-  miss_all_avg_dist: 21.35
-  miss_fga: '117.0'
-  miss_thr_avg_dist: 25.223
-  miss_two_avg_dist: 5.522
-  name: Donte DiVincenzo
-  team: MIN
-  thr_avg_dist: 25.244
-  two_avg_dist: 5.429
-- all_avg_dist: 20.429
-  fga: '119'
+- all_avg_dist: 21.007
+  fga: '147'
   id: '1630249'
-  made_all_avg_dist: 19.066
-  made_fga: '61.0'
-  made_thr_avg_dist: 25.442
-  made_two_avg_dist: 3.833
-  miss_all_avg_dist: 21.862
-  miss_fga: '58.0'
-  miss_thr_avg_dist: 24.857
+  made_all_avg_dist: 19.473
+  made_fga: '74.0'
+  made_thr_avg_dist: 25.333
+  made_two_avg_dist: 3.65
+  miss_all_avg_dist: 22.562
+  miss_fga: '73.0'
+  miss_thr_avg_dist: 24.953
   miss_two_avg_dist: 5.556
   name: "V\xEDt Krej\u010D\xED"
   team: ATL
-  thr_avg_dist: 25.13
-  two_avg_dist: 4.407
-- all_avg_dist: 20.149
-  fga: '134'
-  id: '1642856'
-  made_all_avg_dist: 18.314
-  made_fga: '51.0'
-  made_thr_avg_dist: 25.515
-  made_two_avg_dist: 5.111
-  miss_all_avg_dist: 21.277
-  miss_fga: '83.0'
-  miss_thr_avg_dist: 25.516
-  miss_two_avg_dist: 8.762
-  name: "Egor D\xEBmin"
-  team: BKN
-  thr_avg_dist: 25.516
-  two_avg_dist: 7.077
-- all_avg_dist: 20.132
-  fga: '212'
+  thr_avg_dist: 25.127
+  two_avg_dist: 4.241
+- all_avg_dist: 20.798
+  fga: '99'
+  id: '201572'
+  made_all_avg_dist: 19.256
+  made_fga: '39.0'
+  made_thr_avg_dist: 26.75
+  made_two_avg_dist: 7.267
+  miss_all_avg_dist: 21.8
+  miss_fga: '60.0'
+  miss_thr_avg_dist: 26.5
+  miss_two_avg_dist: 8.875
+  name: Brook Lopez
+  team: LAC
+  thr_avg_dist: 26.588
+  two_avg_dist: 8.097
+- all_avg_dist: 20.704
+  fga: '206'
+  id: '1629130'
+  made_all_avg_dist: 19.256
+  made_fga: '90.0'
+  made_thr_avg_dist: 24.909
+  made_two_avg_dist: 3.708
+  miss_all_avg_dist: 21.828
+  miss_fga: '116.0'
+  miss_thr_avg_dist: 25.031
+  miss_two_avg_dist: 4.389
+  name: Duncan Robinson
+  team: DET
+  thr_avg_dist: 24.982
+  two_avg_dist: 4.0
+- all_avg_dist: 20.595
+  fga: '237'
+  id: '1628978'
+  made_all_avg_dist: 19.47
+  made_fga: '100.0'
+  made_thr_avg_dist: 25.097
+  made_two_avg_dist: 5.0
+  miss_all_avg_dist: 21.416
+  miss_fga: '137.0'
+  miss_thr_avg_dist: 25.153
+  miss_two_avg_dist: 5.462
+  name: Donte DiVincenzo
+  team: MIN
+  thr_avg_dist: 25.131
+  two_avg_dist: 5.222
+- all_avg_dist: 20.569
+  fga: '209'
+  id: '1629018'
+  made_all_avg_dist: 19.573
+  made_fga: '82.0'
+  made_thr_avg_dist: 24.63
+  made_two_avg_dist: 9.821
+  miss_all_avg_dist: 21.213
+  miss_fga: '127.0'
+  miss_thr_avg_dist: 25.138
+  miss_two_avg_dist: 10.03
+  name: Gary Trent Jr.
+  team: MIL
+  thr_avg_dist: 24.953
+  two_avg_dist: 9.934
+- all_avg_dist: 20.18
+  fga: '244'
   id: '1631221'
-  made_all_avg_dist: 19.312
-  made_fga: '93.0'
-  made_thr_avg_dist: 25.283
-  made_two_avg_dist: 8.455
-  miss_all_avg_dist: 20.773
-  miss_fga: '119.0'
-  miss_thr_avg_dist: 26.238
-  miss_two_avg_dist: 9.564
+  made_all_avg_dist: 19.259
+  made_fga: '108.0'
+  made_thr_avg_dist: 25.377
+  made_two_avg_dist: 8.436
+  miss_all_avg_dist: 20.912
+  miss_fga: '136.0'
+  miss_thr_avg_dist: 26.141
+  miss_two_avg_dist: 9.977
   name: Collin Gillespie
   team: PHX
-  thr_avg_dist: 25.829
-  two_avg_dist: 9.056
-- all_avg_dist: 20.119
-  fga: '151'
-  id: '1642285'
-  made_all_avg_dist: 20.257
-  made_fga: '70.0'
-  made_thr_avg_dist: 25.283
-  made_two_avg_dist: 10.625
-  miss_all_avg_dist: 20.0
-  miss_fga: '81.0'
-  miss_thr_avg_dist: 25.315
-  miss_two_avg_dist: 9.37
-  name: Cam Spencer
-  team: MEM
-  thr_avg_dist: 25.3
-  two_avg_dist: 9.961
-- all_avg_dist: 19.887
-  fga: '71'
-  id: '1628988'
-  made_all_avg_dist: 18.5
-  made_fga: '30.0'
-  made_thr_avg_dist: 25.55
-  made_two_avg_dist: 4.4
-  miss_all_avg_dist: 20.902
-  miss_fga: '41.0'
-  miss_thr_avg_dist: 25.4
-  miss_two_avg_dist: 8.636
-  name: Aaron Holiday
-  team: HOU
-  thr_avg_dist: 25.46
-  two_avg_dist: 6.619
-- all_avg_dist: 19.846
-  fga: '91'
+  thr_avg_dist: 25.814
+  two_avg_dist: 9.253
+- all_avg_dist: 20.061
+  fga: '98'
   id: '1631165'
-  made_all_avg_dist: 18.128
-  made_fga: '39.0'
-  made_thr_avg_dist: 24.704
+  made_all_avg_dist: 18.3
+  made_fga: '40.0'
+  made_thr_avg_dist: 24.714
   made_two_avg_dist: 3.333
-  miss_all_avg_dist: 21.135
-  miss_fga: '52.0'
-  miss_thr_avg_dist: 24.737
-  miss_two_avg_dist: 11.357
+  miss_all_avg_dist: 21.276
+  miss_fga: '58.0'
+  miss_thr_avg_dist: 24.791
+  miss_two_avg_dist: 11.2
   name: Keon Ellis
   team: SAC
-  thr_avg_dist: 24.723
-  two_avg_dist: 7.654
-- all_avg_dist: 19.643
-  fga: '70'
+  thr_avg_dist: 24.761
+  two_avg_dist: 7.704
+- all_avg_dist: 20.026
+  fga: '78'
   id: '201143'
-  made_all_avg_dist: 17.708
-  made_fga: '24.0'
-  made_thr_avg_dist: 23.75
+  made_all_avg_dist: 18.0
+  made_fga: '25.0'
+  made_thr_avg_dist: 23.824
   made_two_avg_dist: 5.625
-  miss_all_avg_dist: 20.652
-  miss_fga: '46.0'
-  miss_thr_avg_dist: 25.265
-  miss_two_avg_dist: 7.583
+  miss_all_avg_dist: 20.981
+  miss_fga: '53.0'
+  miss_thr_avg_dist: 25.3
+  miss_two_avg_dist: 7.692
   name: Al Horford
   team: GSW
-  thr_avg_dist: 24.78
-  two_avg_dist: 6.8
-- all_avg_dist: 19.582
-  fga: '98'
-  id: '1641722'
-  made_all_avg_dist: 19.061
-  made_fga: '33.0'
-  made_thr_avg_dist: 24.688
-  made_two_avg_dist: 13.765
-  miss_all_avg_dist: 19.846
-  miss_fga: '65.0'
-  miss_thr_avg_dist: 24.947
-  miss_two_avg_dist: 12.667
-  name: Jordan Hawkins
-  team: NOP
-  thr_avg_dist: 24.87
-  two_avg_dist: 13.091
-- all_avg_dist: 19.467
-  fga: '167'
-  id: '203501'
-  made_all_avg_dist: 19.105
-  made_fga: '76.0'
-  made_thr_avg_dist: 25.292
-  made_two_avg_dist: 8.5
-  miss_all_avg_dist: 19.769
-  miss_fga: '91.0'
-  miss_thr_avg_dist: 24.828
-  miss_two_avg_dist: 7.778
-  name: Tim Hardaway Jr.
-  team: DEN
-  thr_avg_dist: 25.027
-  two_avg_dist: 8.145
-- all_avg_dist: 19.386
-  fga: '277'
-  id: '1630202'
-  made_all_avg_dist: 16.504
-  made_fga: '127.0'
-  made_thr_avg_dist: 26.364
-  made_two_avg_dist: 8.972
-  miss_all_avg_dist: 21.827
-  miss_fga: '150.0'
-  miss_thr_avg_dist: 26.381
-  miss_two_avg_dist: 11.2
-  name: Payton Pritchard
-  team: BOS
-  thr_avg_dist: 26.375
-  two_avg_dist: 9.829
-- all_avg_dist: 19.303
+  thr_avg_dist: 24.86
+  two_avg_dist: 6.905
+- all_avg_dist: 19.897
+  fga: '58'
+  id: '201567'
+  made_all_avg_dist: 17.792
+  made_fga: '24.0'
+  made_thr_avg_dist: 25.067
+  made_two_avg_dist: 5.667
+  miss_all_avg_dist: 21.382
+  miss_fga: '34.0'
+  miss_thr_avg_dist: 25.286
+  miss_two_avg_dist: 3.167
+  name: Kevin Love
+  team: UTA
+  thr_avg_dist: 25.209
+  two_avg_dist: 4.667
+- all_avg_dist: 19.842
   fga: '76'
-  id: '1630811'
-  made_all_avg_dist: 19.576
-  made_fga: '33.0'
-  made_thr_avg_dist: 25.952
-  made_two_avg_dist: 8.417
-  miss_all_avg_dist: 19.093
-  miss_fga: '43.0'
-  miss_thr_avg_dist: 24.926
-  miss_two_avg_dist: 9.25
-  name: Keaton Wallace
-  team: ATL
-  thr_avg_dist: 25.375
-  two_avg_dist: 8.893
-- all_avg_dist: 19.267
-  fga: '90'
-  id: '1629731'
-  made_all_avg_dist: 16.485
-  made_fga: '33.0'
-  made_thr_avg_dist: 24.2
-  made_two_avg_dist: 4.615
-  miss_all_avg_dist: 20.877
-  miss_fga: '57.0'
-  miss_thr_avg_dist: 24.34
-  miss_two_avg_dist: 4.6
-  name: Dean Wade
-  team: CLE
-  thr_avg_dist: 24.299
-  two_avg_dist: 4.609
-- all_avg_dist: 19.243
-  fga: '148'
+  id: '1628975'
+  made_all_avg_dist: 20.161
+  made_fga: '31.0'
+  made_thr_avg_dist: 24.333
+  made_two_avg_dist: 5.857
+  miss_all_avg_dist: 19.622
+  miss_fga: '45.0'
+  miss_thr_avg_dist: 24.485
+  miss_two_avg_dist: 6.25
+  name: Jevon Carter
+  team: CHI
+  thr_avg_dist: 24.421
+  two_avg_dist: 6.105
+- all_avg_dist: 19.777
+  fga: '179'
+  id: '1642285'
+  made_all_avg_dist: 19.621
+  made_fga: '87.0'
+  made_thr_avg_dist: 25.34
+  made_two_avg_dist: 10.706
+  miss_all_avg_dist: 19.924
+  miss_fga: '92.0'
+  miss_thr_avg_dist: 25.311
+  miss_two_avg_dist: 9.323
+  name: Cam Spencer
+  team: MEM
+  thr_avg_dist: 25.325
+  two_avg_dist: 10.046
+- all_avg_dist: 19.724
+  fga: '181'
   id: '1630540'
-  made_all_avg_dist: 18.734
-  made_fga: '64.0'
-  made_thr_avg_dist: 24.905
-  made_two_avg_dist: 6.955
-  miss_all_avg_dist: 19.631
-  miss_fga: '84.0'
-  miss_thr_avg_dist: 24.491
-  miss_two_avg_dist: 10.414
+  made_all_avg_dist: 19.392
+  made_fga: '79.0'
+  made_thr_avg_dist: 24.8
+  made_two_avg_dist: 7.0
+  miss_all_avg_dist: 19.98
+  miss_fga: '102.0'
+  miss_thr_avg_dist: 24.493
+  miss_two_avg_dist: 10.545
   name: Miles McBride
   team: NYK
-  thr_avg_dist: 24.67
-  two_avg_dist: 8.922
-- all_avg_dist: 19.107
-  fga: '75'
+  thr_avg_dist: 24.629
+  two_avg_dist: 9.053
+- all_avg_dist: 19.62
+  fga: '163'
+  id: '1642856'
+  made_all_avg_dist: 17.694
+  made_fga: '62.0'
+  made_thr_avg_dist: 25.59
+  made_two_avg_dist: 4.304
+  miss_all_avg_dist: 20.802
+  miss_fga: '101.0'
+  miss_thr_avg_dist: 25.458
+  miss_two_avg_dist: 9.241
+  name: "Egor D\xEBmin"
+  team: BKN
+  thr_avg_dist: 25.505
+  two_avg_dist: 7.058
+- all_avg_dist: 19.522
+  fga: '90'
+  id: '1630811'
+  made_all_avg_dist: 19.778
+  made_fga: '36.0'
+  made_thr_avg_dist: 25.913
+  made_two_avg_dist: 8.923
+  miss_all_avg_dist: 19.352
+  miss_fga: '54.0'
+  miss_thr_avg_dist: 24.971
+  miss_two_avg_dist: 9.8
+  name: Keaton Wallace
+  team: ATL
+  thr_avg_dist: 25.351
+  two_avg_dist: 9.455
+- all_avg_dist: 19.491
+  fga: '116'
+  id: '1641722'
+  made_all_avg_dist: 19.375
+  made_fga: '40.0'
+  made_thr_avg_dist: 24.545
+  made_two_avg_dist: 13.056
+  miss_all_avg_dist: 19.553
+  miss_fga: '76.0'
+  miss_thr_avg_dist: 24.977
+  miss_two_avg_dist: 12.485
+  name: Jordan Hawkins
+  team: NOP
+  thr_avg_dist: 24.831
+  two_avg_dist: 12.686
+- all_avg_dist: 19.358
+  fga: '204'
+  id: '203501'
+  made_all_avg_dist: 18.926
+  made_fga: '94.0'
+  made_thr_avg_dist: 25.175
+  made_two_avg_dist: 9.297
+  miss_all_avg_dist: 19.727
+  miss_fga: '110.0'
+  miss_thr_avg_dist: 24.87
+  miss_two_avg_dist: 7.727
+  name: Tim Hardaway Jr.
+  team: DEN
+  thr_avg_dist: 25.0
+  two_avg_dist: 8.557
+- all_avg_dist: 19.205
+  fga: '336'
+  id: '1630202'
+  made_all_avg_dist: 16.311
+  made_fga: '151.0'
+  made_thr_avg_dist: 26.308
+  made_two_avg_dist: 8.756
+  miss_all_avg_dist: 21.568
+  miss_fga: '185.0'
+  miss_thr_avg_dist: 26.579
+  miss_two_avg_dist: 10.864
+  name: Payton Pritchard
+  team: BOS
+  thr_avg_dist: 26.487
+  two_avg_dist: 9.614
+- all_avg_dist: 19.149
+  fga: '101'
+  id: '1628988'
+  made_all_avg_dist: 18.0
+  made_fga: '46.0'
+  made_thr_avg_dist: 25.655
+  made_two_avg_dist: 4.941
+  miss_all_avg_dist: 20.109
+  miss_fga: '55.0'
+  miss_thr_avg_dist: 25.132
+  miss_two_avg_dist: 8.882
+  name: Aaron Holiday
+  team: HOU
+  thr_avg_dist: 25.358
+  two_avg_dist: 6.912
+- all_avg_dist: 19.146
+  fga: '82'
   id: '203992'
-  made_all_avg_dist: 17.071
-  made_fga: '28.0'
-  made_thr_avg_dist: 25.312
-  made_two_avg_dist: 6.083
-  miss_all_avg_dist: 20.319
-  miss_fga: '47.0'
-  miss_thr_avg_dist: 26.161
+  made_all_avg_dist: 16.875
+  made_fga: '32.0'
+  made_thr_avg_dist: 25.353
+  made_two_avg_dist: 7.267
+  miss_all_avg_dist: 20.6
+  miss_fga: '50.0'
+  miss_thr_avg_dist: 26.059
   miss_two_avg_dist: 9.0
   name: "Bogdan Bogdanovi\u0107"
   team: LAC
-  thr_avg_dist: 25.872
-  two_avg_dist: 7.75
-- all_avg_dist: 19.087
-  fga: '149'
+  thr_avg_dist: 25.824
+  two_avg_dist: 8.161
+- all_avg_dist: 19.115
+  fga: '183'
   id: '1631323'
-  made_all_avg_dist: 17.857
-  made_fga: '63.0'
-  made_thr_avg_dist: 24.595
-  made_two_avg_dist: 4.381
-  miss_all_avg_dist: 19.988
-  miss_fga: '86.0'
-  miss_thr_avg_dist: 24.877
-  miss_two_avg_dist: 4.857
+  made_all_avg_dist: 17.429
+  made_fga: '77.0'
+  made_thr_avg_dist: 24.62
+  made_two_avg_dist: 4.111
+  miss_all_avg_dist: 20.34
+  miss_fga: '106.0'
+  miss_thr_avg_dist: 24.805
+  miss_two_avg_dist: 5.083
   name: Simone Fontecchio
   team: MIA
-  thr_avg_dist: 24.766
-  two_avg_dist: 4.619
-- all_avg_dist: 19.033
-  fga: '181'
-  id: '1630541'
-  made_all_avg_dist: 17.767
-  made_fga: '73.0'
-  made_thr_avg_dist: 24.714
-  made_two_avg_dist: 3.583
-  miss_all_avg_dist: 19.889
-  miss_fga: '108.0'
-  miss_thr_avg_dist: 24.842
-  miss_two_avg_dist: 8.125
-  name: Moses Moody
-  team: GSW
-  thr_avg_dist: 24.792
-  two_avg_dist: 6.179
-- all_avg_dist: 19.029
-  fga: '170'
-  id: '1641730'
-  made_all_avg_dist: 16.418
-  made_fga: '67.0'
-  made_thr_avg_dist: 24.7
-  made_two_avg_dist: 4.148
-  miss_all_avg_dist: 20.728
-  miss_fga: '103.0'
-  miss_thr_avg_dist: 25.062
-  miss_two_avg_dist: 4.773
-  name: Noah Clowney
-  team: BKN
-  thr_avg_dist: 24.942
-  two_avg_dist: 4.429
-- all_avg_dist: 18.936
-  fga: '219'
-  id: '1629014'
-  made_all_avg_dist: 17.031
-  made_fga: '98.0'
-  made_thr_avg_dist: 25.5
-  made_two_avg_dist: 8.208
-  miss_all_avg_dist: 20.479
-  miss_fga: '121.0'
-  miss_thr_avg_dist: 25.986
-  miss_two_avg_dist: 12.104
-  name: Anfernee Simons
-  team: BOS
-  thr_avg_dist: 25.789
-  two_avg_dist: 10.156
-- all_avg_dist: 18.933
-  fga: '180'
+  thr_avg_dist: 24.735
+  two_avg_dist: 4.569
+- all_avg_dist: 19.086
+  fga: '93'
+  id: '1642878'
+  made_all_avg_dist: 17.656
+  made_fga: '32.0'
+  made_thr_avg_dist: 25.316
+  made_two_avg_dist: 6.462
+  miss_all_avg_dist: 19.836
+  miss_fga: '61.0'
+  miss_thr_avg_dist: 25.143
+  miss_two_avg_dist: 8.105
+  name: Tyrese Proctor
+  team: CLE
+  thr_avg_dist: 25.197
+  two_avg_dist: 7.438
+- all_avg_dist: 18.958
+  fga: '214'
   id: '1642263'
-  made_all_avg_dist: 17.602
-  made_fga: '88.0'
-  made_thr_avg_dist: 25.957
-  made_two_avg_dist: 8.452
-  miss_all_avg_dist: 20.207
-  miss_fga: '92.0'
-  miss_thr_avg_dist: 26.107
-  miss_two_avg_dist: 11.028
+  made_all_avg_dist: 17.765
+  made_fga: '102.0'
+  made_thr_avg_dist: 25.889
+  made_two_avg_dist: 8.625
+  miss_all_avg_dist: 20.045
+  miss_fga: '112.0'
+  miss_thr_avg_dist: 26.149
+  miss_two_avg_dist: 10.956
   name: Reed Sheppard
   team: HOU
-  thr_avg_dist: 26.039
-  two_avg_dist: 9.641
+  thr_avg_dist: 26.033
+  two_avg_dist: 9.753
+- all_avg_dist: 18.957
+  fga: '207'
+  id: '1630541'
+  made_all_avg_dist: 17.56
+  made_fga: '84.0'
+  made_thr_avg_dist: 24.696
+  made_two_avg_dist: 3.286
+  miss_all_avg_dist: 19.911
+  miss_fga: '123.0'
+  miss_thr_avg_dist: 24.862
+  miss_two_avg_dist: 7.944
+  name: Moses Moody
+  team: GSW
+  thr_avg_dist: 24.797
+  two_avg_dist: 5.906
+- all_avg_dist: 18.948
+  fga: '97'
+  id: '201144'
+  made_all_avg_dist: 18.676
+  made_fga: '37.0'
+  made_thr_avg_dist: 24.346
+  made_two_avg_dist: 5.273
+  miss_all_avg_dist: 19.117
+  miss_fga: '60.0'
+  miss_thr_avg_dist: 24.643
+  miss_two_avg_dist: 6.222
+  name: Mike Conley
+  team: MIN
+  thr_avg_dist: 24.529
+  two_avg_dist: 5.862
 - all_avg_dist: 18.923
   fga: '310'
   id: '201939'
@@ -493,36 +523,21 @@
   team: GSW
   thr_avg_dist: 26.312
   two_avg_dist: 6.898
-- all_avg_dist: 18.892
-  fga: '139'
-  id: '1641729'
-  made_all_avg_dist: 16.448
-  made_fga: '58.0'
-  made_thr_avg_dist: 24.897
-  made_two_avg_dist: 8.0
-  miss_all_avg_dist: 20.642
-  miss_fga: '81.0'
-  miss_thr_avg_dist: 24.983
-  miss_two_avg_dist: 9.0
-  name: Brice Sensabaugh
-  team: UTA
-  thr_avg_dist: 24.955
-  two_avg_dist: 8.431
-- all_avg_dist: 18.891
-  fga: '184'
+- all_avg_dist: 18.888
+  fga: '196'
   id: '1628960'
-  made_all_avg_dist: 17.765
-  made_fga: '85.0'
+  made_all_avg_dist: 17.636
+  made_fga: '88.0'
   made_thr_avg_dist: 26.019
-  made_two_avg_dist: 4.094
-  miss_all_avg_dist: 19.859
-  miss_fga: '99.0'
-  miss_thr_avg_dist: 26.309
-  miss_two_avg_dist: 5.71
+  made_two_avg_dist: 4.324
+  miss_all_avg_dist: 19.907
+  miss_fga: '108.0'
+  miss_thr_avg_dist: 26.324
+  miss_two_avg_dist: 5.941
   name: Grayson Allen
   team: PHX
-  thr_avg_dist: 26.182
-  two_avg_dist: 4.889
+  thr_avg_dist: 26.195
+  two_avg_dist: 5.132
 - all_avg_dist: 18.871
   fga: '93'
   id: '1629013'
@@ -538,21 +553,36 @@
   team: NYK
   thr_avg_dist: 24.106
   two_avg_dist: 6.074
-- all_avg_dist: 18.833
-  fga: '84'
-  id: '1642878'
-  made_all_avg_dist: 16.966
-  made_fga: '29.0'
-  made_thr_avg_dist: 25.5
-  made_two_avg_dist: 6.462
-  miss_all_avg_dist: 19.818
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 25.132
-  miss_two_avg_dist: 7.941
-  name: Tyrese Proctor
+- all_avg_dist: 18.855
+  fga: '110'
+  id: '1629731'
+  made_all_avg_dist: 15.732
+  made_fga: '41.0'
+  made_thr_avg_dist: 24.083
+  made_two_avg_dist: 3.941
+  miss_all_avg_dist: 20.71
+  miss_fga: '69.0'
+  miss_thr_avg_dist: 24.263
+  miss_two_avg_dist: 3.833
+  name: Dean Wade
   team: CLE
-  thr_avg_dist: 25.241
-  two_avg_dist: 7.3
+  thr_avg_dist: 24.21
+  two_avg_dist: 3.897
+- all_avg_dist: 18.842
+  fga: '259'
+  id: '1629014'
+  made_all_avg_dist: 17.088
+  made_fga: '114.0'
+  made_thr_avg_dist: 25.559
+  made_two_avg_dist: 8.0
+  miss_all_avg_dist: 20.221
+  miss_fga: '145.0'
+  miss_thr_avg_dist: 25.966
+  miss_two_avg_dist: 11.351
+  name: Anfernee Simons
+  team: BOS
+  thr_avg_dist: 25.803
+  two_avg_dist: 9.705
 - all_avg_dist: 18.8
   fga: '110'
   id: '1629652'
@@ -568,276 +598,321 @@
   team: OKC
   thr_avg_dist: 24.818
   two_avg_dist: 4.758
-- all_avg_dist: 18.776
-  fga: '116'
-  id: '1642366'
-  made_all_avg_dist: 14.615
-  made_fga: '52.0'
-  made_thr_avg_dist: 24.84
-  made_two_avg_dist: 5.148
-  miss_all_avg_dist: 22.156
-  miss_fga: '64.0'
-  miss_thr_avg_dist: 25.019
-  miss_two_avg_dist: 6.7
-  name: Quinten Post
-  team: GSW
-  thr_avg_dist: 24.962
-  two_avg_dist: 5.568
-- all_avg_dist: 18.753
-  fga: '158'
-  id: '1630577'
-  made_all_avg_dist: 16.25
-  made_fga: '64.0'
-  made_thr_avg_dist: 24.214
-  made_two_avg_dist: 1.045
-  miss_all_avg_dist: 20.457
-  miss_fga: '94.0'
-  miss_thr_avg_dist: 24.527
-  miss_two_avg_dist: 5.4
-  name: Julian Champagnie
-  team: SAS
-  thr_avg_dist: 24.414
-  two_avg_dist: 3.119
-- all_avg_dist: 18.712
-  fga: '125'
-  id: '1630533'
-  made_all_avg_dist: 15.167
-  made_fga: '48.0'
-  made_thr_avg_dist: 24.741
-  made_two_avg_dist: 2.857
-  miss_all_avg_dist: 20.922
-  miss_fga: '77.0'
-  miss_thr_avg_dist: 24.397
-  miss_two_avg_dist: 5.286
-  name: Ziaire Williams
-  team: BKN
-  thr_avg_dist: 24.5
-  two_avg_dist: 3.829
-- all_avg_dist: 18.686
-  fga: '137'
-  id: '1627741'
-  made_all_avg_dist: 14.464
-  made_fga: '56.0'
-  made_thr_avg_dist: 25.143
-  made_two_avg_dist: 3.786
-  miss_all_avg_dist: 21.605
-  miss_fga: '81.0'
-  miss_thr_avg_dist: 25.73
-  miss_two_avg_dist: 7.167
-  name: Buddy Hield
-  team: GSW
-  thr_avg_dist: 25.549
-  two_avg_dist: 5.109
-- all_avg_dist: 18.614
-  fga: '83'
-  id: '201144'
-  made_all_avg_dist: 19.0
-  made_fga: '34.0'
-  made_thr_avg_dist: 24.4
-  made_two_avg_dist: 4.0
-  miss_all_avg_dist: 18.347
-  miss_fga: '49.0'
-  miss_thr_avg_dist: 24.719
-  miss_two_avg_dist: 6.353
-  name: Mike Conley
-  team: MIN
-  thr_avg_dist: 24.579
-  two_avg_dist: 5.538
-- all_avg_dist: 18.51
-  fga: '143'
-  id: '1629004'
-  made_all_avg_dist: 15.145
-  made_fga: '69.0'
-  made_thr_avg_dist: 24.514
-  made_two_avg_dist: 5.5
-  miss_all_avg_dist: 21.649
-  miss_fga: '74.0'
-  miss_thr_avg_dist: 24.619
-  miss_two_avg_dist: 4.636
-  name: Svi Mykhailiuk
-  team: UTA
-  thr_avg_dist: 24.582
-  two_avg_dist: 5.289
-- all_avg_dist: 18.434
-  fga: '76'
+- all_avg_dist: 18.787
+  fga: '356'
+  id: '1628401'
+  made_all_avg_dist: 17.164
+  made_fga: '140.0'
+  made_thr_avg_dist: 25.986
+  made_two_avg_dist: 8.087
+  miss_all_avg_dist: 19.838
+  miss_fga: '216.0'
+  miss_thr_avg_dist: 25.77
+  miss_two_avg_dist: 9.13
+  name: Derrick White
+  team: BOS
+  thr_avg_dist: 25.843
+  two_avg_dist: 8.637
+- all_avg_dist: 18.786
+  fga: '56'
+  id: '101108'
+  made_all_avg_dist: 18.0
+  made_fga: '18.0'
+  made_thr_avg_dist: 25.4
+  made_two_avg_dist: 8.75
+  miss_all_avg_dist: 19.158
+  miss_fga: '38.0'
+  miss_thr_avg_dist: 25.55
+  miss_two_avg_dist: 12.056
+  name: Chris Paul
+  team: LAC
+  thr_avg_dist: 25.5
+  two_avg_dist: 11.038
+- all_avg_dist: 18.734
+  fga: '79'
   id: '1630592'
   made_all_avg_dist: 18.036
   made_fga: '28.0'
   made_thr_avg_dist: 24.833
   made_two_avg_dist: 5.8
-  miss_all_avg_dist: 18.667
-  miss_fga: '48.0'
-  miss_thr_avg_dist: 24.879
+  miss_all_avg_dist: 19.118
+  miss_fga: '51.0'
+  miss_thr_avg_dist: 25.0
   miss_two_avg_dist: 5.0
   name: Jalen Wilson
   team: BKN
-  thr_avg_dist: 24.863
+  thr_avg_dist: 24.944
   two_avg_dist: 5.32
-- all_avg_dist: 18.261
-  fga: '284'
-  id: '1628401'
-  made_all_avg_dist: 16.757
-  made_fga: '103.0'
-  made_thr_avg_dist: 25.49
-  made_two_avg_dist: 8.192
-  miss_all_avg_dist: 19.116
-  miss_fga: '181.0'
-  miss_thr_avg_dist: 25.545
-  miss_two_avg_dist: 9.155
-  name: Derrick White
-  team: BOS
-  thr_avg_dist: 25.528
-  two_avg_dist: 8.748
-- all_avg_dist: 18.26
-  fga: '123'
-  id: '1630643'
-  made_all_avg_dist: 14.288
-  made_fga: '52.0'
-  made_thr_avg_dist: 26.222
-  made_two_avg_dist: 1.4
-  miss_all_avg_dist: 21.169
-  miss_fga: '71.0'
-  miss_thr_avg_dist: 25.614
-  miss_two_avg_dist: 3.071
-  name: Jay Huff
-  team: IND
-  thr_avg_dist: 25.81
-  two_avg_dist: 2.0
-- all_avg_dist: 18.247
-  fga: '93'
+- all_avg_dist: 18.728
+  fga: '184'
+  id: '1630577'
+  made_all_avg_dist: 16.197
+  made_fga: '76.0'
+  made_thr_avg_dist: 24.204
+  made_two_avg_dist: 1.667
+  miss_all_avg_dist: 20.509
+  miss_fga: '108.0'
+  miss_thr_avg_dist: 24.565
+  miss_two_avg_dist: 5.522
+  name: Julian Champagnie
+  team: SAS
+  thr_avg_dist: 24.433
+  two_avg_dist: 3.44
+- all_avg_dist: 18.643
+  fga: '157'
+  id: '1630533'
+  made_all_avg_dist: 14.71
+  made_fga: '62.0'
+  made_thr_avg_dist: 24.853
+  made_two_avg_dist: 2.393
+  miss_all_avg_dist: 21.211
+  miss_fga: '95.0'
+  miss_thr_avg_dist: 24.519
+  miss_two_avg_dist: 4.875
+  name: Ziaire Williams
+  team: BKN
+  thr_avg_dist: 24.619
+  two_avg_dist: 3.295
+- all_avg_dist: 18.611
+  fga: '108'
   id: '1642348'
-  made_all_avg_dist: 16.105
-  made_fga: '38.0'
-  made_thr_avg_dist: 25.35
-  made_two_avg_dist: 5.833
-  miss_all_avg_dist: 19.727
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 25.316
-  miss_two_avg_dist: 7.235
+  made_all_avg_dist: 16.864
+  made_fga: '44.0'
+  made_thr_avg_dist: 25.36
+  made_two_avg_dist: 5.684
+  miss_all_avg_dist: 19.812
+  miss_fga: '64.0'
+  miss_thr_avg_dist: 25.455
+  miss_two_avg_dist: 7.4
   name: Justin Edwards
   team: PHI
-  thr_avg_dist: 25.328
-  two_avg_dist: 6.514
-- all_avg_dist: 18.221
-  fga: '113'
-  id: '1631126'
-  made_all_avg_dist: 15.361
-  made_fga: '36.0'
-  made_thr_avg_dist: 26.111
-  made_two_avg_dist: 4.611
-  miss_all_avg_dist: 19.558
-  miss_fga: '77.0'
-  miss_thr_avg_dist: 25.654
-  miss_two_avg_dist: 6.88
-  name: Caleb Love
-  team: POR
-  thr_avg_dist: 25.771
-  two_avg_dist: 5.93
-- all_avg_dist: 18.12
-  fga: '249'
+  thr_avg_dist: 25.42
+  two_avg_dist: 6.564
+- all_avg_dist: 18.586
+  fga: '157'
+  id: '1641729'
+  made_all_avg_dist: 16.516
+  made_fga: '64.0'
+  made_thr_avg_dist: 24.909
+  made_two_avg_dist: 7.581
+  miss_all_avg_dist: 20.011
+  miss_fga: '93.0'
+  miss_thr_avg_dist: 25.092
+  miss_two_avg_dist: 8.214
+  name: Brice Sensabaugh
+  team: UTA
+  thr_avg_dist: 25.031
+  two_avg_dist: 7.881
+- all_avg_dist: 18.571
+  fga: '56'
+  id: '1641733'
+  made_all_avg_dist: 18.269
+  made_fga: '26.0'
+  made_thr_avg_dist: 26.071
+  made_two_avg_dist: 9.167
+  miss_all_avg_dist: 18.833
+  miss_fga: '30.0'
+  miss_thr_avg_dist: 26.067
+  miss_two_avg_dist: 11.6
+  name: Nick Smith Jr.
+  team: LAL
+  thr_avg_dist: 26.069
+  two_avg_dist: 10.519
+- all_avg_dist: 18.407
+  fga: '290'
   id: '1630170'
-  made_all_avg_dist: 17.091
-  made_fga: '110.0'
-  made_thr_avg_dist: 24.745
-  made_two_avg_dist: 10.475
-  miss_all_avg_dist: 18.935
-  miss_fga: '139.0'
-  miss_thr_avg_dist: 24.878
-  miss_two_avg_dist: 10.386
+  made_all_avg_dist: 17.688
+  made_fga: '128.0'
+  made_thr_avg_dist: 24.698
+  made_two_avg_dist: 10.892
+  miss_all_avg_dist: 18.975
+  miss_fga: '162.0'
+  miss_thr_avg_dist: 24.883
+  miss_two_avg_dist: 10.809
   name: Devin Vassell
   team: SAS
-  thr_avg_dist: 24.827
-  two_avg_dist: 10.431
-- all_avg_dist: 17.985
-  fga: '68'
+  thr_avg_dist: 24.809
+  two_avg_dist: 10.85
+- all_avg_dist: 18.396
+  fga: '240'
+  id: '1626167'
+  made_all_avg_dist: 16.629
+  made_fga: '105.0'
+  made_thr_avg_dist: 25.31
+  made_two_avg_dist: 5.915
+  miss_all_avg_dist: 19.77
+  miss_fga: '135.0'
+  miss_thr_avg_dist: 25.678
+  miss_two_avg_dist: 7.956
+  name: Myles Turner
+  team: MIL
+  thr_avg_dist: 25.534
+  two_avg_dist: 6.913
+- all_avg_dist: 18.288
+  fga: '66'
+  id: '1642862'
+  made_all_avg_dist: 18.154
+  made_fga: '26.0'
+  made_thr_avg_dist: 24.389
+  made_two_avg_dist: 4.125
+  miss_all_avg_dist: 18.375
+  miss_fga: '40.0'
+  miss_thr_avg_dist: 25.385
+  miss_two_avg_dist: 5.357
+  name: Liam McNeeley
+  team: CHA
+  thr_avg_dist: 24.977
+  two_avg_dist: 4.909
+- all_avg_dist: 18.283
+  fga: '166'
+  id: '1629004'
+  made_all_avg_dist: 15.418
+  made_fga: '79.0'
+  made_thr_avg_dist: 24.381
+  made_two_avg_dist: 5.243
+  miss_all_avg_dist: 20.885
+  miss_fga: '87.0'
+  miss_thr_avg_dist: 24.577
+  miss_two_avg_dist: 4.5
+  name: Svi Mykhailiuk
+  team: UTA
+  thr_avg_dist: 24.504
+  two_avg_dist: 5.019
+- all_avg_dist: 18.232
+  fga: '95'
+  id: '1630702'
+  made_all_avg_dist: 18.658
+  made_fga: '38.0'
+  made_thr_avg_dist: 24.2
+  made_two_avg_dist: 8.0
+  miss_all_avg_dist: 17.947
+  miss_fga: '57.0'
+  miss_thr_avg_dist: 24.429
+  miss_two_avg_dist: 7.636
+  name: Jaden Hardy
+  team: DAL
+  thr_avg_dist: 24.333
+  two_avg_dist: 7.771
+- all_avg_dist: 18.147
+  fga: '218'
+  id: '1641730'
+  made_all_avg_dist: 15.791
+  made_fga: '91.0'
+  made_thr_avg_dist: 24.491
+  made_two_avg_dist: 3.658
+  miss_all_avg_dist: 19.835
+  miss_fga: '127.0'
+  miss_thr_avg_dist: 25.042
+  miss_two_avg_dist: 4.375
+  name: Noah Clowney
+  team: BKN
+  thr_avg_dist: 24.845
+  two_avg_dist: 3.986
+- all_avg_dist: 18.137
+  fga: '153'
+  id: '1642366'
+  made_all_avg_dist: 14.812
+  made_fga: '69.0'
+  made_thr_avg_dist: 24.971
+  made_two_avg_dist: 4.353
+  miss_all_avg_dist: 20.869
+  miss_fga: '84.0'
+  miss_thr_avg_dist: 24.862
+  miss_two_avg_dist: 7.211
+  name: Quinten Post
+  team: GSW
+  thr_avg_dist: 24.9
+  two_avg_dist: 5.377
+- all_avg_dist: 18.104
+  fga: '144'
+  id: '1630643'
+  made_all_avg_dist: 13.825
+  made_fga: '63.0'
+  made_thr_avg_dist: 26.094
+  made_two_avg_dist: 1.161
+  miss_all_avg_dist: 21.432
+  miss_fga: '81.0'
+  miss_thr_avg_dist: 25.636
+  miss_two_avg_dist: 2.933
+  name: Jay Huff
+  team: IND
+  thr_avg_dist: 25.786
+  two_avg_dist: 1.739
+- all_avg_dist: 18.087
+  fga: '149'
+  id: '1642267'
+  made_all_avg_dist: 20.385
+  made_fga: '52.0'
+  made_thr_avg_dist: 25.97
+  made_two_avg_dist: 10.684
+  miss_all_avg_dist: 16.856
+  miss_fga: '97.0'
+  miss_thr_avg_dist: 25.455
+  miss_two_avg_dist: 9.717
+  name: Bub Carrington
+  team: WAS
+  thr_avg_dist: 25.675
+  two_avg_dist: 9.972
+- all_avg_dist: 18.066
+  fga: '183'
+  id: '1627741'
+  made_all_avg_dist: 14.176
+  made_fga: '74.0'
+  made_thr_avg_dist: 25.111
+  made_two_avg_dist: 3.816
+  miss_all_avg_dist: 20.706
+  miss_fga: '109.0'
+  miss_thr_avg_dist: 25.634
+  miss_two_avg_dist: 5.741
+  name: Buddy Hield
+  team: GSW
+  thr_avg_dist: 25.475
+  two_avg_dist: 4.615
+- all_avg_dist: 17.915
+  fga: '71'
   id: '1641724'
   made_all_avg_dist: 15.903
   made_fga: '31.0'
   made_thr_avg_dist: 24.882
   made_two_avg_dist: 5.0
-  miss_all_avg_dist: 19.73
-  miss_fga: '37.0'
-  miss_thr_avg_dist: 25.259
-  miss_two_avg_dist: 4.8
+  miss_all_avg_dist: 19.475
+  miss_fga: '40.0'
+  miss_thr_avg_dist: 25.103
+  miss_two_avg_dist: 4.636
   name: Jett Howard
   team: ORL
-  thr_avg_dist: 25.114
-  two_avg_dist: 4.917
-- all_avg_dist: 17.934
-  fga: '61'
-  id: '1642920'
-  made_all_avg_dist: 16.261
-  made_fga: '23.0'
-  made_thr_avg_dist: 24.417
-  made_two_avg_dist: 7.364
-  miss_all_avg_dist: 18.947
-  miss_fga: '38.0'
-  miss_thr_avg_dist: 24.522
-  miss_two_avg_dist: 10.4
-  name: Kobe Sanders
-  team: LAC
-  thr_avg_dist: 24.486
-  two_avg_dist: 9.115
-- all_avg_dist: 17.853
-  fga: '150'
-  id: '1630631'
-  made_all_avg_dist: 15.468
-  made_fga: '62.0'
-  made_thr_avg_dist: 24.824
-  made_two_avg_dist: 4.107
-  miss_all_avg_dist: 19.534
-  miss_fga: '88.0'
-  miss_thr_avg_dist: 25.063
-  miss_two_avg_dist: 5.6
-  name: Jose Alvarado
-  team: NOP
-  thr_avg_dist: 24.979
-  two_avg_dist: 4.811
-- all_avg_dist: 17.837
-  fga: '80'
-  id: '1630702'
-  made_all_avg_dist: 18.3
-  made_fga: '30.0'
-  made_thr_avg_dist: 24.1
-  made_two_avg_dist: 6.7
-  miss_all_avg_dist: 17.56
-  miss_fga: '50.0'
-  miss_thr_avg_dist: 24.3
-  miss_two_avg_dist: 7.45
-  name: Jaden Hardy
-  team: DAL
-  thr_avg_dist: 24.22
-  two_avg_dist: 7.2
-- all_avg_dist: 17.815
-  fga: '270'
+  thr_avg_dist: 25.022
+  two_avg_dist: 4.84
+- all_avg_dist: 17.868
+  fga: '144'
+  id: '1631126'
+  made_all_avg_dist: 14.915
+  made_fga: '47.0'
+  made_thr_avg_dist: 26.217
+  made_two_avg_dist: 4.083
+  miss_all_avg_dist: 19.299
+  miss_fga: '97.0'
+  miss_thr_avg_dist: 25.569
+  miss_two_avg_dist: 6.562
+  name: Caleb Love
+  team: POR
+  thr_avg_dist: 25.739
+  two_avg_dist: 5.5
+- all_avg_dist: 17.751
+  fga: '329'
   id: '1642851'
-  made_all_avg_dist: 15.85
-  made_fga: '127.0'
-  made_thr_avg_dist: 24.739
-  made_two_avg_dist: 5.276
-  miss_all_avg_dist: 19.559
-  miss_fga: '143.0'
-  miss_thr_avg_dist: 25.418
-  miss_two_avg_dist: 6.8
+  made_all_avg_dist: 15.901
+  made_fga: '151.0'
+  made_thr_avg_dist: 24.84
+  made_two_avg_dist: 5.557
+  miss_all_avg_dist: 19.32
+  miss_fga: '178.0'
+  miss_thr_avg_dist: 25.508
+  miss_two_avg_dist: 6.517
   name: Kon Knueppel
   team: CHA
-  thr_avg_dist: 25.138
-  two_avg_dist: 5.942
-- all_avg_dist: 17.774
-  fga: '208'
-  id: '1626167'
-  made_all_avg_dist: 15.924
-  made_fga: '92.0'
-  made_thr_avg_dist: 25.167
-  made_two_avg_dist: 5.841
-  miss_all_avg_dist: 19.241
-  miss_fga: '116.0'
-  miss_thr_avg_dist: 25.635
-  miss_two_avg_dist: 7.976
-  name: Myles Turner
-  team: MIL
-  thr_avg_dist: 25.451
-  two_avg_dist: 6.884
+  thr_avg_dist: 25.239
+  two_avg_dist: 5.992
 - all_avg_dist: 17.738
   fga: '103'
   id: '1630557'
@@ -868,51 +943,36 @@
   team: LAL
   thr_avg_dist: 24.857
   two_avg_dist: 6.5
-- all_avg_dist: 17.614
-  fga: '101'
+- all_avg_dist: 17.68
+  fga: '172'
+  id: '1630631'
+  made_all_avg_dist: 15.737
+  made_fga: '76.0'
+  made_thr_avg_dist: 24.81
+  made_two_avg_dist: 4.529
+  miss_all_avg_dist: 19.219
+  miss_fga: '96.0'
+  miss_thr_avg_dist: 25.045
+  miss_two_avg_dist: 5.759
+  name: Jose Alvarado
+  team: NOP
+  thr_avg_dist: 24.954
+  two_avg_dist: 5.095
+- all_avg_dist: 17.554
+  fga: '121'
   id: '1628379'
-  made_all_avg_dist: 16.891
-  made_fga: '46.0'
-  made_thr_avg_dist: 24.24
-  made_two_avg_dist: 8.143
-  miss_all_avg_dist: 18.218
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 24.639
-  miss_two_avg_dist: 6.053
+  made_all_avg_dist: 17.121
+  made_fga: '58.0'
+  made_thr_avg_dist: 24.406
+  made_two_avg_dist: 8.154
+  miss_all_avg_dist: 17.952
+  miss_fga: '63.0'
+  miss_thr_avg_dist: 24.585
+  miss_two_avg_dist: 5.591
   name: Luke Kennard
   team: ATL
-  thr_avg_dist: 24.475
-  two_avg_dist: 7.15
-- all_avg_dist: 17.596
-  fga: '52'
-  id: '1627824'
-  made_all_avg_dist: 14.368
-  made_fga: '19.0'
-  made_thr_avg_dist: 24.4
-  made_two_avg_dist: 3.222
-  miss_all_avg_dist: 19.455
-  miss_fga: '33.0'
-  miss_thr_avg_dist: 24.04
-  miss_two_avg_dist: 5.125
-  name: Guerschon Yabusele
-  team: NYK
-  thr_avg_dist: 24.143
-  two_avg_dist: 4.118
-- all_avg_dist: 17.535
-  fga: '340'
-  id: '1629029'
-  made_all_avg_dist: 14.144
-  made_fga: '160.0'
-  made_thr_avg_dist: 26.482
-  made_two_avg_dist: 7.5
-  miss_all_avg_dist: 20.55
-  miss_fga: '180.0'
-  miss_thr_avg_dist: 26.367
-  miss_two_avg_dist: 11.62
-  name: "Luka Don\u010Di\u0107"
-  team: LAL
-  thr_avg_dist: 26.406
-  two_avg_dist: 9.171
+  thr_avg_dist: 24.507
+  two_avg_dist: 6.979
 - all_avg_dist: 17.495
   fga: '99'
   id: '1629673'
@@ -929,20 +989,20 @@
   thr_avg_dist: 26.22
   two_avg_dist: 4.625
 - all_avg_dist: 17.493
-  fga: '73'
-  id: '1642266'
-  made_all_avg_dist: 15.875
-  made_fga: '32.0'
-  made_thr_avg_dist: 24.0
-  made_two_avg_dist: 2.333
-  miss_all_avg_dist: 18.756
-  miss_fga: '41.0'
-  miss_thr_avg_dist: 25.107
-  miss_two_avg_dist: 5.077
-  name: Ja'Kobe Walter
-  team: TOR
-  thr_avg_dist: 24.646
-  two_avg_dist: 3.76
+  fga: '67'
+  id: '1626145'
+  made_all_avg_dist: 15.391
+  made_fga: '23.0'
+  made_thr_avg_dist: 25.273
+  made_two_avg_dist: 6.333
+  miss_all_avg_dist: 18.591
+  miss_fga: '44.0'
+  miss_thr_avg_dist: 24.862
+  miss_two_avg_dist: 6.467
+  name: Tyus Jones
+  team: ORL
+  thr_avg_dist: 24.975
+  two_avg_dist: 6.407
 - all_avg_dist: 17.486
   fga: '146'
   id: '1642848'
@@ -958,66 +1018,111 @@
   team: WAS
   thr_avg_dist: 25.513
   two_avg_dist: 8.771
-- all_avg_dist: 17.255
-  fga: '341'
-  id: '201935'
-  made_all_avg_dist: 15.195
-  made_fga: '149.0'
-  made_thr_avg_dist: 26.324
-  made_two_avg_dist: 5.064
-  miss_all_avg_dist: 18.854
-  miss_fga: '192.0'
-  miss_thr_avg_dist: 26.392
-  miss_two_avg_dist: 6.292
-  name: James Harden
-  team: LAC
-  thr_avg_dist: 26.366
-  two_avg_dist: 5.653
-- all_avg_dist: 17.25
-  fga: '88'
-  id: '1642261'
-  made_all_avg_dist: 13.875
-  made_fga: '40.0'
-  made_thr_avg_dist: 25.062
-  made_two_avg_dist: 6.417
-  miss_all_avg_dist: 20.062
-  miss_fga: '48.0'
-  miss_thr_avg_dist: 25.182
-  miss_two_avg_dist: 8.8
-  name: Dalton Knecht
+- all_avg_dist: 17.484
+  fga: '64'
+  id: '1627824'
+  made_all_avg_dist: 13.577
+  made_fga: '26.0'
+  made_thr_avg_dist: 24.154
+  made_two_avg_dist: 3.0
+  miss_all_avg_dist: 20.158
+  miss_fga: '38.0'
+  miss_thr_avg_dist: 24.167
+  miss_two_avg_dist: 5.125
+  name: Guerschon Yabusele
+  team: NYK
+  thr_avg_dist: 24.163
+  two_avg_dist: 3.81
+- all_avg_dist: 17.374
+  fga: '390'
+  id: '1629029'
+  made_all_avg_dist: 14.12
+  made_fga: '184.0'
+  made_thr_avg_dist: 26.41
+  made_two_avg_dist: 8.024
+  miss_all_avg_dist: 20.282
+  miss_fga: '206.0'
+  miss_thr_avg_dist: 26.314
+  miss_two_avg_dist: 11.694
+  name: "Luka Don\u010Di\u0107"
   team: LAL
-  thr_avg_dist: 25.143
-  two_avg_dist: 7.333
-- all_avg_dist: 17.207
-  fga: '58'
+  thr_avg_dist: 26.346
+  two_avg_dist: 9.524
+- all_avg_dist: 17.374
+  fga: '91'
   id: '202331'
-  made_all_avg_dist: 15.417
-  made_fga: '24.0'
-  made_thr_avg_dist: 25.444
-  made_two_avg_dist: 9.4
-  miss_all_avg_dist: 18.471
-  miss_fga: '34.0'
-  miss_thr_avg_dist: 25.4
-  miss_two_avg_dist: 8.571
+  made_all_avg_dist: 16.158
+  made_fga: '38.0'
+  made_thr_avg_dist: 25.133
+  made_two_avg_dist: 10.304
+  miss_all_avg_dist: 18.245
+  miss_fga: '53.0'
+  miss_thr_avg_dist: 25.464
+  miss_two_avg_dist: 10.16
   name: Paul George
   team: PHI
-  thr_avg_dist: 25.414
-  two_avg_dist: 9.0
-- all_avg_dist: 17.172
-  fga: '116'
-  id: '1642267'
-  made_all_avg_dist: 19.366
-  made_fga: '41.0'
-  made_thr_avg_dist: 25.76
-  made_two_avg_dist: 9.375
-  miss_all_avg_dist: 15.973
-  miss_fga: '75.0'
-  miss_thr_avg_dist: 25.355
-  miss_two_avg_dist: 9.364
-  name: Bub Carrington
-  team: WAS
-  thr_avg_dist: 25.536
-  two_avg_dist: 9.367
+  thr_avg_dist: 25.349
+  two_avg_dist: 10.229
+- all_avg_dist: 17.337
+  fga: '101'
+  id: '1642261'
+  made_all_avg_dist: 14.298
+  made_fga: '47.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 6.37
+  miss_all_avg_dist: 19.981
+  miss_fga: '54.0'
+  miss_thr_avg_dist: 25.378
+  miss_two_avg_dist: 8.235
+  name: Dalton Knecht
+  team: LAL
+  thr_avg_dist: 25.246
+  two_avg_dist: 7.091
+- all_avg_dist: 17.223
+  fga: '157'
+  id: '203484'
+  made_all_avg_dist: 15.7
+  made_fga: '60.0'
+  made_thr_avg_dist: 24.714
+  made_two_avg_dist: 7.812
+  miss_all_avg_dist: 18.165
+  miss_fga: '97.0'
+  miss_thr_avg_dist: 24.736
+  miss_two_avg_dist: 10.25
+  name: Kentavious Caldwell-Pope
+  team: MEM
+  thr_avg_dist: 24.728
+  two_avg_dist: 9.224
+- all_avg_dist: 17.178
+  fga: '259'
+  id: '1641739'
+  made_all_avg_dist: 14.215
+  made_fga: '107.0'
+  made_thr_avg_dist: 24.965
+  made_two_avg_dist: 1.96
+  miss_all_avg_dist: 19.263
+  miss_fga: '152.0'
+  miss_thr_avg_dist: 24.586
+  miss_two_avg_dist: 4.854
+  name: Toumani Camara
+  team: POR
+  thr_avg_dist: 24.714
+  two_avg_dist: 3.264
+- all_avg_dist: 17.174
+  fga: '207'
+  id: '1631108'
+  made_all_avg_dist: 16.03
+  made_fga: '101.0'
+  made_thr_avg_dist: 23.952
+  made_two_avg_dist: 3.436
+  miss_all_avg_dist: 18.264
+  miss_fga: '106.0'
+  miss_thr_avg_dist: 24.324
+  miss_two_avg_dist: 5.971
+  name: Max Christie
+  team: DAL
+  thr_avg_dist: 24.15
+  two_avg_dist: 4.635
 - all_avg_dist: 17.15
   fga: '147'
   id: '1630174'
@@ -1033,81 +1138,36 @@
   team: IND
   thr_avg_dist: 24.916
   two_avg_dist: 7.078
-- all_avg_dist: 17.148
-  fga: '270'
-  id: '1630193'
-  made_all_avg_dist: 15.123
-  made_fga: '122.0'
-  made_thr_avg_dist: 26.077
-  made_two_avg_dist: 6.986
-  miss_all_avg_dist: 18.818
-  miss_fga: '148.0'
-  miss_thr_avg_dist: 25.562
-  miss_two_avg_dist: 8.644
-  name: Immanuel Quickley
+- all_avg_dist: 17.139
+  fga: '402'
+  id: '201935'
+  made_all_avg_dist: 14.978
+  made_fga: '178.0'
+  made_thr_avg_dist: 26.16
+  made_two_avg_dist: 5.639
+  miss_all_avg_dist: 18.857
+  miss_fga: '224.0'
+  miss_thr_avg_dist: 26.186
+  miss_two_avg_dist: 6.643
+  name: James Harden
+  team: LAC
+  thr_avg_dist: 26.176
+  two_avg_dist: 6.105
+- all_avg_dist: 17.093
+  fga: '97'
+  id: '1642266'
+  made_all_avg_dist: 15.692
+  made_fga: '39.0'
+  made_thr_avg_dist: 24.083
+  made_two_avg_dist: 2.267
+  miss_all_avg_dist: 18.034
+  miss_fga: '58.0'
+  miss_thr_avg_dist: 24.947
+  miss_two_avg_dist: 4.9
+  name: Ja'Kobe Walter
   team: TOR
-  thr_avg_dist: 25.752
-  two_avg_dist: 7.744
-- all_avg_dist: 17.135
-  fga: '52'
-  id: '1626145'
-  made_all_avg_dist: 14.75
-  made_fga: '16.0'
-  made_thr_avg_dist: 25.571
-  made_two_avg_dist: 6.333
-  miss_all_avg_dist: 18.194
-  miss_fga: '36.0'
-  miss_thr_avg_dist: 24.783
-  miss_two_avg_dist: 6.538
-  name: Tyus Jones
-  team: ORL
-  thr_avg_dist: 24.967
-  two_avg_dist: 6.455
-- all_avg_dist: 17.133
-  fga: '143'
-  id: '203484'
-  made_all_avg_dist: 15.566
-  made_fga: '53.0'
-  made_thr_avg_dist: 24.75
-  made_two_avg_dist: 7.966
-  miss_all_avg_dist: 18.056
-  miss_fga: '90.0'
-  miss_thr_avg_dist: 24.735
-  miss_two_avg_dist: 10.073
-  name: Kentavious Caldwell-Pope
-  team: MEM
-  thr_avg_dist: 24.74
-  two_avg_dist: 9.2
-- all_avg_dist: 17.112
-  fga: '143'
-  id: '1630591'
-  made_all_avg_dist: 13.191
-  made_fga: '68.0'
-  made_thr_avg_dist: 24.778
-  made_two_avg_dist: 5.561
-  miss_all_avg_dist: 20.667
-  miss_fga: '75.0'
-  miss_thr_avg_dist: 25.926
-  miss_two_avg_dist: 7.143
-  name: Jalen Suggs
-  team: ORL
-  thr_avg_dist: 25.543
-  two_avg_dist: 6.097
-- all_avg_dist: 17.096
-  fga: '198'
-  id: '1642377'
-  made_all_avg_dist: 14.976
-  made_fga: '83.0'
-  made_thr_avg_dist: 24.351
-  made_two_avg_dist: 7.435
-  miss_all_avg_dist: 18.626
-  miss_fga: '115.0'
-  miss_thr_avg_dist: 24.31
-  miss_two_avg_dist: 9.455
-  name: Jaylen Wells
-  team: MEM
-  thr_avg_dist: 24.324
-  two_avg_dist: 8.422
+  thr_avg_dist: 24.613
+  two_avg_dist: 3.771
 - all_avg_dist: 17.042
   fga: '72'
   id: '1642484'
@@ -1123,21 +1183,6 @@
   team: IND
   thr_avg_dist: 25.763
   two_avg_dist: 7.294
-- all_avg_dist: 17.015
-  fga: '68'
-  id: '1642383'
-  made_all_avg_dist: 13.615
-  made_fga: '26.0'
-  made_thr_avg_dist: 26.4
-  made_two_avg_dist: 5.625
-  miss_all_avg_dist: 19.119
-  miss_fga: '42.0'
-  miss_thr_avg_dist: 25.593
-  miss_two_avg_dist: 7.467
-  name: Walter Clayton Jr.
-  team: UTA
-  thr_avg_dist: 25.811
-  two_avg_dist: 6.516
 - all_avg_dist: 17.0
   fga: '75'
   id: '1627936'
@@ -1153,96 +1198,171 @@
   team: OKC
   thr_avg_dist: 24.333
   two_avg_dist: 3.963
-- all_avg_dist: 16.968
-  fga: '188'
-  id: '1631108'
-  made_all_avg_dist: 15.562
-  made_fga: '89.0'
-  made_thr_avg_dist: 23.833
-  made_two_avg_dist: 2.8
-  miss_all_avg_dist: 18.232
-  miss_fga: '99.0'
-  miss_thr_avg_dist: 24.328
-  miss_two_avg_dist: 5.469
-  name: Max Christie
+- all_avg_dist: 16.992
+  fga: '120'
+  id: '1641706'
+  made_all_avg_dist: 13.818
+  made_fga: '44.0'
+  made_thr_avg_dist: 25.333
+  made_two_avg_dist: 5.846
+  miss_all_avg_dist: 18.829
+  miss_fga: '76.0'
+  miss_thr_avg_dist: 25.422
+  miss_two_avg_dist: 9.258
+  name: Brandon Miller
+  team: CHA
+  thr_avg_dist: 25.397
+  two_avg_dist: 7.702
+- all_avg_dist: 16.975
+  fga: '321'
+  id: '1630193'
+  made_all_avg_dist: 14.947
+  made_fga: '151.0'
+  made_thr_avg_dist: 26.048
+  made_two_avg_dist: 7.0
+  miss_all_avg_dist: 18.776
+  miss_fga: '170.0'
+  miss_thr_avg_dist: 25.598
+  miss_two_avg_dist: 8.544
+  name: Immanuel Quickley
+  team: TOR
+  thr_avg_dist: 25.77
+  two_avg_dist: 7.673
+- all_avg_dist: 16.941
+  fga: '51'
+  id: '1641738'
+  made_all_avg_dist: 11.905
+  made_fga: '21.0'
+  made_thr_avg_dist: 24.667
+  made_two_avg_dist: 2.333
+  miss_all_avg_dist: 20.467
+  miss_fga: '30.0'
+  miss_thr_avg_dist: 24.542
+  miss_two_avg_dist: 4.167
+  name: Kobe Brown
+  team: LAC
+  thr_avg_dist: 24.576
+  two_avg_dist: 2.944
+- all_avg_dist: 16.928
+  fga: '152'
+  id: '203110'
+  made_all_avg_dist: 14.879
+  made_fga: '58.0'
+  made_thr_avg_dist: 24.806
+  made_two_avg_dist: 3.481
+  miss_all_avg_dist: 18.191
+  miss_fga: '94.0'
+  miss_thr_avg_dist: 24.774
+  miss_two_avg_dist: 5.438
+  name: Draymond Green
+  team: GSW
+  thr_avg_dist: 24.785
+  two_avg_dist: 4.542
+- all_avg_dist: 16.925
+  fga: '80'
+  id: '1642948'
+  made_all_avg_dist: 16.733
+  made_fga: '45.0'
+  made_thr_avg_dist: 25.733
+  made_two_avg_dist: 12.233
+  miss_all_avg_dist: 17.171
+  miss_fga: '35.0'
+  miss_thr_avg_dist: 25.231
+  miss_two_avg_dist: 12.409
+  name: Ryan Nembhard
   team: DAL
-  thr_avg_dist: 24.107
-  two_avg_dist: 4.075
-- all_avg_dist: 16.776
-  fga: '223'
-  id: '1641739'
-  made_all_avg_dist: 13.389
-  made_fga: '90.0'
-  made_thr_avg_dist: 24.689
-  made_two_avg_dist: 2.089
-  miss_all_avg_dist: 19.068
-  miss_fga: '133.0'
-  miss_thr_avg_dist: 24.632
-  miss_two_avg_dist: 5.158
-  name: Toumani Camara
-  team: POR
-  thr_avg_dist: 24.65
-  two_avg_dist: 3.494
-- all_avg_dist: 16.749
-  fga: '390'
-  id: '1628378'
-  made_all_avg_dist: 14.296
-  made_fga: '196.0'
-  made_thr_avg_dist: 25.506
-  made_two_avg_dist: 7.042
-  miss_all_avg_dist: 19.227
-  miss_fga: '194.0'
-  miss_thr_avg_dist: 25.683
-  miss_two_avg_dist: 8.757
-  name: Donovan Mitchell
-  team: CLE
-  thr_avg_dist: 25.614
-  two_avg_dist: 7.699
-- all_avg_dist: 16.734
-  fga: '222'
-  id: '1629631'
-  made_all_avg_dist: 14.05
-  made_fga: '101.0'
-  made_thr_avg_dist: 24.579
-  made_two_avg_dist: 7.698
-  miss_all_avg_dist: 18.975
-  miss_fga: '121.0'
-  miss_thr_avg_dist: 24.935
-  miss_two_avg_dist: 8.545
-  name: De'Andre Hunter
-  team: CLE
-  thr_avg_dist: 24.817
-  two_avg_dist: 8.047
-- all_avg_dist: 16.727
-  fga: '139'
+  thr_avg_dist: 25.5
+  two_avg_dist: 12.308
+- all_avg_dist: 16.857
+  fga: '105'
+  id: '1642272'
+  made_all_avg_dist: 15.2
+  made_fga: '40.0'
+  made_thr_avg_dist: 25.2
+  made_two_avg_dist: 5.2
+  miss_all_avg_dist: 17.877
+  miss_fga: '65.0'
+  miss_thr_avg_dist: 25.611
+  miss_two_avg_dist: 8.276
+  name: Jared McCain
+  team: PHI
+  thr_avg_dist: 25.464
+  two_avg_dist: 7.02
+- all_avg_dist: 16.854
+  fga: '226'
+  id: '1642377'
+  made_all_avg_dist: 14.67
+  made_fga: '100.0'
+  made_thr_avg_dist: 24.227
+  made_two_avg_dist: 7.161
+  miss_all_avg_dist: 18.587
+  miss_fga: '126.0'
+  miss_thr_avg_dist: 24.368
+  miss_two_avg_dist: 9.8
+  name: Jaylen Wells
+  team: MEM
+  thr_avg_dist: 24.317
+  two_avg_dist: 8.406
+- all_avg_dist: 16.825
+  fga: '206'
+  id: '1626156'
+  made_all_avg_dist: 14.253
+  made_fga: '83.0'
+  made_thr_avg_dist: 25.69
+  made_two_avg_dist: 8.111
+  miss_all_avg_dist: 18.561
+  miss_fga: '123.0'
+  miss_thr_avg_dist: 25.292
+  miss_two_avg_dist: 9.059
+  name: D'Angelo Russell
+  team: DAL
+  thr_avg_dist: 25.406
+  two_avg_dist: 8.571
+- all_avg_dist: 16.818
+  fga: '330'
+  id: '203468'
+  made_all_avg_dist: 15.459
+  made_fga: '146.0'
+  made_thr_avg_dist: 25.515
+  made_two_avg_dist: 7.162
+  miss_all_avg_dist: 17.897
+  miss_fga: '184.0'
+  miss_thr_avg_dist: 25.816
+  miss_two_avg_dist: 8.872
+  name: CJ McCollum
+  team: WAS
+  thr_avg_dist: 25.695
+  two_avg_dist: 8.048
+- all_avg_dist: 16.816
+  fga: '147'
   id: '1641767'
-  made_all_avg_dist: 13.149
-  made_fga: '47.0'
-  made_thr_avg_dist: 25.238
-  made_two_avg_dist: 3.385
-  miss_all_avg_dist: 18.554
-  miss_fga: '92.0'
-  miss_thr_avg_dist: 24.935
-  miss_two_avg_dist: 5.367
+  made_all_avg_dist: 13.596
+  made_fga: '52.0'
+  made_thr_avg_dist: 25.208
+  made_two_avg_dist: 3.643
+  miss_all_avg_dist: 18.579
+  miss_fga: '95.0'
+  miss_thr_avg_dist: 24.984
+  miss_two_avg_dist: 5.355
   name: Ben Sheppard
   team: IND
-  thr_avg_dist: 25.012
-  two_avg_dist: 4.446
-- all_avg_dist: 16.679
-  fga: '162'
-  id: '1629614'
-  made_all_avg_dist: 14.338
-  made_fga: '65.0'
-  made_thr_avg_dist: 27.091
-  made_two_avg_dist: 7.814
-  miss_all_avg_dist: 18.247
-  miss_fga: '97.0'
-  miss_thr_avg_dist: 26.4
-  miss_two_avg_dist: 11.192
-  name: Andrew Nembhard
-  team: IND
-  thr_avg_dist: 26.627
-  two_avg_dist: 9.663
+  thr_avg_dist: 25.045
+  two_avg_dist: 4.542
+- all_avg_dist: 16.704
+  fga: '54'
+  id: '1630611'
+  made_all_avg_dist: 11.714
+  made_fga: '21.0'
+  made_thr_avg_dist: 24.111
+  made_two_avg_dist: 2.417
+  miss_all_avg_dist: 19.879
+  miss_fga: '33.0'
+  miss_thr_avg_dist: 25.917
+  miss_two_avg_dist: 3.778
+  name: Gui Santos
+  team: GSW
+  thr_avg_dist: 25.424
+  two_avg_dist: 3.0
 - all_avg_dist: 16.649
   fga: '174'
   id: '1630544'
@@ -1258,216 +1378,216 @@
   team: CHA
   thr_avg_dist: 25.854
   two_avg_dist: 7.012
-- all_avg_dist: 16.621
-  fga: '87'
-  id: '1641706'
-  made_all_avg_dist: 12.853
-  made_fga: '34.0'
-  made_thr_avg_dist: 25.154
-  made_two_avg_dist: 5.238
-  miss_all_avg_dist: 19.038
-  miss_fga: '53.0'
-  miss_thr_avg_dist: 25.412
-  miss_two_avg_dist: 7.632
-  name: Brandon Miller
-  team: CHA
-  thr_avg_dist: 25.34
-  two_avg_dist: 6.375
-- all_avg_dist: 16.572
-  fga: '276'
-  id: '1630530'
-  made_all_avg_dist: 13.858
-  made_fga: '127.0'
-  made_thr_avg_dist: 26.839
-  made_two_avg_dist: 3.62
-  miss_all_avg_dist: 18.886
-  miss_fga: '149.0'
-  miss_thr_avg_dist: 26.032
-  miss_two_avg_dist: 6.315
-  name: Trey Murphy III
-  team: NOP
-  thr_avg_dist: 26.331
-  two_avg_dist: 4.784
-- all_avg_dist: 16.554
-  fga: '112'
-  id: '1641711'
-  made_all_avg_dist: 13.159
-  made_fga: '44.0'
-  made_thr_avg_dist: 23.8
-  made_two_avg_dist: 4.292
-  miss_all_avg_dist: 18.75
-  miss_fga: '68.0'
-  miss_thr_avg_dist: 24.795
-  miss_two_avg_dist: 7.667
-  name: Gradey Dick
-  team: TOR
-  thr_avg_dist: 24.484
-  two_avg_dist: 5.979
-- all_avg_dist: 16.533
-  fga: '165'
-  id: '203084'
-  made_all_avg_dist: 14.415
-  made_fga: '82.0'
-  made_thr_avg_dist: 24.238
-  made_two_avg_dist: 4.1
-  miss_all_avg_dist: 18.627
-  miss_fga: '83.0'
-  miss_thr_avg_dist: 24.316
-  miss_two_avg_dist: 6.154
-  name: Harrison Barnes
-  team: SAS
-  thr_avg_dist: 24.283
-  two_avg_dist: 4.909
-- all_avg_dist: 16.529
-  fga: '257'
-  id: '1628415'
-  made_all_avg_dist: 14.155
-  made_fga: '116.0'
-  made_thr_avg_dist: 25.865
-  made_two_avg_dist: 8.671
-  miss_all_avg_dist: 18.482
-  miss_fga: '141.0'
-  miss_thr_avg_dist: 25.269
-  miss_two_avg_dist: 10.079
-  name: Dillon Brooks
-  team: PHX
-  thr_avg_dist: 25.461
-  two_avg_dist: 9.296
-- all_avg_dist: 16.494
-  fga: '263'
-  id: '203468'
-  made_all_avg_dist: 15.368
-  made_fga: '114.0'
-  made_thr_avg_dist: 25.596
-  made_two_avg_dist: 6.79
-  miss_all_avg_dist: 17.356
-  miss_fga: '149.0'
-  miss_thr_avg_dist: 25.743
-  miss_two_avg_dist: 9.08
-  name: CJ McCollum
-  team: WAS
-  thr_avg_dist: 25.683
-  two_avg_dist: 8.044
-- all_avg_dist: 16.487
-  fga: '232'
-  id: '1630163'
-  made_all_avg_dist: 13.557
-  made_fga: '88.0'
-  made_thr_avg_dist: 26.219
-  made_two_avg_dist: 6.321
-  miss_all_avg_dist: 18.278
-  miss_fga: '144.0'
-  miss_thr_avg_dist: 26.646
-  miss_two_avg_dist: 7.21
-  name: LaMelo Ball
-  team: CHA
-  thr_avg_dist: 26.526
-  two_avg_dist: 6.788
-- all_avg_dist: 16.471
-  fga: '138'
-  id: '203110'
-  made_all_avg_dist: 14.538
-  made_fga: '52.0'
-  made_thr_avg_dist: 24.741
-  made_two_avg_dist: 3.52
-  miss_all_avg_dist: 17.64
-  miss_fga: '86.0'
-  miss_thr_avg_dist: 24.582
-  miss_two_avg_dist: 5.323
-  name: Draymond Green
-  team: GSW
-  thr_avg_dist: 24.634
-  two_avg_dist: 4.518
-- all_avg_dist: 16.452
-  fga: '126'
-  id: '1631246'
-  made_all_avg_dist: 13.5
-  made_fga: '44.0'
-  made_thr_avg_dist: 24.632
-  made_two_avg_dist: 5.04
-  miss_all_avg_dist: 18.037
-  miss_fga: '82.0'
-  miss_thr_avg_dist: 24.843
-  miss_two_avg_dist: 6.839
-  name: Vince Williams Jr.
-  team: MEM
-  thr_avg_dist: 24.786
-  two_avg_dist: 6.036
-- all_avg_dist: 16.444
-  fga: '288'
-  id: '1629008'
-  made_all_avg_dist: 13.317
-  made_fga: '139.0'
-  made_thr_avg_dist: 24.78
-  made_two_avg_dist: 6.876
-  miss_all_avg_dist: 19.362
-  miss_fga: '149.0'
-  miss_thr_avg_dist: 24.977
-  miss_two_avg_dist: 11.262
-  name: Michael Porter Jr.
-  team: BKN
-  thr_avg_dist: 24.906
-  two_avg_dist: 8.66
-- all_avg_dist: 16.443
-  fga: '88'
-  id: '1629636'
-  made_all_avg_dist: 16.455
-  made_fga: '33.0'
-  made_thr_avg_dist: 26.333
-  made_two_avg_dist: 8.222
-  miss_all_avg_dist: 16.436
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 25.875
-  miss_two_avg_dist: 9.129
-  name: Darius Garland
-  team: CLE
-  thr_avg_dist: 26.051
-  two_avg_dist: 8.796
-- all_avg_dist: 16.418
-  fga: '153'
+- all_avg_dist: 16.622
+  fga: '172'
   id: '1631213'
-  made_all_avg_dist: 13.661
-  made_fga: '62.0'
-  made_thr_avg_dist: 25.893
-  made_two_avg_dist: 3.588
-  miss_all_avg_dist: 18.297
-  miss_fga: '91.0'
-  miss_thr_avg_dist: 25.632
-  miss_two_avg_dist: 6.0
+  made_all_avg_dist: 13.318
+  made_fga: '66.0'
+  made_thr_avg_dist: 25.966
+  made_two_avg_dist: 3.405
+  miss_all_avg_dist: 18.679
+  miss_fga: '106.0'
+  miss_thr_avg_dist: 25.536
+  miss_two_avg_dist: 5.892
   name: Tyrese Martin
   team: BKN
-  thr_avg_dist: 25.718
-  two_avg_dist: 4.794
-- all_avg_dist: 16.407
-  fga: '118'
-  id: '1630172'
-  made_all_avg_dist: 16.133
-  made_fga: '45.0'
-  made_thr_avg_dist: 24.88
-  made_two_avg_dist: 5.2
-  miss_all_avg_dist: 16.575
-  miss_fga: '73.0'
-  miss_thr_avg_dist: 25.463
-  miss_two_avg_dist: 5.188
-  name: Patrick Williams
-  team: CHI
-  thr_avg_dist: 25.242
-  two_avg_dist: 5.192
-- all_avg_dist: 16.359
-  fga: '206'
+  thr_avg_dist: 25.663
+  two_avg_dist: 4.649
+- all_avg_dist: 16.617
+  fga: '149'
+  id: '1631246'
+  made_all_avg_dist: 14.135
+  made_fga: '52.0'
+  made_thr_avg_dist: 24.696
+  made_two_avg_dist: 5.759
+  miss_all_avg_dist: 17.948
+  miss_fga: '97.0'
+  miss_thr_avg_dist: 24.833
+  miss_two_avg_dist: 6.784
+  name: Vince Williams Jr.
+  team: MEM
+  thr_avg_dist: 24.795
+  two_avg_dist: 6.333
+- all_avg_dist: 16.551
+  fga: '247'
   id: '1641764'
-  made_all_avg_dist: 14.422
-  made_fga: '90.0'
-  made_thr_avg_dist: 25.051
-  made_two_avg_dist: 6.294
+  made_all_avg_dist: 14.89
+  made_fga: '109.0'
+  made_thr_avg_dist: 25.224
+  made_two_avg_dist: 6.45
   miss_all_avg_dist: 17.862
-  miss_fga: '116.0'
-  miss_thr_avg_dist: 25.452
-  miss_two_avg_dist: 9.148
+  miss_fga: '138.0'
+  miss_thr_avg_dist: 25.446
+  miss_two_avg_dist: 9.094
   name: Brandin Podziemski
   team: GSW
-  thr_avg_dist: 25.297
-  two_avg_dist: 7.762
+  thr_avg_dist: 25.358
+  two_avg_dist: 7.815
+- all_avg_dist: 16.545
+  fga: '211'
+  id: '1630591'
+  made_all_avg_dist: 12.802
+  made_fga: '96.0'
+  made_thr_avg_dist: 24.784
+  made_two_avg_dist: 5.288
+  miss_all_avg_dist: 19.67
+  miss_fga: '115.0'
+  miss_thr_avg_dist: 25.76
+  miss_two_avg_dist: 8.25
+  name: Jalen Suggs
+  team: ORL
+  thr_avg_dist: 25.438
+  two_avg_dist: 6.485
+- all_avg_dist: 16.533
+  fga: '259'
+  id: '1629631'
+  made_all_avg_dist: 13.513
+  made_fga: '115.0'
+  made_thr_avg_dist: 24.659
+  made_two_avg_dist: 7.338
+  miss_all_avg_dist: 18.944
+  miss_fga: '144.0'
+  miss_thr_avg_dist: 24.934
+  miss_two_avg_dist: 8.66
+  name: De'Andre Hunter
+  team: CLE
+  thr_avg_dist: 24.848
+  two_avg_dist: 7.89
+- all_avg_dist: 16.519
+  fga: '104'
+  id: '1642383'
+  made_all_avg_dist: 14.0
+  made_fga: '45.0'
+  made_thr_avg_dist: 25.882
+  made_two_avg_dist: 6.786
+  miss_all_avg_dist: 18.441
+  miss_fga: '59.0'
+  miss_thr_avg_dist: 25.432
+  miss_two_avg_dist: 6.682
+  name: Walter Clayton Jr.
+  team: UTA
+  thr_avg_dist: 25.574
+  two_avg_dist: 6.74
+- all_avg_dist: 16.42
+  fga: '486'
+  id: '1628378'
+  made_all_avg_dist: 13.893
+  made_fga: '244.0'
+  made_thr_avg_dist: 25.38
+  made_two_avg_dist: 6.941
+  miss_all_avg_dist: 18.967
+  miss_fga: '242.0'
+  miss_thr_avg_dist: 25.755
+  miss_two_avg_dist: 8.463
+  name: Donovan Mitchell
+  team: CLE
+  thr_avg_dist: 25.611
+  two_avg_dist: 7.526
+- all_avg_dist: 16.397
+  fga: '131'
+  id: '1641711'
+  made_all_avg_dist: 13.019
+  made_fga: '54.0'
+  made_thr_avg_dist: 23.826
+  made_two_avg_dist: 5.0
+  miss_all_avg_dist: 18.766
+  miss_fga: '77.0'
+  miss_thr_avg_dist: 24.816
+  miss_two_avg_dist: 8.179
+  name: Gradey Dick
+  team: TOR
+  thr_avg_dist: 24.5
+  two_avg_dist: 6.508
+- all_avg_dist: 16.343
+  fga: '277'
+  id: '1630163'
+  made_all_avg_dist: 13.196
+  made_fga: '107.0'
+  made_thr_avg_dist: 25.923
+  made_two_avg_dist: 5.897
+  miss_all_avg_dist: 18.324
+  miss_fga: '170.0'
+  miss_thr_avg_dist: 26.561
+  miss_two_avg_dist: 7.111
+  name: LaMelo Ball
+  team: CHA
+  thr_avg_dist: 26.38
+  two_avg_dist: 6.521
+- all_avg_dist: 16.336
+  fga: '119'
+  id: '1642883'
+  made_all_avg_dist: 14.857
+  made_fga: '49.0'
+  made_thr_avg_dist: 24.429
+  made_two_avg_dist: 2.095
+  miss_all_avg_dist: 17.371
+  miss_fga: '70.0'
+  miss_thr_avg_dist: 24.25
+  miss_two_avg_dist: 2.364
+  name: Sion James
+  team: CHA
+  thr_avg_dist: 24.316
+  two_avg_dist: 2.233
+- all_avg_dist: 16.309
+  fga: '55'
+  id: '1631172'
+  made_all_avg_dist: 15.87
+  made_fga: '23.0'
+  made_thr_avg_dist: 24.727
+  made_two_avg_dist: 7.75
+  miss_all_avg_dist: 16.625
+  miss_fga: '32.0'
+  miss_thr_avg_dist: 24.765
+  miss_two_avg_dist: 7.4
+  name: Ousmane Dieng
+  team: OKC
+  thr_avg_dist: 24.75
+  two_avg_dist: 7.556
+- all_avg_dist: 16.304
+  fga: '204'
+  id: '203084'
+  made_all_avg_dist: 14.434
+  made_fga: '99.0'
+  made_thr_avg_dist: 24.137
+  made_two_avg_dist: 4.125
+  miss_all_avg_dist: 18.067
+  miss_fga: '105.0'
+  miss_thr_avg_dist: 24.232
+  miss_two_avg_dist: 6.25
+  name: Harrison Barnes
+  team: SAS
+  thr_avg_dist: 24.192
+  two_avg_dist: 5.036
+- all_avg_dist: 16.302
+  fga: '116'
+  id: '1629636'
+  made_all_avg_dist: 15.488
+  made_fga: '41.0'
+  made_thr_avg_dist: 26.412
+  made_two_avg_dist: 7.75
+  miss_all_avg_dist: 16.747
+  miss_fga: '75.0'
+  miss_thr_avg_dist: 25.667
+  miss_two_avg_dist: 8.513
+  name: Darius Garland
+  team: CLE
+  thr_avg_dist: 25.906
+  two_avg_dist: 8.222
+- all_avg_dist: 16.286
+  fga: '318'
+  id: '203897'
+  made_all_avg_dist: 13.581
+  made_fga: '155.0'
+  made_thr_avg_dist: 25.017
+  made_two_avg_dist: 6.552
+  miss_all_avg_dist: 18.859
+  miss_fga: '163.0'
+  miss_thr_avg_dist: 25.848
+  miss_two_avg_dist: 9.803
+  name: Zach LaVine
+  team: SAC
+  thr_avg_dist: 25.523
+  two_avg_dist: 7.934
 - all_avg_dist: 16.284
   fga: '95'
   id: '1631106'
@@ -1483,66 +1603,96 @@
   team: HOU
   thr_avg_dist: 24.346
   two_avg_dist: 6.535
-- all_avg_dist: 16.243
-  fga: '181'
-  id: '1626156'
-  made_all_avg_dist: 13.296
-  made_fga: '71.0'
-  made_thr_avg_dist: 25.476
-  made_two_avg_dist: 8.18
-  miss_all_avg_dist: 18.145
-  miss_fga: '110.0'
-  miss_thr_avg_dist: 25.238
-  miss_two_avg_dist: 8.638
-  name: D'Angelo Russell
-  team: DAL
-  thr_avg_dist: 25.298
-  two_avg_dist: 8.402
-- all_avg_dist: 16.177
-  fga: '96'
-  id: '1642347'
-  made_all_avg_dist: 15.054
-  made_fga: '37.0'
-  made_thr_avg_dist: 25.6
-  made_two_avg_dist: 2.647
-  miss_all_avg_dist: 16.881
-  miss_fga: '59.0'
-  miss_thr_avg_dist: 25.4
-  miss_two_avg_dist: 4.458
-  name: Jamal Shead
-  team: TOR
-  thr_avg_dist: 25.473
-  two_avg_dist: 3.707
-- all_avg_dist: 16.099
-  fga: '71'
-  id: '1642272'
-  made_all_avg_dist: 16.48
-  made_fga: '25.0'
-  made_thr_avg_dist: 25.538
-  made_two_avg_dist: 6.667
-  miss_all_avg_dist: 15.891
-  miss_fga: '46.0'
-  miss_thr_avg_dist: 25.952
-  miss_two_avg_dist: 7.44
-  name: Jared McCain
-  team: PHI
-  thr_avg_dist: 25.794
-  two_avg_dist: 7.189
-- all_avg_dist: 16.003
-  fga: '289'
-  id: '203897'
-  made_all_avg_dist: 12.908
-  made_fga: '142.0'
-  made_thr_avg_dist: 24.98
-  made_two_avg_dist: 6.143
-  miss_all_avg_dist: 18.993
-  miss_fga: '147.0'
-  miss_thr_avg_dist: 25.857
-  miss_two_avg_dist: 9.841
-  name: Zach LaVine
+- all_avg_dist: 16.248
+  fga: '355'
+  id: '1629008'
+  made_all_avg_dist: 13.358
+  made_fga: '176.0'
+  made_thr_avg_dist: 24.716
+  made_two_avg_dist: 6.376
+  miss_all_avg_dist: 19.089
+  miss_fga: '179.0'
+  miss_thr_avg_dist: 25.01
+  miss_two_avg_dist: 10.88
+  name: Michael Porter Jr.
+  team: BKN
+  thr_avg_dist: 24.895
+  two_avg_dist: 8.212
+- all_avg_dist: 16.241
+  fga: '87'
+  id: '1642920'
+  made_all_avg_dist: 13.667
+  made_fga: '36.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 5.4
+  miss_all_avg_dist: 18.059
+  miss_fga: '51.0'
+  miss_thr_avg_dist: 24.4
+  miss_two_avg_dist: 9.0
+  name: Kobe Sanders
+  team: LAC
+  thr_avg_dist: 24.261
+  two_avg_dist: 7.244
+- all_avg_dist: 16.197
+  fga: '122'
+  id: '1642954'
+  made_all_avg_dist: 12.431
+  made_fga: '65.0'
+  made_thr_avg_dist: 24.276
+  made_two_avg_dist: 2.889
+  miss_all_avg_dist: 20.491
+  miss_fga: '57.0'
+  miss_thr_avg_dist: 24.682
+  miss_two_avg_dist: 6.308
+  name: Will Richard
+  team: GSW
+  thr_avg_dist: 24.521
+  two_avg_dist: 3.796
+- all_avg_dist: 16.066
+  fga: '198'
+  id: '1629614'
+  made_all_avg_dist: 13.631
+  made_fga: '84.0'
+  made_thr_avg_dist: 26.926
+  made_two_avg_dist: 7.333
+  miss_all_avg_dist: 17.86
+  miss_fga: '114.0'
+  miss_thr_avg_dist: 26.34
+  miss_two_avg_dist: 11.234
+  name: Andrew Nembhard
+  team: IND
+  thr_avg_dist: 26.545
+  two_avg_dist: 9.397
+- all_avg_dist: 16.029
+  fga: '307'
+  id: '1628415'
+  made_all_avg_dist: 13.589
+  made_fga: '141.0'
+  made_thr_avg_dist: 25.769
+  made_two_avg_dist: 8.931
+  miss_all_avg_dist: 18.102
+  miss_fga: '166.0'
+  miss_thr_avg_dist: 25.333
+  miss_two_avg_dist: 10.139
+  name: Dillon Brooks
+  team: PHX
+  thr_avg_dist: 25.468
+  two_avg_dist: 9.459
+- all_avg_dist: 15.991
+  fga: '114'
+  id: '1631099'
+  made_all_avg_dist: 12.0
+  made_fga: '51.0'
+  made_thr_avg_dist: 26.308
+  made_two_avg_dist: 7.105
+  miss_all_avg_dist: 19.222
+  miss_fga: '63.0'
+  miss_thr_avg_dist: 25.8
+  miss_two_avg_dist: 11.0
+  name: Keegan Murray
   team: SAC
-  thr_avg_dist: 25.526
-  two_avg_dist: 7.656
+  thr_avg_dist: 25.938
+  two_avg_dist: 8.758
 - all_avg_dist: 15.988
   fga: '166'
   id: '201950'
@@ -1558,291 +1708,321 @@
   team: POR
   thr_avg_dist: 25.106
   two_avg_dist: 6.42
-- all_avg_dist: 15.887
-  fga: '106'
-  id: '1642954'
-  made_all_avg_dist: 12.0
-  made_fga: '57.0'
-  made_thr_avg_dist: 24.292
-  made_two_avg_dist: 3.061
-  miss_all_avg_dist: 20.408
-  miss_fga: '49.0'
-  miss_thr_avg_dist: 24.526
-  miss_two_avg_dist: 6.182
-  name: Will Richard
-  team: GSW
-  thr_avg_dist: 24.435
-  two_avg_dist: 3.841
-- all_avg_dist: 15.788
-  fga: '85'
-  id: '1629632'
-  made_all_avg_dist: 12.763
-  made_fga: '38.0'
-  made_thr_avg_dist: 25.4
-  made_two_avg_dist: 4.522
-  miss_all_avg_dist: 18.234
-  miss_fga: '47.0'
-  miss_thr_avg_dist: 25.793
-  miss_two_avg_dist: 6.056
-  name: Coby White
-  team: CHI
-  thr_avg_dist: 25.659
-  two_avg_dist: 5.195
-- all_avg_dist: 15.783
-  fga: '92'
-  id: '1631099'
-  made_all_avg_dist: 12.116
-  made_fga: '43.0'
-  made_thr_avg_dist: 26.9
-  made_two_avg_dist: 7.636
-  miss_all_avg_dist: 19.0
-  miss_fga: '49.0'
-  miss_thr_avg_dist: 25.857
-  miss_two_avg_dist: 9.857
-  name: Keegan Murray
-  team: SAC
-  thr_avg_dist: 26.132
-  two_avg_dist: 8.5
-- all_avg_dist: 15.735
-  fga: '230'
-  id: '1629656'
-  made_all_avg_dist: 12.728
-  made_fga: '103.0'
-  made_thr_avg_dist: 25.727
-  made_two_avg_dist: 3.034
-  miss_all_avg_dist: 18.173
-  miss_fga: '127.0'
-  miss_thr_avg_dist: 25.39
-  miss_two_avg_dist: 7.06
-  name: Quentin Grimes
-  team: PHI
-  thr_avg_dist: 25.512
-  two_avg_dist: 4.881
-- all_avg_dist: 15.662
-  fga: '195'
-  id: '1628370'
-  made_all_avg_dist: 14.25
-  made_fga: '88.0'
-  made_thr_avg_dist: 25.818
-  made_two_avg_dist: 7.309
-  miss_all_avg_dist: 16.822
-  miss_fga: '107.0'
-  miss_thr_avg_dist: 25.735
-  miss_two_avg_dist: 9.293
-  name: Malik Monk
-  team: SAC
-  thr_avg_dist: 25.768
-  two_avg_dist: 8.327
-- all_avg_dist: 15.586
-  fga: '321'
-  id: '1627750'
-  made_all_avg_dist: 14.224
-  made_fga: '156.0'
-  made_thr_avg_dist: 25.302
-  made_two_avg_dist: 8.524
-  miss_all_avg_dist: 16.873
-  miss_fga: '165.0'
-  miss_thr_avg_dist: 25.333
-  miss_two_avg_dist: 9.287
-  name: Jamal Murray
-  team: DEN
-  thr_avg_dist: 25.321
-  two_avg_dist: 8.874
-- all_avg_dist: 15.554
-  fga: '195'
-  id: '1641716'
-  made_all_avg_dist: 14.53
-  made_fga: '66.0'
-  made_thr_avg_dist: 25.258
-  made_two_avg_dist: 5.029
-  miss_all_avg_dist: 16.078
-  miss_fga: '129.0'
-  miss_thr_avg_dist: 25.224
-  miss_two_avg_dist: 6.194
-  name: Jarace Walker
-  team: IND
-  thr_avg_dist: 25.235
-  two_avg_dist: 5.773
-- all_avg_dist: 15.527
-  fga: '55'
-  id: '1641774'
-  made_all_avg_dist: 11.957
-  made_fga: '23.0'
-  made_thr_avg_dist: 26.286
-  made_two_avg_dist: 5.688
-  miss_all_avg_dist: 18.094
-  miss_fga: '32.0'
-  miss_thr_avg_dist: 25.158
-  miss_two_avg_dist: 7.769
-  name: Tristan Vukcevic
-  team: WAS
-  thr_avg_dist: 25.462
-  two_avg_dist: 6.621
-- all_avg_dist: 15.494
-  fga: '162'
-  id: '1642846'
-  made_all_avg_dist: 12.547
-  made_fga: '75.0'
-  made_thr_avg_dist: 24.0
-  made_two_avg_dist: 6.469
-  miss_all_avg_dist: 18.034
-  miss_fga: '87.0'
-  miss_thr_avg_dist: 24.404
-  miss_two_avg_dist: 10.55
-  name: Ace Bailey
-  team: UTA
-  thr_avg_dist: 24.26
-  two_avg_dist: 8.303
-- all_avg_dist: 15.483
-  fga: '271'
-  id: '1630559'
-  made_all_avg_dist: 11.929
-  made_fga: '141.0'
-  made_thr_avg_dist: 25.864
-  made_two_avg_dist: 5.608
-  miss_all_avg_dist: 19.338
-  miss_fga: '130.0'
-  miss_thr_avg_dist: 26.179
-  miss_two_avg_dist: 9.077
-  name: Austin Reaves
-  team: LAL
-  thr_avg_dist: 26.066
-  two_avg_dist: 6.819
-- all_avg_dist: 15.476
-  fga: '191'
-  id: '1631095'
-  made_all_avg_dist: 13.233
-  made_fga: '86.0'
-  made_thr_avg_dist: 24.25
-  made_two_avg_dist: 5.3
-  miss_all_avg_dist: 17.314
-  miss_fga: '105.0'
-  miss_thr_avg_dist: 24.643
-  miss_two_avg_dist: 8.939
-  name: Jabari Smith Jr.
-  team: HOU
-  thr_avg_dist: 24.489
-  two_avg_dist: 7.101
-- all_avg_dist: 15.446
-  fga: '101'
-  id: '1642883'
-  made_all_avg_dist: 14.762
-  made_fga: '42.0'
-  made_thr_avg_dist: 24.292
-  made_two_avg_dist: 2.056
-  miss_all_avg_dist: 15.932
-  miss_fga: '59.0'
-  miss_thr_avg_dist: 24.0
-  miss_two_avg_dist: 2.364
-  name: Sion James
-  team: CHA
-  thr_avg_dist: 24.115
-  two_avg_dist: 2.225
-- all_avg_dist: 15.407
-  fga: '59'
-  id: '1631321'
-  made_all_avg_dist: 11.435
-  made_fga: '23.0'
-  made_thr_avg_dist: 23.667
-  made_two_avg_dist: 3.571
-  miss_all_avg_dist: 17.944
-  miss_fga: '36.0'
-  miss_thr_avg_dist: 24.542
-  miss_two_avg_dist: 4.75
-  name: Sidy Cissoko
-  team: POR
-  thr_avg_dist: 24.303
-  two_avg_dist: 4.115
-- all_avg_dist: 15.375
-  fga: '176'
-  id: '202695'
-  made_all_avg_dist: 13.878
-  made_fga: '90.0'
-  made_thr_avg_dist: 25.375
-  made_two_avg_dist: 9.697
-  miss_all_avg_dist: 16.942
-  miss_fga: '86.0'
-  miss_thr_avg_dist: 25.25
-  miss_two_avg_dist: 12.019
-  name: Kawhi Leonard
-  team: LAC
-  thr_avg_dist: 25.304
-  two_avg_dist: 10.742
-- all_avg_dist: 15.36
-  fga: '150'
-  id: '1629661'
-  made_all_avg_dist: 12.803
-  made_fga: '71.0'
-  made_thr_avg_dist: 24.484
-  made_two_avg_dist: 3.75
-  miss_all_avg_dist: 17.658
-  miss_fga: '79.0'
-  miss_thr_avg_dist: 24.867
-  miss_two_avg_dist: 8.118
-  name: Cameron Johnson
-  team: DEN
-  thr_avg_dist: 24.711
-  two_avg_dist: 5.757
-- all_avg_dist: 15.358
-  fga: '190'
-  id: '1642273'
-  made_all_avg_dist: 13.538
-  made_fga: '91.0'
-  made_thr_avg_dist: 25.368
-  made_two_avg_dist: 5.057
-  miss_all_avg_dist: 17.03
-  miss_fga: '99.0'
-  miss_thr_avg_dist: 26.02
-  miss_two_avg_dist: 8.22
-  name: Kyshawn George
-  team: WAS
-  thr_avg_dist: 25.736
-  two_avg_dist: 6.592
-- all_avg_dist: 15.333
-  fga: '99'
+- all_avg_dist: 15.968
+  fga: '125'
   id: '1627747'
-  made_all_avg_dist: 12.745
-  made_fga: '47.0'
-  made_thr_avg_dist: 25.158
-  made_two_avg_dist: 4.321
-  miss_all_avg_dist: 17.673
-  miss_fga: '52.0'
-  miss_thr_avg_dist: 26.0
-  miss_two_avg_dist: 9.346
+  made_all_avg_dist: 13.569
+  made_fga: '58.0'
+  made_thr_avg_dist: 24.962
+  made_two_avg_dist: 4.312
+  miss_all_avg_dist: 18.045
+  miss_fga: '67.0'
+  miss_thr_avg_dist: 25.944
+  miss_two_avg_dist: 8.871
   name: Caris LeVert
   team: DET
-  thr_avg_dist: 25.644
-  two_avg_dist: 6.741
-- all_avg_dist: 15.235
+  thr_avg_dist: 25.532
+  two_avg_dist: 6.556
+- all_avg_dist: 15.966
+  fga: '147'
+  id: '1630172'
+  made_all_avg_dist: 16.759
+  made_fga: '54.0'
+  made_thr_avg_dist: 24.812
+  made_two_avg_dist: 5.045
+  miss_all_avg_dist: 15.505
+  miss_fga: '93.0'
+  miss_thr_avg_dist: 25.511
+  miss_two_avg_dist: 5.283
+  name: Patrick Williams
+  team: CHI
+  thr_avg_dist: 25.228
+  two_avg_dist: 5.206
+- all_avg_dist: 15.917
+  fga: '206'
+  id: '1642846'
+  made_all_avg_dist: 13.141
+  made_fga: '92.0'
+  made_thr_avg_dist: 24.143
+  made_two_avg_dist: 6.386
+  miss_all_avg_dist: 18.158
+  miss_fga: '114.0'
+  miss_thr_avg_dist: 24.459
+  miss_two_avg_dist: 10.906
+  name: Ace Bailey
+  team: UTA
+  thr_avg_dist: 24.344
+  two_avg_dist: 8.564
+- all_avg_dist: 15.888
+  fga: '188'
+  id: '1629661'
+  made_all_avg_dist: 13.4
+  made_fga: '85.0'
+  made_thr_avg_dist: 24.513
+  made_two_avg_dist: 3.978
+  miss_all_avg_dist: 17.942
+  miss_fga: '103.0'
+  miss_thr_avg_dist: 24.833
+  miss_two_avg_dist: 8.326
+  name: Cameron Johnson
+  team: DEN
+  thr_avg_dist: 24.707
+  two_avg_dist: 6.079
+- all_avg_dist: 15.883
+  fga: '230'
+  id: '1642273'
+  made_all_avg_dist: 14.574
+  made_fga: '108.0'
+  made_thr_avg_dist: 25.571
+  made_two_avg_dist: 5.441
+  miss_all_avg_dist: 17.041
+  miss_fga: '122.0'
+  miss_thr_avg_dist: 25.95
+  miss_two_avg_dist: 8.419
+  name: Kyshawn George
+  team: WAS
+  thr_avg_dist: 25.78
+  two_avg_dist: 6.967
+- all_avg_dist: 15.849
+  fga: '259'
+  id: '1629656'
+  made_all_avg_dist: 12.761
+  made_fga: '117.0'
+  made_thr_avg_dist: 25.588
+  made_two_avg_dist: 2.848
+  miss_all_avg_dist: 18.394
+  miss_fga: '142.0'
+  miss_thr_avg_dist: 25.33
+  miss_two_avg_dist: 7.093
+  name: Quentin Grimes
+  team: PHI
+  thr_avg_dist: 25.424
+  two_avg_dist: 4.758
+- all_avg_dist: 15.825
+  fga: '331'
+  id: '1630530'
+  made_all_avg_dist: 12.787
+  made_fga: '155.0'
+  made_thr_avg_dist: 26.565
+  made_two_avg_dist: 3.602
+  miss_all_avg_dist: 18.5
+  miss_fga: '176.0'
+  miss_thr_avg_dist: 26.138
+  miss_two_avg_dist: 6.075
+  name: Trey Murphy III
+  team: NOP
+  thr_avg_dist: 26.292
+  two_avg_dist: 4.638
+- all_avg_dist: 15.805
   fga: '221'
+  id: '1628370'
+  made_all_avg_dist: 14.434
+  made_fga: '99.0'
+  made_thr_avg_dist: 25.947
+  made_two_avg_dist: 7.262
+  miss_all_avg_dist: 16.918
+  miss_fga: '122.0'
+  miss_thr_avg_dist: 25.875
+  miss_two_avg_dist: 9.318
+  name: Malik Monk
+  team: SAC
+  thr_avg_dist: 25.904
+  two_avg_dist: 8.331
+- all_avg_dist: 15.75
+  fga: '52'
+  id: '1642874'
+  made_all_avg_dist: 15.13
+  made_fga: '23.0'
+  made_thr_avg_dist: 25.833
+  made_two_avg_dist: 3.455
+  miss_all_avg_dist: 16.241
+  miss_fga: '29.0'
+  miss_thr_avg_dist: 25.8
+  miss_two_avg_dist: 6.0
+  name: Danny Wolf
+  team: BKN
+  thr_avg_dist: 25.815
+  two_avg_dist: 4.88
+- all_avg_dist: 15.704
+  fga: '213'
+  id: '1641716'
+  made_all_avg_dist: 14.411
+  made_fga: '73.0'
+  made_thr_avg_dist: 25.182
+  made_two_avg_dist: 5.525
+  miss_all_avg_dist: 16.379
+  miss_fga: '140.0'
+  miss_thr_avg_dist: 25.267
+  miss_two_avg_dist: 6.123
+  name: Jarace Walker
+  team: IND
+  thr_avg_dist: 25.241
+  two_avg_dist: 5.895
+- all_avg_dist: 15.669
+  fga: '257'
   id: '1629675'
-  made_all_avg_dist: 12.376
-  made_fga: '101.0'
-  made_thr_avg_dist: 24.171
-  made_two_avg_dist: 4.317
-  miss_all_avg_dist: 17.642
-  miss_fga: '120.0'
-  miss_thr_avg_dist: 24.871
-  miss_two_avg_dist: 7.52
+  made_all_avg_dist: 13.283
+  made_fga: '120.0'
+  made_thr_avg_dist: 24.148
+  made_two_avg_dist: 4.394
+  miss_all_avg_dist: 17.759
+  miss_fga: '137.0'
+  miss_thr_avg_dist: 24.756
+  miss_two_avg_dist: 7.327
   name: Naz Reid
   team: MIN
-  thr_avg_dist: 24.613
-  two_avg_dist: 5.773
-- all_avg_dist: 15.226
-  fga: '318'
-  id: '1630162'
-  made_all_avg_dist: 12.955
-  made_fga: '156.0'
-  made_thr_avg_dist: 25.714
-  made_two_avg_dist: 5.81
-  miss_all_avg_dist: 17.414
-  miss_fga: '162.0'
-  miss_thr_avg_dist: 25.296
-  miss_two_avg_dist: 9.531
-  name: Anthony Edwards
-  team: MIN
-  thr_avg_dist: 25.467
-  two_avg_dist: 7.475
+  thr_avg_dist: 24.515
+  two_avg_dist: 5.727
+- all_avg_dist: 15.595
+  fga: '338'
+  id: '1630559'
+  made_all_avg_dist: 12.331
+  made_fga: '172.0'
+  made_thr_avg_dist: 26.088
+  made_two_avg_dist: 5.513
+  miss_all_avg_dist: 18.976
+  miss_fga: '166.0'
+  miss_thr_avg_dist: 26.268
+  miss_two_avg_dist: 8.725
+  name: Austin Reaves
+  team: LAL
+  thr_avg_dist: 26.201
+  two_avg_dist: 6.717
+- all_avg_dist: 15.475
+  fga: '200'
+  id: '1641783'
+  made_all_avg_dist: 12.844
+  made_fga: '90.0'
+  made_thr_avg_dist: 24.2
+  made_two_avg_dist: 3.76
+  miss_all_avg_dist: 17.627
+  miss_fga: '110.0'
+  miss_thr_avg_dist: 24.522
+  miss_two_avg_dist: 6.884
+  name: Tristan da Silva
+  team: ORL
+  thr_avg_dist: 24.402
+  two_avg_dist: 5.204
+- all_avg_dist: 15.451
+  fga: '82'
+  id: '1631321'
+  made_all_avg_dist: 12.576
+  made_fga: '33.0'
+  made_thr_avg_dist: 23.867
+  made_two_avg_dist: 3.167
+  miss_all_avg_dist: 17.388
+  miss_fga: '49.0'
+  miss_thr_avg_dist: 24.5
+  miss_two_avg_dist: 4.0
+  name: Sidy Cissoko
+  team: POR
+  thr_avg_dist: 24.298
+  two_avg_dist: 3.571
+- all_avg_dist: 15.434
+  fga: '244'
+  id: '1626171'
+  made_all_avg_dist: 14.57
+  made_fga: '114.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 8.486
+  miss_all_avg_dist: 16.192
+  miss_fga: '130.0'
+  miss_thr_avg_dist: 25.173
+  miss_two_avg_dist: 10.205
+  name: Bobby Portis
+  team: MIL
+  thr_avg_dist: 25.096
+  two_avg_dist: 9.38
+- all_avg_dist: 15.397
+  fga: '395'
+  id: '1627750'
+  made_all_avg_dist: 14.47
+  made_fga: '200.0'
+  made_thr_avg_dist: 25.254
+  made_two_avg_dist: 8.535
+  miss_all_avg_dist: 16.349
+  miss_fga: '195.0'
+  miss_thr_avg_dist: 25.315
+  miss_two_avg_dist: 8.821
+  name: Jamal Murray
+  team: DEN
+  thr_avg_dist: 25.288
+  two_avg_dist: 8.664
+- all_avg_dist: 15.331
+  fga: '127'
+  id: '1642347'
+  made_all_avg_dist: 13.935
+  made_fga: '46.0'
+  made_thr_avg_dist: 25.727
+  made_two_avg_dist: 3.125
+  miss_all_avg_dist: 16.123
+  miss_fga: '81.0'
+  miss_thr_avg_dist: 25.432
+  miss_two_avg_dist: 5.054
+  name: Jamal Shead
+  team: TOR
+  thr_avg_dist: 25.53
+  two_avg_dist: 4.295
+- all_avg_dist: 15.314
+  fga: '140'
+  id: '1630598'
+  made_all_avg_dist: 14.147
+  made_fga: '68.0'
+  made_thr_avg_dist: 25.091
+  made_two_avg_dist: 3.829
+  miss_all_avg_dist: 16.417
+  miss_fga: '72.0'
+  miss_thr_avg_dist: 24.465
+  miss_two_avg_dist: 4.483
+  name: Aaron Wiggins
+  team: OKC
+  thr_avg_dist: 24.737
+  two_avg_dist: 4.125
+- all_avg_dist: 15.306
+  fga: '62'
+  id: '1642879'
+  made_all_avg_dist: 12.591
+  made_fga: '22.0'
+  made_thr_avg_dist: 25.556
+  made_two_avg_dist: 3.615
+  miss_all_avg_dist: 16.8
+  miss_fga: '40.0'
+  miss_thr_avg_dist: 24.625
+  miss_two_avg_dist: 5.062
+  name: Ben Saraf
+  team: BKN
+  thr_avg_dist: 24.879
+  two_avg_dist: 4.414
+- all_avg_dist: 15.253
+  fga: '170'
+  id: '1641717'
+  made_all_avg_dist: 13.122
+  made_fga: '74.0'
+  made_thr_avg_dist: 24.056
+  made_two_avg_dist: 2.763
+  miss_all_avg_dist: 16.896
+  miss_fga: '96.0'
+  miss_thr_avg_dist: 24.475
+  miss_two_avg_dist: 4.811
+  name: Cason Wallace
+  team: OKC
+  thr_avg_dist: 24.316
+  two_avg_dist: 3.773
+- all_avg_dist: 15.239
+  fga: '109'
+  id: '1629632'
+  made_all_avg_dist: 11.404
+  made_fga: '47.0'
+  made_thr_avg_dist: 25.5
+  made_two_avg_dist: 4.129
+  miss_all_avg_dist: 18.145
+  miss_fga: '62.0'
+  miss_thr_avg_dist: 26.243
+  miss_two_avg_dist: 6.16
+  name: Coby White
+  team: CHI
+  thr_avg_dist: 26.019
+  two_avg_dist: 5.036
 - all_avg_dist: 15.22
   fga: '141'
   id: '1630529'
@@ -1873,51 +2053,141 @@
   team: SAC
   thr_avg_dist: 25.222
   two_avg_dist: 8.754
-- all_avg_dist: 15.191
-  fga: '309'
-  id: '1641718'
-  made_all_avg_dist: 12.757
-  made_fga: '136.0'
-  made_thr_avg_dist: 24.805
-  made_two_avg_dist: 7.558
-  miss_all_avg_dist: 17.104
-  miss_fga: '173.0'
-  miss_thr_avg_dist: 24.835
-  miss_two_avg_dist: 9.636
-  name: Keyonte George
-  team: UTA
-  thr_avg_dist: 24.825
-  two_avg_dist: 8.557
-- all_avg_dist: 15.117
-  fga: '60'
-  id: '1642363'
-  made_all_avg_dist: 11.682
-  made_fga: '22.0'
-  made_thr_avg_dist: 25.0
-  made_two_avg_dist: 2.462
-  miss_all_avg_dist: 17.105
-  miss_fga: '38.0'
-  miss_thr_avg_dist: 24.947
-  miss_two_avg_dist: 9.263
-  name: Nique Clifford
-  team: SAC
-  thr_avg_dist: 24.964
-  two_avg_dist: 6.5
-- all_avg_dist: 15.097
-  fga: '175'
-  id: '1641783'
-  made_all_avg_dist: 12.726
-  made_fga: '84.0'
-  made_thr_avg_dist: 24.243
-  made_two_avg_dist: 3.66
-  miss_all_avg_dist: 17.286
-  miss_fga: '91.0'
-  miss_thr_avg_dist: 24.382
-  miss_two_avg_dist: 6.444
-  name: Tristan da Silva
-  team: ORL
-  thr_avg_dist: 24.326
-  two_avg_dist: 4.867
+- all_avg_dist: 15.194
+  fga: '222'
+  id: '1629060'
+  made_all_avg_dist: 14.034
+  made_fga: '119.0'
+  made_thr_avg_dist: 24.279
+  made_two_avg_dist: 8.237
+  miss_all_avg_dist: 16.534
+  miss_fga: '103.0'
+  miss_thr_avg_dist: 24.32
+  miss_two_avg_dist: 9.189
+  name: Rui Hachimura
+  team: LAL
+  thr_avg_dist: 24.301
+  two_avg_dist: 8.628
+- all_avg_dist: 15.187
+  fga: '75'
+  id: '1642962'
+  made_all_avg_dist: 12.611
+  made_fga: '36.0'
+  made_thr_avg_dist: 24.5
+  made_two_avg_dist: 6.667
+  miss_all_avg_dist: 17.564
+  miss_fga: '39.0'
+  miss_thr_avg_dist: 24.571
+  miss_two_avg_dist: 9.389
+  name: Drake Powell
+  team: BKN
+  thr_avg_dist: 24.545
+  two_avg_dist: 7.833
+- all_avg_dist: 15.127
+  fga: '63'
+  id: '1642278'
+  made_all_avg_dist: 11.929
+  made_fga: '28.0'
+  made_thr_avg_dist: 25.667
+  made_two_avg_dist: 5.421
+  miss_all_avg_dist: 17.686
+  miss_fga: '35.0'
+  miss_thr_avg_dist: 25.524
+  miss_two_avg_dist: 5.929
+  name: Tyler Kolek
+  team: NYK
+  thr_avg_dist: 25.567
+  two_avg_dist: 5.636
+- all_avg_dist: 15.124
+  fga: '258'
+  id: '202695'
+  made_all_avg_dist: 13.528
+  made_fga: '127.0'
+  made_thr_avg_dist: 25.375
+  made_two_avg_dist: 9.537
+  miss_all_avg_dist: 16.672
+  miss_fga: '131.0'
+  miss_thr_avg_dist: 25.06
+  miss_two_avg_dist: 11.494
+  name: Kawhi Leonard
+  team: LAC
+  thr_avg_dist: 25.183
+  two_avg_dist: 10.438
+- all_avg_dist: 15.113
+  fga: '239'
+  id: '1631095'
+  made_all_avg_dist: 12.514
+  made_fga: '109.0'
+  made_thr_avg_dist: 24.3
+  made_two_avg_dist: 5.681
+  miss_all_avg_dist: 17.292
+  miss_fga: '130.0'
+  miss_thr_avg_dist: 24.729
+  miss_two_avg_dist: 8.617
+  name: Jabari Smith Jr.
+  team: HOU
+  thr_avg_dist: 24.573
+  two_avg_dist: 7.047
+- all_avg_dist: 15.109
+  fga: '156'
+  id: '1630692'
+  made_all_avg_dist: 12.313
+  made_fga: '67.0'
+  made_thr_avg_dist: 24.577
+  made_two_avg_dist: 4.537
+  miss_all_avg_dist: 17.213
+  miss_fga: '89.0'
+  miss_thr_avg_dist: 25.021
+  miss_two_avg_dist: 8.073
+  name: Jordan Goodwin
+  team: PHX
+  thr_avg_dist: 24.865
+  two_avg_dist: 6.305
+- all_avg_dist: 15.102
+  fga: '167'
+  id: '204001'
+  made_all_avg_dist: 12.795
+  made_fga: '83.0'
+  made_thr_avg_dist: 25.167
+  made_two_avg_dist: 7.763
+  miss_all_avg_dist: 17.381
+  miss_fga: '84.0'
+  miss_thr_avg_dist: 26.143
+  miss_two_avg_dist: 8.619
+  name: "Kristaps Porzi\u0146\u0123is"
+  team: ATL
+  thr_avg_dist: 25.788
+  two_avg_dist: 8.119
+- all_avg_dist: 15.084
+  fga: '119'
+  id: '1631169'
+  made_all_avg_dist: 12.852
+  made_fga: '61.0'
+  made_thr_avg_dist: 24.828
+  made_two_avg_dist: 2.0
+  miss_all_avg_dist: 17.431
+  miss_fga: '58.0'
+  miss_thr_avg_dist: 24.694
+  miss_two_avg_dist: 5.545
+  name: Josh Minott
+  team: BOS
+  thr_avg_dist: 24.754
+  two_avg_dist: 3.444
+- all_avg_dist: 15.065
+  fga: '77'
+  id: '1629645'
+  made_all_avg_dist: 14.674
+  made_fga: '43.0'
+  made_thr_avg_dist: 24.857
+  made_two_avg_dist: 4.955
+  miss_all_avg_dist: 15.559
+  miss_fga: '34.0'
+  miss_thr_avg_dist: 25.077
+  miss_two_avg_dist: 9.667
+  name: Kevin Porter Jr.
+  team: MIL
+  thr_avg_dist: 24.941
+  two_avg_dist: 7.256
 - all_avg_dist: 15.058
   fga: '138'
   id: '1630188'
@@ -1948,321 +2218,261 @@
   team: BKN
   thr_avg_dist: 25.333
   two_avg_dist: 9.713
-- all_avg_dist: 15.032
-  fga: '216'
-  id: '1630180'
-  made_all_avg_dist: 12.779
-  made_fga: '95.0'
-  made_thr_avg_dist: 24.78
-  made_two_avg_dist: 3.667
-  miss_all_avg_dist: 16.802
-  miss_fga: '121.0'
-  miss_thr_avg_dist: 24.319
-  miss_two_avg_dist: 6.827
-  name: Saddiq Bey
-  team: NOP
-  thr_avg_dist: 24.491
-  two_avg_dist: 5.217
-- all_avg_dist: 15.026
-  fga: '151'
-  id: '1641717'
-  made_all_avg_dist: 12.879
-  made_fga: '66.0'
-  made_thr_avg_dist: 24.129
-  made_two_avg_dist: 2.914
-  miss_all_avg_dist: 16.694
-  miss_fga: '85.0'
-  miss_thr_avg_dist: 24.385
-  miss_two_avg_dist: 4.576
-  name: Cason Wallace
-  team: OKC
-  thr_avg_dist: 24.289
-  two_avg_dist: 3.721
-- all_avg_dist: 15.017
-  fga: '115'
-  id: '1630598'
-  made_all_avg_dist: 13.604
-  made_fga: '53.0'
-  made_thr_avg_dist: 24.885
-  made_two_avg_dist: 2.741
-  miss_all_avg_dist: 16.226
-  miss_fga: '62.0'
-  miss_thr_avg_dist: 24.324
-  miss_two_avg_dist: 4.24
-  name: Aaron Wiggins
-  team: OKC
-  thr_avg_dist: 24.556
-  two_avg_dist: 3.462
-- all_avg_dist: 14.984
-  fga: '385'
+- all_avg_dist: 15.003
+  fga: '392'
   id: '1626164'
-  made_all_avg_dist: 12.446
-  made_fga: '175.0'
-  made_thr_avg_dist: 26.263
-  made_two_avg_dist: 8.613
-  miss_all_avg_dist: 17.1
-  miss_fga: '210.0'
-  miss_thr_avg_dist: 26.145
-  miss_two_avg_dist: 11.189
+  made_all_avg_dist: 12.503
+  made_fga: '179.0'
+  made_thr_avg_dist: 26.256
+  made_two_avg_dist: 8.671
+  miss_all_avg_dist: 17.103
+  miss_fga: '213.0'
+  miss_thr_avg_dist: 26.131
+  miss_two_avg_dist: 11.225
   name: Devin Booker
   team: PHX
-  thr_avg_dist: 26.182
-  two_avg_dist: 9.852
-- all_avg_dist: 14.936
-  fga: '436'
-  id: '1630178'
-  made_all_avg_dist: 12.686
-  made_fga: '204.0'
-  made_thr_avg_dist: 26.278
-  made_two_avg_dist: 5.273
-  miss_all_avg_dist: 16.914
-  miss_fga: '232.0'
-  miss_thr_avg_dist: 26.491
-  miss_two_avg_dist: 7.661
-  name: Tyrese Maxey
-  team: PHI
-  thr_avg_dist: 26.409
-  two_avg_dist: 6.4
-- all_avg_dist: 14.889
-  fga: '253'
-  id: '201142'
-  made_all_avg_dist: 13.27
-  made_fga: '126.0'
-  made_thr_avg_dist: 25.333
-  made_two_avg_dist: 9.98
-  miss_all_avg_dist: 16.496
-  miss_fga: '127.0'
-  miss_thr_avg_dist: 25.14
-  miss_two_avg_dist: 12.071
-  name: Kevin Durant
-  team: HOU
-  thr_avg_dist: 25.214
-  two_avg_dist: 10.94
-- all_avg_dist: 14.851
-  fga: '194'
-  id: '1626171'
-  made_all_avg_dist: 14.032
-  made_fga: '93.0'
-  made_thr_avg_dist: 25.212
-  made_two_avg_dist: 7.883
-  miss_all_avg_dist: 15.604
-  miss_fga: '101.0'
-  miss_thr_avg_dist: 25.162
-  miss_two_avg_dist: 10.078
-  name: Bobby Portis
-  team: MIL
-  thr_avg_dist: 25.186
-  two_avg_dist: 9.016
-- all_avg_dist: 14.708
-  fga: '154'
-  id: '204001'
-  made_all_avg_dist: 12.162
-  made_fga: '74.0'
-  made_thr_avg_dist: 25.1
-  made_two_avg_dist: 7.37
-  miss_all_avg_dist: 17.062
-  miss_fga: '80.0'
-  miss_thr_avg_dist: 26.026
-  miss_two_avg_dist: 8.537
-  name: "Kristaps Porzi\u0146\u0123is"
-  team: ATL
-  thr_avg_dist: 25.712
-  two_avg_dist: 7.874
-- all_avg_dist: 14.707
-  fga: '133'
-  id: '1630692'
-  made_all_avg_dist: 12.103
-  made_fga: '58.0'
-  made_thr_avg_dist: 24.545
-  made_two_avg_dist: 4.5
-  miss_all_avg_dist: 16.72
-  miss_fga: '75.0'
-  miss_thr_avg_dist: 24.897
-  miss_two_avg_dist: 7.861
-  name: Jordan Goodwin
-  team: PHX
-  thr_avg_dist: 24.77
-  two_avg_dist: 6.181
-- all_avg_dist: 14.704
-  fga: '189'
-  id: '1629060'
-  made_all_avg_dist: 13.544
-  made_fga: '103.0'
-  made_thr_avg_dist: 24.371
-  made_two_avg_dist: 7.971
-  miss_all_avg_dist: 16.093
-  miss_fga: '86.0'
-  miss_thr_avg_dist: 24.341
-  miss_two_avg_dist: 8.578
-  name: Rui Hachimura
-  team: LAL
-  thr_avg_dist: 24.355
-  two_avg_dist: 8.212
-- all_avg_dist: 14.671
-  fga: '140'
-  id: '1642281'
-  made_all_avg_dist: 13.559
-  made_fga: '68.0'
-  made_thr_avg_dist: 24.286
-  made_two_avg_dist: 2.182
-  miss_all_avg_dist: 15.722
-  miss_fga: '72.0'
-  miss_thr_avg_dist: 23.976
-  miss_two_avg_dist: 4.806
-  name: Jaylon Tyson
-  team: CLE
-  thr_avg_dist: 24.118
-  two_avg_dist: 3.453
-- all_avg_dist: 14.589
-  fga: '382'
-  id: '1628374'
-  made_all_avg_dist: 11.494
+  thr_avg_dist: 26.171
+  two_avg_dist: 9.896
+- all_avg_dist: 14.984
+  fga: '365'
+  id: '1630162'
+  made_all_avg_dist: 12.798
   made_fga: '178.0'
-  made_thr_avg_dist: 25.15
-  made_two_avg_dist: 4.551
-  miss_all_avg_dist: 17.289
-  miss_fga: '204.0'
-  miss_thr_avg_dist: 25.422
-  miss_two_avg_dist: 7.958
-  name: Lauri Markkanen
-  team: UTA
-  thr_avg_dist: 25.325
-  two_avg_dist: 6.07
-- all_avg_dist: 14.576
-  fga: '165'
-  id: '203903'
-  made_all_avg_dist: 10.853
-  made_fga: '75.0'
-  made_thr_avg_dist: 24.84
-  made_two_avg_dist: 3.86
-  miss_all_avg_dist: 17.678
-  miss_fga: '90.0'
-  miss_thr_avg_dist: 24.339
-  miss_two_avg_dist: 6.706
-  name: Jordan Clarkson
-  team: NYK
-  thr_avg_dist: 24.494
-  two_avg_dist: 5.012
-- all_avg_dist: 14.566
-  fga: '279'
-  id: '1629638'
-  made_all_avg_dist: 12.101
-  made_fga: '129.0'
-  made_thr_avg_dist: 24.4
-  made_two_avg_dist: 4.316
-  miss_all_avg_dist: 16.687
-  miss_fga: '150.0'
-  miss_thr_avg_dist: 24.771
-  miss_two_avg_dist: 6.672
-  name: Nickeil Alexander-Walker
-  team: ATL
-  thr_avg_dist: 24.632
-  two_avg_dist: 5.397
-- all_avg_dist: 14.543
-  fga: '105'
+  made_thr_avg_dist: 25.562
+  made_two_avg_dist: 5.632
+  miss_all_avg_dist: 17.064
+  miss_fga: '187.0'
+  miss_thr_avg_dist: 25.211
+  miss_two_avg_dist: 9.505
+  name: Anthony Edwards
+  team: MIN
+  thr_avg_dist: 25.357
+  two_avg_dist: 7.412
+- all_avg_dist: 14.932
+  fga: '118'
   id: '1631107'
-  made_all_avg_dist: 11.286
-  made_fga: '42.0'
-  made_thr_avg_dist: 25.533
-  made_two_avg_dist: 3.37
-  miss_all_avg_dist: 16.714
-  miss_fga: '63.0'
-  miss_thr_avg_dist: 25.333
-  miss_two_avg_dist: 5.222
+  made_all_avg_dist: 11.478
+  made_fga: '46.0'
+  made_thr_avg_dist: 25.294
+  made_two_avg_dist: 3.379
+  miss_all_avg_dist: 17.139
+  miss_fga: '72.0'
+  miss_thr_avg_dist: 25.07
+  miss_two_avg_dist: 5.379
   name: "Nikola Jovi\u0107"
   team: MIA
-  thr_avg_dist: 25.392
-  two_avg_dist: 4.296
-- all_avg_dist: 14.514
-  fga: '138'
+  thr_avg_dist: 25.133
+  two_avg_dist: 4.379
+- all_avg_dist: 14.905
+  fga: '348'
+  id: '1629638'
+  made_all_avg_dist: 12.454
+  made_fga: '163.0'
+  made_thr_avg_dist: 24.333
+  made_two_avg_dist: 4.371
+  miss_all_avg_dist: 17.065
+  miss_fga: '185.0'
+  miss_thr_avg_dist: 24.874
+  miss_two_avg_dist: 7.256
+  name: Nickeil Alexander-Walker
+  team: ATL
+  thr_avg_dist: 24.663
+  two_avg_dist: 5.693
+- all_avg_dist: 14.883
+  fga: '367'
+  id: '1641718'
+  made_all_avg_dist: 12.662
+  made_fga: '160.0'
+  made_thr_avg_dist: 24.896
+  made_two_avg_dist: 7.42
+  miss_all_avg_dist: 16.599
+  miss_fga: '207.0'
+  miss_thr_avg_dist: 24.806
+  miss_two_avg_dist: 9.22
+  name: Keyonte George
+  team: UTA
+  thr_avg_dist: 24.836
+  two_avg_dist: 8.308
+- all_avg_dist: 14.878
+  fga: '82'
+  id: '1629639'
+  made_all_avg_dist: 14.209
+  made_fga: '43.0'
+  made_thr_avg_dist: 25.6
+  made_two_avg_dist: 8.107
+  miss_all_avg_dist: 15.615
+  miss_fga: '39.0'
+  miss_thr_avg_dist: 24.75
+  miss_two_avg_dist: 9.261
+  name: Tyler Herro
+  team: MIA
+  thr_avg_dist: 25.161
+  two_avg_dist: 8.627
+- all_avg_dist: 14.745
+  fga: '51'
+  id: '1631093'
+  made_all_avg_dist: 14.818
+  made_fga: '22.0'
+  made_thr_avg_dist: 25.6
+  made_two_avg_dist: 5.833
+  miss_all_avg_dist: 14.69
+  miss_fga: '29.0'
+  miss_thr_avg_dist: 25.071
+  miss_two_avg_dist: 5.0
+  name: Jaden Ivey
+  team: DET
+  thr_avg_dist: 25.292
+  two_avg_dist: 5.37
+- all_avg_dist: 14.682
+  fga: '173'
   id: '1631097'
-  made_all_avg_dist: 12.935
-  made_fga: '62.0'
-  made_thr_avg_dist: 25.783
-  made_two_avg_dist: 5.359
-  miss_all_avg_dist: 15.803
-  miss_fga: '76.0'
-  miss_thr_avg_dist: 25.944
-  miss_two_avg_dist: 6.675
+  made_all_avg_dist: 13.747
+  made_fga: '79.0'
+  made_thr_avg_dist: 25.364
+  made_two_avg_dist: 5.413
+  miss_all_avg_dist: 15.468
+  miss_fga: '94.0'
+  miss_thr_avg_dist: 25.636
+  miss_two_avg_dist: 6.52
   name: Bennedict Mathurin
   team: IND
-  thr_avg_dist: 25.881
-  two_avg_dist: 6.025
-- all_avg_dist: 14.465
-  fga: '114'
-  id: '203114'
-  made_all_avg_dist: 13.204
-  made_fga: '54.0'
-  made_thr_avg_dist: 25.091
-  made_two_avg_dist: 10.163
-  miss_all_avg_dist: 15.6
-  miss_fga: '60.0'
-  miss_thr_avg_dist: 24.826
-  miss_two_avg_dist: 9.865
-  name: Khris Middleton
-  team: WAS
-  thr_avg_dist: 24.912
-  two_avg_dist: 10.025
-- all_avg_dist: 14.439
-  fga: '107'
-  id: '1629750'
-  made_all_avg_dist: 11.067
-  made_fga: '45.0'
-  made_thr_avg_dist: 24.765
-  made_two_avg_dist: 2.75
-  miss_all_avg_dist: 16.887
-  miss_fga: '62.0'
-  miss_thr_avg_dist: 24.833
-  miss_two_avg_dist: 5.885
-  name: Javonte Green
-  team: DET
-  thr_avg_dist: 24.811
-  two_avg_dist: 4.259
-- all_avg_dist: 14.415
-  fga: '246'
+  thr_avg_dist: 25.519
+  two_avg_dist: 5.99
+- all_avg_dist: 14.581
+  fga: '270'
   id: '201566'
-  made_all_avg_dist: 12.2
-  made_fga: '105.0'
-  made_thr_avg_dist: 24.439
-  made_two_avg_dist: 4.359
-  miss_all_avg_dist: 16.064
-  miss_fga: '141.0'
-  miss_thr_avg_dist: 25.015
-  miss_two_avg_dist: 7.726
+  made_all_avg_dist: 12.217
+  made_fga: '115.0'
+  made_thr_avg_dist: 24.545
+  made_two_avg_dist: 4.577
+  miss_all_avg_dist: 16.335
+  miss_fga: '155.0'
+  miss_thr_avg_dist: 25.026
+  miss_two_avg_dist: 7.975
   name: Russell Westbrook
   team: SAC
-  thr_avg_dist: 24.798
-  two_avg_dist: 6.153
-- all_avg_dist: 14.362
-  fga: '58'
-  id: '1642962'
-  made_all_avg_dist: 11.931
-  made_fga: '29.0'
-  made_thr_avg_dist: 24.875
-  made_two_avg_dist: 7.0
-  miss_all_avg_dist: 16.793
-  miss_fga: '29.0'
-  miss_thr_avg_dist: 24.714
-  miss_two_avg_dist: 9.4
-  name: Drake Powell
-  team: BKN
-  thr_avg_dist: 24.773
-  two_avg_dist: 8.0
-- all_avg_dist: 14.354
-  fga: '226'
-  id: '1628969'
-  made_all_avg_dist: 11.782
-  made_fga: '119.0'
-  made_thr_avg_dist: 24.167
-  made_two_avg_dist: 5.026
-  miss_all_avg_dist: 17.215
-  miss_fga: '107.0'
-  miss_thr_avg_dist: 24.203
-  miss_two_avg_dist: 8.625
-  name: Mikal Bridges
+  thr_avg_dist: 24.85
+  two_avg_dist: 6.367
+- all_avg_dist: 14.543
+  fga: '197'
+  id: '203903'
+  made_all_avg_dist: 10.81
+  made_fga: '84.0'
+  made_thr_avg_dist: 24.786
+  made_two_avg_dist: 3.821
+  miss_all_avg_dist: 17.319
+  miss_fga: '113.0'
+  miss_thr_avg_dist: 24.338
+  miss_two_avg_dist: 6.711
+  name: Jordan Clarkson
   team: NYK
-  thr_avg_dist: 24.188
-  two_avg_dist: 6.408
+  thr_avg_dist: 24.469
+  two_avg_dist: 5.109
+- all_avg_dist: 14.509
+  fga: '527'
+  id: '1630178'
+  made_all_avg_dist: 12.549
+  made_fga: '246.0'
+  made_thr_avg_dist: 26.235
+  made_two_avg_dist: 5.323
+  miss_all_avg_dist: 16.224
+  miss_fga: '281.0'
+  miss_thr_avg_dist: 26.504
+  miss_two_avg_dist: 7.247
+  name: Tyrese Maxey
+  team: PHI
+  thr_avg_dist: 26.398
+  two_avg_dist: 6.251
+- all_avg_dist: 14.49
+  fga: '51'
+  id: '1629723'
+  made_all_avg_dist: 9.154
+  made_fga: '26.0'
+  made_thr_avg_dist: 23.556
+  made_two_avg_dist: 1.529
+  miss_all_avg_dist: 20.04
+  miss_fga: '25.0'
+  miss_thr_avg_dist: 24.158
+  miss_two_avg_dist: 7.0
+  name: John Konchar
+  team: MEM
+  thr_avg_dist: 23.964
+  two_avg_dist: 2.957
+- all_avg_dist: 14.484
+  fga: '124'
+  id: '1629750'
+  made_all_avg_dist: 11.604
+  made_fga: '53.0'
+  made_thr_avg_dist: 24.571
+  made_two_avg_dist: 3.094
+  miss_all_avg_dist: 16.634
+  miss_fga: '71.0'
+  miss_thr_avg_dist: 24.829
+  miss_two_avg_dist: 5.433
+  name: Javonte Green
+  team: DET
+  thr_avg_dist: 24.742
+  two_avg_dist: 4.226
+- all_avg_dist: 14.426
+  fga: '136'
+  id: '203114'
+  made_all_avg_dist: 13.179
+  made_fga: '67.0'
+  made_thr_avg_dist: 25.429
+  made_two_avg_dist: 9.943
+  miss_all_avg_dist: 15.638
+  miss_fga: '69.0'
+  miss_thr_avg_dist: 24.846
+  miss_two_avg_dist: 10.07
+  name: Khris Middleton
+  team: WAS
+  thr_avg_dist: 25.05
+  two_avg_dist: 10.0
+- all_avg_dist: 14.422
+  fga: '135'
+  id: '203954'
+  made_all_avg_dist: 10.509
+  made_fga: '55.0'
+  made_thr_avg_dist: 25.889
+  made_two_avg_dist: 7.5
+  miss_all_avg_dist: 17.113
+  miss_fga: '80.0'
+  miss_thr_avg_dist: 25.971
+  miss_two_avg_dist: 10.565
+  name: Joel Embiid
+  team: PHI
+  thr_avg_dist: 25.953
+  two_avg_dist: 9.033
+- all_avg_dist: 14.341
+  fga: '437'
+  id: '1628973'
+  made_all_avg_dist: 12.422
+  made_fga: '206.0'
+  made_thr_avg_dist: 24.821
+  made_two_avg_dist: 7.793
+  miss_all_avg_dist: 16.052
+  miss_fga: '231.0'
+  miss_thr_avg_dist: 25.5
+  miss_two_avg_dist: 8.84
+  name: Jalen Brunson
+  team: NYK
+  thr_avg_dist: 25.256
+  two_avg_dist: 8.281
+- all_avg_dist: 14.329
+  fga: '331'
+  id: '201142'
+  made_all_avg_dist: 12.772
+  made_fga: '167.0'
+  made_thr_avg_dist: 25.333
+  made_two_avg_dist: 9.679
+  miss_all_avg_dist: 15.915
+  miss_fga: '164.0'
+  miss_thr_avg_dist: 25.151
+  miss_two_avg_dist: 11.505
+  name: Kevin Durant
+  team: HOU
+  thr_avg_dist: 25.221
+  two_avg_dist: 10.506
 - all_avg_dist: 14.322
   fga: '149'
   id: '1626162'
@@ -2278,81 +2488,81 @@
   team: PHI
   thr_avg_dist: 25.0
   two_avg_dist: 5.598
-- all_avg_dist: 14.321
-  fga: '352'
-  id: '1628970'
-  made_all_avg_dist: 11.638
-  made_fga: '152.0'
-  made_thr_avg_dist: 24.786
-  made_two_avg_dist: 3.969
-  miss_all_avg_dist: 16.36
-  miss_fga: '200.0'
-  miss_thr_avg_dist: 25.11
-  miss_two_avg_dist: 5.879
-  name: Miles Bridges
-  team: CHA
-  thr_avg_dist: 25.0
-  two_avg_dist: 4.898
-- all_avg_dist: 14.303
-  fga: '360'
-  id: '1628973'
-  made_all_avg_dist: 12.57
-  made_fga: '172.0'
-  made_thr_avg_dist: 24.83
-  made_two_avg_dist: 7.96
-  miss_all_avg_dist: 15.888
-  miss_fga: '188.0'
-  miss_thr_avg_dist: 25.475
-  miss_two_avg_dist: 8.787
-  name: Jalen Brunson
+- all_avg_dist: 14.306
+  fga: '281'
+  id: '1628969'
+  made_all_avg_dist: 11.483
+  made_fga: '149.0'
+  made_thr_avg_dist: 24.423
+  made_two_avg_dist: 4.546
+  miss_all_avg_dist: 17.492
+  miss_fga: '132.0'
+  miss_thr_avg_dist: 24.23
+  miss_two_avg_dist: 8.897
+  name: Mikal Bridges
   team: NYK
-  thr_avg_dist: 25.236
-  two_avg_dist: 8.343
-- all_avg_dist: 14.259
-  fga: '147'
-  id: '1628384'
-  made_all_avg_dist: 11.286
-  made_fga: '70.0'
-  made_thr_avg_dist: 24.129
-  made_two_avg_dist: 1.077
-  miss_all_avg_dist: 16.961
-  miss_fga: '77.0'
-  miss_thr_avg_dist: 24.417
-  miss_two_avg_dist: 4.621
-  name: OG Anunoby
-  team: NYK
-  thr_avg_dist: 24.304
-  two_avg_dist: 2.588
+  thr_avg_dist: 24.31
+  two_avg_dist: 6.174
 - all_avg_dist: 14.247
-  fga: '352'
+  fga: '425'
   id: '1627742'
-  made_all_avg_dist: 12.126
-  made_fga: '167.0'
-  made_thr_avg_dist: 24.767
-  made_two_avg_dist: 9.358
-  miss_all_avg_dist: 16.162
-  miss_fga: '185.0'
-  miss_thr_avg_dist: 24.833
-  miss_two_avg_dist: 11.353
+  made_all_avg_dist: 12.152
+  made_fga: '198.0'
+  made_thr_avg_dist: 24.833
+  made_two_avg_dist: 9.333
+  miss_all_avg_dist: 16.075
+  miss_fga: '227.0'
+  miss_thr_avg_dist: 24.909
+  miss_two_avg_dist: 11.54
   name: Brandon Ingram
   team: TOR
-  thr_avg_dist: 24.812
-  two_avg_dist: 10.285
-- all_avg_dist: 14.235
-  fga: '183'
-  id: '1642258'
-  made_all_avg_dist: 10.286
-  made_fga: '84.0'
-  made_thr_avg_dist: 25.071
-  made_two_avg_dist: 2.893
-  miss_all_avg_dist: 17.586
-  miss_fga: '99.0'
-  miss_thr_avg_dist: 25.15
-  miss_two_avg_dist: 5.949
-  name: Zaccharie Risacher
-  team: ATL
-  thr_avg_dist: 25.125
-  two_avg_dist: 4.147
+  thr_avg_dist: 24.885
+  two_avg_dist: 10.394
+- all_avg_dist: 14.242
+  fga: '182'
+  id: '1628989'
+  made_all_avg_dist: 9.872
+  made_fga: '86.0'
+  made_thr_avg_dist: 24.741
+  made_two_avg_dist: 3.068
+  miss_all_avg_dist: 18.156
+  miss_fga: '96.0'
+  miss_thr_avg_dist: 24.921
+  miss_two_avg_dist: 5.242
+  name: Kevin Huerter
+  team: CHI
+  thr_avg_dist: 24.867
+  two_avg_dist: 3.848
+- all_avg_dist: 14.2
+  fga: '75'
+  id: '1642363'
+  made_all_avg_dist: 10.1
+  made_fga: '30.0'
+  made_thr_avg_dist: 24.8
+  made_two_avg_dist: 2.75
+  miss_all_avg_dist: 16.933
+  miss_fga: '45.0'
+  miss_thr_avg_dist: 25.182
+  miss_two_avg_dist: 9.043
+  name: Nique Clifford
+  team: SAC
+  thr_avg_dist: 25.062
+  two_avg_dist: 6.116
+- all_avg_dist: 14.178
+  fga: '90'
+  id: '1641774'
+  made_all_avg_dist: 9.953
+  made_fga: '43.0'
+  made_thr_avg_dist: 26.444
+  made_two_avg_dist: 5.588
+  miss_all_avg_dist: 18.043
+  miss_fga: '47.0'
+  miss_thr_avg_dist: 25.63
+  miss_two_avg_dist: 7.8
+  name: Tristan Vukcevic
+  team: WAS
+  thr_avg_dist: 25.833
+  two_avg_dist: 6.407
 - all_avg_dist: 14.143
   fga: '70'
   id: '1629027'
@@ -2368,51 +2578,51 @@
   team: ATL
   thr_avg_dist: 25.846
   two_avg_dist: 7.227
-- all_avg_dist: 14.137
-  fga: '102'
-  id: '1631169'
-  made_all_avg_dist: 11.64
-  made_fga: '50.0'
-  made_thr_avg_dist: 24.857
-  made_two_avg_dist: 2.069
-  miss_all_avg_dist: 16.538
-  miss_fga: '52.0'
-  miss_thr_avg_dist: 24.6
-  miss_two_avg_dist: 5.545
-  name: Josh Minott
-  team: BOS
-  thr_avg_dist: 24.706
-  two_avg_dist: 3.569
-- all_avg_dist: 14.117
-  fga: '179'
-  id: '1628989'
-  made_all_avg_dist: 9.872
-  made_fga: '86.0'
-  made_thr_avg_dist: 24.741
-  made_two_avg_dist: 3.068
-  miss_all_avg_dist: 18.043
-  miss_fga: '93.0'
-  miss_thr_avg_dist: 24.902
-  miss_two_avg_dist: 4.969
-  name: Kevin Huerter
-  team: CHI
-  thr_avg_dist: 24.852
-  two_avg_dist: 3.736
-- all_avg_dist: 14.075
-  fga: '93'
-  id: '1629006'
-  made_all_avg_dist: 12.925
-  made_fga: '40.0'
-  made_thr_avg_dist: 23.85
-  made_two_avg_dist: 2.0
-  miss_all_avg_dist: 14.943
-  miss_fga: '53.0'
-  miss_thr_avg_dist: 23.867
-  miss_two_avg_dist: 3.304
-  name: Josh Okogie
-  team: HOU
-  thr_avg_dist: 23.86
-  two_avg_dist: 2.698
+- all_avg_dist: 14.143
+  fga: '56'
+  id: '1642461'
+  made_all_avg_dist: 12.094
+  made_fga: '32.0'
+  made_thr_avg_dist: 23.786
+  made_two_avg_dist: 3.0
+  miss_all_avg_dist: 16.875
+  miss_fga: '24.0'
+  miss_thr_avg_dist: 23.353
+  miss_two_avg_dist: 1.143
+  name: Spencer Jones
+  team: DEN
+  thr_avg_dist: 23.548
+  two_avg_dist: 2.48
+- all_avg_dist: 14.121
+  fga: '430'
+  id: '1628374'
+  made_all_avg_dist: 11.232
+  made_fga: '203.0'
+  made_thr_avg_dist: 25.106
+  made_two_avg_dist: 4.547
+  miss_all_avg_dist: 16.705
+  miss_fga: '227.0'
+  miss_thr_avg_dist: 25.376
+  miss_two_avg_dist: 7.482
+  name: Lauri Markkanen
+  team: UTA
+  thr_avg_dist: 25.279
+  two_avg_dist: 5.854
+- all_avg_dist: 14.089
+  fga: '259'
+  id: '1630180'
+  made_all_avg_dist: 11.259
+  made_fga: '116.0'
+  made_thr_avg_dist: 24.767
+  made_two_avg_dist: 3.301
+  miss_all_avg_dist: 16.385
+  miss_fga: '143.0'
+  miss_thr_avg_dist: 24.3
+  miss_two_avg_dist: 6.333
+  name: Saddiq Bey
+  team: NOP
+  thr_avg_dist: 24.463
+  two_avg_dist: 4.706
 - all_avg_dist: 14.054
   fga: '92'
   id: '1627884'
@@ -2428,126 +2638,261 @@
   team: LAC
   thr_avg_dist: 24.5
   two_avg_dist: 3.609
-- all_avg_dist: 14.043
-  fga: '210'
-  id: '1642907'
-  made_all_avg_dist: 11.463
-  made_fga: '95.0'
-  made_thr_avg_dist: 24.559
-  made_two_avg_dist: 4.164
-  miss_all_avg_dist: 16.174
-  miss_fga: '115.0'
-  miss_thr_avg_dist: 24.274
-  miss_two_avg_dist: 6.698
-  name: Cedric Coward
-  team: MEM
-  thr_avg_dist: 24.375
-  two_avg_dist: 5.342
-- all_avg_dist: 14.03
-  fga: '101'
-  id: '203954'
-  made_all_avg_dist: 10.717
+- all_avg_dist: 14.049
+  fga: '61'
+  id: '1642353'
+  made_all_avg_dist: 11.333
+  made_fga: '21.0'
+  made_thr_avg_dist: 23.889
+  made_two_avg_dist: 1.917
+  miss_all_avg_dist: 15.475
+  miss_fga: '40.0'
+  miss_thr_avg_dist: 25.2
+  miss_two_avg_dist: 5.75
+  name: Cam Christie
+  team: LAC
+  thr_avg_dist: 24.793
+  two_avg_dist: 4.312
+- all_avg_dist: 14.037
+  fga: '214'
+  id: '1642258'
+  made_all_avg_dist: 9.443
+  made_fga: '97.0'
+  made_thr_avg_dist: 25.034
+  made_two_avg_dist: 2.794
+  miss_all_avg_dist: 17.846
+  miss_fga: '117.0'
+  miss_thr_avg_dist: 25.101
+  miss_two_avg_dist: 7.417
+  name: Zaccharie Risacher
+  team: ATL
+  thr_avg_dist: 25.082
+  two_avg_dist: 4.707
+- all_avg_dist: 14.019
+  fga: '103'
+  id: '1629006'
+  made_all_avg_dist: 12.457
   made_fga: '46.0'
-  made_thr_avg_dist: 25.889
-  made_two_avg_dist: 7.027
-  miss_all_avg_dist: 16.8
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 25.909
-  miss_two_avg_dist: 10.727
-  name: Joel Embiid
-  team: PHI
-  thr_avg_dist: 25.903
-  two_avg_dist: 8.771
-- all_avg_dist: 13.79
-  fga: '300'
+  made_thr_avg_dist: 23.864
+  made_two_avg_dist: 2.0
+  miss_all_avg_dist: 15.281
+  miss_fga: '57.0'
+  miss_thr_avg_dist: 23.879
+  miss_two_avg_dist: 3.458
+  name: Josh Okogie
+  team: HOU
+  thr_avg_dist: 23.873
+  two_avg_dist: 2.729
+- all_avg_dist: 14.017
+  fga: '355'
   id: '1631157'
-  made_all_avg_dist: 11.434
-  made_fga: '145.0'
-  made_thr_avg_dist: 24.9
-  made_two_avg_dist: 4.347
-  miss_all_avg_dist: 15.994
-  miss_fga: '155.0'
-  miss_thr_avg_dist: 25.351
-  miss_two_avg_dist: 7.444
+  made_all_avg_dist: 11.604
+  made_fga: '169.0'
+  made_thr_avg_dist: 24.965
+  made_two_avg_dist: 4.804
+  miss_all_avg_dist: 16.21
+  miss_fga: '186.0'
+  miss_thr_avg_dist: 25.36
+  miss_two_avg_dist: 7.814
   name: Ryan Rollins
   team: MIL
-  thr_avg_dist: 25.169
-  two_avg_dist: 5.773
-- all_avg_dist: 13.717
-  fga: '431'
-  id: '1627759'
-  made_all_avg_dist: 11.995
-  made_fga: '211.0'
-  made_thr_avg_dist: 25.927
-  made_two_avg_dist: 8.635
-  miss_all_avg_dist: 15.368
-  miss_fga: '220.0'
-  miss_thr_avg_dist: 25.545
-  miss_two_avg_dist: 9.888
-  name: Jaylen Brown
-  team: BOS
-  thr_avg_dist: 25.678
-  two_avg_dist: 9.208
-- all_avg_dist: 13.669
-  fga: '148'
-  id: '1641796'
-  made_all_avg_dist: 10.618
-  made_fga: '68.0'
-  made_thr_avg_dist: 24.333
-  made_two_avg_dist: 3.136
-  miss_all_avg_dist: 16.262
-  miss_fga: '80.0'
-  miss_thr_avg_dist: 24.773
-  miss_two_avg_dist: 5.861
-  name: Pelle Larsson
-  team: MIA
-  thr_avg_dist: 24.618
-  two_avg_dist: 4.362
-- all_avg_dist: 13.658
-  fga: '190'
+  thr_avg_dist: 25.205
+  two_avg_dist: 6.201
+- all_avg_dist: 14.012
+  fga: '169'
+  id: '1628384'
+  made_all_avg_dist: 11.244
+  made_fga: '82.0'
+  made_thr_avg_dist: 24.083
+  made_two_avg_dist: 1.196
+  miss_all_avg_dist: 16.621
+  miss_fga: '87.0'
+  miss_thr_avg_dist: 24.385
+  miss_two_avg_dist: 5.086
+  name: OG Anunoby
+  team: NYK
+  thr_avg_dist: 24.261
+  two_avg_dist: 2.877
+- all_avg_dist: 14.0
+  fga: '64'
+  id: '1642354'
+  made_all_avg_dist: 12.609
+  made_fga: '23.0'
+  made_thr_avg_dist: 24.222
+  made_two_avg_dist: 5.143
+  miss_all_avg_dist: 14.78
+  miss_fga: '41.0'
+  miss_thr_avg_dist: 26.167
+  miss_two_avg_dist: 5.87
+  name: KJ Simpson
+  team: CHA
+  thr_avg_dist: 25.519
+  two_avg_dist: 5.595
+- all_avg_dist: 13.976
+  fga: '248'
   id: '1628368'
-  made_all_avg_dist: 10.468
-  made_fga: '94.0'
-  made_thr_avg_dist: 24.88
-  made_two_avg_dist: 5.246
-  miss_all_avg_dist: 16.781
-  miss_fga: '96.0'
-  miss_thr_avg_dist: 25.326
-  miss_two_avg_dist: 9.849
+  made_all_avg_dist: 11.41
+  made_fga: '122.0'
+  made_thr_avg_dist: 24.882
+  made_two_avg_dist: 6.205
+  miss_all_avg_dist: 16.46
+  miss_fga: '126.0'
+  miss_thr_avg_dist: 25.411
+  miss_two_avg_dist: 9.3
   name: De'Aaron Fox
   team: SAS
-  thr_avg_dist: 25.162
-  two_avg_dist: 7.246
-- all_avg_dist: 13.64
-  fga: '239'
-  id: '202696'
-  made_all_avg_dist: 11.983
-  made_fga: '117.0'
-  made_thr_avg_dist: 25.639
-  made_two_avg_dist: 5.914
-  miss_all_avg_dist: 15.23
-  miss_fga: '122.0'
-  miss_thr_avg_dist: 25.309
-  miss_two_avg_dist: 6.955
-  name: "Nikola Vu\u010Devi\u0107"
-  team: CHI
-  thr_avg_dist: 25.44
-  two_avg_dist: 6.385
-- all_avg_dist: 13.626
-  fga: '257'
+  thr_avg_dist: 25.211
+  two_avg_dist: 7.576
+- all_avg_dist: 13.961
+  fga: '409'
+  id: '1628970'
+  made_all_avg_dist: 10.799
+  made_fga: '174.0'
+  made_thr_avg_dist: 24.789
+  made_two_avg_dist: 3.983
+  miss_all_avg_dist: 16.302
+  miss_fga: '235.0'
+  miss_thr_avg_dist: 25.133
+  miss_two_avg_dist: 5.738
+  name: Miles Bridges
+  team: CHA
+  thr_avg_dist: 25.027
+  two_avg_dist: 4.821
+- all_avg_dist: 13.943
+  fga: '158'
+  id: '1641796'
+  made_all_avg_dist: 10.7
+  made_fga: '70.0'
+  made_thr_avg_dist: 24.32
+  made_two_avg_dist: 3.133
+  miss_all_avg_dist: 16.523
+  miss_fga: '88.0'
+  miss_thr_avg_dist: 24.939
+  miss_two_avg_dist: 5.949
+  name: Pelle Larsson
+  team: MIA
+  thr_avg_dist: 24.73
+  two_avg_dist: 4.44
+- all_avg_dist: 13.807
+  fga: '57'
+  id: '1642382'
+  made_all_avg_dist: 10.133
+  made_fga: '30.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 1.526
+  miss_all_avg_dist: 17.889
+  miss_fga: '27.0'
+  miss_thr_avg_dist: 24.722
+  miss_two_avg_dist: 4.222
+  name: Branden Carlson
+  team: OKC
+  thr_avg_dist: 24.828
+  two_avg_dist: 2.393
+- all_avg_dist: 13.802
+  fga: '496'
+  id: '1627759'
+  made_all_avg_dist: 12.028
+  made_fga: '246.0'
+  made_thr_avg_dist: 25.918
+  made_two_avg_dist: 8.574
+  miss_all_avg_dist: 15.548
+  miss_fga: '250.0'
+  miss_thr_avg_dist: 25.605
+  miss_two_avg_dist: 10.274
+  name: Jaylen Brown
+  team: BOS
+  thr_avg_dist: 25.719
+  two_avg_dist: 9.346
+- all_avg_dist: 13.788
+  fga: '52'
+  id: '1628418'
+  made_all_avg_dist: 7.136
+  made_fga: '22.0'
+  made_thr_avg_dist: 24.8
+  made_two_avg_dist: 1.941
+  miss_all_avg_dist: 18.667
+  miss_fga: '30.0'
+  miss_thr_avg_dist: 25.3
+  miss_two_avg_dist: 5.4
+  name: Thomas Bryant
+  team: CLE
+  thr_avg_dist: 25.2
+  two_avg_dist: 3.222
+- all_avg_dist: 13.769
+  fga: '299'
+  id: '203924'
+  made_all_avg_dist: 11.809
+  made_fga: '131.0'
+  made_thr_avg_dist: 24.315
+  made_two_avg_dist: 3.039
+  miss_all_avg_dist: 15.298
+  miss_fga: '168.0'
+  miss_thr_avg_dist: 24.807
+  miss_two_avg_dist: 6.012
+  name: Jerami Grant
+  team: POR
+  thr_avg_dist: 24.613
+  two_avg_dist: 4.599
+- all_avg_dist: 13.758
+  fga: '161'
+  id: '202699'
+  made_all_avg_dist: 12.534
+  made_fga: '73.0'
+  made_thr_avg_dist: 24.28
+  made_two_avg_dist: 6.417
+  miss_all_avg_dist: 14.773
+  miss_fga: '88.0'
+  miss_thr_avg_dist: 24.366
+  miss_two_avg_dist: 6.404
+  name: Tobias Harris
+  team: DET
+  thr_avg_dist: 24.333
+  two_avg_dist: 6.411
+- all_avg_dist: 13.741
+  fga: '81'
+  id: '1641740'
+  made_all_avg_dist: 11.029
+  made_fga: '35.0'
+  made_thr_avg_dist: 22.867
+  made_two_avg_dist: 2.15
+  miss_all_avg_dist: 15.804
+  miss_fga: '46.0'
+  miss_thr_avg_dist: 23.393
+  miss_two_avg_dist: 4.0
+  name: Jaylen Clark
+  team: MIN
+  thr_avg_dist: 23.209
+  two_avg_dist: 3.026
+- all_avg_dist: 13.739
+  fga: '307'
   id: '1626181'
-  made_all_avg_dist: 12.258
-  made_fga: '128.0'
-  made_thr_avg_dist: 25.167
-  made_two_avg_dist: 4.513
-  miss_all_avg_dist: 14.984
-  miss_fga: '129.0'
-  miss_thr_avg_dist: 25.1
-  miss_two_avg_dist: 6.188
+  made_all_avg_dist: 12.368
+  made_fga: '155.0'
+  made_thr_avg_dist: 25.211
+  made_two_avg_dist: 4.898
+  miss_all_avg_dist: 15.138
+  miss_fga: '152.0'
+  miss_thr_avg_dist: 25.127
+  miss_two_avg_dist: 6.383
   name: Norman Powell
   team: MIA
-  thr_avg_dist: 25.13
-  two_avg_dist: 5.289
+  thr_avg_dist: 25.164
+  two_avg_dist: 5.57
+- all_avg_dist: 13.669
+  fga: '260'
+  id: '1628389'
+  made_all_avg_dist: 11.677
+  made_fga: '124.0'
+  made_thr_avg_dist: 24.531
+  made_two_avg_dist: 7.207
+  miss_all_avg_dist: 15.485
+  miss_fga: '136.0'
+  miss_thr_avg_dist: 24.441
+  miss_two_avg_dist: 8.623
+  name: Bam Adebayo
+  team: MIA
+  thr_avg_dist: 24.473
+  two_avg_dist: 7.852
 - all_avg_dist: 13.615
   fga: '65'
   id: '1626204'
@@ -2563,81 +2908,126 @@
   team: CLE
   thr_avg_dist: 24.061
   two_avg_dist: 2.844
-- all_avg_dist: 13.614
-  fga: '277'
-  id: '1631101'
-  made_all_avg_dist: 9.59
-  made_fga: '122.0'
-  made_thr_avg_dist: 25.308
-  made_two_avg_dist: 5.333
-  miss_all_avg_dist: 16.781
-  miss_fga: '155.0'
-  miss_thr_avg_dist: 25.649
-  miss_two_avg_dist: 8.026
-  name: Shaedon Sharpe
-  team: POR
-  thr_avg_dist: 25.563
-  two_avg_dist: 6.54
-- all_avg_dist: 13.519
-  fga: '160'
+- all_avg_dist: 13.613
+  fga: '253'
+  id: '1642907'
+  made_all_avg_dist: 10.491
+  made_fga: '114.0'
+  made_thr_avg_dist: 24.543
+  made_two_avg_dist: 4.266
+  miss_all_avg_dist: 16.173
+  miss_fga: '139.0'
+  miss_thr_avg_dist: 24.227
+  miss_two_avg_dist: 6.734
+  name: Cedric Coward
+  team: MEM
+  thr_avg_dist: 24.327
+  two_avg_dist: 5.371
+- all_avg_dist: 13.593
+  fga: '135'
+  id: '1642450'
+  made_all_avg_dist: 12.083
+  made_fga: '60.0'
+  made_thr_avg_dist: 25.533
+  made_two_avg_dist: 7.6
+  miss_all_avg_dist: 14.8
+  miss_fga: '75.0'
+  miss_thr_avg_dist: 25.323
+  miss_two_avg_dist: 7.386
+  name: Daniss Jenkins
+  team: DET
+  thr_avg_dist: 25.391
+  two_avg_dist: 7.494
+- all_avg_dist: 13.543
+  fga: '162'
   id: '1630175'
-  made_all_avg_dist: 11.309
-  made_fga: '68.0'
-  made_thr_avg_dist: 25.417
+  made_all_avg_dist: 11.522
+  made_fga: '69.0'
+  made_thr_avg_dist: 25.462
   made_two_avg_dist: 8.286
-  miss_all_avg_dist: 15.152
-  miss_fga: '92.0'
+  miss_all_avg_dist: 15.043
+  miss_fga: '93.0'
   miss_thr_avg_dist: 25.657
-  miss_two_avg_dist: 8.702
+  miss_two_avg_dist: 8.638
   name: Cole Anthony
   team: MIL
-  thr_avg_dist: 25.596
-  two_avg_dist: 8.496
-- all_avg_dist: 13.48
-  fga: '123'
-  id: '202699'
-  made_all_avg_dist: 11.459
-  made_fga: '61.0'
-  made_thr_avg_dist: 24.222
-  made_two_avg_dist: 6.116
-  miss_all_avg_dist: 15.468
-  miss_fga: '62.0'
-  miss_thr_avg_dist: 24.25
-  miss_two_avg_dist: 6.1
-  name: Tobias Harris
-  team: DET
-  thr_avg_dist: 24.24
-  two_avg_dist: 6.11
-- all_avg_dist: 13.423
-  fga: '222'
-  id: '1642845'
+  thr_avg_dist: 25.604
+  two_avg_dist: 8.465
+- all_avg_dist: 13.509
+  fga: '55'
+  id: '1641763'
+  made_all_avg_dist: 9.375
+  made_fga: '24.0'
+  made_thr_avg_dist: 23.333
+  made_two_avg_dist: 1.0
+  miss_all_avg_dist: 16.71
+  miss_fga: '31.0'
+  miss_thr_avg_dist: 23.381
+  miss_two_avg_dist: 2.7
+  name: Julian Phillips
+  team: CHI
+  thr_avg_dist: 23.367
+  two_avg_dist: 1.68
+- all_avg_dist: 13.46
+  fga: '189'
+  id: '1642281'
   made_all_avg_dist: 11.67
-  made_fga: '91.0'
-  made_thr_avg_dist: 25.484
-  made_two_avg_dist: 4.533
-  miss_all_avg_dist: 14.641
-  miss_fga: '131.0'
-  miss_thr_avg_dist: 25.273
-  miss_two_avg_dist: 6.947
+  made_fga: '100.0'
+  made_thr_avg_dist: 24.186
+  made_two_avg_dist: 2.228
+  miss_all_avg_dist: 15.472
+  miss_fga: '89.0'
+  miss_thr_avg_dist: 24.082
+  miss_two_avg_dist: 4.925
+  name: Jaylon Tyson
+  team: CLE
+  thr_avg_dist: 24.13
+  two_avg_dist: 3.34
+- all_avg_dist: 13.441
+  fga: '261'
+  id: '1642845'
+  made_all_avg_dist: 11.944
+  made_fga: '108.0'
+  made_thr_avg_dist: 25.711
+  made_two_avg_dist: 4.471
+  miss_all_avg_dist: 14.497
+  miss_fga: '153.0'
+  miss_thr_avg_dist: 25.333
+  miss_two_avg_dist: 6.911
   name: VJ Edgecombe
   team: PHI
-  thr_avg_dist: 25.349
-  two_avg_dist: 5.882
-- all_avg_dist: 13.42
-  fga: '238'
-  id: '203924'
-  made_all_avg_dist: 11.434
-  made_fga: '106.0'
-  made_thr_avg_dist: 24.286
-  made_two_avg_dist: 3.0
-  miss_all_avg_dist: 15.015
-  miss_fga: '132.0'
-  miss_thr_avg_dist: 24.708
-  miss_two_avg_dist: 5.612
-  name: Jerami Grant
-  team: POR
-  thr_avg_dist: 24.542
-  two_avg_dist: 4.336
+  thr_avg_dist: 25.475
+  two_avg_dist: 5.844
+- all_avg_dist: 13.429
+  fga: '196'
+  id: '1628404'
+  made_all_avg_dist: 10.48
+  made_fga: '98.0'
+  made_thr_avg_dist: 23.818
+  made_two_avg_dist: 3.708
+  miss_all_avg_dist: 16.378
+  miss_fga: '98.0'
+  miss_thr_avg_dist: 24.34
+  miss_two_avg_dist: 7.0
+  name: Josh Hart
+  team: NYK
+  thr_avg_dist: 24.14
+  two_avg_dist: 5.055
+- all_avg_dist: 13.402
+  fga: '122'
+  id: '1630696'
+  made_all_avg_dist: 11.604
+  made_fga: '53.0'
+  made_thr_avg_dist: 24.474
+  made_two_avg_dist: 4.412
+  miss_all_avg_dist: 14.783
+  miss_fga: '69.0'
+  miss_thr_avg_dist: 24.412
+  miss_two_avg_dist: 5.429
+  name: Dru Smith
+  team: MIA
+  thr_avg_dist: 24.434
+  two_avg_dist: 4.928
 - all_avg_dist: 13.379
   fga: '195'
   id: '1629630'
@@ -2653,81 +3043,66 @@
   team: MEM
   thr_avg_dist: 25.3
   two_avg_dist: 8.081
-- all_avg_dist: 13.301
-  fga: '276'
+- all_avg_dist: 13.369
+  fga: '290'
+  id: '202696'
+  made_all_avg_dist: 11.669
+  made_fga: '139.0'
+  made_thr_avg_dist: 25.561
+  made_two_avg_dist: 5.857
+  miss_all_avg_dist: 14.934
+  miss_fga: '151.0'
+  miss_thr_avg_dist: 25.284
+  miss_two_avg_dist: 6.679
+  name: "Nikola Vu\u010Devi\u0107"
+  team: CHI
+  thr_avg_dist: 25.389
+  two_avg_dist: 6.236
+- all_avg_dist: 13.328
+  fga: '299'
   id: '201942'
-  made_all_avg_dist: 11.839
-  made_fga: '137.0'
-  made_thr_avg_dist: 24.353
-  made_two_avg_dist: 10.067
-  miss_all_avg_dist: 14.741
-  miss_fga: '139.0'
-  miss_thr_avg_dist: 24.296
-  miss_two_avg_dist: 12.438
+  made_all_avg_dist: 11.96
+  made_fga: '149.0'
+  made_thr_avg_dist: 24.333
+  made_two_avg_dist: 10.26
+  miss_all_avg_dist: 14.687
+  miss_fga: '150.0'
+  miss_thr_avg_dist: 24.241
+  miss_two_avg_dist: 12.397
   name: DeMar DeRozan
   team: SAC
-  thr_avg_dist: 24.318
-  two_avg_dist: 11.211
-- all_avg_dist: 13.29
-  fga: '231'
+  thr_avg_dist: 24.277
+  two_avg_dist: 11.286
+- all_avg_dist: 13.25
+  fga: '256'
   id: '1630583'
-  made_all_avg_dist: 10.101
-  made_fga: '109.0'
-  made_thr_avg_dist: 24.194
-  made_two_avg_dist: 4.5
-  miss_all_avg_dist: 16.139
-  miss_fga: '122.0'
-  miss_thr_avg_dist: 24.823
-  miss_two_avg_dist: 7.167
+  made_all_avg_dist: 10.1
+  made_fga: '120.0'
+  made_thr_avg_dist: 24.206
+  made_two_avg_dist: 4.523
+  miss_all_avg_dist: 16.029
+  miss_fga: '136.0'
+  miss_thr_avg_dist: 24.826
+  miss_two_avg_dist: 6.97
   name: Santi Aldama
   team: MEM
-  thr_avg_dist: 24.613
-  two_avg_dist: 5.659
-- all_avg_dist: 13.25
-  fga: '200'
-  id: '1628389'
-  made_all_avg_dist: 11.286
-  made_fga: '91.0'
-  made_thr_avg_dist: 24.292
-  made_two_avg_dist: 6.627
-  miss_all_avg_dist: 14.89
-  miss_fga: '109.0'
-  miss_thr_avg_dist: 24.174
-  miss_two_avg_dist: 8.111
-  name: Bam Adebayo
-  team: MIA
-  thr_avg_dist: 24.214
-  two_avg_dist: 7.346
-- all_avg_dist: 13.243
-  fga: '103'
-  id: '1630696'
-  made_all_avg_dist: 11.565
-  made_fga: '46.0'
-  made_thr_avg_dist: 24.294
-  made_two_avg_dist: 4.103
-  miss_all_avg_dist: 14.596
-  miss_fga: '57.0'
-  miss_thr_avg_dist: 24.429
-  miss_two_avg_dist: 5.103
-  name: Dru Smith
-  team: MIA
-  thr_avg_dist: 24.378
-  two_avg_dist: 4.603
-- all_avg_dist: 13.186
-  fga: '59'
-  id: '1630311'
-  made_all_avg_dist: 12.0
-  made_fga: '22.0'
-  made_thr_avg_dist: 26.333
-  made_two_avg_dist: 6.625
-  miss_all_avg_dist: 13.892
-  miss_fga: '37.0'
-  miss_thr_avg_dist: 25.154
-  miss_two_avg_dist: 7.792
-  name: Pat Spencer
-  team: GSW
-  thr_avg_dist: 25.526
-  two_avg_dist: 7.325
+  thr_avg_dist: 24.621
+  two_avg_dist: 5.595
+- all_avg_dist: 13.193
+  fga: '57'
+  id: '1641707'
+  made_all_avg_dist: 11.435
+  made_fga: '23.0'
+  made_thr_avg_dist: 23.889
+  made_two_avg_dist: 3.429
+  miss_all_avg_dist: 14.382
+  miss_fga: '34.0'
+  miss_thr_avg_dist: 24.278
+  miss_two_avg_dist: 3.25
+  name: Taylor Hendricks
+  team: UTA
+  thr_avg_dist: 24.148
+  two_avg_dist: 3.333
 - all_avg_dist: 13.182
   fga: '154'
   id: '203932'
@@ -2743,351 +3118,336 @@
   team: DEN
   thr_avg_dist: 24.841
   two_avg_dist: 5.11
-- all_avg_dist: 13.102
-  fga: '167'
-  id: '1630230'
-  made_all_avg_dist: 9.575
-  made_fga: '80.0'
-  made_thr_avg_dist: 23.85
-  made_two_avg_dist: 4.817
-  miss_all_avg_dist: 16.345
-  miss_fga: '87.0'
-  miss_thr_avg_dist: 24.244
-  miss_two_avg_dist: 7.881
-  name: Naji Marshall
-  team: DAL
-  thr_avg_dist: 24.123
-  two_avg_dist: 6.078
-- all_avg_dist: 13.016
-  fga: '63'
-  id: '1641740'
-  made_all_avg_dist: 10.885
-  made_fga: '26.0'
-  made_thr_avg_dist: 22.545
-  made_two_avg_dist: 2.333
-  miss_all_avg_dist: 14.514
-  miss_fga: '37.0'
-  miss_thr_avg_dist: 23.45
-  miss_two_avg_dist: 4.0
-  name: Jaylen Clark
-  team: MIN
-  thr_avg_dist: 23.129
-  two_avg_dist: 3.219
-- all_avg_dist: 13.008
-  fga: '124'
-  id: '1627739'
-  made_all_avg_dist: 9.967
-  made_fga: '61.0'
-  made_thr_avg_dist: 24.222
-  made_two_avg_dist: 4.0
-  miss_all_avg_dist: 15.952
-  miss_fga: '63.0'
-  miss_thr_avg_dist: 24.531
-  miss_two_avg_dist: 7.097
-  name: Kris Dunn
-  team: LAC
-  thr_avg_dist: 24.42
-  two_avg_dist: 5.297
-- all_avg_dist: 12.997
-  fga: '295'
-  id: '1630217'
-  made_all_avg_dist: 10.023
-  made_fga: '130.0'
-  made_thr_avg_dist: 25.161
-  made_two_avg_dist: 5.283
-  miss_all_avg_dist: 15.339
-  miss_fga: '165.0'
-  miss_thr_avg_dist: 25.388
-  miss_two_avg_dist: 8.469
-  name: Desmond Bane
-  team: ORL
-  thr_avg_dist: 25.316
-  two_avg_dist: 6.868
-- all_avg_dist: 12.962
-  fga: '106'
-  id: '1642450'
-  made_all_avg_dist: 11.83
-  made_fga: '53.0'
-  made_thr_avg_dist: 25.714
-  made_two_avg_dist: 6.846
-  miss_all_avg_dist: 14.094
-  miss_fga: '53.0'
-  miss_thr_avg_dist: 25.667
-  miss_two_avg_dist: 8.143
-  name: Daniss Jenkins
-  team: DET
-  thr_avg_dist: 25.688
-  two_avg_dist: 7.459
-- all_avg_dist: 12.948
-  fga: '77'
+- all_avg_dist: 13.152
+  fga: '349'
+  id: '1631101'
+  made_all_avg_dist: 9.333
+  made_fga: '153.0'
+  made_thr_avg_dist: 25.406
+  made_two_avg_dist: 5.083
+  miss_all_avg_dist: 16.133
+  miss_fga: '196.0'
+  miss_thr_avg_dist: 25.685
+  miss_two_avg_dist: 8.187
+  name: Shaedon Sharpe
+  team: POR
+  thr_avg_dist: 25.612
+  two_avg_dist: 6.539
+- all_avg_dist: 13.11
+  fga: '91'
   id: '1641731'
-  made_all_avg_dist: 9.167
-  made_fga: '30.0'
+  made_all_avg_dist: 8.853
+  made_fga: '34.0'
   made_thr_avg_dist: 24.0
-  made_two_avg_dist: 1.75
-  miss_all_avg_dist: 15.362
-  miss_fga: '47.0'
-  miss_thr_avg_dist: 25.292
-  miss_two_avg_dist: 5.0
+  made_two_avg_dist: 1.609
+  miss_all_avg_dist: 15.649
+  miss_fga: '57.0'
+  miss_thr_avg_dist: 25.2
+  miss_two_avg_dist: 5.037
   name: Bilal Coulibaly
   team: WAS
-  thr_avg_dist: 24.912
-  two_avg_dist: 3.488
-- all_avg_dist: 12.923
-  fga: '336'
-  id: '1630166'
-  made_all_avg_dist: 10.4
-  made_fga: '160.0'
-  made_thr_avg_dist: 25.098
-  made_two_avg_dist: 3.523
-  miss_all_avg_dist: 15.216
-  miss_fga: '176.0'
-  miss_thr_avg_dist: 25.512
-  miss_two_avg_dist: 5.815
-  name: Deni Avdija
-  team: POR
-  thr_avg_dist: 25.356
-  two_avg_dist: 4.572
-- all_avg_dist: 12.91
-  fga: '155'
-  id: '1628404'
-  made_all_avg_dist: 9.688
-  made_fga: '77.0'
-  made_thr_avg_dist: 23.64
-  made_two_avg_dist: 2.981
-  miss_all_avg_dist: 16.09
-  miss_fga: '78.0'
-  miss_thr_avg_dist: 24.268
-  miss_two_avg_dist: 7.027
-  name: Josh Hart
-  team: NYK
-  thr_avg_dist: 24.03
-  two_avg_dist: 4.663
-- all_avg_dist: 12.902
-  fga: '234'
-  id: '203952'
-  made_all_avg_dist: 10.509
-  made_fga: '114.0'
-  made_thr_avg_dist: 24.767
-  made_two_avg_dist: 5.417
-  miss_all_avg_dist: 15.175
-  miss_fga: '120.0'
-  miss_thr_avg_dist: 24.889
-  miss_two_avg_dist: 7.227
-  name: Andrew Wiggins
-  team: MIA
-  thr_avg_dist: 24.845
-  two_avg_dist: 6.213
-- all_avg_dist: 12.876
-  fga: '267'
-  id: '1628991'
-  made_all_avg_dist: 11.008
-  made_fga: '126.0'
-  made_thr_avg_dist: 24.412
-  made_two_avg_dist: 6.054
-  miss_all_avg_dist: 14.546
-  miss_fga: '141.0'
-  miss_thr_avg_dist: 25.017
-  miss_two_avg_dist: 6.79
-  name: Jaren Jackson Jr.
-  team: MEM
-  thr_avg_dist: 24.798
-  two_avg_dist: 6.399
-- all_avg_dist: 12.872
-  fga: '78'
-  id: '1641854'
-  made_all_avg_dist: 10.5
-  made_fga: '42.0'
-  made_thr_avg_dist: 24.462
-  made_two_avg_dist: 4.241
-  miss_all_avg_dist: 15.639
-  miss_fga: '36.0'
-  miss_thr_avg_dist: 24.588
-  miss_two_avg_dist: 7.632
-  name: Craig Porter Jr.
-  team: CLE
-  thr_avg_dist: 24.533
-  two_avg_dist: 5.583
-- all_avg_dist: 12.847
-  fga: '137'
-  id: '1629611'
-  made_all_avg_dist: 10.393
-  made_fga: '61.0'
-  made_thr_avg_dist: 24.842
-  made_two_avg_dist: 3.857
-  miss_all_avg_dist: 14.816
-  miss_fga: '76.0'
-  miss_thr_avg_dist: 24.361
-  miss_two_avg_dist: 6.225
-  name: Terance Mann
-  team: BKN
-  thr_avg_dist: 24.527
-  two_avg_dist: 5.012
-- all_avg_dist: 12.777
-  fga: '413'
-  id: '1628983'
-  made_all_avg_dist: 11.253
-  made_fga: '225.0'
-  made_thr_avg_dist: 25.136
-  made_two_avg_dist: 7.878
-  miss_all_avg_dist: 14.601
-  miss_fga: '188.0'
-  miss_thr_avg_dist: 25.397
-  miss_two_avg_dist: 9.16
-  name: Shai Gilgeous-Alexander
-  team: OKC
-  thr_avg_dist: 25.29
-  two_avg_dist: 8.402
-- all_avg_dist: 12.752
-  fga: '141'
-  id: '1631222'
-  made_all_avg_dist: 9.621
-  made_fga: '66.0'
-  made_thr_avg_dist: 24.15
-  made_two_avg_dist: 3.304
-  miss_all_avg_dist: 15.507
-  miss_fga: '75.0'
-  miss_thr_avg_dist: 24.526
-  miss_two_avg_dist: 6.243
-  name: Jake LaRavia
-  team: LAL
-  thr_avg_dist: 24.397
-  two_avg_dist: 4.614
-- all_avg_dist: 12.609
-  fga: '235'
-  id: '1630168'
-  made_all_avg_dist: 9.876
-  made_fga: '121.0'
-  made_thr_avg_dist: 24.289
-  made_two_avg_dist: 3.277
-  miss_all_avg_dist: 15.509
-  miss_fga: '114.0'
-  miss_thr_avg_dist: 24.623
-  miss_two_avg_dist: 5.019
-  name: Onyeka Okongwu
-  team: ATL
-  thr_avg_dist: 24.495
-  two_avg_dist: 3.956
-- all_avg_dist: 12.54
-  fga: '346'
-  id: '1627783'
-  made_all_avg_dist: 10.43
-  made_fga: '165.0'
-  made_thr_avg_dist: 25.125
-  made_two_avg_dist: 6.895
-  miss_all_avg_dist: 14.464
-  miss_fga: '181.0'
-  miss_thr_avg_dist: 25.689
-  miss_two_avg_dist: 8.758
-  name: Pascal Siakam
-  team: IND
-  thr_avg_dist: 25.495
-  two_avg_dist: 7.779
-- all_avg_dist: 12.509
-  fga: '53'
+  thr_avg_dist: 24.878
+  two_avg_dist: 3.46
+- all_avg_dist: 13.01
+  fga: '97'
   id: '2544'
-  made_all_avg_dist: 10.192
-  made_fga: '26.0'
-  made_thr_avg_dist: 26.0
-  made_two_avg_dist: 5.45
-  miss_all_avg_dist: 14.741
-  miss_fga: '27.0'
-  miss_thr_avg_dist: 24.333
-  miss_two_avg_dist: 7.067
+  made_all_avg_dist: 11.6
+  made_fga: '45.0'
+  made_thr_avg_dist: 26.364
+  made_two_avg_dist: 6.824
+  miss_all_avg_dist: 14.231
+  miss_fga: '52.0'
+  miss_thr_avg_dist: 24.773
+  miss_two_avg_dist: 6.5
   name: LeBron James
   team: LAL
-  thr_avg_dist: 24.889
-  two_avg_dist: 6.143
-- all_avg_dist: 12.436
-  fga: '211'
-  id: '1629012'
-  made_all_avg_dist: 9.796
-  made_fga: '103.0'
-  made_thr_avg_dist: 24.96
-  made_two_avg_dist: 4.936
-  miss_all_avg_dist: 14.954
-  miss_fga: '108.0'
-  miss_thr_avg_dist: 25.568
-  miss_two_avg_dist: 7.656
-  name: Collin Sexton
-  team: CHA
-  thr_avg_dist: 25.348
-  two_avg_dist: 6.162
-- all_avg_dist: 12.382
-  fga: '144'
+  thr_avg_dist: 25.303
+  two_avg_dist: 6.672
+- all_avg_dist: 12.966
+  fga: '147'
+  id: '1629611'
+  made_all_avg_dist: 10.169
+  made_fga: '65.0'
+  made_thr_avg_dist: 24.75
+  made_two_avg_dist: 3.689
+  miss_all_avg_dist: 15.183
+  miss_fga: '82.0'
+  miss_thr_avg_dist: 24.564
+  miss_two_avg_dist: 6.674
+  name: Terance Mann
+  team: BKN
+  thr_avg_dist: 24.627
+  two_avg_dist: 5.148
+- all_avg_dist: 12.957
+  fga: '162'
+  id: '1631222'
+  made_all_avg_dist: 9.707
+  made_fga: '75.0'
+  made_thr_avg_dist: 24.174
+  made_two_avg_dist: 3.308
+  miss_all_avg_dist: 15.759
+  miss_fga: '87.0'
+  miss_thr_avg_dist: 24.467
+  miss_two_avg_dist: 6.429
+  name: Jake LaRavia
+  team: LAL
+  thr_avg_dist: 24.368
+  two_avg_dist: 4.702
+- all_avg_dist: 12.906
+  fga: '53'
+  id: '1630545'
+  made_all_avg_dist: 11.773
+  made_fga: '22.0'
+  made_thr_avg_dist: 24.4
+  made_two_avg_dist: 1.25
+  miss_all_avg_dist: 13.71
+  miss_fga: '31.0'
+  miss_thr_avg_dist: 24.286
+  miss_two_avg_dist: 5.0
+  name: Terrence Shannon Jr.
+  team: MIN
+  thr_avg_dist: 24.333
+  two_avg_dist: 3.448
+- all_avg_dist: 12.895
+  fga: '391'
+  id: '1630166'
+  made_all_avg_dist: 10.374
+  made_fga: '187.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 3.465
+  miss_all_avg_dist: 15.206
+  miss_fga: '204.0'
+  miss_thr_avg_dist: 25.551
+  miss_two_avg_dist: 5.642
+  name: Deni Avdija
+  team: POR
+  thr_avg_dist: 25.342
+  two_avg_dist: 4.455
+- all_avg_dist: 12.877
+  fga: '358'
+  id: '1630217'
+  made_all_avg_dist: 10.07
+  made_fga: '157.0'
+  made_thr_avg_dist: 25.205
+  made_two_avg_dist: 5.068
+  miss_all_avg_dist: 15.07
+  miss_fga: '201.0'
+  miss_thr_avg_dist: 25.432
+  miss_two_avg_dist: 8.075
+  name: Desmond Bane
+  team: ORL
+  thr_avg_dist: 25.358
+  two_avg_dist: 6.584
+- all_avg_dist: 12.824
+  fga: '290'
+  id: '1630168'
+  made_all_avg_dist: 9.612
+  made_fga: '147.0'
+  made_thr_avg_dist: 24.295
+  made_two_avg_dist: 3.34
+  miss_all_avg_dist: 16.126
+  miss_fga: '143.0'
+  miss_thr_avg_dist: 24.613
+  miss_two_avg_dist: 5.349
+  name: Onyeka Okongwu
+  team: ATL
+  thr_avg_dist: 24.5
+  two_avg_dist: 4.102
+- all_avg_dist: 12.8
+  fga: '295'
+  id: '1628991'
+  made_all_avg_dist: 10.701
+  made_fga: '137.0'
+  made_thr_avg_dist: 24.412
+  made_two_avg_dist: 6.175
+  miss_all_avg_dist: 14.62
+  miss_fga: '158.0'
+  miss_thr_avg_dist: 24.941
+  miss_two_avg_dist: 6.822
+  name: Jaren Jackson Jr.
+  team: MEM
+  thr_avg_dist: 24.765
+  two_avg_dist: 6.477
+- all_avg_dist: 12.746
+  fga: '205'
+  id: '1630230'
+  made_all_avg_dist: 9.123
+  made_fga: '106.0'
+  made_thr_avg_dist: 23.875
+  made_two_avg_dist: 4.805
+  miss_all_avg_dist: 16.626
+  miss_fga: '99.0'
+  miss_thr_avg_dist: 24.189
+  miss_two_avg_dist: 7.913
+  name: Naji Marshall
+  team: DAL
+  thr_avg_dist: 24.091
+  two_avg_dist: 5.922
+- all_avg_dist: 12.724
+  fga: '446'
+  id: '1628983'
+  made_all_avg_dist: 11.391
+  made_fga: '248.0'
+  made_thr_avg_dist: 25.176
+  made_two_avg_dist: 7.822
+  miss_all_avg_dist: 14.394
+  miss_fga: '198.0'
+  miss_thr_avg_dist: 25.422
+  miss_two_avg_dist: 9.127
+  name: Shai Gilgeous-Alexander
+  team: OKC
+  thr_avg_dist: 25.313
+  two_avg_dist: 8.35
+- all_avg_dist: 12.623
+  fga: '53'
+  id: '1642860'
+  made_all_avg_dist: 8.2
+  made_fga: '25.0'
+  made_thr_avg_dist: 24.4
+  made_two_avg_dist: 4.15
+  miss_all_avg_dist: 16.571
+  miss_fga: '28.0'
+  miss_thr_avg_dist: 26.667
+  miss_two_avg_dist: 9.0
+  name: Will Riley
+  team: WAS
+  thr_avg_dist: 26.0
+  two_avg_dist: 6.306
+- all_avg_dist: 12.622
+  fga: '286'
+  id: '203952'
+  made_all_avg_dist: 10.428
+  made_fga: '138.0'
+  made_thr_avg_dist: 24.917
+  made_two_avg_dist: 5.314
+  miss_all_avg_dist: 14.669
+  miss_fga: '148.0'
+  miss_thr_avg_dist: 24.902
+  miss_two_avg_dist: 7.494
+  name: Andrew Wiggins
+  team: MIA
+  thr_avg_dist: 24.907
+  two_avg_dist: 6.317
+- all_avg_dist: 12.591
+  fga: '149'
+  id: '1627739'
+  made_all_avg_dist: 9.389
+  made_fga: '72.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 3.769
+  miss_all_avg_dist: 15.584
+  miss_fga: '77.0'
+  miss_thr_avg_dist: 24.447
+  miss_two_avg_dist: 6.949
+  name: Kris Dunn
+  team: LAC
+  thr_avg_dist: 24.293
+  two_avg_dist: 5.132
+- all_avg_dist: 12.483
+  fga: '174'
   id: '1628976'
-  made_all_avg_dist: 10.395
-  made_fga: '76.0'
-  made_thr_avg_dist: 24.375
-  made_two_avg_dist: 3.942
-  miss_all_avg_dist: 14.603
-  miss_fga: '68.0'
-  miss_thr_avg_dist: 24.414
-  miss_two_avg_dist: 7.308
+  made_all_avg_dist: 10.146
+  made_fga: '89.0'
+  made_thr_avg_dist: 24.385
+  made_two_avg_dist: 4.27
+  miss_all_avg_dist: 14.929
+  miss_fga: '85.0'
+  miss_thr_avg_dist: 24.308
+  miss_two_avg_dist: 6.978
   name: Wendell Carter Jr.
   team: ORL
-  thr_avg_dist: 24.396
-  two_avg_dist: 5.385
-- all_avg_dist: 12.295
-  fga: '112'
-  id: '1631243'
-  made_all_avg_dist: 7.103
-  made_fga: '58.0'
-  made_thr_avg_dist: 23.538
-  made_two_avg_dist: 2.356
-  miss_all_avg_dist: 17.87
-  miss_fga: '54.0'
-  miss_thr_avg_dist: 23.286
-  miss_two_avg_dist: 7.895
-  name: Mouhamed Gueye
-  team: ATL
-  thr_avg_dist: 23.354
-  two_avg_dist: 4.0
-- all_avg_dist: 12.23
-  fga: '313'
-  id: '203944'
-  made_all_avg_dist: 9.79
-  made_fga: '157.0'
-  made_thr_avg_dist: 24.784
-  made_two_avg_dist: 5.167
-  miss_all_avg_dist: 14.686
-  miss_fga: '156.0'
-  miss_thr_avg_dist: 24.701
-  miss_two_avg_dist: 7.146
-  name: Julius Randle
-  team: MIN
-  thr_avg_dist: 24.731
-  two_avg_dist: 6.01
-- all_avg_dist: 12.187
-  fga: '379'
+  thr_avg_dist: 24.338
+  two_avg_dist: 5.413
+- all_avg_dist: 12.421
+  fga: '442'
   id: '1630595'
-  made_all_avg_dist: 10.006
-  made_fga: '173.0'
-  made_thr_avg_dist: 26.0
-  made_two_avg_dist: 6.094
-  miss_all_avg_dist: 14.019
-  miss_fga: '206.0'
-  miss_thr_avg_dist: 25.933
-  miss_two_avg_dist: 7.198
+  made_all_avg_dist: 10.09
+  made_fga: '200.0'
+  made_thr_avg_dist: 25.85
+  made_two_avg_dist: 6.15
+  miss_all_avg_dist: 14.347
+  miss_fga: '242.0'
+  miss_thr_avg_dist: 25.777
+  miss_two_avg_dist: 7.088
   name: Cade Cunningham
   team: DET
-  thr_avg_dist: 25.954
-  two_avg_dist: 6.63
-- all_avg_dist: 12.1
-  fga: '200'
-  id: '1641824'
-  made_all_avg_dist: 9.648
-  made_fga: '91.0'
-  made_thr_avg_dist: 24.333
-  made_two_avg_dist: 2.426
-  miss_all_avg_dist: 14.147
-  miss_fga: '109.0'
-  miss_thr_avg_dist: 24.411
-  miss_two_avg_dist: 3.302
-  name: Matas Buzelis
-  team: CHI
-  thr_avg_dist: 24.384
-  two_avg_dist: 2.833
+  thr_avg_dist: 25.799
+  two_avg_dist: 6.601
+- all_avg_dist: 12.393
+  fga: '407'
+  id: '1627783'
+  made_all_avg_dist: 10.434
+  made_fga: '196.0'
+  made_thr_avg_dist: 25.075
+  made_two_avg_dist: 6.679
+  miss_all_avg_dist: 14.213
+  miss_fga: '211.0'
+  miss_thr_avg_dist: 25.588
+  miss_two_avg_dist: 8.804
+  name: Pascal Siakam
+  team: IND
+  thr_avg_dist: 25.398
+  two_avg_dist: 7.696
+- all_avg_dist: 12.293
+  fga: '225'
+  id: '1629012'
+  made_all_avg_dist: 9.8
+  made_fga: '110.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 5.095
+  miss_all_avg_dist: 14.678
+  miss_fga: '115.0'
+  miss_thr_avg_dist: 25.556
+  miss_two_avg_dist: 7.686
+  name: Collin Sexton
+  team: CHA
+  thr_avg_dist: 25.352
+  two_avg_dist: 6.273
+- all_avg_dist: 12.277
+  fga: '94'
+  id: '1641854'
+  made_all_avg_dist: 10.438
+  made_fga: '48.0'
+  made_thr_avg_dist: 24.429
+  made_two_avg_dist: 4.676
+  miss_all_avg_dist: 14.196
+  miss_fga: '46.0'
+  miss_thr_avg_dist: 24.737
+  miss_two_avg_dist: 6.778
+  name: Craig Porter Jr.
+  team: CLE
+  thr_avg_dist: 24.606
+  two_avg_dist: 5.607
+- all_avg_dist: 12.106
+  fga: '123'
+  id: '1631243'
+  made_all_avg_dist: 7.197
+  made_fga: '61.0'
+  made_thr_avg_dist: 23.5
+  made_two_avg_dist: 2.34
+  miss_all_avg_dist: 16.935
+  miss_fga: '62.0'
+  miss_thr_avg_dist: 23.263
+  miss_two_avg_dist: 6.917
+  name: Mouhamed Gueye
+  team: ATL
+  thr_avg_dist: 23.327
+  two_avg_dist: 3.887
+- all_avg_dist: 12.102
+  fga: '266'
+  id: '1629023'
+  made_all_avg_dist: 9.821
+  made_fga: '117.0'
+  made_thr_avg_dist: 24.031
+  made_two_avg_dist: 4.471
+  miss_all_avg_dist: 13.893
+  miss_fga: '149.0'
+  miss_thr_avg_dist: 24.219
+  miss_two_avg_dist: 6.118
+  name: P.J. Washington
+  team: DAL
+  thr_avg_dist: 24.156
+  two_avg_dist: 5.294
 - all_avg_dist: 12.092
   fga: '98'
   id: '1630171'
@@ -3103,81 +3463,51 @@
   team: CHI
   thr_avg_dist: 23.426
   two_avg_dist: 1.647
-- all_avg_dist: 12.065
-  fga: '124'
+- all_avg_dist: 12.031
+  fga: '161'
   id: '1642271'
-  made_all_avg_dist: 9.704
-  made_fga: '54.0'
-  made_thr_avg_dist: 24.067
-  made_two_avg_dist: 4.179
-  miss_all_avg_dist: 13.886
-  miss_fga: '70.0'
-  miss_thr_avg_dist: 24.188
-  miss_two_avg_dist: 5.211
+  made_all_avg_dist: 9.342
+  made_fga: '76.0'
+  made_thr_avg_dist: 23.81
+  made_two_avg_dist: 3.818
+  miss_all_avg_dist: 14.435
+  miss_fga: '85.0'
+  miss_thr_avg_dist: 23.929
+  miss_two_avg_dist: 5.163
   name: Kyle Filipowski
   team: UTA
-  thr_avg_dist: 24.149
-  two_avg_dist: 4.688
-- all_avg_dist: 12.032
-  fga: '155'
-  id: '1630558'
-  made_all_avg_dist: 10.195
-  made_fga: '77.0'
-  made_thr_avg_dist: 25.474
-  made_two_avg_dist: 5.19
-  miss_all_avg_dist: 13.846
-  miss_fga: '78.0'
-  miss_thr_avg_dist: 24.529
-  miss_two_avg_dist: 5.591
-  name: Davion Mitchell
-  team: MIA
-  thr_avg_dist: 24.868
-  two_avg_dist: 5.363
-- all_avg_dist: 12.012
-  fga: '253'
-  id: '1629023'
-  made_all_avg_dist: 9.901
-  made_fga: '111.0'
-  made_thr_avg_dist: 24.067
-  made_two_avg_dist: 4.654
-  miss_all_avg_dist: 13.662
-  miss_fga: '142.0'
-  miss_thr_avg_dist: 24.288
-  miss_two_avg_dist: 6.108
-  name: P.J. Washington
-  team: DAL
-  thr_avg_dist: 24.213
-  two_avg_dist: 5.39
+  thr_avg_dist: 23.889
+  two_avg_dist: 4.408
 - all_avg_dist: 12.0
-  fga: '140'
+  fga: '177'
   id: '1641842'
-  made_all_avg_dist: 8.404
-  made_fga: '57.0'
-  made_thr_avg_dist: 23.857
-  made_two_avg_dist: 3.372
-  miss_all_avg_dist: 14.47
-  miss_fga: '83.0'
-  miss_thr_avg_dist: 24.205
-  miss_two_avg_dist: 5.841
+  made_all_avg_dist: 8.38
+  made_fga: '71.0'
+  made_thr_avg_dist: 23.778
+  made_two_avg_dist: 3.151
+  miss_all_avg_dist: 14.425
+  miss_fga: '106.0'
+  miss_thr_avg_dist: 23.96
+  miss_two_avg_dist: 5.911
   name: Ronald Holland II
   team: DET
-  thr_avg_dist: 24.113
-  two_avg_dist: 4.621
-- all_avg_dist: 11.99
-  fga: '209'
-  id: '1631096'
-  made_all_avg_dist: 8.948
+  thr_avg_dist: 23.912
+  two_avg_dist: 4.569
+- all_avg_dist: 11.96
+  fga: '250'
+  id: '1641824'
+  made_all_avg_dist: 8.94
   made_fga: '116.0'
-  made_thr_avg_dist: 24.75
-  made_two_avg_dist: 4.826
-  miss_all_avg_dist: 15.785
-  miss_fga: '93.0'
-  miss_thr_avg_dist: 24.932
-  miss_two_avg_dist: 7.571
-  name: Chet Holmgren
-  team: OKC
-  thr_avg_dist: 24.868
-  two_avg_dist: 5.78
+  made_thr_avg_dist: 24.457
+  made_two_avg_dist: 2.235
+  miss_all_avg_dist: 14.575
+  miss_fga: '134.0'
+  miss_thr_avg_dist: 24.465
+  miss_two_avg_dist: 3.429
+  name: Matas Buzelis
+  team: CHI
+  thr_avg_dist: 24.462
+  two_avg_dist: 2.757
 - all_avg_dist: 11.959
   fga: '221'
   id: '1641705'
@@ -3193,43 +3523,178 @@
   team: SAS
   thr_avg_dist: 25.879
   two_avg_dist: 7.006
-- all_avg_dist: 11.805
-  fga: '113'
+- all_avg_dist: 11.881
+  fga: '176'
+  id: '1630558'
+  made_all_avg_dist: 10.256
+  made_fga: '90.0'
+  made_thr_avg_dist: 25.522
+  made_two_avg_dist: 5.015
+  miss_all_avg_dist: 13.581
+  miss_fga: '86.0'
+  miss_thr_avg_dist: 24.528
+  miss_two_avg_dist: 5.7
+  name: Davion Mitchell
+  team: MIA
+  thr_avg_dist: 24.915
+  two_avg_dist: 5.308
+- all_avg_dist: 11.881
+  fga: '360'
+  id: '203944'
+  made_all_avg_dist: 9.393
+  made_fga: '178.0'
+  made_thr_avg_dist: 24.8
+  made_two_avg_dist: 4.928
+  miss_all_avg_dist: 14.313
+  miss_fga: '182.0'
+  miss_thr_avg_dist: 24.649
+  miss_two_avg_dist: 7.231
+  name: Julius Randle
+  team: MIN
+  thr_avg_dist: 24.702
+  two_avg_dist: 5.939
+- all_avg_dist: 11.855
+  fga: '83'
+  id: '1630526'
+  made_all_avg_dist: 9.69
+  made_fga: '29.0'
+  made_thr_avg_dist: 25.125
+  made_two_avg_dist: 3.81
+  miss_all_avg_dist: 13.019
+  miss_fga: '54.0'
+  miss_thr_avg_dist: 24.04
+  miss_two_avg_dist: 3.517
+  name: Jeremiah Robinson-Earl
+  team: IND
+  thr_avg_dist: 24.303
+  two_avg_dist: 3.64
+- all_avg_dist: 11.846
+  fga: '52'
+  id: '1642864'
+  made_all_avg_dist: 9.963
+  made_fga: '27.0'
+  made_thr_avg_dist: 24.333
+  made_two_avg_dist: 2.778
+  miss_all_avg_dist: 13.88
+  miss_fga: '25.0'
+  miss_thr_avg_dist: 24.6
+  miss_two_avg_dist: 6.733
+  name: "Hugo Gonz\xE1lez"
+  team: BOS
+  thr_avg_dist: 24.474
+  two_avg_dist: 4.576
+- all_avg_dist: 11.807
+  fga: '197'
+  id: '1631094'
+  made_all_avg_dist: 8.989
+  made_fga: '89.0'
+  made_thr_avg_dist: 25.333
+  made_two_avg_dist: 5.676
+  miss_all_avg_dist: 14.13
+  miss_fga: '108.0'
+  miss_thr_avg_dist: 25.459
+  miss_two_avg_dist: 8.225
+  name: Paolo Banchero
+  team: ORL
+  thr_avg_dist: 25.423
+  two_avg_dist: 6.924
+- all_avg_dist: 11.769
+  fga: '247'
+  id: '1631096'
+  made_all_avg_dist: 8.887
+  made_fga: '142.0'
+  made_thr_avg_dist: 24.857
+  made_two_avg_dist: 4.965
+  miss_all_avg_dist: 15.667
+  miss_fga: '105.0'
+  miss_thr_avg_dist: 24.918
+  miss_two_avg_dist: 7.571
+  name: Chet Holmgren
+  team: OKC
+  thr_avg_dist: 24.896
+  two_avg_dist: 5.824
+- all_avg_dist: 11.764
+  fga: '89'
+  id: '1642265'
+  made_all_avg_dist: 9.71
+  made_fga: '31.0'
+  made_thr_avg_dist: 25.167
+  made_two_avg_dist: 6.0
+  miss_all_avg_dist: 12.862
+  miss_fga: '58.0'
+  miss_thr_avg_dist: 24.467
+  miss_two_avg_dist: 8.814
+  name: Rob Dillingham
+  team: MIN
+  thr_avg_dist: 24.667
+  two_avg_dist: 7.779
+- all_avg_dist: 11.744
+  fga: '82'
+  id: '1631133'
+  made_all_avg_dist: 8.737
+  made_fga: '38.0'
+  made_thr_avg_dist: 24.333
+  made_two_avg_dist: 1.538
+  miss_all_avg_dist: 14.341
+  miss_fga: '44.0'
+  miss_thr_avg_dist: 24.087
+  miss_two_avg_dist: 3.667
+  name: Jabari Walker
+  team: PHI
+  thr_avg_dist: 24.171
+  two_avg_dist: 2.489
+- all_avg_dist: 11.645
+  fga: '121'
   id: '1642346'
-  made_all_avg_dist: 8.537
-  made_fga: '54.0'
+  made_all_avg_dist: 8.069
+  made_fga: '58.0'
   made_thr_avg_dist: 23.812
-  made_two_avg_dist: 2.105
-  miss_all_avg_dist: 14.797
-  miss_fga: '59.0'
-  miss_thr_avg_dist: 23.548
-  miss_two_avg_dist: 5.107
+  made_two_avg_dist: 2.071
+  miss_all_avg_dist: 14.937
+  miss_fga: '63.0'
+  miss_thr_avg_dist: 23.412
+  miss_two_avg_dist: 5.0
   name: Ryan Dunn
   team: PHX
-  thr_avg_dist: 23.638
-  two_avg_dist: 3.379
-- all_avg_dist: 11.779
-  fga: '199'
+  thr_avg_dist: 23.54
+  two_avg_dist: 3.268
+- all_avg_dist: 11.61
+  fga: '249'
   id: '1641710'
-  made_all_avg_dist: 8.579
-  made_fga: '95.0'
-  made_thr_avg_dist: 24.217
-  made_two_avg_dist: 3.583
-  miss_all_avg_dist: 14.702
-  miss_fga: '104.0'
-  miss_thr_avg_dist: 24.913
-  miss_two_avg_dist: 6.603
+  made_all_avg_dist: 8.265
+  made_fga: '113.0'
+  made_thr_avg_dist: 24.308
+  made_two_avg_dist: 3.471
+  miss_all_avg_dist: 14.39
+  miss_fga: '136.0'
+  miss_thr_avg_dist: 24.847
+  miss_two_avg_dist: 6.377
   name: Anthony Black
   team: ORL
-  thr_avg_dist: 24.681
-  two_avg_dist: 4.931
-- all_avg_dist: 11.725
-  fga: '69'
+  thr_avg_dist: 24.682
+  two_avg_dist: 4.835
+- all_avg_dist: 11.586
+  fga: '169'
+  id: '1641715'
+  made_all_avg_dist: 7.494
+  made_fga: '77.0'
+  made_thr_avg_dist: 26.25
+  made_two_avg_dist: 2.574
+  miss_all_avg_dist: 15.011
+  miss_fga: '92.0'
+  miss_thr_avg_dist: 26.125
+  miss_two_avg_dist: 6.462
+  name: Cam Whitmore
+  team: WAS
+  thr_avg_dist: 26.161
+  two_avg_dist: 4.363
+- all_avg_dist: 11.586
+  fga: '70'
   id: '1630568'
-  made_all_avg_dist: 9.821
-  made_fga: '39.0'
+  made_all_avg_dist: 9.625
+  made_fga: '40.0'
   made_thr_avg_dist: 24.636
-  made_two_avg_dist: 4.0
+  made_two_avg_dist: 3.931
   miss_all_avg_dist: 14.2
   miss_fga: '30.0'
   miss_thr_avg_dist: 25.286
@@ -3237,82 +3702,7 @@
   name: Luka Garza
   team: BOS
   thr_avg_dist: 25.0
-  two_avg_dist: 4.182
-- all_avg_dist: 11.703
-  fga: '279'
-  id: '1642843'
-  made_all_avg_dist: 8.357
-  made_fga: '129.0'
-  made_thr_avg_dist: 24.947
-  made_two_avg_dist: 5.491
-  miss_all_avg_dist: 14.58
-  miss_fga: '150.0'
-  miss_thr_avg_dist: 25.018
-  miss_two_avg_dist: 8.362
-  name: Cooper Flagg
-  team: DAL
-  thr_avg_dist: 25.0
-  two_avg_dist: 6.814
-- all_avg_dist: 11.684
-  fga: '133'
-  id: '1641715'
-  made_all_avg_dist: 8.031
-  made_fga: '65.0'
-  made_thr_avg_dist: 26.4
-  made_two_avg_dist: 2.52
-  miss_all_avg_dist: 15.176
-  miss_fga: '68.0'
-  miss_thr_avg_dist: 25.967
-  miss_two_avg_dist: 6.658
-  name: Cam Whitmore
-  team: WAS
-  thr_avg_dist: 26.111
-  two_avg_dist: 4.307
-- all_avg_dist: 11.602
-  fga: '83'
-  id: '1642265'
-  made_all_avg_dist: 10.0
-  made_fga: '30.0'
-  made_thr_avg_dist: 25.167
-  made_two_avg_dist: 6.208
-  miss_all_avg_dist: 12.509
-  miss_fga: '53.0'
-  miss_thr_avg_dist: 24.538
-  miss_two_avg_dist: 8.6
-  name: Rob Dillingham
-  team: MIN
-  thr_avg_dist: 24.737
-  two_avg_dist: 7.703
-- all_avg_dist: 11.601
-  fga: '178'
-  id: '1631094'
-  made_all_avg_dist: 8.366
-  made_fga: '82.0'
-  made_thr_avg_dist: 25.636
-  made_two_avg_dist: 5.69
-  miss_all_avg_dist: 14.365
-  miss_fga: '96.0'
-  miss_thr_avg_dist: 25.424
-  miss_two_avg_dist: 8.571
-  name: Paolo Banchero
-  team: ORL
-  thr_avg_dist: 25.477
-  two_avg_dist: 7.045
-- all_avg_dist: 11.554
-  fga: '74'
-  id: '1630526'
-  made_all_avg_dist: 10.222
-  made_fga: '27.0'
-  made_thr_avg_dist: 25.125
-  made_two_avg_dist: 3.947
-  miss_all_avg_dist: 12.319
-  miss_fga: '47.0'
-  miss_thr_avg_dist: 24.0
-  miss_two_avg_dist: 3.667
-  name: Jeremiah Robinson-Earl
-  team: IND
-  thr_avg_dist: 24.321
-  two_avg_dist: 3.783
+  two_avg_dist: 4.133
 - all_avg_dist: 11.503
   fga: '155'
   id: '1642264'
@@ -3328,21 +3718,66 @@
   team: SAS
   thr_avg_dist: 25.7
   two_avg_dist: 4.743
-- all_avg_dist: 11.379
-  fga: '95'
+- all_avg_dist: 11.503
+  fga: '394'
+  id: '203999'
+  made_all_avg_dist: 9.212
+  made_fga: '241.0'
+  made_thr_avg_dist: 25.479
+  made_two_avg_dist: 5.166
+  miss_all_avg_dist: 15.111
+  miss_fga: '153.0'
+  miss_thr_avg_dist: 25.338
+  miss_two_avg_dist: 6.929
+  name: "Nikola Joki\u0107"
+  team: DEN
+  thr_avg_dist: 25.397
+  two_avg_dist: 5.705
+- all_avg_dist: 11.472
+  fga: '267'
+  id: '1642349'
+  made_all_avg_dist: 8.806
+  made_fga: '124.0'
+  made_thr_avg_dist: 24.407
+  made_two_avg_dist: 4.464
+  miss_all_avg_dist: 13.783
+  miss_fga: '143.0'
+  miss_thr_avg_dist: 24.558
+  miss_two_avg_dist: 7.626
+  name: Ajay Mitchell
+  team: OKC
+  thr_avg_dist: 24.506
+  two_avg_dist: 5.995
+- all_avg_dist: 11.398
+  fga: '337'
+  id: '1642843'
+  made_all_avg_dist: 8.262
+  made_fga: '160.0'
+  made_thr_avg_dist: 25.0
+  made_two_avg_dist: 5.734
+  miss_all_avg_dist: 14.232
+  miss_fga: '177.0'
+  miss_thr_avg_dist: 24.984
+  miss_two_avg_dist: 8.435
+  name: Cooper Flagg
+  team: DAL
+  thr_avg_dist: 24.988
+  two_avg_dist: 6.957
+- all_avg_dist: 11.396
+  fga: '111'
   id: '204456'
-  made_all_avg_dist: 9.918
-  made_fga: '49.0'
+  made_all_avg_dist: 10.508
+  made_fga: '59.0'
   made_thr_avg_dist: 24.6
-  made_two_avg_dist: 8.25
-  miss_all_avg_dist: 12.935
-  miss_fga: '46.0'
+  made_two_avg_dist: 9.204
+  miss_all_avg_dist: 12.404
+  miss_fga: '52.0'
   miss_thr_avg_dist: 24.909
-  miss_two_avg_dist: 9.171
+  miss_two_avg_dist: 9.049
   name: T.J. McConnell
   team: IND
   thr_avg_dist: 24.812
-  two_avg_dist: 8.658
+  two_avg_dist: 9.137
 - all_avg_dist: 11.363
   fga: '237'
   id: '1629628'
@@ -3358,396 +3793,366 @@
   team: TOR
   thr_avg_dist: 24.655
   two_avg_dist: 3.653
-- all_avg_dist: 11.342
-  fga: '219'
-  id: '1630183'
-  made_all_avg_dist: 9.904
-  made_fga: '114.0'
-  made_thr_avg_dist: 23.967
-  made_two_avg_dist: 4.881
-  miss_all_avg_dist: 12.905
-  miss_fga: '105.0'
-  miss_thr_avg_dist: 24.222
-  miss_two_avg_dist: 7.0
-  name: Jaden McDaniels
-  team: MIN
-  thr_avg_dist: 24.106
-  two_avg_dist: 5.837
-- all_avg_dist: 11.212
-  fga: '66'
-  id: '1641775'
-  made_all_avg_dist: 8.406
-  made_fga: '32.0'
-  made_thr_avg_dist: 24.8
-  made_two_avg_dist: 0.955
-  miss_all_avg_dist: 13.853
-  miss_fga: '34.0'
-  miss_thr_avg_dist: 24.647
-  miss_two_avg_dist: 3.059
-  name: Jordan Walsh
-  team: BOS
-  thr_avg_dist: 24.704
-  two_avg_dist: 1.872
-- all_avg_dist: 11.187
-  fga: '278'
-  id: '1630596'
-  made_all_avg_dist: 8.151
-  made_fga: '139.0'
-  made_thr_avg_dist: 25.061
-  made_two_avg_dist: 2.887
-  miss_all_avg_dist: 14.223
-  miss_fga: '139.0'
-  miss_thr_avg_dist: 24.849
-  miss_two_avg_dist: 7.674
-  name: Evan Mobley
-  team: CLE
-  thr_avg_dist: 24.93
-  two_avg_dist: 5.031
-- all_avg_dist: 11.169
-  fga: '249'
-  id: '1642349'
-  made_all_avg_dist: 8.313
-  made_fga: '115.0'
-  made_thr_avg_dist: 24.522
-  made_two_avg_dist: 4.261
-  miss_all_avg_dist: 13.619
-  miss_fga: '134.0'
-  miss_thr_avg_dist: 24.511
-  miss_two_avg_dist: 7.736
-  name: Ajay Mitchell
-  team: OKC
-  thr_avg_dist: 24.514
-  two_avg_dist: 5.95
-- all_avg_dist: 11.125
-  fga: '311'
-  id: '203999'
-  made_all_avg_dist: 9.333
-  made_fga: '198.0'
-  made_thr_avg_dist: 25.667
-  made_two_avg_dist: 5.327
-  miss_all_avg_dist: 14.265
-  miss_fga: '113.0'
-  miss_thr_avg_dist: 25.383
-  miss_two_avg_dist: 6.348
-  name: "Nikola Joki\u0107"
-  team: DEN
-  thr_avg_dist: 25.512
-  two_avg_dist: 5.627
-- all_avg_dist: 11.105
-  fga: '294'
-  id: '1626157'
-  made_all_avg_dist: 8.212
-  made_fga: '132.0'
-  made_thr_avg_dist: 25.939
-  made_two_avg_dist: 2.303
-  miss_all_avg_dist: 13.463
-  miss_fga: '162.0'
-  miss_thr_avg_dist: 26.162
-  miss_two_avg_dist: 4.277
-  name: Karl-Anthony Towns
-  team: NYK
-  thr_avg_dist: 26.089
-  two_avg_dist: 3.264
-- all_avg_dist: 11.062
-  fga: '258'
+- all_avg_dist: 11.359
+  fga: '103'
+  id: '1630311'
+  made_all_avg_dist: 10.729
+  made_fga: '48.0'
+  made_thr_avg_dist: 25.417
+  made_two_avg_dist: 5.833
+  miss_all_avg_dist: 11.909
+  miss_fga: '55.0'
+  miss_thr_avg_dist: 24.8
+  miss_two_avg_dist: 7.075
+  name: Pat Spencer
+  team: GSW
+  thr_avg_dist: 25.074
+  two_avg_dist: 6.487
+- all_avg_dist: 11.155
+  fga: '310'
   id: '1630581'
-  made_all_avg_dist: 9.24
-  made_fga: '121.0'
-  made_thr_avg_dist: 24.774
-  made_two_avg_dist: 3.889
-  miss_all_avg_dist: 12.672
-  miss_fga: '137.0'
-  miss_thr_avg_dist: 24.979
-  miss_two_avg_dist: 6.034
+  made_all_avg_dist: 9.252
+  made_fga: '147.0'
+  made_thr_avg_dist: 24.947
+  made_two_avg_dist: 3.78
+  miss_all_avg_dist: 12.871
+  miss_fga: '163.0'
+  miss_thr_avg_dist: 25.276
+  miss_two_avg_dist: 6.019
   name: Josh Giddey
   team: CHI
-  thr_avg_dist: 24.899
-  two_avg_dist: 4.955
-- all_avg_dist: 11.047
-  fga: '274'
-  id: '1642847'
-  made_all_avg_dist: 9.205
-  made_fga: '122.0'
-  made_thr_avg_dist: 25.593
-  made_two_avg_dist: 4.547
-  miss_all_avg_dist: 12.526
-  miss_fga: '152.0'
-  miss_thr_avg_dist: 25.521
-  miss_two_avg_dist: 6.529
-  name: Jeremiah Fears
-  team: NOP
-  thr_avg_dist: 25.547
-  two_avg_dist: 5.583
-- all_avg_dist: 11.0
-  fga: '187'
-  id: '1630314'
-  made_all_avg_dist: 7.0
-  made_fga: '71.0'
-  made_thr_avg_dist: 24.818
-  made_two_avg_dist: 3.733
-  miss_all_avg_dist: 13.448
-  miss_fga: '116.0'
-  miss_thr_avg_dist: 24.571
-  miss_two_avg_dist: 5.313
-  name: Brandon Williams
-  team: DAL
-  thr_avg_dist: 24.617
-  two_avg_dist: 4.567
-- all_avg_dist: 10.888
-  fga: '89'
-  id: '1642877'
-  made_all_avg_dist: 6.611
-  made_fga: '36.0'
-  made_thr_avg_dist: 24.167
-  made_two_avg_dist: 3.1
-  miss_all_avg_dist: 13.792
-  miss_fga: '53.0'
-  miss_thr_avg_dist: 24.12
-  miss_two_avg_dist: 4.571
-  name: Micah Peavy
-  team: NOP
-  thr_avg_dist: 24.129
-  two_avg_dist: 3.81
-- all_avg_dist: 10.86
-  fga: '178'
-  id: '1630245'
-  made_all_avg_dist: 9.66
-  made_fga: '97.0'
-  made_thr_avg_dist: 24.156
-  made_two_avg_dist: 2.523
-  miss_all_avg_dist: 12.296
-  miss_fga: '81.0'
-  miss_thr_avg_dist: 24.229
-  miss_two_avg_dist: 3.217
-  name: Ayo Dosunmu
-  team: CHI
-  thr_avg_dist: 24.194
-  two_avg_dist: 2.811
-- all_avg_dist: 10.807
-  fga: '140'
+  thr_avg_dist: 25.146
+  two_avg_dist: 4.879
+- all_avg_dist: 11.148
+  fga: '256'
+  id: '1630183'
+  made_all_avg_dist: 9.832
+  made_fga: '137.0'
+  made_thr_avg_dist: 23.889
+  made_two_avg_dist: 4.822
+  miss_all_avg_dist: 12.664
+  miss_fga: '119.0'
+  miss_thr_avg_dist: 24.184
+  miss_two_avg_dist: 7.259
+  name: Jaden McDaniels
+  team: MIN
+  thr_avg_dist: 24.041
+  two_avg_dist: 5.907
+- all_avg_dist: 11.107
+  fga: '347'
+  id: '1626157'
+  made_all_avg_dist: 8.377
+  made_fga: '162.0'
+  made_thr_avg_dist: 25.833
+  made_two_avg_dist: 2.267
+  miss_all_avg_dist: 13.497
+  miss_fga: '185.0'
+  miss_thr_avg_dist: 26.143
+  miss_two_avg_dist: 4.481
+  name: Karl-Anthony Towns
+  team: NYK
+  thr_avg_dist: 26.034
+  two_avg_dist: 3.316
+- all_avg_dist: 11.058
+  fga: '171'
   id: '1630572'
-  made_all_avg_dist: 8.107
-  made_fga: '75.0'
-  made_thr_avg_dist: 24.905
-  made_two_avg_dist: 1.574
-  miss_all_avg_dist: 13.923
-  miss_fga: '65.0'
-  miss_thr_avg_dist: 25.161
-  miss_two_avg_dist: 3.676
+  made_all_avg_dist: 8.045
+  made_fga: '89.0'
+  made_thr_avg_dist: 24.88
+  made_two_avg_dist: 1.469
+  miss_all_avg_dist: 14.329
+  miss_fga: '82.0'
+  miss_thr_avg_dist: 25.325
+  miss_two_avg_dist: 3.857
   name: Sandro Mamukelashvili
   team: TOR
-  thr_avg_dist: 25.058
-  two_avg_dist: 2.386
-- all_avg_dist: 10.802
-  fga: '172'
-  id: '1629111'
-  made_all_avg_dist: 9.433
-  made_fga: '90.0'
-  made_thr_avg_dist: 24.667
-  made_two_avg_dist: 3.894
-  miss_all_avg_dist: 12.305
-  miss_fga: '82.0'
-  miss_thr_avg_dist: 24.8
-  miss_two_avg_dist: 5.096
-  name: Jock Landale
-  team: MEM
-  thr_avg_dist: 24.741
-  two_avg_dist: 4.424
-- all_avg_dist: 10.75
-  fga: '144'
+  thr_avg_dist: 25.154
+  two_avg_dist: 2.415
+- all_avg_dist: 10.967
+  fga: '210'
+  id: '1630245'
+  made_all_avg_dist: 10.046
+  made_fga: '109.0'
+  made_thr_avg_dist: 24.053
+  made_two_avg_dist: 2.549
+  miss_all_avg_dist: 11.96
+  miss_fga: '101.0'
+  miss_thr_avg_dist: 24.214
+  miss_two_avg_dist: 3.237
+  name: Ayo Dosunmu
+  team: CHI
+  thr_avg_dist: 24.137
+  two_avg_dist: 2.862
+- all_avg_dist: 10.94
+  fga: '336'
+  id: '1630596'
+  made_all_avg_dist: 7.81
+  made_fga: '168.0'
+  made_thr_avg_dist: 24.972
+  made_two_avg_dist: 3.129
+  miss_all_avg_dist: 14.071
+  miss_fga: '168.0'
+  miss_thr_avg_dist: 24.862
+  miss_two_avg_dist: 7.262
+  name: Evan Mobley
+  team: CLE
+  thr_avg_dist: 24.901
+  two_avg_dist: 4.94
+- all_avg_dist: 10.892
+  fga: '176'
   id: '1630228'
-  made_all_avg_dist: 7.957
-  made_fga: '69.0'
-  made_thr_avg_dist: 24.643
-  made_two_avg_dist: 3.709
-  miss_all_avg_dist: 13.32
-  miss_fga: '75.0'
-  miss_thr_avg_dist: 24.821
-  miss_two_avg_dist: 6.468
+  made_all_avg_dist: 8.143
+  made_fga: '77.0'
+  made_thr_avg_dist: 24.562
+  made_two_avg_dist: 3.836
+  miss_all_avg_dist: 13.03
+  miss_fga: '99.0'
+  miss_thr_avg_dist: 24.765
+  miss_two_avg_dist: 6.892
   name: Jonathan Kuminga
   team: GSW
-  thr_avg_dist: 24.762
-  two_avg_dist: 4.98
-- all_avg_dist: 10.705
-  fga: '61'
-  id: '1631110'
-  made_all_avg_dist: 7.033
-  made_fga: '30.0'
-  made_thr_avg_dist: 23.571
-  made_two_avg_dist: 2.0
-  miss_all_avg_dist: 14.258
-  miss_fga: '31.0'
-  miss_thr_avg_dist: 24.4
-  miss_two_avg_dist: 4.75
-  name: Jeremy Sochan
-  team: SAS
-  thr_avg_dist: 24.136
-  two_avg_dist: 3.128
-- all_avg_dist: 10.683
-  fga: '183'
+  thr_avg_dist: 24.7
+  two_avg_dist: 5.413
+- all_avg_dist: 10.845
+  fga: '220'
+  id: '1630314'
+  made_all_avg_dist: 7.151
+  made_fga: '86.0'
+  made_thr_avg_dist: 24.846
+  made_two_avg_dist: 4.0
+  miss_all_avg_dist: 13.216
+  miss_fga: '134.0'
+  miss_thr_avg_dist: 24.527
+  miss_two_avg_dist: 5.342
+  name: Brandon Williams
+  team: DAL
+  thr_avg_dist: 24.588
+  two_avg_dist: 4.697
+- all_avg_dist: 10.821
+  fga: '229'
   id: '1628381'
-  made_all_avg_dist: 7.247
-  made_fga: '93.0'
+  made_all_avg_dist: 7.193
+  made_fga: '114.0'
   made_thr_avg_dist: 23.5
-  made_two_avg_dist: 3.347
-  miss_all_avg_dist: 14.233
-  miss_fga: '90.0'
-  miss_thr_avg_dist: 24.028
-  miss_two_avg_dist: 7.704
+  made_two_avg_dist: 3.293
+  miss_all_avg_dist: 14.417
+  miss_fga: '115.0'
+  miss_thr_avg_dist: 23.878
+  miss_two_avg_dist: 7.394
   name: John Collins
   team: LAC
-  thr_avg_dist: 23.852
-  two_avg_dist: 5.171
-- all_avg_dist: 10.586
-  fga: '152'
-  id: '1642270'
-  made_all_avg_dist: 6.48
-  made_fga: '75.0'
-  made_thr_avg_dist: 25.429
-  made_two_avg_dist: 2.131
-  miss_all_avg_dist: 14.584
-  miss_fga: '77.0'
-  miss_thr_avg_dist: 24.61
-  miss_two_avg_dist: 3.167
-  name: Donovan Clingan
-  team: POR
-  thr_avg_dist: 24.818
-  two_avg_dist: 2.515
-- all_avg_dist: 10.561
-  fga: '321'
-  id: '1630532'
-  made_all_avg_dist: 8.138
-  made_fga: '152.0'
-  made_thr_avg_dist: 25.033
-  made_two_avg_dist: 3.984
-  miss_all_avg_dist: 12.74
-  miss_fga: '169.0'
-  miss_thr_avg_dist: 25.667
-  miss_two_avg_dist: 6.161
-  name: Franz Wagner
-  team: ORL
-  thr_avg_dist: 25.448
-  two_avg_dist: 5.026
-- all_avg_dist: 10.403
-  fga: '139'
-  id: '1631212'
-  made_all_avg_dist: 8.028
-  made_fga: '71.0'
-  made_thr_avg_dist: 23.15
-  made_two_avg_dist: 2.098
-  miss_all_avg_dist: 12.882
-  miss_fga: '68.0'
-  miss_thr_avg_dist: 24.323
-  miss_two_avg_dist: 3.297
-  name: Peyton Watson
-  team: DEN
-  thr_avg_dist: 23.863
-  two_avg_dist: 2.602
-- all_avg_dist: 10.368
-  fga: '114'
-  id: '1628971'
-  made_all_avg_dist: 7.711
-  made_fga: '45.0'
-  made_thr_avg_dist: 24.1
-  made_two_avg_dist: 3.029
-  miss_all_avg_dist: 12.101
-  miss_fga: '69.0'
-  miss_thr_avg_dist: 23.913
-  miss_two_avg_dist: 6.196
-  name: Bruce Brown
-  team: DEN
-  thr_avg_dist: 23.97
-  two_avg_dist: 4.827
-- all_avg_dist: 10.31
-  fga: '100'
+  thr_avg_dist: 23.761
+  two_avg_dist: 5.006
+- all_avg_dist: 10.729
+  fga: '107'
   id: '1631200'
-  made_all_avg_dist: 7.067
-  made_fga: '45.0'
-  made_thr_avg_dist: 23.636
-  made_two_avg_dist: 1.706
-  miss_all_avg_dist: 12.964
-  miss_fga: '55.0'
-  miss_thr_avg_dist: 23.778
+  made_all_avg_dist: 7.104
+  made_fga: '48.0'
+  made_thr_avg_dist: 23.583
+  made_two_avg_dist: 1.611
+  miss_all_avg_dist: 13.678
+  miss_fga: '59.0'
+  miss_thr_avg_dist: 23.742
   miss_two_avg_dist: 2.536
   name: Kris Murray
   team: POR
-  thr_avg_dist: 23.737
-  two_avg_dist: 2.081
-- all_avg_dist: 10.296
-  fga: '199'
-  id: '1628398'
-  made_all_avg_dist: 7.554
-  made_fga: '101.0'
-  made_thr_avg_dist: 25.3
-  made_two_avg_dist: 3.173
-  miss_all_avg_dist: 13.122
-  miss_fga: '98.0'
-  miss_thr_avg_dist: 24.921
-  miss_two_avg_dist: 5.65
-  name: Kyle Kuzma
-  team: MIL
-  thr_avg_dist: 25.052
-  two_avg_dist: 4.227
-- all_avg_dist: 10.242
-  fga: '314'
-  id: '1630567'
-  made_all_avg_dist: 8.696
-  made_fga: '161.0'
-  made_thr_avg_dist: 25.207
-  made_two_avg_dist: 5.068
-  miss_all_avg_dist: 11.869
-  miss_fga: '153.0'
-  miss_thr_avg_dist: 24.902
-  miss_two_avg_dist: 7.098
-  name: Scottie Barnes
-  team: TOR
-  thr_avg_dist: 25.029
-  two_avg_dist: 6.0
-- all_avg_dist: 10.133
-  fga: '293'
+  thr_avg_dist: 23.698
+  two_avg_dist: 2.016
+- all_avg_dist: 10.637
+  fga: '320'
+  id: '1642847'
+  made_all_avg_dist: 8.809
+  made_fga: '141.0'
+  made_thr_avg_dist: 25.733
+  made_two_avg_dist: 4.234
+  miss_all_avg_dist: 12.078
+  miss_fga: '179.0'
+  miss_thr_avg_dist: 25.692
+  miss_two_avg_dist: 6.504
+  name: Jeremiah Fears
+  team: NOP
+  thr_avg_dist: 25.707
+  two_avg_dist: 5.445
+- all_avg_dist: 10.57
+  fga: '93'
+  id: '1641775'
+  made_all_avg_dist: 8.148
+  made_fga: '54.0'
+  made_thr_avg_dist: 24.875
+  made_two_avg_dist: 1.105
+  miss_all_avg_dist: 13.923
+  miss_fga: '39.0'
+  miss_thr_avg_dist: 24.632
+  miss_two_avg_dist: 3.75
+  name: Jordan Walsh
+  team: BOS
+  thr_avg_dist: 24.743
+  two_avg_dist: 2.017
+- all_avg_dist: 10.487
+  fga: '382'
+  id: '1630532'
+  made_all_avg_dist: 8.326
+  made_fga: '187.0'
+  made_thr_avg_dist: 25.194
+  made_two_avg_dist: 4.305
+  miss_all_avg_dist: 12.559
+  miss_fga: '195.0'
+  miss_thr_avg_dist: 25.625
+  miss_two_avg_dist: 6.176
+  name: Franz Wagner
+  team: ORL
+  thr_avg_dist: 25.47
+  two_avg_dist: 5.174
+- all_avg_dist: 10.469
+  fga: '192'
+  id: '1629111'
+  made_all_avg_dist: 8.912
+  made_fga: '102.0'
+  made_thr_avg_dist: 24.68
+  made_two_avg_dist: 3.792
+  miss_all_avg_dist: 12.233
+  miss_fga: '90.0'
+  miss_thr_avg_dist: 24.848
+  miss_two_avg_dist: 4.93
+  name: Jock Landale
+  team: MEM
+  thr_avg_dist: 24.776
+  two_avg_dist: 4.276
+- all_avg_dist: 10.463
+  fga: '348'
   id: '1630552'
-  made_all_avg_dist: 7.797
-  made_fga: '158.0'
-  made_thr_avg_dist: 25.069
-  made_two_avg_dist: 3.915
-  miss_all_avg_dist: 12.867
-  miss_fga: '135.0'
-  miss_thr_avg_dist: 25.535
-  miss_two_avg_dist: 6.946
+  made_all_avg_dist: 8.156
+  made_fga: '186.0'
+  made_thr_avg_dist: 25.083
+  made_two_avg_dist: 4.093
+  miss_all_avg_dist: 13.111
+  miss_fga: '162.0'
+  miss_thr_avg_dist: 25.491
+  miss_two_avg_dist: 7.092
   name: Jalen Johnson
   team: ATL
-  thr_avg_dist: 25.347
-  two_avg_dist: 5.176
-- all_avg_dist: 10.061
-  fga: '280'
-  id: '1630578'
-  made_all_avg_dist: 8.123
-  made_fga: '138.0'
-  made_thr_avg_dist: 25.789
-  made_two_avg_dist: 5.303
-  miss_all_avg_dist: 11.944
-  miss_fga: '142.0'
-  miss_thr_avg_dist: 26.379
-  miss_two_avg_dist: 8.239
-  name: Alperen Sengun
-  team: HOU
-  thr_avg_dist: 26.146
-  two_avg_dist: 6.733
-- all_avg_dist: 9.984
-  fga: '126'
-  id: '1630191'
-  made_all_avg_dist: 7.892
-  made_fga: '65.0'
-  made_thr_avg_dist: 24.529
-  made_two_avg_dist: 2.0
-  miss_all_avg_dist: 12.213
+  thr_avg_dist: 25.326
+  two_avg_dist: 5.355
+- all_avg_dist: 10.459
+  fga: '375'
+  id: '1630567'
+  made_all_avg_dist: 8.723
+  made_fga: '191.0'
+  made_thr_avg_dist: 25.171
+  made_two_avg_dist: 5.032
+  miss_all_avg_dist: 12.261
+  miss_fga: '184.0'
+  miss_thr_avg_dist: 25.038
+  miss_two_avg_dist: 7.092
+  name: Scottie Barnes
+  team: TOR
+  thr_avg_dist: 25.091
+  two_avg_dist: 5.972
+- all_avg_dist: 10.4
+  fga: '70'
+  id: '1630551'
+  made_all_avg_dist: 6.355
+  made_fga: '31.0'
+  made_thr_avg_dist: 25.333
+  made_two_avg_dist: 1.8
+  miss_all_avg_dist: 13.615
+  miss_fga: '39.0'
+  miss_thr_avg_dist: 24.842
+  miss_two_avg_dist: 2.95
+  name: Justin Champagnie
+  team: WAS
+  thr_avg_dist: 24.96
+  two_avg_dist: 2.311
+- all_avg_dist: 10.265
+  fga: '102'
+  id: '1642877'
+  made_all_avg_dist: 6.0
+  made_fga: '41.0'
+  made_thr_avg_dist: 24.167
+  made_two_avg_dist: 2.886
+  miss_all_avg_dist: 13.131
   miss_fga: '61.0'
-  miss_thr_avg_dist: 24.32
-  miss_two_avg_dist: 3.806
+  miss_thr_avg_dist: 24.115
+  miss_two_avg_dist: 4.971
+  name: Micah Peavy
+  team: NOP
+  thr_avg_dist: 24.125
+  two_avg_dist: 3.929
+- all_avg_dist: 10.221
+  fga: '181'
+  id: '1631212'
+  made_all_avg_dist: 7.64
+  made_fga: '89.0'
+  made_thr_avg_dist: 23.125
+  made_two_avg_dist: 1.923
+  miss_all_avg_dist: 12.717
+  miss_fga: '92.0'
+  miss_thr_avg_dist: 24.175
+  miss_two_avg_dist: 3.904
+  name: Peyton Watson
+  team: DEN
+  thr_avg_dist: 23.781
+  two_avg_dist: 2.803
+- all_avg_dist: 10.185
+  fga: '168'
+  id: '1642270'
+  made_all_avg_dist: 6.136
+  made_fga: '81.0'
+  made_thr_avg_dist: 25.429
+  made_two_avg_dist: 2.104
+  miss_all_avg_dist: 13.954
+  miss_fga: '87.0'
+  miss_thr_avg_dist: 24.636
+  miss_two_avg_dist: 3.023
+  name: Donovan Clingan
+  team: POR
+  thr_avg_dist: 24.828
+  two_avg_dist: 2.464
+- all_avg_dist: 10.137
+  fga: '234'
+  id: '1628398'
+  made_all_avg_dist: 7.353
+  made_fga: '116.0'
+  made_thr_avg_dist: 25.091
+  made_two_avg_dist: 3.202
+  miss_all_avg_dist: 12.873
+  miss_fga: '118.0'
+  miss_thr_avg_dist: 24.864
+  miss_two_avg_dist: 5.743
+  name: Kyle Kuzma
+  team: MIL
+  thr_avg_dist: 24.939
+  two_avg_dist: 4.321
+- all_avg_dist: 10.081
+  fga: '148'
+  id: '1630191'
+  made_all_avg_dist: 7.848
+  made_fga: '79.0'
+  made_thr_avg_dist: 24.238
+  made_two_avg_dist: 1.914
+  miss_all_avg_dist: 12.638
+  miss_fga: '69.0'
+  miss_thr_avg_dist: 24.333
+  miss_two_avg_dist: 3.641
   name: Isaiah Stewart
   team: DET
-  thr_avg_dist: 24.405
-  two_avg_dist: 2.774
+  thr_avg_dist: 24.294
+  two_avg_dist: 2.608
+- all_avg_dist: 10.022
+  fga: '137'
+  id: '1628971'
+  made_all_avg_dist: 7.483
+  made_fga: '58.0'
+  made_thr_avg_dist: 23.923
+  made_two_avg_dist: 2.733
+  miss_all_avg_dist: 11.886
+  miss_fga: '79.0'
+  miss_thr_avg_dist: 24.038
+  miss_two_avg_dist: 5.925
+  name: Bruce Brown
+  team: DEN
+  thr_avg_dist: 24.0
+  two_avg_dist: 4.459
 - all_avg_dist: 9.979
   fga: '97'
   id: '1631128'
@@ -3763,36 +4168,36 @@
   team: DEN
   thr_avg_dist: 25.25
   two_avg_dist: 3.783
-- all_avg_dist: 9.968
-  fga: '62'
-  id: '1641772'
-  made_all_avg_dist: 3.909
-  made_fga: '33.0'
+- all_avg_dist: 9.762
+  fga: '319'
+  id: '1630578'
+  made_all_avg_dist: 7.882
+  made_fga: '161.0'
+  made_thr_avg_dist: 25.8
+  made_two_avg_dist: 5.34
+  miss_all_avg_dist: 11.677
+  miss_fga: '158.0'
+  miss_thr_avg_dist: 26.375
+  miss_two_avg_dist: 7.944
+  name: Alperen Sengun
+  team: HOU
+  thr_avg_dist: 26.154
+  two_avg_dist: 6.569
+- all_avg_dist: 9.632
+  fga: '76'
+  id: '1631114'
+  made_all_avg_dist: 8.057
+  made_fga: '35.0'
   made_thr_avg_dist: 26.0
-  made_two_avg_dist: 0.862
-  miss_all_avg_dist: 16.862
-  miss_fga: '29.0'
-  miss_thr_avg_dist: 23.947
-  miss_two_avg_dist: 3.4
-  name: Nae'Qwan Tomlin
-  team: CLE
-  thr_avg_dist: 24.304
-  two_avg_dist: 1.513
-- all_avg_dist: 9.518
-  fga: '85'
-  id: '203076'
-  made_all_avg_dist: 6.4
-  made_fga: '45.0'
-  made_thr_avg_dist: 24.667
-  made_two_avg_dist: 5.095
-  miss_all_avg_dist: 13.025
-  miss_fga: '40.0'
-  miss_thr_avg_dist: 24.778
-  miss_two_avg_dist: 9.613
-  name: Anthony Davis
-  team: DAL
-  thr_avg_dist: 24.75
-  two_avg_dist: 7.014
+  made_two_avg_dist: 6.375
+  miss_all_avg_dist: 10.976
+  miss_fga: '41.0'
+  miss_thr_avg_dist: 24.375
+  miss_two_avg_dist: 7.727
+  name: Jalen Williams
+  team: OKC
+  thr_avg_dist: 24.818
+  two_avg_dist: 7.062
 - all_avg_dist: 9.502
   fga: '241'
   id: '1642259'
@@ -3808,126 +4213,201 @@
   team: WAS
   thr_avg_dist: 25.635
   two_avg_dist: 5.063
-- all_avg_dist: 9.417
-  fga: '60'
-  id: '1631230'
-  made_all_avg_dist: 5.312
-  made_fga: '32.0'
-  made_thr_avg_dist: 23.2
-  made_two_avg_dist: 2.0
-  miss_all_avg_dist: 14.107
-  miss_fga: '28.0'
-  miss_thr_avg_dist: 23.643
-  miss_two_avg_dist: 4.571
-  name: Dominick Barlow
-  team: PHI
-  thr_avg_dist: 23.526
-  two_avg_dist: 2.878
-- all_avg_dist: 9.125
-  fga: '56'
-  id: '1631133'
-  made_all_avg_dist: 5.423
-  made_fga: '26.0'
-  made_thr_avg_dist: 26.0
-  made_two_avg_dist: 1.682
-  miss_all_avg_dist: 12.333
-  miss_fga: '30.0'
-  miss_thr_avg_dist: 23.615
-  miss_two_avg_dist: 3.706
-  name: Jabari Walker
-  team: PHI
-  thr_avg_dist: 24.176
-  two_avg_dist: 2.564
-- all_avg_dist: 9.084
-  fga: '166'
-  id: '1629640'
-  made_all_avg_dist: 6.281
-  made_fga: '96.0'
-  made_thr_avg_dist: 24.176
-  made_two_avg_dist: 2.43
-  miss_all_avg_dist: 12.929
-  miss_fga: '70.0'
-  miss_thr_avg_dist: 23.676
-  miss_two_avg_dist: 2.778
-  name: Keldon Johnson
+- all_avg_dist: 9.497
+  fga: '153'
+  id: '203076'
+  made_all_avg_dist: 7.175
+  made_fga: '80.0'
+  made_thr_avg_dist: 23.857
+  made_two_avg_dist: 5.575
+  miss_all_avg_dist: 12.041
+  miss_fga: '73.0'
+  miss_thr_avg_dist: 25.357
+  miss_two_avg_dist: 8.881
+  name: Anthony Davis
+  team: DAL
+  thr_avg_dist: 24.857
+  two_avg_dist: 7.053
+- all_avg_dist: 9.422
+  fga: '83'
+  id: '1631110'
+  made_all_avg_dist: 5.857
+  made_fga: '42.0'
+  made_thr_avg_dist: 23.571
+  made_two_avg_dist: 2.314
+  miss_all_avg_dist: 13.073
+  miss_fga: '41.0'
+  miss_thr_avg_dist: 24.5
+  miss_two_avg_dist: 4.13
+  name: Jeremy Sochan
   team: SAS
-  thr_avg_dist: 23.843
-  two_avg_dist: 2.539
-- all_avg_dist: 9.056
-  fga: '71'
+  thr_avg_dist: 24.24
+  two_avg_dist: 3.034
+- all_avg_dist: 9.391
+  fga: '92'
+  id: '1641772'
+  made_all_avg_dist: 4.133
+  made_fga: '45.0'
+  made_thr_avg_dist: 25.667
+  made_two_avg_dist: 0.821
+  miss_all_avg_dist: 14.426
+  miss_fga: '47.0'
+  miss_thr_avg_dist: 23.885
+  miss_two_avg_dist: 2.714
+  name: Nae'Qwan Tomlin
+  team: CLE
+  thr_avg_dist: 24.219
+  two_avg_dist: 1.483
+- all_avg_dist: 9.311
+  fga: '90'
   id: '1627780'
-  made_all_avg_dist: 5.429
-  made_fga: '35.0'
-  made_thr_avg_dist: 24.167
-  made_two_avg_dist: 1.552
-  miss_all_avg_dist: 12.583
-  miss_fga: '36.0'
-  miss_thr_avg_dist: 24.438
-  miss_two_avg_dist: 3.1
+  made_all_avg_dist: 5.86
+  made_fga: '43.0'
+  made_thr_avg_dist: 24.25
+  made_two_avg_dist: 1.657
+  miss_all_avg_dist: 12.468
+  miss_fga: '47.0'
+  miss_thr_avg_dist: 24.238
+  miss_two_avg_dist: 2.962
   name: Gary Payton II
   team: GSW
-  thr_avg_dist: 24.364
-  two_avg_dist: 2.184
-- all_avg_dist: 8.881
-  fga: '59'
+  thr_avg_dist: 24.241
+  two_avg_dist: 2.213
+- all_avg_dist: 9.115
+  fga: '192'
+  id: '1629640'
+  made_all_avg_dist: 6.2
+  made_fga: '110.0'
+  made_thr_avg_dist: 24.111
+  made_two_avg_dist: 2.696
+  miss_all_avg_dist: 13.024
+  miss_fga: '82.0'
+  miss_thr_avg_dist: 23.7
+  miss_two_avg_dist: 2.857
+  name: Keldon Johnson
+  team: SAS
+  thr_avg_dist: 23.828
+  two_avg_dist: 2.746
+- all_avg_dist: 8.984
+  fga: '124'
+  id: '1642844'
+  made_all_avg_dist: 6.333
+  made_fga: '57.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 3.449
+  miss_all_avg_dist: 11.239
+  miss_fga: '67.0'
+  miss_thr_avg_dist: 24.905
+  miss_two_avg_dist: 5.0
+  name: Dylan Harper
+  team: SAS
+  thr_avg_dist: 24.655
+  two_avg_dist: 4.2
+- all_avg_dist: 8.865
+  fga: '74'
+  id: '1631121'
+  made_all_avg_dist: 8.444
+  made_fga: '36.0'
+  made_thr_avg_dist: 24.778
+  made_two_avg_dist: 3.0
+  miss_all_avg_dist: 9.263
+  miss_fga: '38.0'
+  miss_thr_avg_dist: 23.818
+  miss_two_avg_dist: 3.333
+  name: Bryce McGowens
+  team: NOP
+  thr_avg_dist: 24.25
+  two_avg_dist: 3.167
+- all_avg_dist: 8.77
+  fga: '61'
+  id: '1630534'
+  made_all_avg_dist: 2.458
+  made_fga: '24.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 0.5
+  miss_all_avg_dist: 12.865
+  miss_fga: '37.0'
+  miss_thr_avg_dist: 24.167
+  miss_two_avg_dist: 2.158
+  name: Ochai Agbaji
+  team: TOR
+  thr_avg_dist: 24.15
+  two_avg_dist: 1.268
+- all_avg_dist: 8.753
+  fga: '85'
+  id: '1631230'
+  made_all_avg_dist: 4.952
+  made_fga: '42.0'
+  made_thr_avg_dist: 23.333
+  made_two_avg_dist: 1.889
+  miss_all_avg_dist: 12.465
+  miss_fga: '43.0'
+  miss_thr_avg_dist: 23.722
+  miss_two_avg_dist: 4.36
+  name: Dominick Barlow
+  team: PHI
+  thr_avg_dist: 23.625
+  two_avg_dist: 2.902
+- all_avg_dist: 8.743
+  fga: '70'
   id: '1642268'
-  made_all_avg_dist: 6.0
-  made_fga: '30.0'
-  made_thr_avg_dist: 25.667
-  made_two_avg_dist: 3.815
-  miss_all_avg_dist: 11.862
-  miss_fga: '29.0'
+  made_all_avg_dist: 6.806
+  made_fga: '36.0'
+  made_thr_avg_dist: 24.8
+  made_two_avg_dist: 3.903
+  miss_all_avg_dist: 10.794
+  miss_fga: '34.0'
   miss_thr_avg_dist: 24.75
-  miss_two_avg_dist: 6.952
+  miss_two_avg_dist: 6.5
   name: Isaiah Collier
   team: UTA
-  thr_avg_dist: 25.0
-  two_avg_dist: 5.188
-- all_avg_dist: 8.848
-  fga: '79'
-  id: '1642867'
-  made_all_avg_dist: 6.488
-  made_fga: '41.0'
-  made_thr_avg_dist: 24.778
-  made_two_avg_dist: 1.344
-  miss_all_avg_dist: 11.395
-  miss_fga: '38.0'
-  miss_thr_avg_dist: 24.25
-  miss_two_avg_dist: 5.462
-  name: Collin Murray-Boyles
-  team: TOR
-  thr_avg_dist: 24.476
-  two_avg_dist: 3.19
-- all_avg_dist: 8.767
-  fga: '133'
-  id: '203994'
-  made_all_avg_dist: 6.333
-  made_fga: '60.0'
-  made_thr_avg_dist: 25.429
-  made_two_avg_dist: 3.811
-  miss_all_avg_dist: 10.767
-  miss_fga: '73.0'
-  miss_thr_avg_dist: 25.636
-  miss_two_avg_dist: 4.353
-  name: "Jusuf Nurki\u0107"
-  team: UTA
-  thr_avg_dist: 25.586
-  two_avg_dist: 4.077
-- all_avg_dist: 8.589
-  fga: '224'
+  thr_avg_dist: 24.769
+  two_avg_dist: 5.088
+- all_avg_dist: 8.651
+  fga: '241'
   id: '202710'
-  made_all_avg_dist: 6.797
-  made_fga: '118.0'
-  made_thr_avg_dist: 24.588
-  made_two_avg_dist: 3.802
-  miss_all_avg_dist: 10.585
-  miss_fga: '106.0'
-  miss_thr_avg_dist: 24.727
-  miss_two_avg_dist: 6.881
+  made_all_avg_dist: 7.04
+  made_fga: '125.0'
+  made_thr_avg_dist: 24.5
+  made_two_avg_dist: 3.714
+  miss_all_avg_dist: 10.388
+  miss_fga: '116.0'
+  miss_thr_avg_dist: 24.696
+  miss_two_avg_dist: 6.849
   name: Jimmy Butler III
   team: GSW
-  thr_avg_dist: 24.667
-  two_avg_dist: 5.2
+  thr_avg_dist: 24.605
+  two_avg_dist: 5.187
+- all_avg_dist: 8.599
+  fga: '202'
+  id: '1642276'
+  made_all_avg_dist: 6.685
+  made_fga: '108.0'
+  made_thr_avg_dist: 24.083
+  made_two_avg_dist: 1.714
+  miss_all_avg_dist: 10.798
+  miss_fga: '94.0'
+  miss_thr_avg_dist: 24.121
+  miss_two_avg_dist: 3.59
+  name: Kel'el Ware
+  team: MIA
+  thr_avg_dist: 24.105
+  two_avg_dist: 2.503
+- all_avg_dist: 8.536
+  fga: '97'
+  id: '1642867'
+  made_all_avg_dist: 6.463
+  made_fga: '54.0'
+  made_thr_avg_dist: 24.833
+  made_two_avg_dist: 1.214
+  miss_all_avg_dist: 11.14
+  miss_fga: '43.0'
+  miss_thr_avg_dist: 24.154
+  miss_two_avg_dist: 5.5
+  name: Collin Murray-Boyles
+  team: TOR
+  thr_avg_dist: 24.48
+  two_avg_dist: 3.0
 - all_avg_dist: 8.534
   fga: '88'
   id: '1630570'
@@ -3943,186 +4423,186 @@
   team: PHI
   thr_avg_dist: 24.944
   two_avg_dist: 4.314
-- all_avg_dist: 8.429
-  fga: '91'
-  id: '1642844'
-  made_all_avg_dist: 6.022
-  made_fga: '46.0'
-  made_thr_avg_dist: 24.0
-  made_two_avg_dist: 3.325
-  miss_all_avg_dist: 10.889
-  miss_fga: '45.0'
-  miss_thr_avg_dist: 24.923
-  miss_two_avg_dist: 5.188
-  name: Dylan Harper
-  team: SAS
-  thr_avg_dist: 24.632
-  two_avg_dist: 4.153
-- all_avg_dist: 8.282
-  fga: '181'
-  id: '1642276'
-  made_all_avg_dist: 6.33
-  made_fga: '97.0'
-  made_thr_avg_dist: 23.85
-  made_two_avg_dist: 1.779
-  miss_all_avg_dist: 10.536
-  miss_fga: '84.0'
-  miss_thr_avg_dist: 24.103
-  miss_two_avg_dist: 3.382
-  name: Kel'el Ware
-  team: MIA
-  thr_avg_dist: 24.0
-  two_avg_dist: 2.447
-- all_avg_dist: 7.987
-  fga: '238'
+- all_avg_dist: 8.401
+  fga: '162'
+  id: '203994'
+  made_all_avg_dist: 5.973
+  made_fga: '73.0'
+  made_thr_avg_dist: 25.429
+  made_two_avg_dist: 3.909
+  miss_all_avg_dist: 10.393
+  miss_fga: '89.0'
+  miss_thr_avg_dist: 25.48
+  miss_two_avg_dist: 4.5
+  name: "Jusuf Nurki\u0107"
+  team: UTA
+  thr_avg_dist: 25.469
+  two_avg_dist: 4.2
+- all_avg_dist: 8.353
+  fga: '51'
+  id: '1629020'
+  made_all_avg_dist: 5.0
+  made_fga: '22.0'
+  made_thr_avg_dist: 22.5
+  made_two_avg_dist: 1.111
+  miss_all_avg_dist: 10.897
+  miss_fga: '29.0'
+  miss_thr_avg_dist: 23.273
+  miss_two_avg_dist: 3.333
+  name: Jarred Vanderbilt
+  team: LAL
+  thr_avg_dist: 23.067
+  two_avg_dist: 2.222
+- all_avg_dist: 8.111
+  fga: '298'
   id: '1641708'
-  made_all_avg_dist: 5.116
-  made_fga: '112.0'
-  made_thr_avg_dist: 24.375
-  made_two_avg_dist: 3.635
-  miss_all_avg_dist: 10.54
-  miss_fga: '126.0'
-  miss_thr_avg_dist: 23.964
-  miss_two_avg_dist: 6.704
+  made_all_avg_dist: 5.042
+  made_fga: '142.0'
+  made_thr_avg_dist: 24.222
+  made_two_avg_dist: 3.744
+  miss_all_avg_dist: 10.904
+  miss_fga: '156.0'
+  miss_thr_avg_dist: 23.971
+  miss_two_avg_dist: 7.124
   name: Amen Thompson
   team: HOU
-  thr_avg_dist: 24.056
-  two_avg_dist: 5.124
-- all_avg_dist: 7.872
-  fga: '109'
+  thr_avg_dist: 24.023
+  two_avg_dist: 5.354
+- all_avg_dist: 7.846
+  fga: '91'
+  id: '1642875'
+  made_all_avg_dist: 5.936
+  made_fga: '47.0'
+  made_thr_avg_dist: 25.25
+  made_two_avg_dist: 4.14
+  miss_all_avg_dist: 9.886
+  miss_fga: '44.0'
+  miss_thr_avg_dist: 24.556
+  miss_two_avg_dist: 6.114
+  name: Maxime Raynaud
+  team: SAC
+  thr_avg_dist: 24.769
+  two_avg_dist: 5.026
+- all_avg_dist: 7.5
+  fga: '252'
+  id: '1630700'
+  made_all_avg_dist: 4.748
+  made_fga: '119.0'
+  made_thr_avg_dist: 25.167
+  made_two_avg_dist: 3.664
+  miss_all_avg_dist: 9.962
+  miss_fga: '133.0'
+  miss_thr_avg_dist: 24.971
+  miss_two_avg_dist: 4.602
+  name: Dyson Daniels
+  team: ATL
+  thr_avg_dist: 25.0
+  two_avg_dist: 4.1
+- all_avg_dist: 7.485
+  fga: '134'
   id: '202685'
-  made_all_avg_dist: 6.295
-  made_fga: '61.0'
+  made_all_avg_dist: 6.066
+  made_fga: '76.0'
   made_thr_avg_dist: 24.5
-  made_two_avg_dist: 5.678
-  miss_all_avg_dist: 9.875
-  miss_fga: '48.0'
+  made_two_avg_dist: 5.568
+  miss_all_avg_dist: 9.345
+  miss_fga: '58.0'
   miss_thr_avg_dist: 25.857
-  miss_two_avg_dist: 7.146
+  miss_two_avg_dist: 7.078
   name: "Jonas Valan\u010Di\u016Bnas"
   team: DEN
   thr_avg_dist: 25.556
-  two_avg_dist: 6.28
-- all_avg_dist: 7.646
-  fga: '65'
-  id: '1642875'
-  made_all_avg_dist: 5.355
-  made_fga: '31.0'
+  two_avg_dist: 6.184
+- all_avg_dist: 7.468
+  fga: '79'
+  id: '1630194'
+  made_all_avg_dist: 6.098
+  made_fga: '51.0'
+  made_thr_avg_dist: 24.5
+  made_two_avg_dist: 3.644
+  miss_all_avg_dist: 9.964
+  miss_fga: '28.0'
+  miss_thr_avg_dist: 24.429
+  miss_two_avg_dist: 5.143
+  name: Paul Reed
+  team: DET
+  thr_avg_dist: 24.462
+  two_avg_dist: 4.121
+- all_avg_dist: 7.329
+  fga: '140'
+  id: '1630200'
+  made_all_avg_dist: 5.257
+  made_fga: '74.0'
   made_thr_avg_dist: 24.0
-  made_two_avg_dist: 4.069
-  miss_all_avg_dist: 9.735
-  miss_fga: '34.0'
-  miss_thr_avg_dist: 25.143
-  miss_two_avg_dist: 5.741
-  name: Maxime Raynaud
-  team: SAC
-  thr_avg_dist: 24.889
-  two_avg_dist: 4.875
-- all_avg_dist: 7.384
-  fga: '73'
-  id: '1630549'
-  made_all_avg_dist: 4.372
-  made_fga: '43.0'
-  made_thr_avg_dist: 24.0
-  made_two_avg_dist: 1.789
-  miss_all_avg_dist: 11.7
-  miss_fga: '30.0'
-  miss_thr_avg_dist: 24.818
-  miss_two_avg_dist: 4.105
-  name: Day'Ron Sharpe
-  team: BKN
-  thr_avg_dist: 24.562
-  two_avg_dist: 2.561
-- all_avg_dist: 7.347
-  fga: '196'
+  made_two_avg_dist: 2.985
+  miss_all_avg_dist: 9.652
+  miss_fga: '66.0'
+  miss_thr_avg_dist: 24.529
+  miss_two_avg_dist: 4.49
+  name: Tre Jones
+  team: CHI
+  thr_avg_dist: 24.36
+  two_avg_dist: 3.626
+- all_avg_dist: 7.174
+  fga: '281'
+  id: '1631170'
+  made_all_avg_dist: 5.0
+  made_fga: '145.0'
+  made_thr_avg_dist: 24.25
+  made_two_avg_dist: 3.876
+  miss_all_avg_dist: 9.493
+  miss_fga: '136.0'
+  miss_thr_avg_dist: 25.0
+  miss_two_avg_dist: 5.651
+  name: Jaime Jaquez Jr.
+  team: MIA
+  thr_avg_dist: 24.829
+  two_avg_dist: 4.663
+- all_avg_dist: 7.049
+  fga: '225'
   id: '1642852'
-  made_all_avg_dist: 4.638
-  made_fga: '94.0'
+  made_all_avg_dist: 4.5
+  made_fga: '108.0'
   made_thr_avg_dist: 25.0
-  made_two_avg_dist: 4.196
-  miss_all_avg_dist: 9.843
-  miss_fga: '102.0'
+  made_two_avg_dist: 4.113
+  miss_all_avg_dist: 9.402
+  miss_fga: '117.0'
   miss_thr_avg_dist: 24.667
-  miss_two_avg_dist: 7.287
+  miss_two_avg_dist: 7.157
   name: Derik Queen
   team: NOP
   thr_avg_dist: 24.706
-  two_avg_dist: 5.698
-- all_avg_dist: 7.313
-  fga: '195'
-  id: '1630700'
-  made_all_avg_dist: 4.835
-  made_fga: '97.0'
-  made_thr_avg_dist: 25.4
-  made_two_avg_dist: 3.717
-  miss_all_avg_dist: 9.765
-  miss_fga: '98.0'
-  miss_thr_avg_dist: 25.167
-  miss_two_avg_dist: 4.77
-  name: Dyson Daniels
-  team: ATL
-  thr_avg_dist: 25.207
-  two_avg_dist: 4.187
-- all_avg_dist: 7.198
-  fga: '81'
+  two_avg_dist: 5.606
+- all_avg_dist: 6.792
+  fga: '125'
+  id: '203083'
+  made_all_avg_dist: 5.059
+  made_fga: '68.0'
+  made_thr_avg_dist: 22.909
+  made_two_avg_dist: 1.614
+  miss_all_avg_dist: 8.86
+  miss_fga: '57.0'
+  miss_thr_avg_dist: 23.556
+  miss_two_avg_dist: 2.077
+  name: Andre Drummond
+  team: PHI
+  thr_avg_dist: 23.31
+  two_avg_dist: 1.802
+- all_avg_dist: 6.691
+  fga: '94'
   id: '1630173'
-  made_all_avg_dist: 4.864
-  made_fga: '44.0'
+  made_all_avg_dist: 4.333
+  made_fga: '51.0'
   made_thr_avg_dist: 24.667
-  made_two_avg_dist: 3.415
-  miss_all_avg_dist: 9.973
-  miss_fga: '37.0'
-  miss_thr_avg_dist: 23.909
-  miss_two_avg_dist: 4.077
+  made_two_avg_dist: 3.062
+  miss_all_avg_dist: 9.488
+  miss_fga: '43.0'
+  miss_thr_avg_dist: 23.833
+  miss_two_avg_dist: 3.935
   name: Precious Achiuwa
   team: SAC
-  thr_avg_dist: 24.071
-  two_avg_dist: 3.672
-- all_avg_dist: 7.147
-  fga: '232'
-  id: '1631170'
-  made_all_avg_dist: 4.789
-  made_fga: '123.0'
-  made_thr_avg_dist: 24.143
-  made_two_avg_dist: 3.621
-  miss_all_avg_dist: 9.807
-  miss_fga: '109.0'
-  miss_thr_avg_dist: 25.0
-  miss_two_avg_dist: 5.286
-  name: Jaime Jaquez Jr.
-  team: MIA
-  thr_avg_dist: 24.812
-  two_avg_dist: 4.32
-- all_avg_dist: 7.092
-  fga: '130'
-  id: '1630200'
-  made_all_avg_dist: 4.761
-  made_fga: '67.0'
-  made_thr_avg_dist: 24.167
-  made_two_avg_dist: 2.852
-  miss_all_avg_dist: 9.571
-  miss_fga: '63.0'
-  miss_thr_avg_dist: 24.688
-  miss_two_avg_dist: 4.426
-  name: Tre Jones
-  team: CHI
-  thr_avg_dist: 24.545
-  two_avg_dist: 3.537
-- all_avg_dist: 6.909
-  fga: '66'
-  id: '1630194'
-  made_all_avg_dist: 6.0
-  made_fga: '44.0'
-  made_thr_avg_dist: 25.0
-  made_two_avg_dist: 3.564
-  miss_all_avg_dist: 8.727
-  miss_fga: '22.0'
-  miss_thr_avg_dist: 24.2
-  miss_two_avg_dist: 4.176
-  name: Paul Reed
-  team: DET
-  thr_avg_dist: 24.6
-  two_avg_dist: 3.75
+  thr_avg_dist: 24.0
+  two_avg_dist: 3.405
 - all_avg_dist: 6.614
   fga: '145'
   id: '1627734'
@@ -4138,141 +4618,156 @@
   team: SAC
   thr_avg_dist: 25.1
   two_avg_dist: 3.656
-- all_avg_dist: 6.604
-  fga: '101'
-  id: '203083'
-  made_all_avg_dist: 5.286
-  made_fga: '56.0'
-  made_thr_avg_dist: 22.9
-  made_two_avg_dist: 1.457
-  miss_all_avg_dist: 8.244
-  miss_fga: '45.0'
-  miss_thr_avg_dist: 23.385
-  miss_two_avg_dist: 2.094
-  name: Andre Drummond
-  team: PHI
-  thr_avg_dist: 23.174
-  two_avg_dist: 1.718
-- all_avg_dist: 6.491
-  fga: '159'
+- all_avg_dist: 6.568
+  fga: '95'
+  id: '1630549'
+  made_all_avg_dist: 3.649
+  made_fga: '57.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 1.692
+  miss_all_avg_dist: 10.947
+  miss_fga: '38.0'
+  miss_thr_avg_dist: 24.769
+  miss_two_avg_dist: 3.76
+  name: Day'Ron Sharpe
+  team: BKN
+  thr_avg_dist: 24.556
+  two_avg_dist: 2.364
+- all_avg_dist: 6.217
+  fga: '189'
   id: '1641709'
-  made_all_avg_dist: 5.025
-  made_fga: '80.0'
+  made_all_avg_dist: 4.612
+  made_fga: '98.0'
   made_thr_avg_dist: 26.4
-  made_two_avg_dist: 3.6
-  miss_all_avg_dist: 7.975
-  miss_fga: '79.0'
-  miss_thr_avg_dist: 25.1
-  miss_two_avg_dist: 5.493
+  made_two_avg_dist: 3.441
+  miss_all_avg_dist: 7.945
+  miss_fga: '91.0'
+  miss_thr_avg_dist: 24.909
+  miss_two_avg_dist: 5.612
   name: Ausar Thompson
   team: DET
-  thr_avg_dist: 25.533
-  two_avg_dist: 4.507
-- all_avg_dist: 5.494
-  fga: '85'
+  thr_avg_dist: 25.375
+  two_avg_dist: 4.445
+- all_avg_dist: 5.51
+  fga: '294'
+  id: '203507'
+  made_all_avg_dist: 3.234
+  made_fga: '188.0'
+  made_thr_avg_dist: 25.4
+  made_two_avg_dist: 1.989
+  miss_all_avg_dist: 9.547
+  miss_fga: '106.0'
+  miss_thr_avg_dist: 25.538
+  miss_two_avg_dist: 7.312
+  name: Giannis Antetokounmpo
+  team: MIL
+  thr_avg_dist: 25.478
+  two_avg_dist: 3.815
+- all_avg_dist: 5.433
+  fga: '90'
   id: '1629234'
-  made_all_avg_dist: 4.642
-  made_fga: '53.0'
+  made_all_avg_dist: 4.554
+  made_fga: '56.0'
   made_thr_avg_dist: 23.0
-  made_two_avg_dist: 4.288
-  miss_all_avg_dist: 6.906
-  miss_fga: '32.0'
+  made_two_avg_dist: 4.218
+  miss_all_avg_dist: 6.882
+  miss_fga: '34.0'
   miss_thr_avg_dist: 24.0
-  miss_two_avg_dist: 6.355
+  miss_two_avg_dist: 6.364
   name: Drew Eubanks
   team: SAC
   thr_avg_dist: 23.5
-  two_avg_dist: 5.06
-- all_avg_dist: 5.354
-  fga: '277'
-  id: '203507'
-  made_all_avg_dist: 3.157
-  made_fga: '178.0'
-  made_thr_avg_dist: 25.4
-  made_two_avg_dist: 1.833
-  miss_all_avg_dist: 9.303
-  miss_fga: '99.0'
-  miss_thr_avg_dist: 25.333
-  miss_two_avg_dist: 7.092
-  name: Giannis Antetokounmpo
-  team: MIL
-  thr_avg_dist: 25.364
-  two_avg_dist: 3.627
-- all_avg_dist: 5.142
-  fga: '176'
-  id: '1629028'
-  made_all_avg_dist: 4.6
-  made_fga: '125.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 4.6
-  miss_all_avg_dist: 6.471
-  miss_fga: '51.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 6.471
-  name: Deandre Ayton
-  team: LAL
-  thr_avg_dist: ''
-  two_avg_dist: 5.142
-- all_avg_dist: 5.0
-  fga: '78'
-  id: '1642345'
-  made_all_avg_dist: 3.717
-  made_fga: '46.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 3.717
-  miss_all_avg_dist: 6.844
-  miss_fga: '32.0'
-  miss_thr_avg_dist: 31.0
-  miss_two_avg_dist: 6.065
-  name: Oso Ighodaro
-  team: PHX
-  thr_avg_dist: 31.0
-  two_avg_dist: 4.662
-- all_avg_dist: 4.828
-  fga: '64'
-  id: '1629048'
-  made_all_avg_dist: 2.543
-  made_fga: '46.0'
-  made_thr_avg_dist: 23.5
-  made_two_avg_dist: 1.591
-  miss_all_avg_dist: 10.667
-  miss_fga: '18.0'
-  miss_thr_avg_dist: 25.4
-  miss_two_avg_dist: 5.0
-  name: Goga Bitadze
-  team: ORL
-  thr_avg_dist: 24.857
-  two_avg_dist: 2.368
-- all_avg_dist: 4.69
-  fga: '58'
+  two_avg_dist: 5.023
+- all_avg_dist: 5.05
+  fga: '60'
   id: '1630208'
-  made_all_avg_dist: 4.133
-  made_fga: '30.0'
+  made_all_avg_dist: 4.419
+  made_fga: '31.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 4.133
-  miss_all_avg_dist: 5.286
-  miss_fga: '28.0'
+  made_two_avg_dist: 4.419
+  miss_all_avg_dist: 5.724
+  miss_fga: '29.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 5.286
+  miss_two_avg_dist: 5.724
   name: Nick Richards
   team: PHX
   thr_avg_dist: ''
-  two_avg_dist: 4.69
-- all_avg_dist: 4.682
-  fga: '173'
-  id: '1629651'
-  made_all_avg_dist: 3.031
-  made_fga: '96.0'
+  two_avg_dist: 5.05
+- all_avg_dist: 5.005
+  fga: '211'
+  id: '1629028'
+  made_all_avg_dist: 4.383
+  made_fga: '149.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 3.031
-  miss_all_avg_dist: 6.74
-  miss_fga: '77.0'
-  miss_thr_avg_dist: 25.25
-  miss_two_avg_dist: 4.594
+  made_two_avg_dist: 4.383
+  miss_all_avg_dist: 6.5
+  miss_fga: '62.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 6.5
+  name: Deandre Ayton
+  team: LAL
+  thr_avg_dist: ''
+  two_avg_dist: 5.005
+- all_avg_dist: 4.976
+  fga: '83'
+  id: '1642345'
+  made_all_avg_dist: 3.796
+  made_fga: '49.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 3.796
+  miss_all_avg_dist: 6.676
+  miss_fga: '34.0'
+  miss_thr_avg_dist: 31.0
+  miss_two_avg_dist: 5.939
+  name: Oso Ighodaro
+  team: PHX
+  thr_avg_dist: 31.0
+  two_avg_dist: 4.659
+- all_avg_dist: 4.755
+  fga: '98'
+  id: '1641744'
+  made_all_avg_dist: 3.403
+  made_fga: '62.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 3.066
+  miss_all_avg_dist: 7.083
+  miss_fga: '36.0'
+  miss_thr_avg_dist: 24.5
+  miss_two_avg_dist: 4.906
+  name: Zach Edey
+  team: MEM
+  thr_avg_dist: 24.4
+  two_avg_dist: 3.699
+- all_avg_dist: 4.617
+  fga: '60'
+  id: '1629057'
+  made_all_avg_dist: 1.925
+  made_fga: '40.0'
+  made_thr_avg_dist: 24.0
+  made_two_avg_dist: 1.359
+  miss_all_avg_dist: 10.0
+  miss_fga: '20.0'
+  miss_thr_avg_dist: 22.714
+  miss_two_avg_dist: 3.154
+  name: Robert Williams III
+  team: POR
+  thr_avg_dist: 22.875
+  two_avg_dist: 1.808
+- all_avg_dist: 4.575
+  fga: '212'
+  id: '1629651'
+  made_all_avg_dist: 2.898
+  made_fga: '118.0'
+  made_thr_avg_dist: 26.0
+  made_two_avg_dist: 2.701
+  miss_all_avg_dist: 6.681
+  miss_fga: '94.0'
+  miss_thr_avg_dist: 25.4
+  miss_two_avg_dist: 4.452
   name: Nic Claxton
   team: BKN
-  thr_avg_dist: 25.25
-  two_avg_dist: 3.685
+  thr_avg_dist: 25.455
+  two_avg_dist: 3.433
 - all_avg_dist: 4.573
   fga: '143'
   id: '1628386'
@@ -4288,21 +4783,51 @@
   team: CLE
   thr_avg_dist: 24.25
   two_avg_dist: 4.007
-- all_avg_dist: 4.391
-  fga: '69'
+- all_avg_dist: 4.357
+  fga: '70'
+  id: '1628396'
+  made_all_avg_dist: 4.146
+  made_fga: '41.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 4.146
+  miss_all_avg_dist: 4.655
+  miss_fga: '29.0'
+  miss_thr_avg_dist: 22.0
+  miss_two_avg_dist: 4.036
+  name: Tony Bradley
+  team: IND
+  thr_avg_dist: 22.0
+  two_avg_dist: 4.101
+- all_avg_dist: 4.321
+  fga: '78'
+  id: '1629048'
+  made_all_avg_dist: 2.263
+  made_fga: '57.0'
+  made_thr_avg_dist: 23.5
+  made_two_avg_dist: 1.491
+  miss_all_avg_dist: 9.905
+  miss_fga: '21.0'
+  miss_thr_avg_dist: 25.4
+  miss_two_avg_dist: 5.062
+  name: Goga Bitadze
+  team: ORL
+  thr_avg_dist: 24.857
+  two_avg_dist: 2.296
+- all_avg_dist: 4.317
+  fga: '104'
   id: '1628963'
-  made_all_avg_dist: 3.364
-  made_fga: '44.0'
-  made_thr_avg_dist: 24.333
-  made_two_avg_dist: 1.829
-  miss_all_avg_dist: 6.2
-  miss_fga: '25.0'
-  miss_thr_avg_dist: 26.333
-  miss_two_avg_dist: 3.455
+  made_all_avg_dist: 3.238
+  made_fga: '63.0'
+  made_thr_avg_dist: 24.5
+  made_two_avg_dist: 1.797
+  miss_all_avg_dist: 5.976
+  miss_fga: '41.0'
+  miss_thr_avg_dist: 25.6
+  miss_two_avg_dist: 3.25
   name: Marvin Bagley III
   team: WAS
-  thr_avg_dist: 25.333
-  two_avg_dist: 2.397
+  thr_avg_dist: 25.111
+  two_avg_dist: 2.347
 - all_avg_dist: 4.221
   fga: '149'
   id: '1628392'
@@ -4318,21 +4843,6 @@
   team: OKC
   thr_avg_dist: 23.75
   two_avg_dist: 3.683
-- all_avg_dist: 4.104
-  fga: '67'
-  id: '1641744'
-  made_all_avg_dist: 3.089
-  made_fga: '45.0'
-  made_thr_avg_dist: 24.0
-  made_two_avg_dist: 2.614
-  miss_all_avg_dist: 6.182
-  miss_fga: '22.0'
-  miss_thr_avg_dist: 25.0
-  miss_two_avg_dist: 4.3
-  name: Zach Edey
-  team: MEM
-  thr_avg_dist: 24.667
-  two_avg_dist: 3.141
 - all_avg_dist: 4.0
   fga: '145'
   id: '1629627'
@@ -4348,228 +4858,228 @@
   team: NOP
   thr_avg_dist: 25.0
   two_avg_dist: 3.556
-- all_avg_dist: 3.934
-  fga: '61'
-  id: '1628396'
-  made_all_avg_dist: 4.167
-  made_fga: '36.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 4.167
-  miss_all_avg_dist: 3.6
-  miss_fga: '25.0'
-  miss_thr_avg_dist: 22.0
-  miss_two_avg_dist: 2.833
-  name: Tony Bradley
-  team: IND
-  thr_avg_dist: 22.0
-  two_avg_dist: 3.633
-- all_avg_dist: 3.871
-  fga: '241'
+- all_avg_dist: 3.855
+  fga: '282'
   id: '1627826'
-  made_all_avg_dist: 3.372
-  made_fga: '145.0'
+  made_all_avg_dist: 3.29
+  made_fga: '169.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 3.372
-  miss_all_avg_dist: 4.625
-  miss_fga: '96.0'
+  made_two_avg_dist: 3.29
+  miss_all_avg_dist: 4.699
+  miss_fga: '113.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 4.625
+  miss_two_avg_dist: 4.699
   name: Ivica Zubac
   team: LAC
   thr_avg_dist: ''
-  two_avg_dist: 3.871
-- all_avg_dist: 3.444
-  fga: '135'
+  two_avg_dist: 3.855
+- all_avg_dist: 3.544
+  fga: '149'
   id: '1631109'
-  made_all_avg_dist: 2.92
-  made_fga: '87.0'
+  made_all_avg_dist: 2.856
+  made_fga: '97.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 2.92
-  miss_all_avg_dist: 4.396
-  miss_fga: '48.0'
+  made_two_avg_dist: 2.856
+  miss_all_avg_dist: 4.827
+  miss_fga: '52.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 4.396
+  miss_two_avg_dist: 4.827
   name: Mark Williams
   team: PHX
   thr_avg_dist: ''
-  two_avg_dist: 3.444
-- all_avg_dist: 3.421
-  fga: '121'
-  id: '1629674'
-  made_all_avg_dist: 1.936
+  two_avg_dist: 3.544
+- all_avg_dist: 3.407
+  fga: '113'
+  id: '1627751'
+  made_all_avg_dist: 2.513
   made_fga: '78.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 1.936
-  miss_all_avg_dist: 6.116
-  miss_fga: '43.0'
-  miss_thr_avg_dist: 24.667
-  miss_two_avg_dist: 4.725
-  name: Neemias Queta
-  team: BOS
-  thr_avg_dist: 24.667
-  two_avg_dist: 2.881
-- all_avg_dist: 3.196
-  fga: '92'
-  id: '1627751'
-  made_all_avg_dist: 2.388
-  made_fga: '67.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 2.388
-  miss_all_avg_dist: 5.36
-  miss_fga: '25.0'
+  made_two_avg_dist: 2.513
+  miss_all_avg_dist: 5.4
+  miss_fga: '35.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 5.36
+  miss_two_avg_dist: 5.4
   name: Jakob Poeltl
   team: TOR
   thr_avg_dist: ''
-  two_avg_dist: 3.196
-- all_avg_dist: 2.874
-  fga: '182'
-  id: '1631105'
-  made_all_avg_dist: 2.773
-  made_fga: '119.0'
+  two_avg_dist: 3.407
+- all_avg_dist: 3.383
+  fga: '149'
+  id: '1629674'
+  made_all_avg_dist: 2.051
+  made_fga: '98.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 2.773
-  miss_all_avg_dist: 3.063
-  miss_fga: '63.0'
+  made_two_avg_dist: 2.051
+  miss_all_avg_dist: 5.941
+  miss_fga: '51.0'
+  miss_thr_avg_dist: 24.667
+  miss_two_avg_dist: 4.771
+  name: Neemias Queta
+  team: BOS
+  thr_avg_dist: 24.667
+  two_avg_dist: 2.945
+- all_avg_dist: 2.968
+  fga: '220'
+  id: '1631105'
+  made_all_avg_dist: 2.715
+  made_fga: '144.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 2.715
+  miss_all_avg_dist: 3.447
+  miss_fga: '76.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 3.063
+  miss_two_avg_dist: 3.447
   name: Jalen Duren
   team: DET
   thr_avg_dist: ''
-  two_avg_dist: 2.874
-- all_avg_dist: 2.802
-  fga: '106'
-  id: '1630543'
-  made_all_avg_dist: 2.0
-  made_fga: '64.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 2.0
-  miss_all_avg_dist: 4.024
-  miss_fga: '42.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 4.024
-  name: Isaiah Jackson
-  team: IND
-  thr_avg_dist: ''
-  two_avg_dist: 2.802
-- all_avg_dist: 2.728
-  fga: '81'
+  two_avg_dist: 2.968
+- all_avg_dist: 2.732
+  fga: '82'
   id: '1629655'
   made_all_avg_dist: 2.18
   made_fga: '50.0'
   made_thr_avg_dist: ''
   made_two_avg_dist: 2.18
-  miss_all_avg_dist: 3.613
-  miss_fga: '31.0'
+  miss_all_avg_dist: 3.594
+  miss_fga: '32.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 3.613
+  miss_two_avg_dist: 3.594
   name: Daniel Gafford
   team: DAL
   thr_avg_dist: ''
-  two_avg_dist: 2.728
-- all_avg_dist: 2.596
-  fga: '52'
-  id: '1629637'
-  made_all_avg_dist: 2.487
-  made_fga: '39.0'
-  made_thr_avg_dist: 27.0
-  made_two_avg_dist: 1.842
-  miss_all_avg_dist: 2.923
-  miss_fga: '13.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 2.923
-  name: Jaxson Hayes
-  team: LAL
-  thr_avg_dist: 27.0
-  two_avg_dist: 2.118
-- all_avg_dist: 2.581
-  fga: '105'
-  id: '1631217'
-  made_all_avg_dist: 2.029
-  made_fga: '68.0'
+  two_avg_dist: 2.732
+- all_avg_dist: 2.667
+  fga: '117'
+  id: '1630543'
+  made_all_avg_dist: 1.903
+  made_fga: '72.0'
   made_thr_avg_dist: ''
-  made_two_avg_dist: 2.029
-  miss_all_avg_dist: 3.595
-  miss_fga: '37.0'
+  made_two_avg_dist: 1.903
+  miss_all_avg_dist: 3.889
+  miss_fga: '45.0'
   miss_thr_avg_dist: ''
-  miss_two_avg_dist: 3.595
+  miss_two_avg_dist: 3.889
+  name: Isaiah Jackson
+  team: IND
+  thr_avg_dist: ''
+  two_avg_dist: 2.667
+- all_avg_dist: 2.576
+  fga: '118'
+  id: '1631217'
+  made_all_avg_dist: 2.013
+  made_fga: '75.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 2.013
+  miss_all_avg_dist: 3.558
+  miss_fga: '43.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 3.558
   name: "Moussa Diabat\xE9"
   team: CHA
   thr_avg_dist: ''
-  two_avg_dist: 2.581
-- all_avg_dist: 2.382
-  fga: '76'
-  id: '1642274'
-  made_all_avg_dist: 1.69
-  made_fga: '42.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 1.69
-  miss_all_avg_dist: 3.235
-  miss_fga: '34.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 3.235
-  name: Yves Missi
-  team: NOP
-  thr_avg_dist: ''
-  two_avg_dist: 2.382
-- all_avg_dist: 1.9
-  fga: '120'
-  id: '203497'
-  made_all_avg_dist: 1.46
-  made_fga: '87.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 1.46
-  miss_all_avg_dist: 3.061
-  miss_fga: '33.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 3.061
-  name: Rudy Gobert
-  team: MIN
-  thr_avg_dist: ''
-  two_avg_dist: 1.9
-- all_avg_dist: 1.8
-  fga: '65'
-  id: '203500'
-  made_all_avg_dist: 1.455
-  made_fga: '33.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 1.455
-  miss_all_avg_dist: 2.156
-  miss_fga: '32.0'
-  miss_thr_avg_dist: ''
-  miss_two_avg_dist: 2.156
-  name: Steven Adams
-  team: HOU
-  thr_avg_dist: ''
-  two_avg_dist: 1.8
-- all_avg_dist: 1.759
-  fga: '87'
-  id: '1641750'
-  made_all_avg_dist: 1.357
-  made_fga: '70.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 1.357
-  miss_all_avg_dist: 3.412
-  miss_fga: '17.0'
-  miss_thr_avg_dist: 24.0
-  miss_two_avg_dist: 2.125
-  name: Ryan Kalkbrenner
-  team: CHA
-  thr_avg_dist: 24.0
-  two_avg_dist: 1.5
-- all_avg_dist: 1.636
-  fga: '55'
-  id: '1628436'
-  made_all_avg_dist: 1.158
-  made_fga: '38.0'
-  made_thr_avg_dist: ''
-  made_two_avg_dist: 1.158
+  two_avg_dist: 2.576
+- all_avg_dist: 2.525
+  fga: '61'
+  id: '1629637'
+  made_all_avg_dist: 2.455
+  made_fga: '44.0'
+  made_thr_avg_dist: 27.0
+  made_two_avg_dist: 1.884
   miss_all_avg_dist: 2.706
   miss_fga: '17.0'
   miss_thr_avg_dist: ''
   miss_two_avg_dist: 2.706
+  name: Jaxson Hayes
+  team: LAL
+  thr_avg_dist: 27.0
+  two_avg_dist: 2.117
+- all_avg_dist: 2.362
+  fga: '80'
+  id: '1642274'
+  made_all_avg_dist: 1.659
+  made_fga: '44.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.659
+  miss_all_avg_dist: 3.222
+  miss_fga: '36.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 3.222
+  name: Yves Missi
+  team: NOP
+  thr_avg_dist: ''
+  two_avg_dist: 2.362
+- all_avg_dist: 1.906
+  fga: '139'
+  id: '203497'
+  made_all_avg_dist: 1.382
+  made_fga: '102.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.382
+  miss_all_avg_dist: 3.351
+  miss_fga: '37.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 3.351
+  name: Rudy Gobert
+  team: MIN
+  thr_avg_dist: ''
+  two_avg_dist: 1.906
+- all_avg_dist: 1.763
+  fga: '59'
+  id: '203991'
+  made_all_avg_dist: 1.182
+  made_fga: '33.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.182
+  miss_all_avg_dist: 2.5
+  miss_fga: '26.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 2.5
+  name: Clint Capela
+  team: HOU
+  thr_avg_dist: ''
+  two_avg_dist: 1.763
+- all_avg_dist: 1.747
+  fga: '75'
+  id: '203500'
+  made_all_avg_dist: 1.475
+  made_fga: '40.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.475
+  miss_all_avg_dist: 2.057
+  miss_fga: '35.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 2.057
+  name: Steven Adams
+  team: HOU
+  thr_avg_dist: ''
+  two_avg_dist: 1.747
+- all_avg_dist: 1.692
+  fga: '104'
+  id: '1641750'
+  made_all_avg_dist: 1.337
+  made_fga: '83.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.337
+  miss_all_avg_dist: 3.095
+  miss_fga: '21.0'
+  miss_thr_avg_dist: 24.0
+  miss_two_avg_dist: 2.05
+  name: Ryan Kalkbrenner
+  team: CHA
+  thr_avg_dist: 24.0
+  two_avg_dist: 1.476
+- all_avg_dist: 1.629
+  fga: '62'
+  id: '1628436'
+  made_all_avg_dist: 1.122
+  made_fga: '41.0'
+  made_thr_avg_dist: ''
+  made_two_avg_dist: 1.122
+  miss_all_avg_dist: 2.619
+  miss_fga: '21.0'
+  miss_thr_avg_dist: ''
+  miss_two_avg_dist: 2.619
   name: Luke Kornet
   team: SAS
   thr_avg_dist: ''
-  two_avg_dist: 1.636
+  two_avg_dist: 1.629
