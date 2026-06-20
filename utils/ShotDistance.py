@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import yaml
+import os
 from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.static import teams
 
