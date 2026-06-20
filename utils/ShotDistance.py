@@ -8,6 +8,12 @@ from nba_api.stats.static import teams
 def fmt(val):
   return round(val, 3) if pd.notnull(val) else ""
 
+def _season_string_from_end_date(end_date_str):
+  """Convert NBA_SEASON_END (YYYY-MM-DD) to nba_api season string e.g. '2025-26'."""
+  year = int(end_date_str[:4])
+  # The end date falls in the latter year of the season label (e.g. 2026 → 2025-26)
+  return f"{year - 1}-{str(year)[2:]}"
+
 def get_shots_yml():
   """
   Using shot chart data from NBA_API, aggregate and re-format data to return shooting distance data.
@@ -15,15 +21,17 @@ def get_shots_yml():
   Saves result to yaml file called 'shot_distance.yml'
   """
 
+  # Derive season from env var so post-season API calls still target the right year
+  season_end = os.environ.get('NBA_SEASON_END')
+  season = _season_string_from_end_date(season_end) if season_end else None
+
+  kwargs = dict(team_id=0, player_id=0, context_measure_simple='FGA')
+  if season:
+    kwargs['season_nullable'] = season
+
   # NBA API requests
-  shotdf = shotchartdetail.ShotChartDetail(
-                  team_id=0,
-                  player_id=0,
-                  context_measure_simple='FGA',
-              ).get_data_frames()[0]
-
+  shotdf = shotchartdetail.ShotChartDetail(**kwargs).get_data_frames()[0]
   teams_list = teams.get_teams()
-
 
   shotdf['POINT_VALUE'] = np.where(shotdf['SHOT_ZONE_BASIC'].str.contains('3'), '3', '2')
 
@@ -65,6 +73,11 @@ def get_shots_yml():
 
   # Filter and re-order
   out = out[out.ALL_FGA > 50].sort_values('ALL_ALL_AVG_DISTANCE', ascending=False)
+
+  if out.empty:
+    print("Shot distance data is empty — skipping file writes to preserve existing data.")
+    return
+
   out.to_csv('SHOOTING_DISTANCE_24-25.csv')
 
   shot_distance_list = [{

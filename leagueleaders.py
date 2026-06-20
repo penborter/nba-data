@@ -4,9 +4,7 @@ import yaml
 
 from functools import wraps
 
-from nba_api.stats.endpoints import leagueleaders
-from nba_api.stats.endpoints import leaguedashplayershotlocations
-from nba_api.stats.endpoints import leaguedashptstats
+from nba_api.stats.endpoints import leagueleaders, leaguedashplayershotlocations, leaguedashptstats, playerindex
 from nba_api.stats.library.parameters import Season
 
 
@@ -90,8 +88,8 @@ def get_shooting_data():
     shotDF.loc[:, ('Pct 3', fg)] = round(shotDF['Total from 3'][fg] / shotDF['Total Shots'][fg], 3)
     shotDF.loc[:, ('Pct Moreyball', fg)] = round(shotDF['Pct RA'][fg] + shotDF['Pct 3'][fg], 3)
   
-  # Sorting the df, min 50 FGA
-  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 50].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
+  # Sorting the df, min 100 FGA
+  shotDF = shotDF[shotDF['Total Shots']['FGA'] > 100].sort_values(by=('Pct Moreyball', 'FGA'), ascending=False)
   shotDF.columns = [col[1] if col[0] == "" else '_'.join(col) for col in shotDF.columns.values]
   return shotDF
 
@@ -114,6 +112,29 @@ def distance_leaders():
     pt_measure_type='SpeedDistance'
   ).get_data_frames()[0]
 
+  players = playerindex.PlayerIndex(
+    active_nullable=1
+  ).get_data_frames()[0]
+
+  jers = df.merge(
+    players[['PERSON_ID', 'JERSEY_NUMBER']],
+    left_on='PLAYER_ID', right_on='PERSON_ID', how='left',
+  )
+
+  jers['MPG'] = jers.MIN / jers.GP
+  jers_by_min = jers.groupby('JERSEY_NUMBER')['MIN'].sum().sort_values(ascending=False)
+  jers_by_mpg = jers.groupby('JERSEY_NUMBER')['MPG'].sum().sort_values(ascending=False)
+
+  jers.to_csv('data/dynamic/Jerseys')
+
+  jers_data = {
+    'by_min': jers_by_min.to_dict(),
+    'by_mpg': jers_by_mpg.to_dict()
+  }
+
+  with open ('jerseys.yml', 'w') as stream:
+    yaml.dump(jers_data, stream, sort_keys=False, default_flow_style=False)
+
   marathon_miles = 26.219
 
   # Updating the dataframe
@@ -121,7 +142,7 @@ def distance_leaders():
   df['MILES_PER_GAME'] = df.DIST_MILES / df.GP
   df['MILES_PER_36'] = df.DIST_MILES / df.MIN * 36
 
-  df = df[df.MIN > 150].sort_values(by='MILES_PER_36', ascending=False)
+  df = df[df.MIN > 200].sort_values(by='MILES_PER_36', ascending=False)
 
   df.to_csv('data/dynamic/NBA_Leaders_Distance')
   distance_yaml_list = [{
