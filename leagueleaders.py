@@ -112,29 +112,6 @@ def distance_leaders():
     pt_measure_type='SpeedDistance'
   ).get_data_frames()[0]
 
-  players = playerindex.PlayerIndex(
-    active_nullable=1
-  ).get_data_frames()[0]
-
-  jers = df.merge(
-    players[['PERSON_ID', 'JERSEY_NUMBER']],
-    left_on='PLAYER_ID', right_on='PERSON_ID', how='left',
-  )
-
-  jers['MPG'] = jers.MIN / jers.GP
-  jers_by_min = jers.groupby('JERSEY_NUMBER')['MIN'].sum().sort_values(ascending=False)
-  jers_by_mpg = jers.groupby('JERSEY_NUMBER')['MPG'].sum().sort_values(ascending=False)
-
-  jers.to_csv('data/dynamic/Jerseys')
-
-  jers_data = {
-    'by_min': jers_by_min.to_dict(),
-    'by_mpg': jers_by_mpg.to_dict()
-  }
-
-  with open ('jerseys.yml', 'w') as stream:
-    yaml.dump(jers_data, stream, sort_keys=False, default_flow_style=False)
-
   marathon_miles = 26.219
 
   # Updating the dataframe
@@ -144,7 +121,7 @@ def distance_leaders():
 
   df = df[df.MIN > 200].sort_values(by='MILES_PER_36', ascending=False)
 
-  df.to_csv('data/dynamic/NBA_Leaders_Distance')
+  df.to_csv('data/dynamic/NBA_Leaders_Distance.csv')
   distance_yaml_list = [{
     'id': str(df.iloc[i].PLAYER_ID),
     'name': str(df.iloc[i].PLAYER_NAME),
@@ -156,7 +133,7 @@ def distance_leaders():
     'marathons': str(df.iloc[i].DIST_MARATHONS),
     'miles_per_game': str(df.iloc[i].MILES_PER_GAME),
     'miles_per_thirty': str(df.iloc[i].MILES_PER_36)}
-    for i in range(len(df) - 1)]
+    for i in range(len(df))]
 
   with open('distance.yml', 'w') as stream:
     yaml.dump(distance_yaml_list, stream)
@@ -168,8 +145,48 @@ def main():
   for category in categories:
     if category == 'PTS':
       for mode in ['PerGame', 'Totals']:
-        data = get_league_leaders(category, mode)
-        save_to_csv(data, category, mode)
+        data = get_league_leaders(category, mode, top_n=1000 if mode == 'Totals' else 50)
+        save_to_csv(data.head(50) if mode == 'Totals' else data, category, mode)
+
+      players = playerindex.PlayerIndex(
+        active_nullable=1
+      ).get_data_frames()[0]
+
+      jers = data.merge(
+        players[['PERSON_ID', 'JERSEY_NUMBER']],
+        left_on='PLAYER_ID', right_on='PERSON_ID', how='left',
+      ).drop(columns=['PLAYER_ID', 'RANK', 'PLAYER', 'TEAM_ID', 'TEAM', 'PERSON_ID', 'FG_PCT', 'FG3_PCT', 'FT_PCT'])
+
+      g = jers.groupby('JERSEY_NUMBER')
+      jers = g.sum(numeric_only=True)
+      jers['COUNT'] = g.size()
+      jers['MPG'] = jers.MIN / jers.GP
+      jers['PPG'] = jers.PTS / jers.GP
+      jers['APG'] = jers.AST / jers.GP
+      jers['RPG'] = jers.REB / jers.GP
+ 
+      jers.to_csv('data/dynamic/Jerseys.csv')
+      jers = jers.reset_index()
+
+      jers_data = [{
+        'jersey': str(jers.iloc[i].JERSEY_NUMBER),
+        'count': str(jers.iloc[i].COUNT),
+        'MPG': str(jers.iloc[i].MPG),
+        'PPG': str(jers.iloc[i].PPG),
+        'APG': str(jers.iloc[i].APG),
+        'RPG': str(jers.iloc[i].RPG),
+        'MIN': str(jers.iloc[i].MIN),
+        'GP': str(jers.iloc[i].GP),
+        'PTS': str(jers.iloc[i].PTS),
+        'AST': str(jers.iloc[i].AST),
+        'REB': str(jers.iloc[i].REB),
+        'FGA': str(jers.iloc[i].FGA),
+        'FGM': str(jers.iloc[i].FGM),
+      } for i in range((len(jers)))]
+
+      with open ('jerseys.yml', 'w') as stream:
+        yaml.dump(jers_data, stream, sort_keys=False, default_flow_style=False)
+
     elif category == 'MOREYBALL':
       try:
         data = get_shooting_data()
