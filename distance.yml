@@ -4638,3 +4638,13 @@
   minutes: '2438.0'
   name: James Harden
   team: CLE
+- avg_speed: '3.93'
+  games: '16'
+  id: '101108'
+  marathons: '0.5377779472901331'
+  miles: '14.1'
+  miles_per_game: '0.88125'
+  miles_per_thirty: '2.2263157894736842'
+  minutes: '228.0'
+  name: Chris Paul
+  team: LAC
