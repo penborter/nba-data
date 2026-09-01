@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import yaml
-import os
+from datetime import datetime, timezone
 from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.static import teams
 
@@ -9,11 +9,17 @@ from nba_api.stats.static import teams
 def fmt(val):
   return round(val, 3) if pd.notnull(val) else ""
 
-def _season_string_from_end_date(end_date_str):
-  """Convert NBA_SEASON_END (YYYY-MM-DD) to nba_api season string e.g. '2025-26'."""
-  year = int(end_date_str[:4])
-  # The end date falls in the latter year of the season label (e.g. 2026 → 2025-26)
-  return f"{year - 1}-{str(year)[2:]}"
+def current_season():
+  """Return today's nba_api season string, e.g. '2025-26'.
+
+  A season label spans two calendar years: October to December belong to the
+  season starting that year, January to September to the one that started the
+  year before. Deriving it from the date keeps requests pointed at the right
+  season without any yearly configuration to forget to update.
+  """
+  today = datetime.now(timezone.utc)
+  start_year = today.year if today.month >= 10 else today.year - 1
+  return f"{start_year}-{str(start_year + 1)[2:]}"
 
 def get_shots_yml():
   """
@@ -22,13 +28,11 @@ def get_shots_yml():
   Saves result to yaml file called 'shot_distance.yml'
   """
 
-  # Derive season from env var so post-season API calls still target the right year
-  season_end = os.environ.get('NBA_SEASON_END')
-  season = _season_string_from_end_date(season_end) if season_end else None
+  # Pin the season explicitly so post-season calls still target the right year
+  season = current_season()
 
-  kwargs = dict(team_id=0, player_id=0, context_measure_simple='FGA')
-  if season:
-    kwargs['season_nullable'] = season
+  kwargs = dict(team_id=0, player_id=0, context_measure_simple='FGA',
+                season_nullable=season)
 
   # NBA API requests
   shotdf = shotchartdetail.ShotChartDetail(**kwargs).get_data_frames()[0]
