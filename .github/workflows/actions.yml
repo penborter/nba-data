@@ -5,33 +5,56 @@ on:
     branches:
       - main
   schedule:
-    - cron: '5 12 * * 1' # At 12:05 UTC every Monday
+    # 12:05 UTC every Monday, October through June only.
+    # July-September is the NBA offseason, so the schedule never fires then.
+    - cron: '5 12 * 10-12,1-6 1'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Run even if outside the NBA season window'
+        type: boolean
+        default: false
 
 jobs:
-  nba_data_job:
-    runs-on: macos-latest
-    env:
-      NBA_SEASON_START: ${{ vars.NBA_SEASON_START }}
-      NBA_SEASON_END: ${{ vars.NBA_SEASON_END }}
+  # Cheap gate on a Linux runner: pushes to main and the edges of the cron
+  # window can still land outside the season, so decide up front whether there
+  # is any data worth fetching. Skipping a job is a success, not a failure.
+  season_check:
+    runs-on: ubuntu-latest
+    outputs:
+      in_season: ${{ steps.check.outputs.in_season }}
     steps:
       - name: Check if in NBA season
-        id: check_season
+        id: check
         run: |
-          current_date=$(date +%Y%m%d)
-          season_start=$(date -j -f "%Y-%m-%d" "$NBA_SEASON_START" +%Y%m%d)
-          season_end=$(date -j -f "%Y-%m-%d" "$NBA_SEASON_END" +%Y%m%d)
-          if [[ $current_date -ge $season_start ]] && [[ $current_date -le $season_end ]]; then
-            echo "IN_SEASON=true" >> $GITHUB_ENV
+          # Season window as MMDD, wrapping across the new year: 1 October
+          # through 30 June, i.e. preseason tip-off through the Finals.
+          season_start=1001
+          season_end=0630
+          today=$(date -u +%m%d)
+
+          # 10# forces base 10; MMDD values such as 0901 are not valid octal.
+          if [[ "${{ inputs.force }}" == "true" ]]; then
+            in_season=true
+            echo "Forced run requested, ignoring the season window."
+          elif (( 10#$today >= 10#$season_start || 10#$today <= 10#$season_end )); then
+            in_season=true
           else
-            echo "IN_SEASON=false" >> $GITHUB_ENV
+            in_season=false
           fi
 
-      - name: Off-season stop
-        if: ${{ env.IN_SEASON == 'false' }}
-        run: |
-          echo "Not in NBA season, stopping the action."
-          exit 0
+          echo "in_season=$in_season" >> "$GITHUB_OUTPUT"
+          if [[ $in_season == true ]]; then
+            echo "In season ($today): running the data update." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "NBA offseason ($today): skipping the data update." >> "$GITHUB_STEP_SUMMARY"
+          fi
 
+  nba_data_job:
+    needs: season_check
+    if: needs.season_check.outputs.in_season == 'true'
+    runs-on: macos-latest
+    steps:
       - name: Checkout repo content
         uses: actions/checkout@v3
 
@@ -68,7 +91,7 @@ jobs:
           repository: penborter/nba-site
           token: ${{ secrets.PAT }}
           path: nba_site
-      
+
       - name: Copy files to nba-site repo
         run: |
           cp plot.png nba_site/assets/posts/moreyball/
